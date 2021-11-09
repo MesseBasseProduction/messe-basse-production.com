@@ -1,0 +1,16 @@
+{
+	"title": "Radio Graphie",
+	"img": "assets/img/radiographie.png",
+	"imgAlt": "radiographie-logo",
+	"desc": "&nbsp;&nbsp;&nbsp;&nbsp;Radio Graphie est un podcast réalisé par Messe Basse Production, qui narre la vie trépidante d'intervenants choisis.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Chaque saison, composée de 5 épisodes d'neviron une heure, met à l'honneur une personne au parcours de vie inusuel. <br><br>&nbsp;&nbsp;&nbsp;&nbsp;Suivez ces histoires et chemins de vie riches en enseignements!",
+	"s": [{
+		"name": "Pierre Toïgo",
+		"e": [{
+			"name": "Inspecteur Facteur",
+			"img": "assets/img/podcast/rg1.jpg"
+		}, {
+			"name": "Fratelli D'Italia",
+			"img": "assets/img/podcast/rg2.jpg"
+		}]
+	}]
+}

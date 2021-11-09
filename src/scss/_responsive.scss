@@ -1,0 +1,48 @@
+@media (max-width: 870px) {
+	nav.site-nav {
+		a {
+			font-size: 1.4rem;
+			padding: 0 .5rem;
+		}
+
+		.socials {
+			display: none;
+		}
+	}	
+
+	main.home {
+		display: inherit;
+		overflow-y: auto;
+	}
+
+	main.creation {
+		section {
+			padding: 0 5%;
+
+			div[class$="-wrapper"] {
+				div[class$="-container"] {
+					&:first-child {
+						margin-left: 1rem;
+					}
+
+					&:last-child {
+						margin-right: 1rem;
+					}
+				}
+			}	
+		}
+	}
+
+	main.contact {
+		section {
+			display: inherit;
+			padding: 3rem 5%;
+		}
+	}
+
+	.modal.credit {
+		padding: 1rem;
+		max-width: inherit;
+		width: 95%;
+	}
+}
