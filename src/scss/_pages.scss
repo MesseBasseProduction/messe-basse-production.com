@@ -32,18 +32,6 @@ main.creation {
 	background-image: radial-gradient(#233C26 0,#202020 45%, #181818 80%);
 	overflow-y: auto;
 	padding: 3rem 0;
-	text-align: center;
-
-	align-items: center;
-	display: flex;
-	justify-content: center;
-
-	h2 {
-		font-size: 2rem;
-		max-width: 120rem;
-		margin-bottom: 5%;
-		padding: 0 3rem;
-	}
 
 	h1 {
 		font-family: 'Catamaran', sans-serif;
@@ -54,48 +42,137 @@ main.creation {
 	section {
 		margin-bottom: 3rem;
 		padding: 0 15%;
+	}
 
-		div[class$="-wrapper"] {
-			align-content: center;
-			display: grid;
-			grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));	
-			justify-items: center;
-			margin: 0 auto;
-			
-			div[class$="-container"] {
-				background: rgba(255, 255, 255, .1);
-				border: solid 1px #D4D4D4;			
-				border-radius: .5rem;
-				cursor: pointer;
-				margin: 1rem;
-				padding: 2rem;
-				transition: background .3s;
+	.music {
+		text-align: left;
 
-				&:first-child {
-					margin-left: auto;
+		.band {
+			height: 30rem;
+			margin-bottom: 4rem;
+			position: relative;
+			width: 100%;
+
+			.band-image {
+				align-items: center;
+				display: flex;
+				height: 100%;
+				left: 0;
+				padding: 1rem;
+				position: absolute;
+				width: 35%;
+
+				img {
+					width: 100%;
 				}
+			}
 
-				&:last-child {
-					margin-right: auto;
-				}				
+			.band-releases {
+				height: 100%;
+				padding: 1rem;
+				padding-left: 3rem;
+				position: absolute;
+				right: 0;
+				width: 65%;
 
-				&:active,
-				&:focus,
-				&:hover {
-					background: rgba(235, 255, 235, .15);
+				.band-header {
+					align-items: center;
+					display: flex;
+					height: 4rem;
+					
+					h2 {
+						font-size: 2rem;
+					}
 
-					img {
-						transform: rotate(1deg) scale(1.02);
+					span {
+						border: solid 1px #D4D4D4;
+						border-radius: .5rem;
+						font-size: 1rem;
+						font-style: italic;
+						margin-left: 1rem;
+						padding: .4rem;
+					}
+
+					p {
+						display: flex;
+						margin-left: auto;
+
+						a {
+							margin-left: .5rem;
+							margin-bottom: 0;
+							transition: transform .5s;
+
+							&:active,
+							&:focus,
+							&:hover {
+								transform: rotate(-8deg);
+							}
+
+							img {
+								height: 2rem;
+							}
+						}
 					}
 				}
 
-				img {
-					height: 15rem;
-					transition: transform .3s;
-				}
+				.band-albums {
+					align-items: center;
+					display: flex;
+					height: calc(100% - 4rem);
+					overflow-x: auto;
 
-				p {
-					font-size: 1.5rem;
+					.album {
+						cursor: pointer;
+						height: 90%;
+						margin-right: 2rem;
+						position: relative;
+						text-align: center;
+
+						img {
+							height: calc(100% - 2.1rem); // Substract p height and margin
+						}
+
+						p {
+							font-size: 1.1rem;
+							margin-top: 1rem;
+						}
+
+						&:active .album-overlay,
+						&:focus .album-overlay,
+						&:hover .album-overlay {
+							opacity: 1;
+						}
+
+						.album-overlay {
+							align-items: center;
+							background: linear-gradient(to bottom, rgba(0, 0, 0, .75) 50%, transparent);
+							display: flex;
+							flex-direction: column;
+							height: 90%;
+							justify-content: flex-start;
+							left: 0;
+							opacity: 0;
+							position: absolute;
+							top: 0;
+							width: 100%;
+
+							transition: opacity .2s;
+
+							p {
+								margin-top: inherit;
+
+								&:first-child {
+									margin-top: 2rem;
+								}
+							}
+
+							a {
+								font-size: 1.1rem;
+								font-style: italic;
+								margin-top: 1rem;
+							}
+						}
+					}
 				}
 			}
 		}
@@ -132,12 +209,6 @@ main.contact {
 		margin-bottom: 1.5rem;
 	}
 
-	a {
-		display: block;
-		color: #56D45B;
-		font-size: 1.7rem;
-	}
-
 	section {
 		align-items: center;
 		display: flex;
@@ -149,36 +220,6 @@ main.contact {
 
 		p:last-child {
 			margin-bottom: 0;
-		}
-
-		.doc-download {
-			color: #D4D4D4;
-			display: inline-block;
-			padding: 0 1rem;
-			text-align: center;
-			text-decoration: none;
-
-			&:active,
-			&:focus,
-			&:hover {
-				img {
-					transform: scale(1.1);
-				}
-			}
-
-			img {
-				height: 3.66rem;
-				transition: transform .3s;
-			}
-
-			p {
-				padding-top: .5rem;
-
-				span {
-					font-size: 1.2rem;
-					font-style: italic;		
-				}
-			}
 		}
 	}
 

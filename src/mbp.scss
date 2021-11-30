@@ -3,7 +3,7 @@
 @font-face {
   font-family: 'Catamaran';
   src: url('/assets/font/Catamaran.ttf') format('truetype'),
-  		 url('/assets/font/Catamaran.woff') format('woff');
+		url('/assets/font/Catamaran.woff') format('woff');
 }
 
 * {
@@ -23,6 +23,13 @@ body {
 	background: #181818;
 	color: #D4D4D4;
 	font-family: sans-serif;
+}
+
+a {
+	display: block;
+	color: #56D45B;
+	margin-bottom: 1.5rem;
+	font-size: 1.5rem;
 }
 
 button {

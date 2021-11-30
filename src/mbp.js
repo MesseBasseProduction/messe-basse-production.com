@@ -26,6 +26,7 @@ class MBP {
 
 	_hideFlashingLogo() {
 		return new Promise(resolve => {
+			// Set a timeout on logo hiding to let the css text animation to perform (zoom in/out)
 			setTimeout(() => {
 				document.body.removeChild(document.getElementById('flashing-text-logo'));
 				resolve();
@@ -36,18 +37,19 @@ class MBP {
 
 	_buildNav() {
 		return new Promise(resolve => {			
+			// Launch navigation items animation (descending from top screen)
 			document.getElementById('navigation').style.opacity = 1;
 			setTimeout(() => document.getElementById('link-home').style.animation = 'drop-nav-link 1.8s forwards', 500);
 			setTimeout(() => document.getElementById('link-creation').style.animation = 'drop-nav-link 1.7s forwards', 750);
 			setTimeout(() => document.getElementById('link-merch').style.animation = 'drop-nav-link 1.6s forwards', 1000);
 			setTimeout(() => document.getElementById('link-contact').style.animation = 'drop-nav-link 1.5s forwards', 1250);
 			setTimeout(() => document.getElementById('socials').style.opacity = 1, 2250);
-
+			// Subscribe to click events on navigation bar
 			document.getElementById('link-home').addEventListener('click', this._buildHomepage.bind(this));
 			document.getElementById('link-creation').addEventListener('click', this._buildCreationpage.bind(this));
 			document.getElementById('link-merch').addEventListener('click', this._buildMerchpage.bind(this));
 			document.getElementById('link-contact').addEventListener('click', this._buildContactpage.bind(this));
-
+			// Resolve (fetch homepage template) after animation is performed
 			setTimeout(resolve, 1500);
 		});
 	}
@@ -58,48 +60,43 @@ class MBP {
 
 	_buildHomepage() {
 		return new Promise(resolve => {
-			this._fetchTemplate('assets/html/home.html', 'home').then(resolve);
+			this._fetchPage('assets/html/home.html', 'home').then(resolve);
 		});
 	}
 
 
 	_buildCreationpage() {
 		return new Promise(resolve => {
-			this._fetchTemplate('assets/html/creation.html', 'creation').then(() => {
-				this.evts.addEvent('click', document.getElementById('podcast-rg'), this._buildPodcastModal, this);
-				resolve();
-			});
+			this._fetchPage('assets/html/creation.html', 'creation').then(() => {
+        resolve();
+      });
 		});
 	}
 
 
 	_buildMerchpage() {
 		return new Promise(resolve => {
-			this._fetchTemplate('assets/html/merch.html', 'merch').then(resolve);
+			this._fetchPage('assets/html/merch.html', 'merch').then(resolve);
 		});
 	}	
 
 
 	_buildContactpage() {
 		return new Promise(resolve => {
-			this._fetchTemplate('assets/html/contact.html', 'contact').then(() => {
-				this.evts.addEvent('click', document.getElementById('credit-modal'), this._buildCreditModal, this);
-				resolve();
-			});
+			this._fetchPage('assets/html/contact.html', 'contact').then(() => {
+        this.evts.addEvent(
+          'click',
+          document.getElementById('credit-modal'),
+          this._buildCreditModal,
+          this
+        );
+        resolve();
+      });
 		});
 	}	
 
 
 	/* Modals */
-
-
-	_buildPodcastModal(e) {
-		return new Promise(resolve => {
-			this._fetchModal('assets/html/modal/podcast.html', e.target).then(() => {
-				resolve();
-			});
-		});
-	}
 
 
 	_buildCreditModal() {
@@ -114,7 +111,7 @@ class MBP {
 	/* Utils */
 
 
-	_fetchTemplate(url, className) {
+	_fetchPage(url, className) {
 		return new Promise((resolve, reject) => {
 			this.evts.removeAllEvents();
 			document.getElementById(`link-${this._selectedPage}`).classList.remove('selected');
@@ -140,9 +137,10 @@ class MBP {
 	}
 
 
-	_fetchModal(url, target) {
+	_fetchModal(url) {
 		return new Promise((resolve, reject) => {
 			const evtIds = [];
+			// Close modal inner method
 			const closeModal = e => {
 				if (['overlay', 'close-modal'].indexOf(e.target.id) === -1) {
 					return;
@@ -157,54 +155,12 @@ class MBP {
 					}
 				}, 600);
 			};
-
+			// Display modal when needed
 			const displayModal = () => {
-				setTimeout(() => {
-					document.getElementById('modal').style.opacity = 1;
-					evtIds.push(this.evts.addEvent('click', document.getElementById('overlay'), closeModal, this));
-					evtIds.push(this.evts.addEvent('click', document.getElementById('close-modal'), closeModal, this));
-					setTimeout(resolve, 600);
-				}, 50);
-			};
-
-			const fillModal = type => {
-				fetch(`assets/json/${type}.json`)
-					.then(data => {
-						data.json().then(json => {
-							document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_TITLE}}', json.title);		
-							document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_IMG}}', json.img);
-							document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_IMG_ALT}}', json.imgAlt);
-							document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_DESC}}', json.desc);
-							// Copy season HTML before modification to append new one
-							const season = document.createRange().createContextualFragment(document.getElementById('season-1').outerHTML);
-							for (let i = 0; i < json.s.length; ++i) {
-								if (i > 0) { // Create new season and append it to modal container
-									const node = season.cloneNode(true);
-									node.id = `season-${i + 1}`;									
-									document.getElementById('main-container').appendChild(node);
-								}
-
-								const seasonName = `Saison ${i + 1} : ${json.s[i].name}`;
-								document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_SEASON_NAME}}', seasonName);
-								const episode = document.createRange().createContextualFragment(document.getElementById('episode-1').outerHTML);
-								for (let j = 0; j < json.s[i].e.length; ++j) {
-									if (j > 0) { //Create new episode and appendi it to season container
-										const node = episode.cloneNode(true);
-										node.id = `episode-${j + 1}`;
-										console.log(node.id)
-										document.getElementById('episodes-container').appendChild(node);
-									}
-
-									document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_EPISODE_IMG}}', json.s[i].e[j].img);
-									document.getElementById('modal').innerHTML = document.getElementById('modal').innerHTML.replace('{{PODCAST_EPISODE_NAME}}', json.s[i].e[j].name);
-								}
-							}
-
-							displayModal();
-					})
-					.catch(reject);
-				})
-				.catch(reject);
+				document.getElementById('modal').style.opacity = 1;
+				evtIds.push(this.evts.addEvent('click', document.getElementById('overlay'), closeModal, this));
+				evtIds.push(this.evts.addEvent('click', document.getElementById('close-modal'), closeModal, this));
+				setTimeout(resolve, 600); // CSS animation time
 			};
 
 			document.getElementById('overlay').style.display = 'flex';
@@ -215,11 +171,7 @@ class MBP {
 						.then(data => {
 							data.text().then(htmlString => {
 								document.getElementById('overlay').appendChild(document.createRange().createContextualFragment(htmlString));
-								if (!target) {
-									displayModal();
-								} else {
-									fillModal(target.dataset.name);
-								}
+								setTimeout(displayModal.bind(this), 50);
 						})
 						.catch(reject);
 					})
