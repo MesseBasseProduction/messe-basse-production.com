@@ -18,13 +18,11 @@
 	main.creation {
 		.music {
 			padding: 0 5%;
-			text-align: center;
 
 			.band {
 		    align-items: center;
 				display: flex;
 				flex-direction: column;
-				height: auto;
 
 				.band-image {
 					display: none;
@@ -40,18 +38,6 @@
 							overflow: hidden;
 							text-overflow: ellipsis;
 							white-space: nowrap;
-						}
-					}
-
-					.band-albums {
-						.album {
-							img {
-								height: 20rem;
-							}
-
-							p {
-								margin: 1rem 0;
-							}
 						}
 					}
 				}

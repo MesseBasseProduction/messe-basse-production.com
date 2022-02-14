@@ -32,6 +32,8 @@
 
 		a {
 			color: #56D45B;
+			display: inline-block;
+			margin-bottom: 0;
 		}
 
 		button {
@@ -44,38 +46,42 @@
 	width: 44%;	
 
 	.doc-wrapper {
+		height: 8rem;
 		margin-top: 2rem;
 
 		.doc-download {
+			align-items: center;
 			color: #D4D4D4;
-			display: inline-block;
+			display: flex;
+			justify-content: center;
+			margin-bottom: .5rem;
 			padding: 0 1rem;
-			text-align: center;
 			text-decoration: none;
+			transition: transform .3s;
 
 			&:active,
 			&:focus,
 			&:hover {
-				img {
-					transform: scale(1.1);
-				}
+				transform: scale(1.1);
 			}
 
 			img {
-				height: 3.66rem;
-				transition: transform .3s;
+				height: 2rem;
+				margin-right: 1rem;
 			}
 
 			p {
-				padding-top: .5rem;
-
-				&:last-child {
-					margin-bottom: 0;
-				}
+				margin-bottom: 0;
+				text-align: left;
 
 				span {
 					font-size: 1.2rem;
-					font-style: italic;		
+					font-style: italic;
+
+					&::before {
+						content: '–';
+						padding: 0 1rem;
+					}
 				}
 			}
 		}

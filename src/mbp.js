@@ -7,6 +7,7 @@ class MBP {
 
 	constructor() {
 		this._selectedPage = 'home';
+		this._scrollBar = null;
 		this.evts = new CustomEvents();
 		this._displayConsoleWelcome();
 		this._hideFlashingLogo()
@@ -30,7 +31,7 @@ class MBP {
 			setTimeout(() => {
 				document.body.removeChild(document.getElementById('flashing-text-logo'));
 				resolve();
-			}, 6000);
+			}, /*6000*/6);
 		});
 	}
 
@@ -113,6 +114,7 @@ class MBP {
 
 	_fetchPage(url, className) {
 		return new Promise((resolve, reject) => {
+			// TODO if (this._scrollBar !== null) { this._scrollBar.destroy(); }
 			this.evts.removeAllEvents();
 			document.getElementById(`link-${this._selectedPage}`).classList.remove('selected');
 			this._selectedPage = className;
@@ -127,6 +129,9 @@ class MBP {
 							document.getElementById('scene').innerHTML = '';
 							document.getElementById('scene').appendChild(document.createRange().createContextualFragment(htmlString));
 							document.getElementById('scene').style.opacity = 1;
+							this._scrollBar = new window.ScrollBar({
+                target: document.getElementById('scene'),
+              });
 							setTimeout(resolve, 600);
 					})
 					.catch(reject);

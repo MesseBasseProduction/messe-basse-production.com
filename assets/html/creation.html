@@ -13,12 +13,12 @@
 					<a href="https://nac.band/" target="_blank" rel="noreferrer noopener"><img src="assets/img/logo/website.svg" alt="link-website"></a>
 				</p>
 			</div>
-			<div class="band-albums">
+			<div id="nac-albums" class="band-albums">
 				<div class="album">
 					<img src="assets/img/music/MBPLP007.webp" alt="">
 					<p>Dystopie</p>
 					<div class="album-overlay">
-						<p><b>MBPLP001</b></p>
+						<p><b>MBPLP007</b></p>
 						<p>6 Décembre 2021</p>
 						<a href="https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze" target="_blank"
 							rel="noreferrer noopener">Écouter en ligne</a>
@@ -61,7 +61,7 @@
 		<div class="band-releases">
 			<div class="band-header">
 				<h2>The Forge</h2>
-				<span>Rock Progressif</span>
+				<span>Rock Progressif</span><span>Jazz Fusion</span>
 				<p>
 					<a href="https://www.facebook.com/theforgebandfr" target="_blank" rel="noreferrer noopener"><img src="assets/img/logo/facebook.svg" alt="link-facebook"></a>
 					<a href="https://theforgeband.bandcamp.com/" target="_blank" rel="noreferrer noopener"><img src="assets/img/logo/bandcamp.svg" alt="link-bandcamp"></a>
@@ -69,7 +69,7 @@
 					<a href="https://theforge.band/" target="_blank" rel="noreferrer noopener"><img src="assets/img/logo/website.svg" alt="link-website"></a>
 				</p>
 			</div>
-			<div class="band-albums">
+			<div id="forge-albums" class="band-albums">
 				<div class="album">
 					<img src="assets/img/music/MBPSP008.webp" alt="">
 					<p>Rock'n'Roll</p>
@@ -158,7 +158,7 @@
 					<a href="https://baroquerie.fr/" target="_blank" rel="noreferrer noopener"><img src="assets/img/logo/website.svg" alt="link-website"></a>
 				</p>
 			</div>
-			<div class="band-albums">
+			<div id="bvb-albums" class="band-albums">
 				<div class="album">
 					<img src="assets/img/music/MBPSP005.webp" alt="">
 					<p>Rameau: Extraits Des Indes Galantes</p>
@@ -199,3 +199,25 @@
 		</div>
 	</div>
 </section>
+<!-- ScrollBar Js and CSS must be previously loaded -->
+<script type="text/javascript">
+const scrolls = [];
+scrolls.push(new window.ScrollBar({
+	target: document.querySelector('#nac-albums'),
+	horizontal: true
+}));
+scrolls.push(new window.ScrollBar({
+	target: document.querySelector('#forge-albums'),
+	horizontal: true
+}));
+scrolls.push(new window.ScrollBar({
+	target: document.querySelector('#bvb-albums'),
+	horizontal: true
+}));
+// Ensure scrollbar are updated when DOM is fully loaded to document
+setTimeout(() => {
+	for (let i = 0; i < scrolls.length; ++i) {
+		scrolls[i].updateScrollbar();
+	}		
+}, 100);
+</script>
