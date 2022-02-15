@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: 'Catamaran';
-  src: url('/assets/font/Catamaran.ttf') format('truetype'),
-		url('/assets/font/Catamaran.woff') format('woff');
+  src: url('../assets/font/Catamaran.ttf') format('truetype'),
+		url('../assets/font/Catamaran.woff') format('woff');
 }
 
 * {
@@ -102,6 +102,7 @@ nav.site-nav {
 
 main {
 	height: calc(100% - 10rem);
+	position: relative;
 	width: 100%;
 	transition: opacity .3s;
 }

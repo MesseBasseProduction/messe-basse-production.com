@@ -10,8 +10,7 @@ module.exports = {
   module: {
     rules: [
       loaders.JSLoader,
-      loaders.CSSLoader,
-      loaders.FontLoader
+      loaders.CSSLoader
     ]
   },
   output: {

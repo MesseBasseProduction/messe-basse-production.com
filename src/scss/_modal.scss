@@ -43,47 +43,6 @@
 }
 
 .modal.credit {
-	width: 44%;	
-
-	.doc-wrapper {
-		height: 8rem;
-		margin-top: 2rem;
-
-		.doc-download {
-			align-items: center;
-			color: #D4D4D4;
-			display: flex;
-			justify-content: center;
-			margin-bottom: .5rem;
-			padding: 0 1rem;
-			text-decoration: none;
-			transition: transform .3s;
-
-			&:active,
-			&:focus,
-			&:hover {
-				transform: scale(1.1);
-			}
-
-			img {
-				height: 2rem;
-				margin-right: 1rem;
-			}
-
-			p {
-				margin-bottom: 0;
-				text-align: left;
-
-				span {
-					font-size: 1.2rem;
-					font-style: italic;
-
-					&::before {
-						content: '–';
-						padding: 0 1rem;
-					}
-				}
-			}
-		}
-	}
+	max-width: 60rem;
+	width: 90%;	
 }

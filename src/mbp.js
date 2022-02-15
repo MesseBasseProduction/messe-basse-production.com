@@ -7,12 +7,13 @@ class MBP {
 
 	constructor() {
 		this._selectedPage = 'home';
+		this._selectedSubpage = 'music';
 		this._scrollBar = null;
 		this.evts = new CustomEvents();
 		this._displayConsoleWelcome();
 		this._hideFlashingLogo()
 			.then(this._buildNav.bind(this))
-			.then(this._buildHomepage.bind(this));
+			.then(this._buildHomePage.bind(this));
 	}
 
 
@@ -31,7 +32,7 @@ class MBP {
 			setTimeout(() => {
 				document.body.removeChild(document.getElementById('flashing-text-logo'));
 				resolve();
-			}, /*6000*/6);
+			}, 6000);
 		});
 	}
 
@@ -46,10 +47,10 @@ class MBP {
 			setTimeout(() => document.getElementById('link-contact').style.animation = 'drop-nav-link 1.5s forwards', 1250);
 			setTimeout(() => document.getElementById('socials').style.opacity = 1, 2250);
 			// Subscribe to click events on navigation bar
-			document.getElementById('link-home').addEventListener('click', this._buildHomepage.bind(this));
-			document.getElementById('link-creation').addEventListener('click', this._buildCreationpage.bind(this));
-			document.getElementById('link-merch').addEventListener('click', this._buildMerchpage.bind(this));
-			document.getElementById('link-contact').addEventListener('click', this._buildContactpage.bind(this));
+			document.getElementById('link-home').addEventListener('click', this._buildHomePage.bind(this));
+			document.getElementById('link-creation').addEventListener('click', this._buildCreationPage.bind(this));
+			document.getElementById('link-merch').addEventListener('click', this._buildMerchPage.bind(this));
+			document.getElementById('link-contact').addEventListener('click', this._buildContactPage.bind(this));
 			// Resolve (fetch homepage template) after animation is performed
 			setTimeout(resolve, 1500);
 		});
@@ -59,42 +60,83 @@ class MBP {
 	/* Pages */
 
 
-	_buildHomepage() {
+	_buildPage(name) {
 		return new Promise(resolve => {
-			this._fetchPage('assets/html/home.html', 'home').then(resolve);
+      this._fetchPage(`assets/html/${name}.html`, name).then(resolve);
+    });
+	}
+
+
+	_buildHomePage() {
+		return this._buildPage('home');
+	}
+
+
+	_buildCreationPage() {
+		return new Promise (resolve => {
+			this._buildPage('creation').then(() => {
+        this.evts.addEvent('click', document.getElementById('music-subpage'), this._buildMusicSubpage, this);
+        this.evts.addEvent('click', document.getElementById('video-subpage'), this._buildVideoSubpage, this);
+        this.evts.addEvent('click', document.getElementById('photo-subpage'), this._buildPhotoSubpage, this);
+        this.evts.addEvent('click', document.getElementById('book-subpage'), this._buildBookSubpage, this);
+        this.evts.addEvent('click', document.getElementById('software-subpage'), this._buildSoftwareSubpage, this);
+				resolve();
+			});
 		});
 	}
 
 
-	_buildCreationpage() {
-		return new Promise(resolve => {
-			this._fetchPage('assets/html/creation.html', 'creation').then(() => {
+	_buildMerchPage() {
+		return this._buildPage('merch');
+	}	
+
+
+	_buildContactPage() {
+		return new Promise((resolve) => {
+      this._buildPage('contact').then(() => {
+        this.evts.addEvent('click', document.getElementById('credit-modal'), this._buildCreditModal, this);
         resolve();
       });
-		});
+    });
 	}
 
 
-	_buildMerchpage() {
-		return new Promise(resolve => {
-			this._fetchPage('assets/html/merch.html', 'merch').then(resolve);
-		});
-	}	
+	/* Subpages */
 
 
-	_buildContactpage() {
+	_buildSubpage(e, name) {
+		document.getElementById(`${this._selectedSubpage}-subpage`).classList.remove('selected');
+		e.target.classList.add('selected');
+		this._selectedSubpage = name;
 		return new Promise(resolve => {
-			this._fetchPage('assets/html/contact.html', 'contact').then(() => {
-        this.evts.addEvent(
-          'click',
-          document.getElementById('credit-modal'),
-          this._buildCreditModal,
-          this
-        );
-        resolve();
-      });
-		});
-	}	
+			this._fetchPage(`assets/html/subpage/${name}.html`, 'subpage', 'subpage').then(resolve);
+		});	
+	}
+
+
+	_buildMusicSubpage(e) {
+		return this._buildSubpage(e, 'music');
+	}
+
+
+	_buildVideoSubpage(e) {
+		return this._buildSubpage(e, 'video');
+	}
+
+	
+	_buildPhotoSubpage(e) {
+		return this._buildSubpage(e, 'photo');		
+	}
+
+
+	_buildBookSubpage(e) {
+		return this._buildSubpage(e, 'book');
+	}
+
+
+	_buildSoftwareSubpage(e) {
+		return this._buildSubpage(e, 'software');
+	}
 
 
 	/* Modals */
@@ -112,31 +154,35 @@ class MBP {
 	/* Utils */
 
 
-	_fetchPage(url, className) {
+	_fetchPage(url, className, target) {
 		return new Promise((resolve, reject) => {
-			// TODO if (this._scrollBar !== null) { this._scrollBar.destroy(); }
-			this.evts.removeAllEvents();
-			document.getElementById(`link-${this._selectedPage}`).classList.remove('selected');
-			this._selectedPage = className;
-			document.getElementById(`link-${this._selectedPage}`).classList.add('selected');
-			document.getElementById('scene').style.opacity = 0;
+			if (!target) {
+				target = 'scene';
+				// Delete events and update nav bar only if not a subpage is fetched 
+				this.evts.removeAllEvents();
+				document.getElementById(`link-${this._selectedPage}`).classList.remove('selected');
+				this._selectedPage = className;
+				document.getElementById(`link-${this._selectedPage}`).classList.add('selected');
+			}
+
+			document.getElementById(target).style.opacity = 0;
 			setTimeout(() => {
-				fetch(url)
-					.then(data => {
-						data.text().then(htmlString => {
-							document.getElementById('scene').classList.remove('selected');
-							document.getElementById('scene').className = className;
-							document.getElementById('scene').innerHTML = '';
-							document.getElementById('scene').appendChild(document.createRange().createContextualFragment(htmlString));
-							document.getElementById('scene').style.opacity = 1;
+				fetch(url).then(data => {
+					data.text().then(htmlString => {
+						document.getElementById(target).classList.remove('selected');
+						document.getElementById(target).className = className;
+						document.getElementById(target).innerHTML = '';
+						document.getElementById(target).appendChild(document.createRange().createContextualFragment(htmlString));
+						document.getElementById(target).style.opacity = 1;
+						// Save scene scrollbar only if not a subpage being built
+						if (className !== 'subpage') {
 							this._scrollBar = new window.ScrollBar({
-                target: document.getElementById('scene'),
-              });
-							setTimeout(resolve, 600);
-					})
-					.catch(reject);
-				})
-				.catch(reject);
+								target: document.getElementById(target)
+							});
+						}
+						setTimeout(resolve, 600);
+					}).catch(reject);
+				}).catch(reject);
 			}, 600);
 		});
 	}
