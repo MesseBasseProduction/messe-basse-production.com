@@ -78,6 +78,31 @@
 		max-width: inherit;
 		width: 95%;
 	}
+
+	body.links {
+		main {
+			.link-wrapper {
+				padding: 2rem;
+				max-height: 95%;
+				width: 95%;
+
+				img.main-logo {
+					height: 6rem;
+				}
+
+				.link {
+					img {
+						margin: 0 1rem;
+					}
+					
+					P {
+						font-size: 1.2rem;
+						margin-right: 1rem;
+					}
+				}
+			}			
+		}
+	}
 }
 
 @media (max-width: 512px) {

@@ -1,4 +1,3 @@
-import CustomEvents from './js/CustomEvents';
 import './mbp.scss';
 
 
@@ -6,14 +5,24 @@ class MBP {
 
 
 	constructor() {
+		this._lang = (navigator.language === 'fr') ? 'fr' : 'en';
 		this._selectedPage = 'home';
 		this._selectedSubpage = 'music';
 		this._scrollBar = null;
-		this.evts = new CustomEvents();
+		this._version = '0.1.0';
+		this.evts = new window.CustomEvents();
+		this._updateNavLang();
 		this._displayConsoleWelcome();
 		this._hideFlashingLogo()
 			.then(this._buildNav.bind(this))
 			.then(this._buildHomePage.bind(this));
+	}
+
+
+	_updateNavLang() {
+		if (this._lang !== 'fr') {
+			document.getElementById('link-home').innerHTML = 'Home';
+		}
 	}
 
 
@@ -62,7 +71,7 @@ class MBP {
 
 	_buildPage(name) {
 		return new Promise(resolve => {
-      this._fetchPage(`assets/html/${name}.html`, name).then(resolve);
+      this._fetchPage(`assets/html/${this._lang}/${name}.html`, name).then(resolve);
     });
 	}
 
@@ -105,11 +114,13 @@ class MBP {
 
 
 	_buildSubpage(e, name) {
-		document.getElementById(`${this._selectedSubpage}-subpage`).classList.remove('selected');
+		for (let i = 0; i < document.getElementById('subpage-nav').children.length; ++i) {
+			document.getElementById('subpage-nav').children[i].classList.remove('selected');
+		}
 		e.target.classList.add('selected');
 		this._selectedSubpage = name;
 		return new Promise(resolve => {
-			this._fetchPage(`assets/html/subpage/${name}.html`, 'subpage', 'subpage').then(resolve);
+			this._fetchPage(`assets/html/${this._lang}/subpage/${name}.html`, 'subpage', 'subpage').then(resolve);
 		});	
 	}
 
@@ -144,7 +155,7 @@ class MBP {
 
 	_buildCreditModal() {
 		return new Promise(resolve => {
-			this._fetchModal('assets/html/modal/credit.html').then(() => {
+			this._fetchModal(`assets/html/${this._lang}/modal/credit.html`).then(() => {
 				resolve();
 			});
 		});
