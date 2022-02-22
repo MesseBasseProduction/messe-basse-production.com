@@ -196,6 +196,10 @@ main.creation {
 						text-align: center;
 						width: fit-content;
 
+						&:last-child {
+							margin-right: 0;							
+						}
+
 						img {
 							box-shadow: 0px 0px 2px #d4d4d4;
 							height: calc(100% - 3rem); /* Substract p height and margin */
@@ -274,6 +278,50 @@ main.creation {
 
 	.photo {
 		margin: 3rem 0;
+
+		.photo-grid {
+			align-content: center;
+			display: grid;
+			grid-template-columns: repeat(auto-fill, calc(min(40rem, 90vw)));
+			justify-content: center;
+
+			.photo-element {
+				padding: 1rem;
+
+				img {				
+					cursor: pointer;
+					width: 100%;
+					transition: opacity 1s, transform .5s;
+
+					&:active,
+					&:focus,
+					&:hover {
+						transform: rotate(-1deg);
+					}
+				}
+
+				p {
+					font-size: 1.2rem;
+					margin-top: 1rem;
+				}
+
+				a {
+					color: inherit;
+					display: inline-block;
+					font-size: inherit;
+					margin: inherit;
+					text-decoration: none;
+
+					transition: color .2s;
+
+					&:active,
+					&:focus,
+					&:hover {
+						color: #56d45b;
+					}					
+				}
+			}
+		}
 	}
 
 	.book {
@@ -468,5 +516,20 @@ body.links {
 		position: absolute;
 		text-align: center;
 		width: 100%;
+
+		a {
+			color: inherit;
+			font-size: inherit;
+			margin: inherit;
+			text-decoration: none;
+
+			transition: color .2s;
+
+			&:active,
+			&:focus,
+			&:hover {
+				color: #56d45b;
+			}
+		}
 	}
 }

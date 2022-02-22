@@ -9,7 +9,7 @@ class MBP {
 		this._selectedPage = 'home';
 		this._selectedSubpage = 'music';
 		this._scrollBar = null;
-		this._version = '0.1.0';
+		this._version = '0.1.1';
 		this.evts = new window.CustomEvents();
 		this._updateNavLang();
 		this._displayConsoleWelcome();
@@ -136,7 +136,15 @@ class MBP {
 
 	
 	_buildPhotoSubpage(e) {
-		return this._buildSubpage(e, 'photo');		
+		this._buildSubpage(e, 'photo').then(() => {
+			const imgs = document.querySelector('#photo-grid').getElementsByTagName('IMG');
+			for (let i = 0; i < imgs.length; ++i) {
+				imgs[i].addEventListener('click', () => {
+					// Send image name.extension and nextSibling is image label
+					this._buildPhotoModal(imgs[i].dataset.url, imgs[i].nextElementSibling.innerHTML);
+				});
+			}
+		});
 	}
 
 
@@ -151,6 +159,19 @@ class MBP {
 
 
 	/* Modals */
+
+
+	_buildPhotoModal(url, label) {
+		return new Promise(resolve => {
+			this._fetchModal(`assets/html/${this._lang}/modal/photo.html`).then(() => {
+				const img = document.querySelector('#modal').getElementsByTagName('IMG')[0];
+				img.src = `/assets/img/photo/${url}`;
+				const text = document.querySelector('#modal').getElementsByTagName('P')[1]; // First P is close modal
+				text.innerHTML = label;
+				resolve();
+			});
+		});		
+	}
 
 
 	_buildCreditModal() {

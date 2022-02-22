@@ -27,7 +27,7 @@
 		}
 
 		.music {
-			padding: 0;
+			padding: 0 3rem 0 1rem;
 
 			.band {
 				display: flex;
@@ -39,10 +39,9 @@
 				}
 
 				.band-releases {
-					padding: 2rem;
-					padding-left: 1rem; /* Compensate scrollbar size */
+					padding: 2rem 1rem;
 					position: inherit;
-					width: calc(100% - var(--default-scroll-size));
+					width: 100%;
 
 					.band-header {
 						h2 {
@@ -61,8 +60,16 @@
 			}
 		}
 
-		.video .video-grid .embed-video h2 {
-			font-size: 1.4rem;
+		.video {
+			padding: 0 3rem 0 1rem;
+
+			.video-grid .embed-video h2 {
+				font-size: 1.4rem;
+			}
+		}
+
+		.photo {
+			padding: 0 3rem 0 1rem;
 		}
 	}
 
