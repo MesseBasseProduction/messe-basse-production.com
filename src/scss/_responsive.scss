@@ -147,19 +147,21 @@
 }
 
 @media (max-height: 740px) {
-  /* Typically for screen with zoom factor */
-  main.home {
-		display: inherit;
-		overflow-y: auto;
+  	/* Typically for screen with zoom factor */
+  	main.home {
+		section {
+			display: block;
 
-    img {
-      max-width: 25rem;
-    }
-
-    h2 {
-      margin-bottom: 2%;
-      max-width: inherit;
-    }
+			img {
+				margin-top: 0;
+				max-width: 25rem;
+			}
+	
+			h2 {
+				margin-bottom: 2%;
+				max-width: inherit;
+			}
+		}
 	}
 }
 
