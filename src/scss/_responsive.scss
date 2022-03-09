@@ -10,6 +10,12 @@
 		}
 	}
 
+	main.home {
+		section {
+			display: block;
+		}		
+	}
+
 	main.creation {
 		.subpage-nav {
 			bottom: inherit;
@@ -70,6 +76,12 @@
 
 		.photo {
 			padding: 0 3rem 0 1rem;
+		}
+	}
+
+	main.merch {
+		section {
+			display: block;
 		}
 	}
 

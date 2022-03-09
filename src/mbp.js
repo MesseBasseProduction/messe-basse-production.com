@@ -96,7 +96,20 @@ class MBP {
 
 
 	_buildMerchPage() {
-		return this._buildPage('merch');
+    const order = e => {
+      if (this._lang === 'en') {
+        window.open(`mailto:contact@messe-basse-production.com?subject=Order an album of ${e.target.dataset.title}&body=<i>Please tell us if you want to take the regular or the signed release. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!</i>`, '_blank');
+      } else if (this._lang === 'fr') {
+        window.open(`mailto:contact@messe-basse-production.com?subject=Commander un album de ${e.target.dataset.title}&body=<i>Dites-nous si vous voulez la version standard ou la version signée. Nous reviendrons vers vous au plus vite pour les formalités d'envoi. À fort vite!</i>`, '_blank');
+      }
+    };
+
+		return new Promise(resolve => {
+      this._buildPage('merch').then(() => {
+        this.evts.addEvent('click', document.getElementById('order-dystopie'), order.bind(this), this);
+        resolve();
+      });      
+    });
 	}	
 
 
