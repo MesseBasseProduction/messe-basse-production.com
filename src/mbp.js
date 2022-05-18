@@ -84,11 +84,11 @@ class MBP {
 	_buildCreationPage() {
 		return new Promise (resolve => {
 			this._buildPage('creation').then(() => {
-        this.evts.addEvent('click', document.getElementById('music-subpage'), this._buildMusicSubpage, this);
-        this.evts.addEvent('click', document.getElementById('video-subpage'), this._buildVideoSubpage, this);
-        this.evts.addEvent('click', document.getElementById('photo-subpage'), this._buildPhotoSubpage, this);
-        this.evts.addEvent('click', document.getElementById('book-subpage'), this._buildBookSubpage, this);
-        this.evts.addEvent('click', document.getElementById('software-subpage'), this._buildSoftwareSubpage, this);
+				this.evts.addEvent('click', document.getElementById('music-subpage'), this._buildMusicSubpage, this);
+				this.evts.addEvent('click', document.getElementById('video-subpage'), this._buildVideoSubpage, this);
+				this.evts.addEvent('click', document.getElementById('photo-subpage'), this._buildPhotoSubpage, this);
+				this.evts.addEvent('click', document.getElementById('book-subpage'), this._buildBookSubpage, this);
+				this.evts.addEvent('click', document.getElementById('software-subpage'), this._buildSoftwareSubpage, this);
 				resolve();
 			});
 		});
@@ -96,31 +96,31 @@ class MBP {
 
 
 	_buildMerchPage() {
-    const order = e => {
-      if (this._lang === 'fr') {
+		const order = e => {
+			if (this._lang === 'fr') {
 				window.open(`mailto:contact@messe-basse-production.com?subject=Commander un album de ${e.target.dataset.title}&body=<i>Dites-nous si vous voulez la version standard ou la version signée. Nous reviendrons vers vous au plus vite pour les formalités d'envoi. À fort vite!</i>`, '_blank');
-      } else {
-        window.open(`mailto:contact@messe-basse-production.com?subject=Order an album of ${e.target.dataset.title}&body=<i>Please tell us if you want to take the regular or the signed release. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!</i>`, '_blank');
-      }
-    };
+			} else {
+				window.open(`mailto:contact@messe-basse-production.com?subject=Order an album of ${e.target.dataset.title}&body=<i>Please tell us if you want to take the regular or the signed release. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!</i>`, '_blank');
+			}
+		};
 
 		return new Promise(resolve => {
-      this._buildPage('merch').then(() => {
-        this.evts.addEvent('click', document.getElementById('order-dystopie'), order.bind(this), this);
-        this.evts.addEvent('click', document.getElementById('order-etica'), order.bind(this), this);
-        resolve();
-      });      
-    });
-	}	
+			this._buildPage('merch').then(() => {
+				this.evts.addEvent('click', document.getElementById('order-dystopie'), order.bind(this), this);
+				this.evts.addEvent('click', document.getElementById('order-etica'), order.bind(this), this);
+				resolve();
+			});
+		});
+	}
 
 
 	_buildContactPage() {
 		return new Promise((resolve) => {
-      this._buildPage('contact').then(() => {
-        this.evts.addEvent('click', document.getElementById('credit-modal'), this._buildCreditModal, this);
-        resolve();
-      });
-    });
+			this._buildPage('contact').then(() => {
+				this.evts.addEvent('click', document.getElementById('credit-modal'), this._buildCreditModal, this);
+				resolve();
+			});
+		});
 	}
 
 

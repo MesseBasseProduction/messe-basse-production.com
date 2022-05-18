@@ -104,7 +104,7 @@ main.creation {
 				width: 35%;
 
 				img {
-					box-shadow: 0px 0px 10px #d4d4d4;
+					box-shadow: 0 0 10px #d4d4d45c;
 					width: 100%;
 					transition: opacity 1s, transform .5s;
 
@@ -182,6 +182,7 @@ main.creation {
 				.band-albums {
 					height: calc(100% - 4rem);
 					overflow-x: auto;
+					text-align: left;
 					white-space: nowrap;
 					width: 100%;
 
