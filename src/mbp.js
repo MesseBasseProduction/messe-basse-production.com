@@ -5,11 +5,11 @@ class MBP {
 
 
   constructor() {
-    this._lang = (navigator.language === 'fr') ? 'fr' : 'en';
+    this._lang = (navigator.language.substring(0, 2) === 'fr') ? 'fr' : 'en';
     this._selectedPage = 'home';
     this._selectedSubpage = 'music';
     this._scrollBar = null;
-    this._version = '0.1.1';
+    this._version = '0.1.2';
     this.evts = new window.CustomEvents();
     this._updateNavLang();
     this._displayConsoleWelcome();
@@ -275,7 +275,7 @@ class MBP {
           .catch(reject);
         }, 50);
       }, 50);
-    });		
+    });
   }
 
 
