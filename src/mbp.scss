@@ -107,6 +107,26 @@ main {
   transition: opacity .3s;
 }
 
+.not-found {
+  align-items: center;
+  background-image: radial-gradient(#2D2D2D 0,#202020 45%, #181818 80%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+  h1 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 3.8rem;
+    margin-bottom: 2rem;
+  }
+
+  a {
+    font-family: consolas, sans-serif;
+    font-size: 1.8rem;
+  }
+}
+
 @import 'scss/pages';
 
 .flashing-text-logo {

@@ -9,7 +9,7 @@ class MBP {
     this._selectedPage = 'home';
     this._selectedSubpage = 'music';
     this._scrollBar = null;
-    this._version = '0.1.2';
+    this._version = '0.1.3';
     this.evts = new window.CustomEvents();
     this._updateNavLang();
     this._displayConsoleWelcome();
@@ -140,7 +140,15 @@ class MBP {
 
 
   _buildMusicSubpage(e) {
-    return this._buildSubpage(e, 'music');
+    this._buildSubpage(e, 'music').then(() => {
+      const bands = document.getElementsByClassName('band-image');
+      console.log(bands)
+      for (let i = 0; i < bands.length; ++i) {
+        bands[i].addEventListener('click', () => {
+          window.open(bands[i].dataset.url, '_blank', 'noopener, noreferrer');
+        });
+      }
+    });
   }
 
 
@@ -168,7 +176,14 @@ class MBP {
 
 
   _buildSoftwareSubpage(e) {
-    return this._buildSubpage(e, 'software');
+    this._buildSubpage(e, 'software').then(() => {
+      const divs = document.querySelector('#band-website-grid').children;
+      for (let i = 0; i < divs.length; ++i) {
+        divs[i].addEventListener('click', () => {
+          window.open(divs[i].dataset.url, '_blank', 'noopener, noreferrer');
+        });
+      }
+    });     
   }
 
 

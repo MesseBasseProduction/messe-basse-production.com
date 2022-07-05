@@ -62,7 +62,13 @@ main.creation {
       cursor: pointer;
       margin: 0 1.5rem;
       width: 3rem;
-      transition: filter .3s;
+      transition: filter .3s, transform .3s;
+
+      &:active,
+      &:focus,
+      &:hover {
+        transform: scale(1.1);
+      }
 
       &.selected {
         filter: invert(74%) sepia(76%) saturate(413%) hue-rotate(63deg) brightness(200%) contrast(88%);
@@ -83,6 +89,10 @@ main.creation {
       font-size: 1.3rem;
       margin-bottom: 2rem;
     }
+
+    a {
+      display: inline-block;
+    }
   }
 
   .music {
@@ -94,6 +104,7 @@ main.creation {
 
       .band-image {
         align-items: center;
+        cursor: pointer;
         display: flex;
         height: 100%;
         justify-content: center;
@@ -320,6 +331,51 @@ main.creation {
       }
     }
   }
+
+  .software {
+    h2 {
+      font-family: 'Catamaran', sans-serif;
+      font-size: 2.8rem;
+      margin: 2rem 0;
+    }
+    
+    .band-website-grid {
+      align-content: center;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, calc(min(50rem, 90vw)));
+      justify-content: center;
+
+      .band-website {
+        cursor: pointer;
+        padding: 1rem;
+
+        img {
+          width: 100%;
+          transition: transform .2s;
+
+          &:active,
+          &:focus,
+          &:hover {
+            transform: rotate(1deg);
+          }          
+        }
+
+        h2 {
+          font-family: consolas, sans-serif;
+          font-size: 2.6rem;
+          margin-bottom: 1.3rem;
+
+          transition: color .2s;
+
+          &:active,
+          &:focus,
+          &:hover {
+            color: #56d45b;
+          }           
+        }
+      }
+    }
+  }
 }
 
 main.merch {
@@ -329,10 +385,10 @@ main.merch {
   section {
     padding: 3rem 15%;
 
-    h2 {
-      font-size: 2.8rem;
-      margin-bottom: 5%;
-      padding: 0 3rem;
+    h1 {
+      font-family: 'Catamaran', sans-serif;
+      font-size: 3.8rem;
+      margin-bottom: 2rem;
     }
 
     .music-merch {

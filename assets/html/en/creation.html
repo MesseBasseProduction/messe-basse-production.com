@@ -12,7 +12,7 @@
     <p class="description">Our musical catalog aims to offers an eclectic selection, of any genre ; each style is therefor welcome! For your music project, we are able to help you at any level, from composition to pressing, passing by arrangements, mix, mastering, legal terms and artwork. You have a project in progress but yet you are stuck making it going forward? Contact us so we can offer you a fresh look to help it making it alive.</p>
     <!-- Five O'Clock Jazz Quartet band -->
     <div class="band">
-      <div class="band-image">
+      <div class="band-image" data-url="https://fiveoclockjazzquartet.com">
         <img src="/assets/img/band/five.webp" alt="">
       </div>
       <div class="band-releases">
@@ -23,6 +23,15 @@
           </p>
         </div>
         <div id="five-albums" class="band-albums">
+          <div class="album">
+            <img src="/assets/img/music/MBPSP017.webp" alt="">
+            <p>Cry Me A River</p>
+            <div class="album-overlay">
+              <p><b>MBPSP017</b></p>
+              <p>July 2, 2022</p>
+              <a href="https://www.youtube.com/watch?v=CeYUMy0VB3Q&list=PLBTeUIcRBAxMHlXxhG-NvUAIGknzU1R26&index=1" target="_blank" rel="noreferrer noopener">Listen online</a>
+            </div>
+          </div>
           <div class="album">
             <img src="/assets/img/music/MBPSP016.webp" alt="">
             <p>L.O.V.E.</p>
@@ -46,7 +55,7 @@
     </div> 
     <!-- Siré Camara band -->
     <div class="band">
-      <div class="band-image">
+      <div class="band-image" data-url="https://sire-camara.band">
         <img src="/assets/img/band/sire.webp" alt="">
       </div>
       <div class="band-releases">
@@ -89,7 +98,7 @@
     </div>  
     <!-- NAC band -->
     <div class="band">
-      <div class="band-image">
+      <div class="band-image" data-url="https://nac.band">
         <img src="/assets/img/band/nac.webp" alt="">
       </div>
       <div class="band-releases">
@@ -171,7 +180,7 @@
     </div>
     <!-- The Forge band -->
     <div class="band">
-      <div class="band-image">
+      <div class="band-image" data-url="https://theforge.band">
         <img src="/assets/img/band/theforge.webp" alt="">
       </div>
       <div class="band-releases">
@@ -267,7 +276,7 @@
     </div>
     <!-- BvB band -->  
     <div class="band">
-      <div class="band-image">
+      <div class="band-image" data-url="https://baroquerie.fr">
         <img src="/assets/img/band/bvb.webp" alt="">
       </div>
       <div class="band-releases">
@@ -318,8 +327,15 @@
         </div>
       </div>
     </div>
-    <!-- ScrollBar Js and CSS must be previously loaded -->
     <script type="text/javascript">
+      // Manually set artist image href to websites
+      let bands = document.getElementsByClassName('band-image');
+      for (let i = 0; i < bands.length; ++i) {
+        bands[i].addEventListener('click', () => {
+          window.open(bands[i].dataset.url, '_blank', 'noopener, noreferrer');
+        });
+      }
+      // ScrollBar Js and CSS must be previously loaded
       window.scrolls = [];
       window.scrolls.push(new window.ScrollBar({
         target: document.querySelector('#five-albums'),
