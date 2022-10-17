@@ -142,7 +142,6 @@ class MBP {
   _buildMusicSubpage(e) {
     this._buildSubpage(e, 'music').then(() => {
       const bands = document.getElementsByClassName('band-image');
-      console.log(bands)
       for (let i = 0; i < bands.length; ++i) {
         bands[i].addEventListener('click', () => {
           window.open(bands[i].dataset.url, '_blank', 'noopener, noreferrer');

@@ -23,7 +23,7 @@
             <span>Jazz Fusion</span>
           </p>
         </div>
-        <div id="bvb-albums" class="band-albums">
+        <div id="eliot-albums" class="band-albums">
           <div class="album">
             <img src="/assets/img/music/MBPLP010.webp" alt="">
             <p>The Best Of</p>
@@ -445,6 +445,10 @@
       }
       // ScrollBar Js and CSS must be previously loaded
       window.scrolls = [];
+      window.scrolls.push(new window.ScrollBar({
+        target: document.querySelector('#eliot-albums'),
+        horizontal: true
+      }));
       window.scrolls.push(new window.ScrollBar({
         target: document.querySelector('#five-albums'),
         horizontal: true
