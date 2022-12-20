@@ -287,6 +287,57 @@ main.creation {
   }
 
   .photo {
+    h2 {
+      font-family: 'Catamaran', sans-serif;
+      font-size: 2.8rem;
+      margin: 2rem 0;
+    }
+
+    .expo-grid {
+      align-content: center;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, calc(min(60rem, 90vw)));
+      justify-content: center;
+      
+      .artist {
+        cursor: pointer;
+        padding: 1rem;
+
+        &:active,
+        &:focus,
+        &:hover {
+          color: #56d45b;
+        }
+
+        .img-wrapper {
+          align-items: center;
+          aspect-ratio: 3 / 2;
+          background-color: #202020;
+          display: flex;
+          justify-content: center;
+          position: relative;
+          width: 100%;
+        }
+
+        img {
+          height: 100%;
+          position: absolute;
+          transition: opacity .2s;
+        }
+
+        h3 {
+          font-size: 2.2rem;
+          margin: 1rem 0;
+
+          transition: color .2s;
+          
+          em {
+            font-size: 1.6rem;
+          }
+        }
+      }
+    }
+
     .photo-grid {
       align-content: center;
       display: grid;

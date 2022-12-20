@@ -42,6 +42,137 @@
   }
 }
 
+.modal.expo {
+  background-color: #2D2D2D;
+  border-radius: inherit;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  max-width: inherit;
+  text-align: inherit;
+  width: 100%;
+
+  .photo-selector {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 1.5rem;    
+
+    p {
+      border: solid 1px white;
+      border-radius: .5rem;
+      cursor: pointer;
+      font-size: 1.2rem;
+      margin: .5rem;
+      padding: .5rem 1rem;
+
+      transition: color .2s, border-color .2s;
+
+      &.selected {
+        border-color: #56D45B;
+        color: #56D45B;
+      }
+    }
+  }
+
+  .photo-editor {
+    display: flex;
+
+    .photo-wrapper {
+      border-radius: .5rem;
+      display: flex;
+      justify-content: center;
+      padding: 1.5rem;
+      width: 66%;
+
+      .frame {
+        align-items: center;
+        aspect-ratio: 3 / 2;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        max-width: 50vw;
+        width: 100%;
+        
+        img {
+          height: 100%;
+        }
+      }
+    }
+
+    .editor {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 34%;
+
+      h2 {
+        font-size: 2.2rem;
+        margin-bottom: 1.5rem;
+      }
+
+      p {
+        margin: 0;
+      }
+
+      .editor-command {
+        display: flex;
+        margin-top: 1.5rem;
+
+        p {
+          border: solid 1px white;
+          border-radius: .5rem;
+          cursor: pointer;
+          font-size: 1.2rem;
+          margin: .5rem;
+          padding: .5rem 1rem;
+    
+          transition: color .2s, border-color .2s;
+    
+          &.selected {
+            border-color: #56D45B;
+            color: #56D45B;
+          }
+        }
+
+        label {
+          font-size: 1.2rem; 
+        }
+
+        input {
+          margin-left: 1.5rem;
+        }
+      }
+    }
+  }
+
+  .order {
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+
+    h2 {
+      font-size: 2.2rem;
+      margin-right: 1.5rem;
+    }
+
+     button {
+      margin: 0;
+     }
+  }
+
+  .close {
+    cursor: pointer;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 0;
+    position: absolute;
+    right: 2rem;
+    top: 2rem;
+  }
+}
+
 .modal.photo {
   align-items: center;
   background-color: transparent;

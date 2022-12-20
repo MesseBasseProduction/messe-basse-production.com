@@ -1,0 +1,73 @@
+{
+  "expo": [{
+    "title": "Amérique du Sud",
+    "author": "Guillaume Crantz",
+    "photos": [{
+      "title": "Sur le Fil – Pisac, Pérou",
+      "date": "21 Mai 2019",
+      "margin": "20"
+    }, {
+      "title": "Tentation praline – Cordoba, Argentine",
+      "date": "8 Avril 2019",
+      "margin": "20"
+    }, {
+      "title": "Ligne de front – Concón, Chili",
+      "date": "13 Avril 2019",
+      "margin": "20"
+    }, {
+      "title": "Market Exchange – Valparaíso, Chili",
+      "date": "18 Juillet 2019",
+      "margin": "20"
+    }, {
+      "title": "Plaisir glacé – Panama City, Panama",
+      "date": "8 Février 2019",
+      "margin": "20"
+    }]
+  }, {
+    "title": "94 Roaming",
+    "author": "Raphaël Beekmann",
+    "photos": [{
+      "title": "Photo 1",
+      "date": "20 Février 2020",
+      "margin": "20"
+    }, {
+      "title": "Photo 2",
+      "date": "20 Février 2020",
+      "margin": "20"
+    }, {
+      "title": "Photo 3",
+      "date": "20 Février 2020",
+      "margin": "20"
+    }, {
+      "title": "Photo 4",
+      "date": "20 Février 2020",
+      "margin": "20"
+    }, {
+      "title": "Photo 5",
+      "date": "20 Février 2020",
+      "margin": "20"
+    }]  
+  }],
+  "prices": {
+    "photo": {
+      "paper": {
+        "a4": "10",
+        "a3": "20"
+      },
+      "dibond": {
+        "a4": "30",
+        "a3": "40"
+      },
+      "frame": {
+        "no": "0",
+        "black": "3",
+        "white": "6",
+        "wood": "9"
+      },
+      "postal": {
+        "a4": "10",
+        "a3": "15"
+      }
+    }
+  }
+}

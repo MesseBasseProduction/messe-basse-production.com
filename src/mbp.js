@@ -1,4 +1,5 @@
 import './mbp.scss';
+import Data from '../assets/json/data.json';
 
 
 class MBP {
@@ -158,7 +159,26 @@ class MBP {
   
   _buildPhotoSubpage(e) {
     this._buildSubpage(e, 'photo').then(() => {
-      const imgs = document.querySelector('#photo-grid').getElementsByTagName('IMG');
+      /*
+      // Update expo thumbnail on mouse position (converted in width %)
+      const _updateExpoThumb = function(e) {
+        const bRect = this.getBoundingClientRect();
+        const percentage = ((e.clientX - bRect.x) / bRect.width) * 100;
+        for (let i = 0; i < this.children.length; ++i) {
+          this.children[i].style.opacity = 0;
+        }
+        this.children[this.children.length - Math.floor(percentage / 20) - 1].style.opacity = 1;
+      };
+      const imgWrapper1 = document.getElementById('expo-1-img-wrapper');
+      const imgWrapper2 = document.getElementById('expo-2-img-wrapper');
+      imgWrapper1.addEventListener('mousemove', _updateExpoThumb);
+      imgWrapper2.addEventListener('mousemove', _updateExpoThumb);
+      // Expo click listeners
+      document.getElementById('expo-1').addEventListener('click', this._buildExpoModal.bind(this, 1));
+      document.getElementById('expo-2').addEventListener('click', this._buildExpoModal.bind(this, 2));
+      // Click listener on classical photos
+      */
+      const imgs = document.getElementById('photo-grid').getElementsByTagName('IMG');
       for (let i = 0; i < imgs.length; ++i) {
         imgs[i].addEventListener('click', () => {
           // Send image name.extension and nextSibling is image label
@@ -176,7 +196,7 @@ class MBP {
 
   _buildSoftwareSubpage(e) {
     this._buildSubpage(e, 'software').then(() => {
-      const divs = document.querySelector('#band-website-grid').children;
+      const divs = document.getElementById('band-website-grid').children;
       for (let i = 0; i < divs.length; ++i) {
         divs[i].addEventListener('click', () => {
           window.open(divs[i].dataset.url, '_blank', 'noopener, noreferrer');
@@ -189,12 +209,101 @@ class MBP {
   /* Modals */
 
 
+  _buildExpoModal(expoNumber) {
+    this._fetchModal(`assets/html/${this._lang}/modal/expo.html`).then(() => {
+      const expoData = Data.expo[expoNumber - 1];
+      const selector = document.getElementById('photo-selector');
+      const frameWrapper = document.getElementById('frame');
+      let selectedIndex = 0;
+      let size = 'a3';
+      let type = 'paper';
+      let frame = 'no';
+
+      document.getElementById('expo-title').innerHTML = expoData.title;
+      document.getElementById('expo-author').innerHTML = expoData.author;
+
+      const _updatePrice = () => {
+        const price = parseInt(Data.prices.photo[type][size]) + parseInt(Data.prices.photo.frame[frame]) + parseInt(Data.prices.photo.postal[size]);
+        document.getElementById('order-price').innerHTML = `${price}€`;
+      };
+
+      const _updateSelectedPhoto = function() {
+        for (let i = 0; i < selector.children.length; ++i) {
+          selector.children[i].classList.remove('selected');
+        }
+  
+        selectedIndex = parseInt(this.dataset.number);
+        document.getElementById('selected-photo').src = `assets/img/photo/expo/${expoNumber}/${selectedIndex + 1}.webp`;
+        document.getElementById('photo-title').innerHTML = expoData.photos[selectedIndex].title;
+        document.getElementById('photo-date').innerHTML = expoData.photos[selectedIndex].date;
+        this.classList.add('selected');
+      };
+
+      const _updateSize = clicked => {
+        document.getElementById('frame-size').children[0].classList.remove('selected');
+        document.getElementById('frame-size').children[1].classList.remove('selected');
+        document.getElementById('frame-size').children[clicked].classList.add('selected');
+        size = document.getElementById('frame-size').children[clicked].dataset.size;
+        _updatePrice();
+      };
+
+      const _updateType = clicked => {
+        document.getElementById('print-type').children[0].classList.remove('selected');
+        document.getElementById('print-type').children[1].classList.remove('selected');
+        document.getElementById('print-type').children[clicked].classList.add('selected');
+        type = document.getElementById('print-type').children[clicked].dataset.type;
+        _updatePrice();
+      };
+      
+      const _updateFrame = clicked => {
+        for (let i = 0; i < frameWrapper.children.length; ++i) {
+          frameWrapper.children[i].classList.remove('selected');
+        }
+        frameWrapper.children[clicked].classList.add('selected');
+        frame = frameWrapper.children[clicked].dataset.frame;
+        _updatePrice();
+      };
+      // Listener on photo select
+      for (let i = 0; i < selector.children.length; ++i) {
+        selector.children[i].innerHTML = expoData.photos[i].title;
+        selector.children[i].addEventListener('click', _updateSelectedPhoto);
+      }
+      // Init editor with first expo photo
+      document.getElementById('selected-photo').src = `assets/img/photo/expo/${expoNumber}/1.webp`;
+      document.getElementById('photo-title').innerHTML = expoData.photos[0].title;
+      document.getElementById('photo-date').innerHTML = expoData.photos[0].date;
+      // Size callback
+      document.getElementById('frame-size').children[0].addEventListener('click', _updateSize.bind(this, 0));
+      document.getElementById('frame-size').children[1].addEventListener('click', _updateSize.bind(this, 1));
+      // Type callback
+      document.getElementById('print-type').children[0].addEventListener('click', _updateType.bind(this, 0));
+      document.getElementById('print-type').children[1].addEventListener('click', _updateType.bind(this, 1));
+      // Frame callback
+      for (let i = 0; i < frameWrapper.children.length; ++i) {
+        frameWrapper.children[i].addEventListener('click', _updateFrame.bind(this, i));
+      }      
+      // Margin input callback
+      document.getElementById('print-margin').addEventListener('change', (e) => {
+        if (e.target.checked) {
+          document.getElementById('selected-photo').style.padding = `${expoData.photos[selectedIndex].margin / 3}%`;
+          document.getElementById('selected-photo').style.height = `100%`;
+        } else {
+          document.getElementById('selected-photo').style.padding = 0;
+          document.getElementById('selected-photo').style.height = '100%';
+        }
+      });
+      // Update prices
+      _updatePrice();
+    });
+  }
+
+
   _buildPhotoModal(url, label) {
     return new Promise(resolve => {
       this._fetchModal(`assets/html/${this._lang}/modal/photo.html`).then(() => {
-        const img = document.querySelector('#modal').getElementsByTagName('IMG')[0];
+        const img = document.getElementById('modal').getElementsByTagName('IMG')[0];
         img.src = `/assets/img/photo/${url}`;
-        const text = document.querySelector('#modal').getElementsByTagName('P')[1]; // First P is close modal
+        const text = document.getElementById('modal').getElementsByTagName('P')[1]; // First P is close modal
         text.innerHTML = label;
         resolve();
       });
@@ -271,7 +380,6 @@ class MBP {
         document.getElementById('modal').style.opacity = 1;
         evtIds.push(this.evts.addEvent('click', document.getElementById('overlay'), closeModal, this));
         evtIds.push(this.evts.addEvent('click', document.getElementById('close-modal'), closeModal, this));
-        setTimeout(resolve, 600); // CSS animation time
       };
 
       document.getElementById('overlay').style.display = 'flex';
@@ -282,6 +390,7 @@ class MBP {
             .then(data => {
               data.text().then(htmlString => {
                 document.getElementById('overlay').appendChild(document.createRange().createContextualFragment(htmlString));
+                resolve();
                 setTimeout(displayModal.bind(this), 50);
             })
             .catch(reject);
