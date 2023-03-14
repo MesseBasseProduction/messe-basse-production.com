@@ -159,7 +159,6 @@ class MBP {
   
   _buildPhotoSubpage(e) {
     this._buildSubpage(e, 'photo').then(() => {
-      /*
       // Update expo thumbnail on mouse position (converted in width %)
       const _updateExpoThumb = function(e) {
         const bRect = this.getBoundingClientRect();
@@ -169,15 +168,14 @@ class MBP {
         }
         this.children[this.children.length - Math.floor(percentage / 20) - 1].style.opacity = 1;
       };
-      const imgWrapper1 = document.getElementById('expo-1-img-wrapper');
-      const imgWrapper2 = document.getElementById('expo-2-img-wrapper');
-      imgWrapper1.addEventListener('mousemove', _updateExpoThumb);
-      imgWrapper2.addEventListener('mousemove', _updateExpoThumb);
       // Expo click listeners
+      const imgWrapper1 = document.getElementById('expo-1-img-wrapper');
+      imgWrapper1.addEventListener('mousemove', _updateExpoThumb);
       document.getElementById('expo-1').addEventListener('click', this._buildExpoModal.bind(this, 1));
-      document.getElementById('expo-2').addEventListener('click', this._buildExpoModal.bind(this, 2));
+      //const imgWrapper2 = document.getElementById('expo-2-img-wrapper');
+      //imgWrapper2.addEventListener('mousemove', _updateExpoThumb);
+      //document.getElementById('expo-2').addEventListener('click', this._buildExpoModal.bind(this, 2));
       // Click listener on classical photos
-      */
       const imgs = document.getElementById('photo-grid').getElementsByTagName('IMG');
       for (let i = 0; i < imgs.length; ++i) {
         imgs[i].addEventListener('click', () => {
@@ -218,12 +216,13 @@ class MBP {
       let size = 'a3';
       let type = 'paper';
       let frame = 'no';
+      let price = 0;
 
       document.getElementById('expo-title').innerHTML = expoData.title;
       document.getElementById('expo-author').innerHTML = expoData.author;
 
       const _updatePrice = () => {
-        const price = parseInt(Data.prices.photo[type][size]) + parseInt(Data.prices.photo.frame[frame]) + parseInt(Data.prices.photo.postal[size]);
+        price = parseInt(Data.prices.photo[type][size]) + parseInt(Data.prices.photo.frame[size][frame]) + parseInt(Data.prices.photo.postal[size]);
         document.getElementById('order-price').innerHTML = `${price}€`;
       };
 
@@ -240,16 +239,16 @@ class MBP {
       };
 
       const _updateSize = clicked => {
-        document.getElementById('frame-size').children[0].classList.remove('selected');
         document.getElementById('frame-size').children[1].classList.remove('selected');
+        document.getElementById('frame-size').children[2].classList.remove('selected');
         document.getElementById('frame-size').children[clicked].classList.add('selected');
         size = document.getElementById('frame-size').children[clicked].dataset.size;
         _updatePrice();
       };
 
       const _updateType = clicked => {
-        document.getElementById('print-type').children[0].classList.remove('selected');
         document.getElementById('print-type').children[1].classList.remove('selected');
+        document.getElementById('print-type').children[2].classList.remove('selected');
         document.getElementById('print-type').children[clicked].classList.add('selected');
         type = document.getElementById('print-type').children[clicked].dataset.type;
         _updatePrice();
@@ -273,13 +272,13 @@ class MBP {
       document.getElementById('photo-title').innerHTML = expoData.photos[0].title;
       document.getElementById('photo-date').innerHTML = expoData.photos[0].date;
       // Size callback
-      document.getElementById('frame-size').children[0].addEventListener('click', _updateSize.bind(this, 0));
       document.getElementById('frame-size').children[1].addEventListener('click', _updateSize.bind(this, 1));
+      document.getElementById('frame-size').children[2].addEventListener('click', _updateSize.bind(this, 2));
       // Type callback
-      document.getElementById('print-type').children[0].addEventListener('click', _updateType.bind(this, 0));
       document.getElementById('print-type').children[1].addEventListener('click', _updateType.bind(this, 1));
+      document.getElementById('print-type').children[2].addEventListener('click', _updateType.bind(this, 2));
       // Frame callback
-      for (let i = 0; i < frameWrapper.children.length; ++i) {
+      for (let i = 1; i < frameWrapper.children.length; ++i) {
         frameWrapper.children[i].addEventListener('click', _updateFrame.bind(this, i));
       }      
       // Margin input callback
@@ -290,6 +289,13 @@ class MBP {
         } else {
           document.getElementById('selected-photo').style.padding = 0;
           document.getElementById('selected-photo').style.height = '100%';
+        }
+      });
+      document.getElementById('place-order').addEventListener('click', (e) => {
+        if (this._lang === 'fr') {
+          window.open(`mailto:contact@messe-basse-production.com?subject=Commander un tirage de ${expoData.author}&body=Bonjour, je souhaite commander un tirage de ${expoData.author}, extrait de son exposition ${expoData.title}. La photo, ${expoData.photos[selectedIndex].title} (${expoData.photos[selectedIndex].date}) est à imprimer en ${size}, sur support ${type}. Le choix du cadre est ${frame}, et ${document.getElementById('print-margin').checked ? 'avec' : 'sans'} marges.\nCe tirage reviens à ${price}€, frais postaux inclus pour la France. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
+        } else {
+          window.open(`mailto:contact@messe-basse-production.com?subject=Order an album of ${e.target.dataset.title}&body=<i>Please tell us if you want to take the regular or the signed release. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!</i>`, '_blank');
         }
       });
       // Update prices

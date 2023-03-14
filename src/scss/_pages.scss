@@ -293,10 +293,27 @@ main.creation {
       margin: 2rem 0;
     }
 
+    a {
+      color: inherit;
+      display: inline-block;
+      font-size: inherit;
+      margin: inherit;
+      text-decoration: none;
+
+      transition: color .2s;
+
+      &:active,
+      &:focus,
+      &:hover {
+        color: #56d45b;
+      }					
+    }
+
     .expo-grid {
       align-content: center;
+      align-items: center;
       display: grid;
-      grid-template-columns: repeat(auto-fill, calc(min(60rem, 90vw)));
+      grid-template-columns: repeat(auto-fit, calc(min(60rem, 90vw)));
       justify-content: center;
       
       .artist {
@@ -362,22 +379,6 @@ main.creation {
         p {
           font-size: 1.2rem;
           margin-top: 1rem;
-        }
-
-        a {
-          color: inherit;
-          display: inline-block;
-          font-size: inherit;
-          margin: inherit;
-          text-decoration: none;
-
-          transition: color .2s;
-
-          &:active,
-          &:focus,
-          &:hover {
-            color: #56d45b;
-          }					
         }
       }
     }

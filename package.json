@@ -7,41 +7,40 @@
   "scripts": {
     "build": "webpack --config webpack/webpack.prod.js",
     "watch": "webpack --watch --config webpack/webpack.dev.js",
-    "server": "http-server -p 1337 -c-1 -o index.html",
-    "beforecommit": "npm run test && npm run doc && npm run build"
+    "server": "http-server -p 1337 -c-1 -o index.html"
   },
-  "homepage": "https://github.com/ArthurBeaulieu/messe-basse-production.com/README.md",
+  "homepage": "https://github.com/MesseBasseProduction/messe-basse-production.com/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArthurBeaulieu/messe-basse-production.com.git"
+    "url": "git+https://github.com/MesseBasseProduction/messe-basse-production.com.git"
   },
   "bugs": {
-    "url": "https://github.com/ArthurBeaulieu/messe-basse-production.com/issues"
+    "url": "https://github.com/MesseBasseProduction/messe-basse-production.com/issues"
   },
   "author": "ArthurBeaulieu",
   "license": "GPL-3.0",
   "devDependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
     "babel-loader": "^9.1.2",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.7.3",
-    "cssnano": "^5.1.14",
-    "eslint": "^8.33.0",
-    "eslint-webpack-plugin": "^3.2.0",
+    "cssnano": "^5.1.15",
+    "eslint": "^8.36.0",
+    "eslint-webpack-plugin": "^4.0.0",
     "file-loader": "^6.2.0",
     "http-server": "^14.1.1",
-    "mini-css-extract-plugin": "^2.7.2",
+    "mini-css-extract-plugin": "^2.7.3",
     "node-sass": "^8.0.0",
     "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
     "postcss-loader": "^7.0.2",
     "postcss-preset-env": "^8.0.1",
     "sass-loader": "^13.2.0",
-    "stylelint": "^14.16.1",
-    "stylelint-webpack-plugin": "^3.3.0",
+    "stylelint": "^15.2.0",
+    "stylelint-webpack-plugin": "^4.1.0",
     "url-loader": "^4.1.1",
-    "webpack": "^5.75.0",
+    "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1",
     "webpack-merge": "^5.8.0"
   }

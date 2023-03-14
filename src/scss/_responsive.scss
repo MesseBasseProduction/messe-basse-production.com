@@ -97,6 +97,19 @@
     width: 95%;
   }
 
+  .modal.expo {
+    overflow-y: auto;
+
+    .photo-editor {
+      flex-direction: column;
+
+      .photo-wrapper,
+      .editor {
+        width: 100%;
+      }
+    }
+  }
+
   body.links {
     main {
       .link-wrapper {
