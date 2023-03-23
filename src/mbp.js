@@ -88,7 +88,7 @@ class MBP {
         this.evts.addEvent('click', document.getElementById('music-subpage'), this._buildMusicSubpage, this);
         this.evts.addEvent('click', document.getElementById('video-subpage'), this._buildVideoSubpage, this);
         this.evts.addEvent('click', document.getElementById('photo-subpage'), this._buildPhotoSubpage, this);
-        this.evts.addEvent('click', document.getElementById('book-subpage'), this._buildBookSubpage, this);
+        //this.evts.addEvent('click', document.getElementById('book-subpage'), this._buildBookSubpage, this);
         this.evts.addEvent('click', document.getElementById('software-subpage'), this._buildSoftwareSubpage, this);
         resolve();
       });
