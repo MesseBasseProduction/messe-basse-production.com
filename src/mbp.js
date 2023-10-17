@@ -194,10 +194,18 @@ class MBP {
 
   _buildSoftwareSubpage(e) {
     this._buildSubpage(e, 'software').then(() => {
-      const divs = document.getElementById('band-website-grid').children;
-      for (let i = 0; i < divs.length; ++i) {
-        divs[i].addEventListener('click', () => {
-          window.open(divs[i].dataset.url, '_blank', 'noopener, noreferrer');
+      // MBP websites
+      const mbpSites = document.getElementById('mbp-website-grid').children;
+      for (let i = 0; i < mbpSites.length; ++i) {
+        mbpSites[i].addEventListener('click', () => {
+          window.open(mbpSites[i].dataset.url, '_blank', 'noopener, noreferrer');
+        });
+      }
+      // Artists websites
+      const bandSites = document.getElementById('band-website-grid').children;
+      for (let i = 0; i < bandSites.length; ++i) {
+        bandSites[i].addEventListener('click', () => {
+          window.open(bandSites[i].dataset.url, '_blank', 'noopener, noreferrer');
         });
       }
     });     

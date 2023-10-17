@@ -391,13 +391,13 @@ main.creation {
       margin: 2rem 0;
     }
     
-    .band-website-grid {
+    .website-grid {
       align-content: center;
       display: grid;
       grid-template-columns: repeat(auto-fill, calc(min(50rem, 90vw)));
       justify-content: center;
 
-      .band-website {
+      .website {
         cursor: pointer;
         padding: 1rem;
 
@@ -424,6 +424,10 @@ main.creation {
           &:hover {
             color: #56d45b;
           }           
+        }
+
+        p {
+          font-size: 1.4rem;
         }
       }
     }
