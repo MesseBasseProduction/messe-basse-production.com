@@ -447,16 +447,17 @@ main.merch {
       margin-bottom: 2rem;
     }
 
-    .music-merch {
+    .merch-collection {
       align-content: center;
       display: grid;
       grid-gap: 5rem;
       grid-template-columns: repeat(auto-fit, calc(min(40rem, 90vw)));
       justify-content: center;
+      margin-bottom: 2rem;
       width: 100%;
     }
 
-    .merch-disc {
+    .merch-item {
       background-color: rgba(95, 95, 95, .3);
       border-radius: 1.5rem;
       box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);

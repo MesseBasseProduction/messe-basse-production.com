@@ -98,15 +98,24 @@ class MBP {
 
   _buildMerchPage() {
     const order = e => {
-      if (this._lang === 'fr') {
-        window.open(`mailto:contact@messe-basse-production.com?subject=Commander un album de ${e.target.dataset.title}&body=<i>Dites-nous si vous voulez la version standard ou la version signée. Nous reviendrons vers vous au plus vite pour les formalités d'envoi. À fort vite!</i>`, '_blank');
+      if (e.target.id === 'order-porwerplant') {
+        if (this._lang === 'fr') {
+          window.open(`mailto:contact@messe-basse-production.com?subject=Commander un T-Shirt ${e.target.dataset.title}&body=Je souhaite commander un T-Shirt taille M "Power Plant par Guillaume Crantz". Nous allons revenir vers vous au plus vite pour les formalités d'envoi. À fort vite!`, '');
+        } else {
+          window.open(`mailto:contact@messe-basse-production.com?subject=Order a ${e.target.dataset.title} T-Shirt&body=I want to order a "Power Plant by Guillauime Crantz" T-Shirt, M size. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!`, '');
+        }
       } else {
-        window.open(`mailto:contact@messe-basse-production.com?subject=Order an album of ${e.target.dataset.title}&body=<i>Please tell us if you want to take the regular or the signed release. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!</i>`, '_blank');
+        if (this._lang === 'fr') {
+          window.open(`mailto:contact@messe-basse-production.com?subject=Commander un album de ${e.target.dataset.title}&body=Dites-nous si vous voulez la version standard ou la version signée. Nous allons revenir vers vous au plus vite pour les formalités d'envoi. À fort vite!`, '');
+        } else {
+          window.open(`mailto:contact@messe-basse-production.com?subject=Order an album of ${e.target.dataset.title}&body=Please tell us if you want to take the regular or the signed release. We'll get in touch with you as soon as possible for postal formalities. Bye bye handsome!`, '');
+        }
       }
     };
 
     return new Promise(resolve => {
       this._buildPage('merch').then(() => {
+        this.evts.addEvent('click', document.getElementById('order-powerplant'), order.bind(this), this);
         this.evts.addEvent('click', document.getElementById('order-dystopie'), order.bind(this), this);
         this.evts.addEvent('click', document.getElementById('order-etica'), order.bind(this), this);
         resolve();
