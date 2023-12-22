@@ -23,6 +23,7 @@ class MBP {
   _updateNavLang() {
     if (this._lang !== 'fr') {
       document.getElementById('link-home').innerHTML = 'Home';
+      document.getElementById('link-events').innerHTML = 'Events';
     }
   }
 
@@ -53,12 +54,14 @@ class MBP {
       document.getElementById('navigation').style.opacity = 1;
       setTimeout(() => document.getElementById('link-home').style.animation = 'drop-nav-link 1.8s forwards', 500);
       setTimeout(() => document.getElementById('link-creation').style.animation = 'drop-nav-link 1.7s forwards', 750);
-      setTimeout(() => document.getElementById('link-merch').style.animation = 'drop-nav-link 1.6s forwards', 1000);
-      setTimeout(() => document.getElementById('link-contact').style.animation = 'drop-nav-link 1.5s forwards', 1250);
+      setTimeout(() => document.getElementById('link-events').style.animation = 'drop-nav-link 1.6s forwards', 1000);
+      setTimeout(() => document.getElementById('link-merch').style.animation = 'drop-nav-link 1.6s forwards', 1250);
+      setTimeout(() => document.getElementById('link-contact').style.animation = 'drop-nav-link 1.5s forwards', 1500);
       setTimeout(() => document.getElementById('socials').style.opacity = 1, 2250);
       // Subscribe to click events on navigation bar
       document.getElementById('link-home').addEventListener('click', this._buildHomePage.bind(this));
       document.getElementById('link-creation').addEventListener('click', this._buildCreationPage.bind(this));
+      document.getElementById('link-events').addEventListener('click', this._buildEventsPage.bind(this));
       document.getElementById('link-merch').addEventListener('click', this._buildMerchPage.bind(this));
       document.getElementById('link-contact').addEventListener('click', this._buildContactPage.bind(this));
       // Resolve (fetch homepage template) after animation is performed
@@ -90,6 +93,15 @@ class MBP {
         this.evts.addEvent('click', document.getElementById('photo-subpage'), this._buildPhotoSubpage, this);
         //this.evts.addEvent('click', document.getElementById('book-subpage'), this._buildBookSubpage, this);
         this.evts.addEvent('click', document.getElementById('software-subpage'), this._buildSoftwareSubpage, this);
+        resolve();
+      });
+    });
+  }
+
+
+  _buildEventsPage() {
+    return new Promise(resolve => {
+      this._buildPage('events').then(() => {
         resolve();
       });
     });

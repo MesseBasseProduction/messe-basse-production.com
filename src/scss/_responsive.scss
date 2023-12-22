@@ -1,12 +1,22 @@
+@media (max-width: 1258px) {
+  nav.site-nav {
+    .socials {
+      display: none;
+    }
+  }
+
+  main.events {
+    section {
+      padding: 3rem 10%;
+    }
+  }
+}
+
 @media (max-width: 1000px) {
   nav.site-nav {
     a {
       font-size: 1.4rem;
       padding: 0 .5rem;
-    }
-
-    .socials {
-      display: none;
     }
   }
 
@@ -79,6 +89,12 @@
     }
   }
 
+  main.events {
+    section {
+      padding: 3rem 5%;
+    }
+  }
+
   main.merch {
     section {
       padding: 3rem 3rem 3rem 1rem;
@@ -132,6 +148,22 @@
           }
         }
       }			
+    }
+  }
+}
+
+@media (max-width: 720px) {
+  main.events {
+    section {
+      .event {
+        grid-template-columns: 1fr;
+
+        .content {
+          p {
+            margin: 2rem 0;
+          }
+        }
+      }
     }
   }
 }
