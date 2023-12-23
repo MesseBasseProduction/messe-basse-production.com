@@ -6,7 +6,7 @@ class MBP {
 
 
   constructor() {
-    this._lang = 'fr'/* (navigator.language.substring(0, 2) === 'fr') ? 'fr' : 'en'*/;
+    this._lang = (navigator.language.substring(0, 2) === 'fr') ? 'fr' : 'en';
     this._selectedPage = 'home';
     this._selectedSubpage = 'music';
     this._scrollBar = null;
