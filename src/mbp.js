@@ -6,7 +6,7 @@ class MBP {
 
 
   constructor() {
-    this._lang = (navigator.language.substring(0, 2) === 'fr') ? 'fr' : 'en';
+    this._lang = 'fr'/* (navigator.language.substring(0, 2) === 'fr') ? 'fr' : 'en'*/;
     this._selectedPage = 'home';
     this._selectedSubpage = 'music';
     this._scrollBar = null;
@@ -52,11 +52,26 @@ class MBP {
     return new Promise(resolve => {			
       // Launch navigation items animation (descending from top screen)
       document.getElementById('navigation').style.opacity = 1;
-      setTimeout(() => document.getElementById('link-home').style.animation = 'drop-nav-link 1.8s forwards', 500);
-      setTimeout(() => document.getElementById('link-creation').style.animation = 'drop-nav-link 1.7s forwards', 750);
-      setTimeout(() => document.getElementById('link-events').style.animation = 'drop-nav-link 1.6s forwards', 1000);
-      setTimeout(() => document.getElementById('link-merch').style.animation = 'drop-nav-link 1.6s forwards', 1250);
-      setTimeout(() => document.getElementById('link-contact').style.animation = 'drop-nav-link 1.5s forwards', 1500);
+      setTimeout(() => {
+        document.getElementById('link-home').style.animation = 'drop-nav-link 1.8s forwards';
+        document.getElementById('link-home').style.opacity = 1;
+      }, 500);
+      setTimeout(() => {
+        document.getElementById('link-creation').style.animation = 'drop-nav-link 1.7s forwards';
+        document.getElementById('link-creation').style.opacity = 1;
+      }, 750);
+      setTimeout(() => {
+        document.getElementById('link-events').style.animation = 'drop-nav-link 1.6s forwards';
+        document.getElementById('link-events').style.opacity = 1;
+      }, 1000);
+      setTimeout(() => {
+        document.getElementById('link-merch').style.animation = 'drop-nav-link 1.6s forwards';
+        document.getElementById('link-merch').style.opacity = 1;
+      }, 1250);
+      setTimeout(() => {
+        document.getElementById('link-contact').style.animation = 'drop-nav-link 1.5s forwards';
+        document.getElementById('link-contact').style.opacity = 1;
+      }, 1500);
       setTimeout(() => document.getElementById('socials').style.opacity = 1, 2250);
       // Subscribe to click events on navigation bar
       document.getElementById('link-home').addEventListener('click', this._buildHomePage.bind(this));
@@ -381,7 +396,8 @@ class MBP {
             // Save scene scrollbar only if not a subpage being built
             if (className !== 'subpage') {
               this._scrollBar = new window.ScrollBar({
-                target: document.getElementById(target)
+                target: document.getElementById(target),
+                minSize: 90
               });
             }
             setTimeout(resolve, 600);

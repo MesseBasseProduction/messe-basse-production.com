@@ -605,6 +605,10 @@
       // ScrollBar Js and CSS must be previously loaded
       window.scrolls = [];
       window.scrolls.push(new window.ScrollBar({
+        target: document.querySelector('#dvpe-albums'),
+        horizontal: true
+      }));
+      window.scrolls.push(new window.ScrollBar({
         target: document.querySelector('#eliot-albums'),
         horizontal: true
       }));

@@ -9,7 +9,7 @@ main.home {
     height: 100%;
     justify-content: center;
     padding: 3rem;
-    width: 100%;
+    width: calc(100% - var(--default-scroll-size));
 
     img {
       margin: 5% 0;
@@ -84,6 +84,7 @@ main.creation {
     margin-bottom: 3rem;
     padding: 0 15%;
     text-align: center;
+    width: calc(100% - var(--default-scroll-size));
 
     p.description {
       font-size: 1.3rem;
@@ -459,6 +460,7 @@ main.events {
     padding: 3rem 20%;
     margin-bottom: 3rem;
     text-align: center;
+    width: calc(100% - var(--default-scroll-size));
   }
 
   .event {
@@ -540,6 +542,9 @@ main.merch {
 
   section {
     padding: 3rem 15%;
+    margin-bottom: 3rem;
+    text-align: center;
+    width: calc(100% - var(--default-scroll-size));
 
     h1 {
       font-family: 'Catamaran', sans-serif;
@@ -604,6 +609,7 @@ main.contact {
   section {
     padding: 3rem 15%;
     margin-bottom: 3rem;
+    width: calc(100% - var(--default-scroll-size));
 
     p:last-child {
       margin-bottom: 0;

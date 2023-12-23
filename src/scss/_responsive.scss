@@ -27,6 +27,8 @@
   }
 
   main.creation {
+    padding-top: 0;
+
     .subpage-nav {
       bottom: inherit;
       flex-direction: inherit;
@@ -42,9 +44,12 @@
       }
     }
 
-    .music {
-      padding: 0 3rem 0 1rem;
+    section {
+      padding: 3rem 2rem;
+      margin-bottom: 0;
+    }
 
+    .music {
       .band {
         display: flex;
         flex-direction: column;
@@ -77,27 +82,15 @@
     }
 
     .video {
-      padding: 0 3rem 0 1rem;
-
       .video-grid .embed-video h2 {
         font-size: 1.4rem;
       }
-    }
-
-    .photo {
-      padding: 0 3rem 0 1rem;
     }
   }
 
   main.events {
     section {
       padding: 3rem 5%;
-    }
-  }
-
-  main.merch {
-    section {
-      padding: 3rem 3rem 3rem 1rem;
     }
   }
 
@@ -169,6 +162,15 @@
 }
 
 @media (max-width: 512px) {
+  nav.site-nav {
+    flex-wrap: wrap;
+
+    a {
+      opacity: 0;
+      transition: opacity .5s;
+    }
+  }
+
   main.creation {
     .music {
       .band {
@@ -191,8 +193,8 @@
 }
 
 @media (max-height: 740px) {
-    /* Typically for screen with zoom factor */
-    main.home {
+  /* Typically for screen with zoom factor */
+  main.home {
     section {
       display: block;
 
