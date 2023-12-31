@@ -6,7 +6,7 @@ const loaders = require('./loaders');
 const plugins = require('./plugins');
 
 module.exports = {
-  entry: ['./src/mbp.js'],
+  entry: ['./src/js/MBP.js'],
   module: {
     rules: [
       loaders.JSLoader,

@@ -1,0 +1,1174 @@
+{
+  "music": {
+    "artists": [
+      {
+        "name": "DVPE",
+        "genres": ["Techno"],
+        "image": "/assets/img/band/dvpe.webp",
+        "mainLink": "/tree/dvpe.html",
+        "releases": [
+          "MBPSP034"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "DVPE complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de DVPE"
+          }
+        ]
+      }, {
+        "name": "La Baroquerie du Val de Bièvre",
+        "genres": ["Baroque", "Renaissance"],
+        "image": "/assets/img/band/bvb.webp",
+        "mainLink": "/tree/bvb.html",
+        "releases": [
+          "MBPSP033",
+          "MBPLP013",
+          "MBPSP027",
+          "MBPSP005",
+          "MBPSP004",
+          "MBPSP003",
+          "MBPSP002"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }, {
+        "name": "Siré Camara",
+        "genres": ["Reggae", "World"],
+        "image": "/assets/img/band/sire.webp",
+        "mainLink": "/tree/sire.html",
+        "releases": [
+          "MBPSP032",
+          "MBPSP031",
+          "MBPSP030",
+          "MBPSP029",
+          "MBPSP023",
+          "MBPSP022",
+          "MBPSP021",
+          "MBPSP020",
+          "MBPSP019",
+          "MBPSP018",
+          "MBPSP015",
+          "MBPSP014",
+          "MBPSP012"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }, {
+        "name": "Interfluv",
+        "genres": ["Bass House", "Drum & Bass"],
+        "image": "/assets/img/band/interfluv.webp",
+        "mainLink": "/tree/interfluv.html",
+        "releases": [
+          "MBPMX002",
+          "MBPMX001"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }, {
+        "name": "Lionel Baudet",
+        "genres": ["Experimental", "Jazz Fusion"],
+        "image": "/assets/img/band/lionel.webp",
+        "mainLink": "/tree/lionelbaudet.html",
+        "releases": [
+          "MBPLP014",
+          "MBPSP028",
+          "MBPLP012",
+          "MBPLP011",
+          "MBPLP010"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }, {
+        "name": "Five O'Clock Jazz Quartet",
+        "genres": ["Jazz", "Jazz Vocal"],
+        "image": "/assets/img/band/five.webp",
+        "mainLink": "/tree/five.html",
+        "releases": [
+          "MBPSP026",
+          "MBPSP025",
+          "MBPSP024",
+          "MBPSP017",
+          "MBPSP016",
+          "MBPSP013"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }, {
+        "name": "NAC",
+        "genres": ["Progressive Rock", "Hard Rock"],
+        "image": "/assets/img/band/nac.webp",
+        "mainLink": "/tree/nac.html",
+        "releases": [
+          "MBPLP007",
+          "MBPLP001",
+          "MBPSP024",
+          "MBPSP007",
+          "MBPSP006",
+          "MBPSP011",
+          "MBPSP011",
+          "MBPSP010",
+          "MBPLP008"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }, {
+        "name": "The Forge",
+        "genres": ["Progressive Rock", "Jazz Fusion"],
+        "image": "/assets/img/band/theforge.webp",
+        "mainLink": "/tree/theforge.html",
+        "releases": [
+          "MBPSP008",
+          "MBPLP005",
+          "MBPLP004",
+          "MBPLP006",
+          "MBPLP003",
+          "MBPLP002",
+          "MBPLP009",
+          "MBPSP009"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": [
+          {
+            "lang": "en",
+            "text": "BvB complete biography"
+          }, {
+            "lang": "fr",
+            "text": "Biographie complete de BvB"
+          }
+        ]      
+      }
+    ],
+    "releases": {
+      "MBPLP001": {
+        "name": "Dystopie",
+        "artist": ["NAC"],
+        "date": "2021-11-09",
+        "image": "/assets/img/music/MBPLP001.webp",
+        "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1"
+          }
+        ]
+      },
+      "MBPLP002": {
+        "name": "Dur D'Être Apache...",
+        "artist": ["Le Forge"],
+        "date": "2021-10-04",
+        "image": "/assets/img/music/MBPLP002.webp",
+        "mainLink": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1"
+          }
+        ]
+      },
+      "MBPLP003": {
+        "name": "Small Pox",
+        "artist": ["Small Pox"],
+        "date": "2021-10-05",
+        "image": "/assets/img/music/MBPLP003.webp",
+        "mainLink": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1"
+          }
+        ]
+      },
+      "MBPLP004": {
+        "name": "The Forge",
+        "artist": ["The Forge"],
+        "date": "2021-10-06",
+        "image": "/assets/img/music/MBPLP004.webp",
+        "mainLink": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1"
+          }
+        ]
+      },
+      "MBPLP005": {
+        "name": "Etica Nikomak",
+        "artist": ["The Forge"],
+        "date": "2021-10-07",
+        "image": "/assets/img/music/MBPLP005.webp",
+        "mainLink": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1"
+          }
+        ]
+      },
+      "MBPLP006": {
+        "name": "Live...!",
+        "artist": ["Small Pox"],
+        "date": "2021-11-25",
+        "image": "/assets/img/music/MBPLP006.webp",
+        "mainLink": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1"
+          }
+        ]
+      },
+      "MBPLP007": {
+        "name": "Dystopie Live",
+        "artist": ["NAC"],
+        "date": "2021-12-06",
+        "image": "/assets/img/music/MBPLP007.webp",
+        "mainLink": "https://www.youtube.com/watch?v=6Rf4fiKfZiY&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=8",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=6Rf4fiKfZiY&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=8"
+          }
+        ]
+      },
+      "MBPLP008": {
+        "name": "NAC",
+        "artist": ["NAC"],
+        "date": "2022-04-04",
+        "image": "/assets/img/music/MBPLP008.webp",
+        "mainLink": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2&index=1"
+          }
+        ]
+      },
+      "MBPLP009": {
+        "name": "Live à Gennevilliers",
+        "artist": ["Macadam Forge"],
+        "date": "2022-05-06",
+        "image": "/assets/img/music/MBPLP009.webp",
+        "mainLink": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1"
+          }
+        ]
+      },
+      "MBPLP010": {
+        "name": "The Best Of",
+        "artist": ["Lionel Baudet"],
+        "date": "2022-10-10",
+        "image": "/assets/img/music/MBPLP010.webp",
+        "mainLink": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT&index=1"
+          }
+        ]
+      },
+      "MBPLP011": {
+        "name": "Eliot Jazz Band",
+        "artist": ["Lionel Baudet"],
+        "date": "2022-11-01",
+        "image": "/assets/img/music/MBPLP011.webp",
+        "mainLink": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s&index=1"
+          }
+        ]
+      },
+      "MBPLP012": {
+        "name": "Eliot Jazz Band 2",
+        "artist": ["Lionel Baudet"],
+        "date": "2022-11-20",
+        "image": "/assets/img/music/MBPLP012.webp",
+        "mainLink": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk&index=1"
+          }
+        ]
+      },
+      "MBPLP013": {
+        "name": "Concert: Œuvres de Corelli",
+        "artist": ["Guillaume Beaulieu", "Julien Faure"],
+        "date": "2023-03-22",
+        "image": "/assets/img/music/MBPLP013.webp",
+        "mainLink": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1"
+          }
+        ]
+      },
+      "MBPLP014": {
+        "name": "La Parade Magnifique",
+        "artist": ["Lionel Baudet"],
+        "date": "2023-10-10",
+        "image": "/assets/img/music/MBPLP014.webp",
+        "mainLink": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1"
+          }
+        ]
+      },
+      "MBPMX001": {
+        "name": "REC022.WAV",
+        "artist": ["Interfluv"],
+        "date": "2023-10-07",
+        "image": "/assets/img/music/MBPMX001.webp",
+        "mainLink": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ&index=1"
+          }
+        ]
+      },
+      "MBPMX002": {
+        "name": "REC012.WAV",
+        "artist": ["Interfluv"],
+        "date": "2023-10-28",
+        "image": "/assets/img/music/MBPMX002.webp",
+        "mainLink": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1"
+          }
+        ]
+      },
+      "MBPSP002": {
+        "name": "Valentini: Concerto n°11 Op.7 (Largo)",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2021-04-11",
+        "image": "/assets/img/music/MBPSP002.webp",
+        "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=9oYcU57uii0&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=1"
+          }
+        ]
+      },
+      "MBPSP003": {
+        "name": "Matteis: Fuga A Due Corde",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2021-04-25",
+        "image": "/assets/img/music/MBPSP003.webp",
+        "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=2",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=2"
+          }
+        ]
+      },
+      "MBPSP004": {
+        "name": "Dall'Abaco: Cello Cappricio n°6",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2021-05-03",
+        "image": "/assets/img/music/MBPSP004.webp",
+        "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=3",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=3"
+          }
+        ]
+      },
+      "MBPSP005": {
+        "name": "Rameau: Extraits Des Indes Galantes",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2021-06-14",
+        "image": "/assets/img/music/MBPSP005.webp",
+        "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=4",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=4"
+          }
+        ]
+      },
+      "MBPSP006": {
+        "name": "Tramp",
+        "artist": ["NAC"],
+        "date": "2021-10-15",
+        "image": "/assets/img/music/MBPSP006.webp",
+        "mainLink": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=6",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=6"
+          }
+        ]
+      },
+      "MBPSP007": {
+        "name": "Crad' Bar Boogie",
+        "artist": ["NAC"],
+        "date": "2021-10-31",
+        "image": "/assets/img/music/MBPSP007.webp",
+        "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1"
+          }
+        ]
+      },
+      "MBPSP008": {
+        "name": "Rock'n'Roll",
+        "artist": ["The Forge"],
+        "date": "2021-11-15",
+        "image": "/assets/img/music/MBPSP008.webp",
+        "mainLink": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7&index=1"
+          }
+        ]
+      },
+      "MBPSP009": {
+        "name": "Loulou / Montpar' Blues",
+        "artist": ["Macadam Forge"],
+        "date": "2021-11-17",
+        "image": "/assets/img/music/MBPSP009.webp",
+        "mainLink": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1"
+          }
+        ]
+      },
+      "MBPSP010": {
+        "name": "NAC Featuring Tay",
+        "artist": ["NAC"],
+        "date": "2022-02-02",
+        "image": "/assets/img/music/MBPSP010.webp",
+        "mainLink": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl&index=1"
+          }
+        ]
+      },
+      "MBPSP011": {
+        "name": "Nature Humaine Origins",
+        "artist": ["NAC"],
+        "date": "2022-03-03",
+        "image": "/assets/img/music/MBPSP011.webp",
+        "mainLink": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM&index=1"
+          }
+        ]
+      },
+      "MBPSP012": {
+        "name": "Stolen Truth / Vérité Volée",
+        "artist": ["Siré Camara"],
+        "date": "2022-05-19",
+        "image": "/assets/img/music/MBPSP012.webp",
+        "mainLink": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
+          }
+        ]
+      },
+      "MBPSP013": {
+        "name": "I Don't Know Enough About You",
+        "artist": ["Five O'Clock Jazz Quartet"],
+        "date": "2022-06-10",
+        "image": "/assets/img/music/MBPSP013.webp",
+        "mainLink": "https://www.youtube.com/watch?v=pDGgZ-rn6Q4&list=PLBTeUIcRBAxN_0FdRYrdNvXLxhN6XJkqL&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=pDGgZ-rn6Q4&list=PLBTeUIcRBAxN_0FdRYrdNvXLxhN6XJkqL&index=1"
+          }
+        ]
+      },
+      "MBPSP014": {
+        "name": "Mets Ton Clignotant",
+        "artist": ["Siré Camara"],
+        "date": "2022-06-12",
+        "image": "/assets/img/music/MBPSP014.webp",
+        "mainLink": "https://www.youtube.com/watch?v=u0UIpTazzLM&list=PLFcJE-trJj_ZTJT0E6Fx0DDUipJS_iZZ0&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=u0UIpTazzLM&list=PLFcJE-trJj_ZTJT0E6Fx0DDUipJS_iZZ0&index=1"
+          }
+        ]
+      },
+      "MBPSP015": {
+        "name": "Nous Sommes le Mali",
+        "artist": ["Siré Camara"],
+        "date": "2022-06-15",
+        "image": "/assets/img/music/MBPSP015.webp",
+        "mainLink": "https://www.youtube.com/watch?v=GiFEzXR2DDg&list=PLFcJE-trJj_aarWyrqFY70AmKnsGODvZd&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=GiFEzXR2DDg&list=PLFcJE-trJj_aarWyrqFY70AmKnsGODvZd&index=1"
+          }
+        ]
+      },
+      "MBPSP016": {
+        "name": "L.O.V.E",
+        "artist": ["Five O'Clock Jazz Quartet"],
+        "date": "2022-06-17",
+        "image": "/assets/img/music/MBPSP016.webp",
+        "mainLink": "https://www.youtube.com/watch?v=P5BRYJB6d80&list=PLBTeUIcRBAxM9OtwkMkx0Oq93dAdwJ8xU&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=P5BRYJB6d80&list=PLBTeUIcRBAxM9OtwkMkx0Oq93dAdwJ8xU&index=1"
+          }
+        ]
+      },
+      "MBPSP017": {
+        "name": "Cry Me A River",
+        "artist": ["Five O'Clock Jazz Quartet"],
+        "date": "2022-07-02",
+        "image": "/assets/img/music/MBPSP017.webp",
+        "mainLink": "https://www.youtube.com/watch?v=CeYUMy0VB3Q&list=PLBTeUIcRBAxMHlXxhG-NvUAIGknzU1R26&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=CeYUMy0VB3Q&list=PLBTeUIcRBAxMHlXxhG-NvUAIGknzU1R26&index=1"
+          }
+        ]
+      },
+      "MBPSP018": {
+        "name": "Le Fleuve Sénégal",
+        "artist": ["Siré Camara"],
+        "date": "2022-07-13",
+        "image": "/assets/img/music/MBPSP018.webp",
+        "mainLink": "https://www.youtube.com/watch?v=E8HDldLok0k&list=PLp5D05IpZHwKx9JaSU3Qmikoi9r9e1LKz&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=E8HDldLok0k&list=PLp5D05IpZHwKx9JaSU3Qmikoi9r9e1LKz&index=1"
+          }
+        ]
+      },
+      "MBPSP019": {
+        "name": "Souffrances Bafouées",
+        "artist": ["Siré Camara"],
+        "date": "2022-07-17",
+        "image": "/assets/img/music/MBPSP019.webp",
+        "mainLink": "https://www.youtube.com/watch?v=lgijmpCDcDw&list=PLp5D05IpZHwJdrJgbHAUaJiVbAGMGY2Mq&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=lgijmpCDcDw&list=PLp5D05IpZHwJdrJgbHAUaJiVbAGMGY2Mq&index=1"
+          }
+        ]
+      },
+      "MBPSP020": {
+        "name": "Yitté",
+        "artist": ["Siré Camara"],
+        "date": "2022-07-28",
+        "image": "/assets/img/music/MBPSP020.webp",
+        "mainLink": "https://www.youtube.com/watch?v=1St04LZnNss&list=PLp5D05IpZHwIOv_U7VIlz5VPejJUJRH7_&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=1St04LZnNss&list=PLp5D05IpZHwIOv_U7VIlz5VPejJUJRH7_&index=1"
+          }
+        ]
+      },
+      "MBPSP021": {
+        "name": "Diata",
+        "artist": ["Siré Camara"],
+        "date": "2022-08-17",
+        "image": "/assets/img/music/MBPSP021.webp",
+        "mainLink": "https://www.youtube.com/watch?v=hWm5-STJaFE&list=PLp5D05IpZHwJJuFrPtqfL5jeD2Md6gP0E&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=hWm5-STJaFE&list=PLp5D05IpZHwJJuFrPtqfL5jeD2Md6gP0E&index=1"
+          }
+        ]
+      },
+      "MBPSP022": {
+        "name": "Gbagbo, T'Avais Raison",
+        "artist": ["Siré Camara"],
+        "date": "2022-08-25",
+        "image": "/assets/img/music/MBPSP022.webp",
+        "mainLink": "https://www.youtube.com/watch?v=dtF_-z8cCeo&list=PLp5D05IpZHwLSs7ZTBoXSU2cXZT9rIigK&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=dtF_-z8cCeo&list=PLp5D05IpZHwLSs7ZTBoXSU2cXZT9rIigK&index=1"
+          }
+        ]
+      },
+      "MBPSP023": {
+        "name": "Sophie",
+        "artist": ["Siré Camara"],
+        "date": "2022-09-10",
+        "image": "/assets/img/music/MBPSP023.webp",
+        "mainLink": "https://www.youtube.com/watch?v=q3yO_MjhXsg&list=PLp5D05IpZHwKM08nHoLR2ayB4vGvykrd9&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=q3yO_MjhXsg&list=PLp5D05IpZHwKM08nHoLR2ayB4vGvykrd9&index=1"
+          }
+        ]
+      },
+      "MBPSP024": {
+        "name": "Golden Earrings",
+        "artist": ["Five O'Clock Jazz Quartet"],
+        "date": "2022-09-15",
+        "image": "/assets/img/music/MBPSP024.webp",
+        "mainLink": "https://www.youtube.com/watch?v=VOCa1cxx8vU&list=PLp5D05IpZHwLh1-QLxFVEgTAvaFlhgbkU&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=VOCa1cxx8vU&list=PLp5D05IpZHwLh1-QLxFVEgTAvaFlhgbkU&index=1"
+          }
+        ]
+      },
+      "MBPSP025": {
+        "name": "Something Stupid",
+        "artist": ["Five O'Clock Jazz Quartet"],
+        "date": "2022-09-30",
+        "image": "/assets/img/music/MBPSP025.webp",
+        "mainLink": "https://www.youtube.com/watch?v=xNsV-CK2jyQ&list=PLp5D05IpZHwKuOAk238jm-qX-EGjtu-yv&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=xNsV-CK2jyQ&list=PLp5D05IpZHwKuOAk238jm-qX-EGjtu-yv&index=1"
+          }
+        ]
+      },
+      "MBPSP026": {
+        "name": "Stompin' At The Savoy",
+        "artist": ["Five O'Clock Jazz Quartet"],
+        "date": "2022-10-15",
+        "image": "/assets/img/music/MBPSP026.webp",
+        "mainLink": "https://www.youtube.com/watch?v=pHpE28vlW-0&list=PLp5D05IpZHwIgZZhrndIlIHtWNtfJVS_f&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=pHpE28vlW-0&list=PLp5D05IpZHwIgZZhrndIlIHtWNtfJVS_f&index=1"
+          }
+        ]
+      },
+      "MBPSP027": {
+        "name": "Noël Corellien",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2022-12-21",
+        "image": "/assets/img/music/MBPSP027.webp",
+        "mainLink": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B&index=1"
+          }
+        ]
+      },
+      "MBPSP028": {
+        "name": "Polka Polka",
+        "artist": ["Lionel Baudet"],
+        "date": "2023-02-02",
+        "image": "/assets/img/music/MBPSP028.webp",
+        "mainLink": "https://www.youtube.com/watch?v=r4GbogKv8Uo&list=PLp5D05IpZHwI9OwqIiB18vLW3k3FrHRZg&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=r4GbogKv8Uo&list=PLp5D05IpZHwI9OwqIiB18vLW3k3FrHRZg&index=1"
+          }
+        ]
+      },
+      "MBPSP029": {
+        "name": "Guidaniaxare",
+        "artist": ["Siré Camara"],
+        "date": "2023-06-13",
+        "image": "/assets/img/music/MBPSP029.webp",
+        "mainLink": "https://www.youtube.com/watch?v=bVkwgp4G9Xg&list=PLp5D05IpZHwKXHObcJo8TwrSZwJgogLQP&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=bVkwgp4G9Xg&list=PLp5D05IpZHwKXHObcJo8TwrSZwJgogLQP&index=1"
+          }
+        ]
+      },
+      "MBPSP030": {
+        "name": "Do Mousso Joy",
+        "artist": ["Siré Camara"],
+        "date": "2023-09-18",
+        "image": "/assets/img/music/MBPSP030.webp",
+        "mainLink": "https://www.youtube.com/watch?v=4IAHLPywBmw&list=PLp5D05IpZHwJMsbquc0eGphFyIcF88Ilq&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=4IAHLPywBmw&list=PLp5D05IpZHwJMsbquc0eGphFyIcF88Ilq&index=1"
+          }
+        ]
+      },
+      "MBPSP031": {
+        "name": "Antesson Faralima",
+        "artist": ["Siré Camara"],
+        "date": "2023-10-20",
+        "image": "/assets/img/music/MBPSP031.webp",
+        "mainLink": "https://www.youtube.com/watch?v=FfQP4DgMOI8&list=PLp5D05IpZHwKHVqJhsBwzaWwpQF1IqXKQ&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=FfQP4DgMOI8&list=PLp5D05IpZHwKHVqJhsBwzaWwpQF1IqXKQ&index=1"
+          }
+        ]
+      },
+      "MBPSP032": {
+        "name": "La Divine trinité",
+        "artist": ["Siré Camara"],
+        "date": "2023-11-29",
+        "image": "/assets/img/music/MBPSP032.webp",
+        "mainLink": "https://www.youtube.com/watch?v=NB0V169kK9Y&list=PLp5D05IpZHwK8FSjwz4yjWKM-yGhuhBfS&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=NB0V169kK9Y&list=PLp5D05IpZHwK8FSjwz4yjWKM-yGhuhBfS&index=1"
+          }
+        ]
+      },
+      "MBPSP033": {
+        "name": "Gorczycki: Iesu Corona Virginum",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2023-12-12",
+        "image": "/assets/img/music/MBPSP033.webp",
+        "mainLink": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1"
+          }
+        ]
+      },
+      "MBPSP034": {
+        "name": "XLP1",
+        "artist": ["DVPE"],
+        "date": "2023-12-22",
+        "image": "/assets/img/music/MBPSP034.webp",
+        "mainLink": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1"
+          }
+        ]
+      }
+    }
+  },
+  "video": [
+    {
+      "name": "Concert: Œuvres de Corelli",
+      "artist": "La Baroquerie du Val de Bièvre",
+      "date": "2023-07-07",
+      "url": "https://tube.mycozy.space/videos/embed/9e93a17d-dece-454f-8c59-147a2cc8a8d3"
+    }, {
+      "name": "Noël Corellien: Extraits du Concerto op.6 n°8",
+      "artist": "La Baroquerie du Val de Bièvre",
+      "date": "2022-12-21",
+      "url": "https://tube.mycozy.space/videos/embed/63cd4266-59d9-4f8a-83f1-103fce6af0d7"
+    }, {
+      "name": "Mets Ton Clignotant",
+      "artist": "Siré Camara",
+      "date": "2022-06-15",
+      "url": "https://tube.mycozy.space/videos/embed/3349dbdc-bb2a-440d-88b3-43dee78ca852"
+    }, {
+      "name": "Dystopie Live @Igny",
+      "artist": "NAC",
+      "date": "2021-11-20",
+      "url": "https://tube.mycozy.space/videos/embed/5a713c21-3093-457f-be5a-1951ea6c4ab0"
+    }, {
+      "name": "Danse du grand Calumet de la paix",
+      "artist": "La Baroquerie du Val de Bièvre",
+      "date": "2021-06-07",
+      "url": "https://tube.mycozy.space/videos/embed/c3ae3793-6e84-4317-ba9c-d085e3f422c6"
+    }, {
+      "name": "Concert l'Europe Baroque @Igny",
+      "artist": "La Baroquerie du Val de Bièvre",
+      "date": "2014-04-12",
+      "url": "https://tube.mycozy.space/videos/embed/2ea55b17-198b-46be-aff4-2cc9ee4bff43"
+    }, {
+      "name": "Revival '96 @Clamart",
+      "artist": "Le Forge",
+      "date": "1996-06-29",
+      "url": "https://tube.mycozy.space/videos/embed/13217142-13d2-4808-ba6d-e12376411145"
+    }, {
+      "name": "Musique au Pluriel @Élancourt",
+      "artist": "Macadam Forge",
+      "date": "1987-05-23",
+      "url": "https://tube.mycozy.space/videos/embed/852e2be5-b8bc-412f-9c2d-28dd5429f7e3"
+    }
+  ],
+  "photo": {
+    "exposition": {
+      "artist": [
+        {
+          "title": "Amérique du Sud, 2019",
+          "photographer": "Guillaume Crantz",
+          "url": "https://www.instagram.com/lafriteestdequalite/",
+          "photos": [{
+            "title": "Sur le Fil – Pisac, Pérou",
+            "date": "21 Mai 2019",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/1/1.webp"
+          }, {
+            "title": "Tentation praline – Cordoba, Argentine",
+            "date": "8 Avril 2019",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/1/2.webp"
+          }, {
+            "title": "Ligne de front – Concón, Chili",
+            "date": "13 Avril 2019",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/1/3.webp"
+          }, {
+            "title": "Market Exchange – Valparaíso, Chili",
+            "date": "18 Juillet 2019",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/1/4.webp"
+          }, {
+            "title": "Plaisir glacé – Panama City, Panama",
+            "date": "8 Février 2019",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/1/5.webp"
+          }]
+        }, {
+          "title": "94 Roaming",
+          "photographer": "Raphaël Beekmann",
+          "url": "https://www.instagram.com/raphael.beekmann/",
+          "photos": [{
+            "title": "Photo 1",
+            "date": "20 Février 2020",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/2/1.webp"
+          }, {
+            "title": "Photo 2",
+            "date": "20 Février 2020",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/2/2.webp"
+          }, {
+            "title": "Photo 3",
+            "date": "20 Février 2020",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/2/3.webp"
+          }, {
+            "title": "Photo 4",
+            "date": "20 Février 2020",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/2/4.webp"
+          }, {
+            "title": "Photo 5",
+            "date": "20 Février 2020",
+            "margin": "20",
+            "image": "/assets/img/photo/expo/2/5.webp"
+          }]  
+        }
+      ],
+      "prices": {
+        "photo": {
+          "paper": {
+            "a4": "5",
+            "a3": "10"
+          },
+          "dibond": {
+            "a4": "30",
+            "a3": "50"
+          },
+          "frame": {
+            "a4": {
+              "no": "0",
+              "black": "11",
+              "white": "11",
+              "wood": "14"
+            },
+            "a3": {
+              "no": "0",
+              "black": "16",
+              "white": "16",
+              "wood": "18"
+            }
+          },
+          "postal": {
+            "a4": "10",
+            "a3": "15"
+          }
+        }
+      }
+    },
+    "event": [
+      {
+        "name": "David Béché",
+        "photographer": "Raphaël Beekmann",
+        "image": "/assets/img/photo/RB4.webp",
+        "url": "https://www.instagram.com/raphael.beekmann/"
+      }, {
+        "name": "Luc Boulogne",
+        "photographer": "Pascal Cosnier",
+        "image": "/assets/img/photo/PC2.webp",
+        "url": "http://pascalcosnier.fr/"
+      }, {
+        "name": "Tom Souty",
+        "photographer": "Arthur Beaulieu",
+        "image": "/assets/img/photo/AB7.webp",
+        "url": "https://www.instagram.com/a_Messmaker/"
+      }, {
+        "name": "Paul Boulogne",
+        "photographer": "Arthur Beaulieu",
+        "image": "/assets/img/photo/AB4.webp",
+        "url": "https://www.instagram.com/a_Messmaker/"
+      }, {
+        "name": "David Béché",
+        "photographer": "Raphaël Beekmann",
+        "image": "/assets/img/photo/RB2.webp",
+        "url": "https://www.instagram.com/raphael.beekmann/"
+      }, {
+        "name": "Pierre Toïgo",
+        "photographer": "Raphaël Beekmann",
+        "image": "/assets/img/photo/RB1.webp",
+        "url": "https://www.instagram.com/raphael.beekmann/"
+      }, {
+        "name": "The Forge",
+        "photographer": "Arthur Beaulieu",
+        "image": "/assets/img/photo/AB2.webp",
+        "url": "https://www.instagram.com/a_Messmaker/"
+      }, {
+        "name": "Paul Boulogne",
+        "photographer": "Pascal Cosnier",
+        "image": "/assets/img/photo/PC3.webp",
+        "url": "http://pascalcosnier.fr/"
+      }, {
+        "name": "Vincent Boulogne",
+        "photographer": "Pascal Cosnier",
+        "image": "/assets/img/photo/PC1.webp",
+        "url": "http://pascalcosnier.fr/"
+      }, {
+        "name": "Sylvain Mallet",
+        "photographer": "Guillaume Crantz",
+        "image": "/assets/img/photo/GC3.webp",
+        "url": "https://www.instagram.com/lafriteestdequalite/"
+      }, {
+        "name": "Tom Souty",
+        "photographer": "Arthur Beaulieu",
+        "image": "/assets/img/photo/AB3.webp",
+        "url": "https://www.instagram.com/a_Messmaker/"
+      }, {
+        "name": "David Béché",
+        "photographer": "Guillaume Crantz",
+        "image": "/assets/img/photo/GC1.webp",
+        "url": "https://www.instagram.com/lafriteestdequalite/"
+      }, {
+        "name": "Luc Boulogne",
+        "photographer": "Arthur Beaulieu",
+        "image": "/assets/img/photo/AB6.webp",
+        "url": "https://www.instagram.com/a_Messmaker/"
+      }, {
+        "name": "Pierre Toïgo",
+        "photographer": "Régine Dubois",
+        "image": "/assets/img/photo/RD2.webp",
+        "url": ""
+      }, {
+        "name": "Lionel Baudet",
+        "photographer": "Régine Dubois",
+        "image": "/assets/img/photo/RD4.webp",
+        "url": ""
+      }, {
+        "name": "David Béché",
+        "photographer": "Guillaume Crantz",
+        "image": "/assets/img/photo/GC5.webp",
+        "url": "https://www.instagram.com/lafriteestdequalite/"
+      }, {
+        "name": "Luc Boulogne",
+        "photographer": "Pascal Cosnier",
+        "image": "/assets/img/photo/PC5.webp",
+        "url": "http://pascalcosnier.fr/"
+      }, {
+        "name": "Arthur Beaulieu",
+        "photographer": "Guillaume Crantz",
+        "image": "/assets/img/photo/GC4.webp",
+        "url": "https://www.instagram.com/lafriteestdequalite/"
+      }, {
+        "name": "NAC",
+        "photographer": "Raphaël Beekmann",
+        "image": "/assets/img/photo/RB3.webp",
+        "url": "https://www.instagram.com/raphael.beekmann/"
+      }, {
+        "name": "Pierre Toïgo",
+        "photographer": "Guillaume Crantz",
+        "image": "/assets/img/photo/GC2.webp",
+        "url": "https://www.instagram.com/lafriteestdequalite/"
+      }, {
+        "name": "Lionel Baudet",
+        "photographer": "Régine Dubois",
+        "image": "/assets/img/photo/RD1.webp",
+        "url": ""
+      }, {
+        "name": "Frères Boulogne",
+        "photographer": "Pascal Cosnier",
+        "image": "/assets/img/photo/PC4.webp",
+        "url": "http://pascalcosnier.fr/"
+      }, {
+        "name": "Équidé Légendaire",
+        "photographer": "Raphaël Beekmann",
+        "image": "/assets/img/photo/RB5.webp",
+        "url": "https://www.instagram.com/raphael.beekmann/"
+      }, {
+        "name": "David Béché",
+        "photographer": "Régine Dubois",
+        "image": "/assets/img/photo/RD3.webp",
+        "url": ""
+      }
+    ]
+  },
+  "software": {
+    "creation": [
+      {
+        "name": "messemap.org",
+        "image": "/assets/img/soft/messemap.org.webp",
+        "url": "https://messemap.org",
+        "bio": {
+          "en": "Create your unique map poster, customize it and make it ready to be printed in a few clicks."
+        }
+      }, {
+        "name": "beercrackerz.org",
+        "image": "/assets/img/soft/beercrackerz.org.webp",
+        "url": "https://beercrackerz.org",
+        "bio": {
+          "en": "The beer lover's website! Find the best spots around to taste this refreshing beverage, or find the closest place to refill."
+        }
+      }
+    ],
+    "artists": [
+      {
+        "name": "fiveoclockjazzquartet.com",
+        "image": "/assets/img/soft/fiveoclockjazzquartet.com.webp",
+        "url": "https://fiveoclockjazzquartet.com"
+      }, {
+        "name": "sire-camara.band",
+        "image": "/assets/img/soft/sire-camara.band.webp",
+        "url": "https://sire-camara.band"
+      }, {
+        "name": "theforge.band",
+        "image": "/assets/img/soft/theforge.band.webp",
+        "url": "https://theforge.band"
+      }, {
+        "name": "nac.band",
+        "image": "/assets/img/soft/nac.band.webp",
+        "url": "https://nac.band"
+      }
+    ]
+  }
+}

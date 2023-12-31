@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "creation": "Creation",
+    "events": "Events",
+    "merch": "Merch",
+    "contact": "Contact"
+  },
+  "home": {
+    "mantra": "From vision to creation",
+    "description": "Messe Basse Production is a french non-profit organization that aims to offer artists an independant structure to help them producing their art pieces. Musicians, video makers, photographers, writers, developpers or stylists, feel free to reach us."
+  },
+  "creation": {
+    "music": {
+      "title": "Music",
+      "description": "Our musical catalog aims to offers an eclectic selection, of any genre ; each style is therefor welcome! For your music project, we are able to help you at any level, from composition to pressing, passing by arrangements, mix, mastering, legal terms and artwork. You have a project in progress but yet you are stuck making it going forward? Contact us so we can offer you a fresh look to help it making it alive.",
+      "listenOnline": "Listen online"
+    },
+    "video": {
+      "title": "Video",
+      "description": "We offer several services for video production ; if you already have rushes, we can help you script them and make the video editing. In the contrary, in case you need to schedule a video shooting, we can help you by providing cameras and operators to get the best shot for your project. Finally, if you want to digitize old VHS movies, we can, working with our provider, restore them to give them a fresh new start in the digital world."
+    },
+    "photo": {
+      "expositionTitle": "Expositions",
+      "expositionDescription": "Discover (and treat yourself with a wonderful framed picture to hang at your place) the most beautiful shots of the photographers currently exhibiting for Messe Basse Production.",
+      "expositionModalDescription": "Select the picture that earned your attention, then use the following configurator to make your print ready to fit your needs! Choose the size, the paper type, its margins and finally its frame.",
+      "expositionModalCustomize": "Customize your printing",
+      "expositionModalPrintSize": "Printing size",
+      "expositionModalPrintType": "Printing type",
+      "expositionModalPrintPaper": "Paper",
+      "expositionModalPrintDibond": "Dibond",
+      "expositionModalFrame": "Frame",
+      "expositionModalFrameNone": "No frame",
+      "expositionModalFrameBlack": "Black",
+      "expositionModalFrameWhite": "White",
+      "expositionModalFrameWood": "Wood",
+      "expositionModalMargins": "Margins",
+      "expositionModalPostageFees": "Postage included, for France",
+      "expositionModalOrder": "Order",
+      "eventTitle": "Events",
+      "eventDescription": "Depending on the availability of our photographers, we can cover your event with pictures and handle the photo editing of your selection. We also propose to help you make paper or dibond printings of your pictures. Finally, if you want to digitize old pictures, we would be glad to help you along the process."
+    },
+    "software": {
+      "title": "Software",
+      "description1": "You have the next big idea for a software or a website but you're lacking the technical skill to make it alive? let us help you transforml this idea into an app. Our team is partly composed of software engineers, that would be glad to bring you a technical solution for your project. We provide our artists a website to let them focus on their creations, but we also make more complex applications. Unless it's a specific will of yours, our softwares and website are open-source, which mean the source code is available to all ; sharing is caring.",
+      "description2": "You can browse all of our software's source code on our organization <a href=\"https://github.com/MesseBasseProduction\" target=\"_blank\" rel=\"noreferrer noopener\" alt=\"github-organisation\">GitHub</a> page.",
+      "creation": "Our creations",
+      "artistsWebsite": "Artists official websites"
+    }
+  },
+  "events": {
+    "upcoming": "Upcoming events",
+    "past": "Past events"
+  },
+  "merch": {
+    "apparel": "Apparel",
+    "music": "Music",
+    "by": "By",
+    "regularAlbum": "Regular release",
+    "signedAlbum": "Signed copy",
+    "postageFee": "*Postage not included",
+    "orderOne": "Order one now!"
+  },
+  "contact": {
+    "title": "About us",
+    "description1": "Newly created, Messe Basse Production is a young non-profit organization (French law 1901 organization), founded by Arthur Beaulieu and David Béché. Long time friends and both fond of art under its many forms, we gathered many skills either technical or artistic along the years. Driven by the desire to share our know-how with artists made us created this organization, with the only goal to assist artists to focus on their art, while promoting it and making it standard according to the industry norms.",
+    "description2": "Key values of Messe Basse Production, are open sourced and non-profit. We are commited to leave artists the ownership of their art and projects, while helping them produce and express their creativity through their work.",
+    "description3": "You want to discuss with us about those values, or maybe you want some help to produce, distribute and promote your music, your podcasts, your movies, your books, your softwares, your collections or any other form of art ? Or maybe you want to join us in this magnificient journey to share your knowledge to artists that trusts us ? Then contact us, we will be happy to answer your request :",
+    "team": "Meet our team, eager to help you with your projects",
+    "roles": {
+      "president": "President",
+      "treasurer": "Treasurer",
+      "secretary": "Secretary",
+      "infra": "Infrastructure",
+      "dev": "Development",
+      "communication": "Communication"
+    },
+    "documentation": "You will find here our organization status (only in french so far), as well as the past <i>minutes of meetings</i> so you can better understand our actions (still in french).",
+    "aboutTitle": "Information",
+    "aboutDescription1": "This website is hosted by <a href=\"https://github.com/\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub.com</a>. Its source code can be seen on the <a href=\"https://github.com/MesseBasseProduction/messe-basse-production.com\" target=\"_blank\" rel=\"noopener noreferrer\">following repository</a> and is distributed using the <a href=\"https://github.com/MesseBasseProduction/messe-basse-production.com/blob/master/LICENSE\" target=\"_blank\" rel=\"noopener noreferrer\">GPL-3.0</a> open source licence.",
+    "aboutDescription2": "The <b>Messe Basse Production</b> organization is domiciled at <i>Sermaise – 91530 (France)</i>. For the year 2022, the President is M. Arthur Beaulieu, the Treasurer is M. Raphaël Beekman and the Secretary is M. David Béché.",
+    "aboutDescription3": "All publications made on this website are under M. Arthur Beaulieu's responsibility, in his capacity as director of publication.",
+    "aboutDescription4": "GitHub is the Microsoft Corporation property, whose registered office is at <i>Redmond, Washington (United States of America)</i>.",
+    "aboutClose": "Close"
+  }
+}

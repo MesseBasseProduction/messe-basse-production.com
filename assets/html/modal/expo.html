@@ -1,0 +1,47 @@
+<p id="close-modal" class="close">&times</p>
+<h1><span id="expo-title"></span> <em>by <span id="expo-author"></span></em></h1>
+<p>{{PHOTO_EXPOSITION_MODAL_DESCRIPTION}}</p>
+<div id="photo-selector" class="photo-selector">
+  <p class="selected" data-number="0"></p>
+  <p data-number="1"></p>
+  <p data-number="2"></p>
+  <p data-number="3"></p>
+  <p data-number="4"></p>
+</div>
+<div class="photo-editor">
+  <div class="photo-wrapper">
+    <div class="frame">
+      <img src="" id="selected-photo" alt="selected-photo">
+    </div>
+  </div>
+  <div class="editor">
+    <h2>{{PHOTO_EXPOSITION_MODAL_CUSTOMIZE}}</h2>
+    <p><span id="photo-title"></span> (<em id="photo-date"></em>)</p>
+    <div id="frame-size" class="editor-command">
+      <label>{{PHOTO_EXPOSITION_MODAL_PRINT_SIZE}}</label>
+      <p class="selected" data-size="a3">A3</p>
+      <p data-size="a4">A4</p>
+    </div>
+    <div id="print-type" class="editor-command">
+      <label>{{PHOTO_EXPOSITION_MODAL_PRINT_TYPE}}</label>
+      <p class="selected" data-type="paper">{{PHOTO_EXPOSITION_MODAL_PRINT_PAPER}}</p>
+      <p data-type="dibond">{{PHOTO_EXPOSITION_MODAL_PRINT_DIBOND}}</p>
+    </div>
+    <div id="frame" class="editor-command">
+      <label>{{PHOTO_EXPOSITION_MODAL_FRAME}}</label>
+      <p class="selected" data-frame="no">{{PHOTO_EXPOSITION_MODAL_FRAME_NONE}}</p>
+      <p data-frame="black">{{PHOTO_EXPOSITION_MODAL_FRAME_BLACK}}</p>
+      <p data-frame="white">{{PHOTO_EXPOSITION_MODAL_FRAME_WHITE}}</p>
+      <p data-frame="wood">{{PHOTO_EXPOSITION_MODAL_FRAME_WOOD}}</p>
+    </div>
+    <div class="editor-command">
+      <label>{{PHOTO_EXPOSITION_MODAL_MARGINS}}</label>
+      <input type="checkbox" id="print-margin">
+    </div>
+    <div class="order">
+      <h1 id="order-price">34€</h1>
+      <h3>({{PHOTO_EXPOSITION_MODAL_POSTAGE_FEES}})</h3>
+      <button id="place-order">{{PHOTO_EXPOSITION_MODAL_ORDER}}</button>
+    </div>
+  </div>
+</div>

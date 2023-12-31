@@ -1,0 +1,31 @@
+{
+  "apparel": [
+    {
+      "name": "Power Plant",
+      "designer": "Guillaume Crantz",
+      "type": "Unisex T-Shirts",
+      "catalog": "MBPMC003",
+      "price": "25€",
+      "image": "/assets/img/merch/powerplant.webp"
+    }
+  ],
+  "albums": [
+    {
+      "name": "NAC – Dystopie",
+      "catalog": "MBPMC001",
+      "price": {
+        "regular": "5€",
+        "signed": "7€"
+      },
+      "image": "/assets/img/merch/dystopie.webp"
+    }, {
+      "name": "The Forge – Etica Nikomak",
+      "catalog": "MBPMC002",
+      "price": {
+        "regular": "5€",
+        "signed": "7€"
+      },
+      "image": "/assets/img/merch/etica.webp"
+    }
+  ]
+}

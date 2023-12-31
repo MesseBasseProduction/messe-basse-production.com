@@ -1,0 +1,63 @@
+{
+  "leaders": [
+    {
+      "name": "Arthur Beaulieu",
+      "role": "president",
+      "image": "/assets/img/asso/Arthur.webp"
+    }, {
+      "name": "David Béché",
+      "role": "treasurer",
+      "image": "/assets/img/asso/David.webp"
+    }, {
+      "name": "Raphaël Beekmann",
+      "role": "secretary",
+      "image": "/assets/img/asso/Raphaël.webp"
+    }
+  ],
+  "members": [
+    {
+      "name": "Erwan Le Guern",
+      "role": "infra",
+      "image": "/assets/img/asso/Arthur.webp"
+    }, {
+      "name": "Gregory Le",
+      "role": "infra",
+      "image": "/assets/img/asso/Arthur.webp"
+    }, {
+      "name": "Pierre Bouniol",
+      "role": "dev",
+      "image": "/assets/img/asso/Arthur.webp"
+    }, {
+      "name": "Aliénor Beaulieu",
+      "role": "communication",
+      "image": "/assets/img/asso/Arthur.webp"
+    }
+  ],
+  "documents": [
+    {
+      "name": "PVAGO",
+      "date": "04/01/2023",
+      "url": "/assets/doc/2023-01-04 - PVAGO.pdf"
+    }, {
+      "name": "PVAGO",
+      "date": "08/01/2022",
+      "url": "/assets/doc/2022-01-08 - PVAGO.pdf"
+    }, {
+      "name": "PVAGE",
+      "date": "12/10/2021",
+      "url": "/assets/doc/2021-10-12 - PVAGE.pdf"
+    }, {
+      "name": "PVAGE",
+      "date": "10/09/2021",
+      "url": "/assets/doc/2021-09-10 - PVAGE.pdf"
+    }, {
+      "name": "PVAGC",
+      "date": "06/09/2021",
+      "url": "/assets/doc/2021-09-06 - PVAGC.pdf"
+    }, {
+      "name": "Statuts",
+      "date": "06/09/2021",
+      "url": "/assets/doc/2021-09-06 - Statuts MBP.pdf"
+    }
+  ]
+}
