@@ -1,4 +1,9 @@
 {
+  "organization": {
+    "name": "Messe Basse Production",
+    "type": "Association loi 1901",
+    "creation": "2021-09-06"
+  },
   "leaders": [
     {
       "name": "Arthur Beaulieu",
@@ -31,6 +36,13 @@
       "name": "Aliénor Beaulieu",
       "role": "communication",
       "image": "/assets/img/asso/Arthur.webp"
+    }
+  ],
+  "pastMembers": [
+    {
+      "name": "Guillaume Crantz",
+      "role": "apparel",
+      "image": "/assets/img/asso/Guillaume.webp"
     }
   ],
   "documents": [

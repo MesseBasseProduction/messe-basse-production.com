@@ -73,7 +73,8 @@
       "secretary": "Secretary",
       "infra": "Infrastructure",
       "dev": "Development",
-      "communication": "Communication"
+      "communication": "Communication",
+      "apparel": "Apparel"
     },
     "documentation": "You will find here our organization status (only in french so far), as well as the past <i>minutes of meetings</i> so you can better understand our actions (still in french).",
     "aboutTitle": "Information",
