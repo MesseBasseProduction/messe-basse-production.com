@@ -82,7 +82,7 @@ class Events {
     content.innerHTML = `
       <span>
         <h1><a href="${data.link}" target="_blank" rel="noreferrer noopener">${data.title}</a></h1>
-        <h2><i>${data.date} – ${data.place}</i></h2>
+        <h2><i>${Utils.formatDate(data.date, this._lang)} – ${data.place}</i></h2>
       </span>
       <p>${data.description[this._lang]}</p>
     `;

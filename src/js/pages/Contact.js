@@ -107,7 +107,7 @@ class Contact {
     name.innerHTML = data.name;
 
     const date = document.createElement('SPAN');
-    date.innerHTML = data.date;
+    date.innerHTML = Utils.formatDate(data.date, this._lang);
 
     doc.appendChild(image);
     doc.appendChild(name);

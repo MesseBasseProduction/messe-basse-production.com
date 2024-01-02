@@ -34,6 +34,23 @@ class Utils {
   }
 
 
+  static formatDate(date, lang) {
+    const dateObj = new Date(date);
+    const formatter = new Intl.DateTimeFormat(lang, { month: 'long' });
+    const month = formatter.format(dateObj);
+    if (lang === 'en') {
+      return `${month} ${dateObj.getDate()}, ${dateObj.getFullYear()}`;
+    } else {
+      return `${dateObj.getDate()} ${Utils.capitalizeFirstLetter(month)} ${dateObj.getFullYear()}`;
+    }
+  }
+
+
+  static capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+
+
 }
 
 

@@ -144,7 +144,7 @@ class Creation {
               <p>${release.name}</p>
               <div class="album-overlay">
                 <p><b>${data.artists[i].releases[j]}</b></p>
-                <p>${release.date}</p>
+                <p>${Utils.formatDate(release.date, this._lang)}</p>
                 <a href="${release.mainLink}" target="_blank" rel="noreferrer noopener">${this._nls.music.listenOnline}</a>
               </div>
             </div>
@@ -171,7 +171,7 @@ class Creation {
         video.classList.add('embed-video');
         video.innerHTML = `
           <iframe src="${data[i].url}" title="${data[i].artist} – ${data[i].name}" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" frameborder="0"></iframe>
-          <h2>${data[i].artist} – ${data[i].name}, ${data[i].date}</h2>
+          <h2>${data[i].artist} – ${data[i].name}, ${Utils.formatDate(data[i].date, this._lang)}</h2>
         `;
         video.innerHTML.replace('\n', '');
         this._subpages.video.querySelector('#video-grid').appendChild(video);
@@ -304,7 +304,7 @@ class Creation {
       modal.querySelector('#expo-author').innerHTML = exposition.photographer;
       modal.querySelector('#selected-photo').src = exposition.photos[0].image;
       modal.querySelector('#photo-title').innerHTML = exposition.photos[0].title;
-      modal.querySelector('#photo-date').innerHTML = exposition.photos[0].date;
+      modal.querySelector('#photo-date').innerHTML = Utils.formatDate(exposition.photos[0].date, this._lang);
 
       let index = 0;
       const photoLabels = modal.querySelector('#photo-selector').children;
@@ -313,7 +313,7 @@ class Creation {
         photoLabels[i].addEventListener('click', () => {
           modal.querySelector('#selected-photo').src = exposition.photos[i].image;
           modal.querySelector('#photo-title').innerHTML = exposition.photos[i].title;
-          modal.querySelector('#photo-date').innerHTML = exposition.photos[i].date;
+          modal.querySelector('#photo-date').innerHTML = Utils.formatDate(exposition.photos[i].date, this._lang);
           photoLabels[index].classList.remove('selected');
           photoLabels[i].classList.add('selected');
           index = i;

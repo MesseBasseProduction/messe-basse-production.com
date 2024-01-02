@@ -148,6 +148,7 @@ main.creation {
           
           h2 {
             font-size: 2rem;
+            margin: 0;
 
             a {
               color: inherit;
@@ -197,7 +198,7 @@ main.creation {
         }
 
         .band-albums {
-          height: calc(100% - 4rem);
+          height: calc(100% - 4rem + var(--default-scroll-size));
           overflow-x: auto;
           text-align: left;
           white-space: nowrap;
@@ -209,7 +210,6 @@ main.creation {
             display: inline-block;
             height: calc(95% - 1rem);
             margin-right: 2rem;
-            margin-top: 1rem;
             position: relative;
             text-align: center;
             width: fit-content;
