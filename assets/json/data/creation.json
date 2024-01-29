@@ -2,11 +2,43 @@
   "music": {
     "artists": [
       {
+        "name": "Siré Camara",
+        "genres": ["Reggae", "World"],
+        "image": "/assets/img/band/sire.webp",
+        "mainLink": "/tree/sire.html",
+        "releases": [
+          "MBPSP036",
+          "MBPSP032",
+          "MBPSP031",
+          "MBPSP030",
+          "MBPSP029",
+          "MBPSP023",
+          "MBPSP022",
+          "MBPSP021",
+          "MBPSP020",
+          "MBPSP019",
+          "MBPSP018",
+          "MBPSP015",
+          "MBPSP014",
+          "MBPSP012"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        } 
+      }, {
         "name": "DVPE",
         "genres": ["Techno"],
         "image": "/assets/img/band/dvpe.webp",
         "mainLink": "/tree/dvpe.html",
         "releases": [
+          "MBPSP035",
           "MBPSP034"
         ],
         "links": [
@@ -43,36 +75,6 @@
           "en": "",
           "fr": ""
         }    
-      }, {
-        "name": "Siré Camara",
-        "genres": ["Reggae", "World"],
-        "image": "/assets/img/band/sire.webp",
-        "mainLink": "/tree/sire.html",
-        "releases": [
-          "MBPSP032",
-          "MBPSP031",
-          "MBPSP030",
-          "MBPSP029",
-          "MBPSP023",
-          "MBPSP022",
-          "MBPSP021",
-          "MBPSP020",
-          "MBPSP019",
-          "MBPSP018",
-          "MBPSP015",
-          "MBPSP014",
-          "MBPSP012"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        } 
       }, {
         "name": "Interfluv",
         "genres": ["Bass House", "Drum & Bass"],
@@ -825,6 +827,32 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1"
+          }
+        ]
+      },
+      "MBPSP035": {
+        "name": "About Techno",
+        "artist": ["DVPE"],
+        "date": "2024-01-26",
+        "image": "/assets/img/music/MBPSP035.webp",
+        "mainLink": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1"
+          }
+        ]
+      },
+      "MBPSP036": {
+        "name": "Bye Bye CEDEAO",
+        "artist": ["Siré Camara"],
+        "date": "2024-02-01",
+        "image": "/assets/img/music/MBPSP036.webp",
+        "mainLink": "https://www.youtube.com/watch?v=Ug_5thg1JTk&list=PLp5D05IpZHwJqEcWHdELKThv5mvrWI80O&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=Ug_5thg1JTk&list=PLp5D05IpZHwJqEcWHdELKThv5mvrWI80O&index=1"
           }
         ]
       }
