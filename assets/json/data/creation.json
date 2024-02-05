@@ -2,6 +2,26 @@
   "music": {
     "artists": [
       {
+        "name": "Interfluv",
+        "genres": ["Bass House", "Drum & Bass", "Tech House"],
+        "image": "/assets/img/band/interfluv.webp",
+        "mainLink": "/tree/interfluv.html",
+        "releases": [
+          "MBPMX003",
+          "MBPMX002",
+          "MBPMX001"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "Siré Camara",
         "genres": ["Reggae", "World"],
         "image": "/assets/img/band/sire.webp",
@@ -75,25 +95,6 @@
           "en": "",
           "fr": ""
         }    
-      }, {
-        "name": "Interfluv",
-        "genres": ["Bass House", "Drum & Bass"],
-        "image": "/assets/img/band/interfluv.webp",
-        "mainLink": "/tree/interfluv.html",
-        "releases": [
-          "MBPMX002",
-          "MBPMX001"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }   
       }, {
         "name": "Lionel Baudet",
         "genres": ["Experimental", "Jazz Fusion"],
@@ -398,6 +399,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1"
+          }
+        ]
+      },
+      "MBPMX003": {
+        "name": "REC005.WAV",
+        "artist": ["Interfluv"],
+        "date": "2024-02-05",
+        "image": "/assets/img/music/MBPMX003.webp",
+        "mainLink": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1"
           }
         ]
       },
