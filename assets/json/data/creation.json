@@ -2,6 +2,32 @@
   "music": {
     "artists": [
       {
+        "name": "The Forge",
+        "genres": ["Progressive Rock", "Jazz Fusion"],
+        "image": "/assets/img/band/theforge.webp",
+        "mainLink": "/tree/theforge.html",
+        "releases": [
+          "MBPLP015",
+          "MBPSP008",
+          "MBPLP005",
+          "MBPLP004",
+          "MBPLP006",
+          "MBPLP003",
+          "MBPLP002",
+          "MBPLP009",
+          "MBPSP009"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }     
+      }, {
         "name": "Interfluv",
         "genres": ["Bass House", "Drum & Bass", "Tech House"],
         "image": "/assets/img/band/interfluv.webp",
@@ -164,31 +190,6 @@
           "en": "",
           "fr": ""
         }    
-      }, {
-        "name": "The Forge",
-        "genres": ["Progressive Rock", "Jazz Fusion"],
-        "image": "/assets/img/band/theforge.webp",
-        "mainLink": "/tree/theforge.html",
-        "releases": [
-          "MBPSP008",
-          "MBPLP005",
-          "MBPLP004",
-          "MBPLP006",
-          "MBPLP003",
-          "MBPLP002",
-          "MBPLP009",
-          "MBPSP009"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }     
       }
     ],
     "releases": {
@@ -371,6 +372,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1"
+          }
+        ]
+      },
+      "MBPLP015": {
+        "name": "Musaïc",
+        "artist": ["The Forge"],
+        "date": "2024-02-08",
+        "image": "/assets/img/music/MBPLP015.webp",
+        "mainLink": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1"
           }
         ]
       },
