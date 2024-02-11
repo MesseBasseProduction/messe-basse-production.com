@@ -2,6 +2,25 @@
   "music": {
     "artists": [
       {
+        "name": "Guillaume Beaulieu",
+        "genres": ["Baroque", "Renaissance"],
+        "image": "/assets/img/band/guillaume.webp",
+        "mainLink": "/tree/guillaume.html",
+        "releases": [
+          "MBPLP015",
+          "MBPLP013"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "The Forge",
         "genres": ["Progressive Rock", "Jazz Fusion"],
         "image": "/assets/img/band/theforge.webp",
@@ -385,6 +404,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1"
+          }
+        ]
+      },
+      "MBPLP016": {
+        "name": "Concert: Œuvres Italiennes au XVIIIème",
+        "artist": ["Guillaume Beaulieu", "Julien Faure"],
+        "date": "2024-02-24",
+        "image": "/assets/img/music/MBPLP016.webp",
+        "mainLink": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1"
           }
         ]
       },
