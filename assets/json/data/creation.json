@@ -21,6 +21,27 @@
           "fr": ""
         }   
       }, {
+        "name": "Interfluv",
+        "genres": ["Bass House", "Drum & Bass", "Tech House"],
+        "image": "/assets/img/band/interfluv.webp",
+        "mainLink": "/tree/interfluv.html",
+        "releases": [
+          "MBPMX004",
+          "MBPMX003",
+          "MBPMX002",
+          "MBPMX001"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "The Forge",
         "genres": ["Progressive Rock", "Jazz Fusion"],
         "image": "/assets/img/band/theforge.webp",
@@ -46,26 +67,6 @@
           "en": "",
           "fr": ""
         }     
-      }, {
-        "name": "Interfluv",
-        "genres": ["Bass House", "Drum & Bass", "Tech House"],
-        "image": "/assets/img/band/interfluv.webp",
-        "mainLink": "/tree/interfluv.html",
-        "releases": [
-          "MBPMX003",
-          "MBPMX002",
-          "MBPMX001"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }   
       }, {
         "name": "Siré Camara",
         "genres": ["Reggae", "World"],
@@ -456,6 +457,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1"
+          }
+        ]
+      },
+      "MBPMX004": {
+        "name": "REC056.WAV",
+        "artist": ["Interfluv"],
+        "date": "2024-02-18",
+        "image": "/assets/img/music/MBPMX004.webp",
+        "mainLink": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1"
           }
         ]
       },
