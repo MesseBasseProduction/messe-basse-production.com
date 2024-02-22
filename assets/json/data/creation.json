@@ -2,6 +2,38 @@
   "music": {
     "artists": [
       {
+        "name": "Siré Camara",
+        "genres": ["Reggae", "World"],
+        "image": "/assets/img/band/sire.webp",
+        "mainLink": "/tree/sire.html",
+        "releases": [
+          "MBPSP037",
+          "MBPSP036",
+          "MBPSP032",
+          "MBPSP031",
+          "MBPSP030",
+          "MBPSP029",
+          "MBPSP023",
+          "MBPSP022",
+          "MBPSP021",
+          "MBPSP020",
+          "MBPSP019",
+          "MBPSP018",
+          "MBPSP015",
+          "MBPSP014",
+          "MBPSP012"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        } 
+      }, {
         "name": "Guillaume Beaulieu",
         "genres": ["Baroque", "Renaissance"],
         "image": "/assets/img/band/guillaume.webp",
@@ -67,37 +99,6 @@
           "en": "",
           "fr": ""
         }     
-      }, {
-        "name": "Siré Camara",
-        "genres": ["Reggae", "World"],
-        "image": "/assets/img/band/sire.webp",
-        "mainLink": "/tree/sire.html",
-        "releases": [
-          "MBPSP036",
-          "MBPSP032",
-          "MBPSP031",
-          "MBPSP030",
-          "MBPSP029",
-          "MBPSP023",
-          "MBPSP022",
-          "MBPSP021",
-          "MBPSP020",
-          "MBPSP019",
-          "MBPSP018",
-          "MBPSP015",
-          "MBPSP014",
-          "MBPSP012"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        } 
       }, {
         "name": "DVPE",
         "genres": ["Techno"],
@@ -925,6 +926,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=Ug_5thg1JTk&list=PLp5D05IpZHwJqEcWHdELKThv5mvrWI80O&index=1"
+          }
+        ]
+      },
+      "MBPSP037": {
+        "name": "Omotounde L'Enfant Béni",
+        "artist": ["Siré Camara"],
+        "date": "2024-02-22",
+        "image": "/assets/img/music/MBPSP037.webp",
+        "mainLink": "https://www.youtube.com/watch?v=CQtmNrHCP9Y&list=PLp5D05IpZHwJcZqttWweOWFZ2D0X-wJXa&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=CQtmNrHCP9Y&list=PLp5D05IpZHwJcZqttWweOWFZ2D0X-wJXa&index=1"
           }
         ]
       }
