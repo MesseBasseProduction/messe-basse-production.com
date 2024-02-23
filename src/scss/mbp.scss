@@ -64,6 +64,7 @@ nav.site-nav {
     padding: 0 2rem;
     text-decoration: none;
     transition: color .3s;
+    user-select: none;
 
     &:hover {
       color: var(--c-primary);
