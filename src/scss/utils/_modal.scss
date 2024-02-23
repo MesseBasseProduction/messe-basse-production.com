@@ -31,7 +31,7 @@
     }
 
     a {
-      color: #56D45B;
+      color: var(--c-primary);
       display: inline-block;
       margin-bottom: 0;
     }
@@ -70,8 +70,8 @@
       transition: color .2s, border-color .2s;
 
       &.selected {
-        border-color: #56D45B;
-        color: #56D45B;
+        border-color: var(--c-primary);
+        color: var(--c-primary);
       }
     }
   }
@@ -132,8 +132,8 @@
           transition: color .2s, border-color .2s;
     
           &.selected {
-            border-color: #56D45B;
-            color: #56D45B;
+            border-color: var(--c-primary);
+            color: var(--c-primary);
           }
         }
 
@@ -218,7 +218,7 @@
       &:active,
       &:focus,
       &:hover {
-        color: #56d45b;
+        color: var(--c-primary);
       }					
     }
   }

@@ -2,6 +2,25 @@
   "music": {
     "artists": [
       {
+        "name": "Guillaume Beaulieu",
+        "genres": ["Baroque", "Renaissance"],
+        "image": "/assets/img/band/guillaume.webp",
+        "mainLink": "/tree/guillaume.html",
+        "releases": [
+          "MBPLP016",
+          "MBPLP013"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "Siré Camara",
         "genres": ["Reggae", "World"],
         "image": "/assets/img/band/sire.webp",
@@ -33,25 +52,6 @@
           "en": "",
           "fr": ""
         } 
-      }, {
-        "name": "Guillaume Beaulieu",
-        "genres": ["Baroque", "Renaissance"],
-        "image": "/assets/img/band/guillaume.webp",
-        "mainLink": "/tree/guillaume.html",
-        "releases": [
-          "MBPLP016",
-          "MBPLP013"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }   
       }, {
         "name": "Interfluv",
         "genres": ["Bass House", "Drum & Bass", "Tech House"],
@@ -946,9 +946,14 @@
   },
   "video": [
     {
+      "name": "Concert: Œuvres Itraliennes au XVIII<sup>ème</sup>",
+      "artist": "Guillaume Beaulieu, Julien Faure",
+      "date": "2024-01-14",
+      "url": "https://tube.mycozy.space/videos/embed/ae877fc6-28b5-46b7-98a2-7f6370bc1bc2"
+    }, {
       "name": "Concert: Œuvres de Corelli",
-      "artist": "La Baroquerie du Val de Bièvre",
-      "date": "2023-07-07",
+      "artist": "Guillaume Beaulieu, Julien Faure",
+      "date": "2023-01-07",
       "url": "https://tube.mycozy.space/videos/embed/9e93a17d-dece-454f-8c59-147a2cc8a8d3"
     }, {
       "name": "Noël Corellien: Extraits du Concerto op.6 n°8",

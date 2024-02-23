@@ -1,3 +1,4 @@
+@import 'utils/variables';
 @import 'utils/keyframes';
 
 @font-face {
@@ -27,7 +28,7 @@ body {
 
 a {
   display: block;
-  color: #56D45B;
+  color: var(--c-primary);
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
 }
@@ -65,11 +66,11 @@ nav.site-nav {
     transition: color .3s;
 
     &:hover {
-      color: #56D45B;
+      color: var(--c-primary);
     }
 
     &.selected::first-letter {
-      color: #56D45B;			
+      color: var(--c-primary);
     }
   }
 

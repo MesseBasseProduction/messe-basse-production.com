@@ -21,32 +21,36 @@
   ],
   "members": [
     {
-      "name": "Erwan Le Guern",
-      "role": "infra",
-      "image": "/assets/img/asso/Erwan.webp"
-    }, {
-      "name": "Gregory Le",
-      "role": "infra",
-      "image": "/assets/img/asso/Gregory.webp"
+      "name": "Aliénor Beaulieu",
+      "role": "communication",
+      "image": "/assets/img/asso/Aliénor.webp"
     }, {
       "name": "Pierre Bouniol",
       "role": "dev",
       "image": "/assets/img/asso/Pierre.webp"
     }, {
-      "name": "Aliénor Beaulieu",
-      "role": "communication",
-      "image": "/assets/img/asso/Aliénor.webp"
-    }
+      "name": "Gregory Le",
+      "role": "infra",
+      "image": "/assets/img/asso/Gregory.webp"
+    } 
   ],
   "pastMembers": [
     {
       "name": "Guillaume Crantz",
       "role": "apparel",
       "image": "/assets/img/asso/Guillaume.webp"
+    }, {
+      "name": "Erwan Le Guern",
+      "role": "infra",
+      "image": "/assets/img/asso/Erwan.webp"
     }
   ],
   "documents": [
     {
+      "name": "PVAGO",
+      "date": "2024-01-04",
+      "url": "/assets/doc/2024-01-04 - PVAGO.pdf"
+    }, {
       "name": "PVAGO",
       "date": "2023-01-04",
       "url": "/assets/doc/2023-01-04 - PVAGO.pdf"

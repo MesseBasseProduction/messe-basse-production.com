@@ -161,7 +161,7 @@ main.creation {
               &:active,
               &:focus,
               &:hover {
-                color: #56d45b;
+                color: var(--c-primary);
               }
             }
           }
@@ -311,7 +311,7 @@ main.creation {
       &:active,
       &:focus,
       &:hover {
-        color: #56d45b;
+        color: var(--c-primary);
       }					
     }
 
@@ -329,7 +329,7 @@ main.creation {
         &:active,
         &:focus,
         &:hover {
-          color: #56d45b;
+          color: var(--c-primary);
         }
 
         .img-wrapper {
@@ -428,7 +428,7 @@ main.creation {
           &:active,
           &:focus,
           &:hover {
-            color: #56d45b;
+            color: var(--c-primary);
           }           
         }
 
@@ -722,7 +722,7 @@ body.links {
       &:active,
       &:focus,
       &:hover {
-        color: #56d45b;
+        color: var(--c-primary);
       }
     }
   }
