@@ -81,7 +81,7 @@ main.creation {
       }
 
       &.selected {
-        filter: var(--c-primary-filter);
+        filter: invert(66%) sepia(57%) saturate(561%) hue-rotate(0deg) brightness(155%) contrast(174%);
       }
     }
   }
