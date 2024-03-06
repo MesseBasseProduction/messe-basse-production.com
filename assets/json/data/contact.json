@@ -32,17 +32,17 @@
       "name": "Gregory Le",
       "role": "infra",
       "image": "/assets/img/asso/Gregory.webp"
-    } 
+    }, {
+      "name": "Erwan Le Guern",
+      "role": "infra",
+      "image": "/assets/img/asso/Erwan.webp"
+    }
   ],
   "pastMembers": [
     {
       "name": "Guillaume Crantz",
       "role": "apparel",
       "image": "/assets/img/asso/Guillaume.webp"
-    }, {
-      "name": "Erwan Le Guern",
-      "role": "infra",
-      "image": "/assets/img/asso/Erwan.webp"
     }
   ],
   "documents": [
