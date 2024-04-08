@@ -1,6 +1,23 @@
 {
   "events": [
     {
+      "title": "Musiques Anciennes et Baroque d'Europe",
+      "catalog": "MBPEVT010",
+      "image": "/assets/img/event/MBPEVT010.webp",
+      "date": "2024-04-27",
+      "place": "Église Notre-Dame-de-la-Nativité-de-la-Vierge, Sermaise",
+      "link": "https://www.facebook.com/events/1597153937792207/",
+      "description": {
+        "en": "As part of Saint-Georges Day in Sermaise, “La Baroquerie du Val de Bièvre” and “Messe Basse Production” are pleased to invite you to the concert Musiques Anciennes et Baroque d'Europe, which will be given in the Notre-Dame-de-la-Nativité-de-la-Vierge's Church. On the program, an Europe tour of composers from that time.",
+        "fr": "Dans le cadre de la Saint-Georges à Sermaise, l’association « La Baroquerie du Val de Bièvre » et « Messe Basse Production » sont heureux de vous convier pour le concert de Musiques Anciennes et Baroques d'Europe, qui sera donné dans l'Église Notre-Dame-de-la-Nativité-de-la-Vierge. Au programme, un tour d'Europe des compositeurs de l'époque."
+      },
+      "starring": [
+        {
+          "name": "La Baroquerie du Val de Bièvre",
+          "url": "https://baroquerie.fr/"
+        }
+      ]
+    }, {
       "title": "Œuvres Italiennes au XVIIIème",
       "catalog": "MBPEVT009",
       "image": "/assets/img/event/MBPEVT009.webp",
