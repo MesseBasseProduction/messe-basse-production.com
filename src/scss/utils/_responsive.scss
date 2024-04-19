@@ -151,10 +151,41 @@
       .event {
         grid-template-columns: 1fr;
 
+        h1 {
+          margin-top: 2rem;
+        }
+
+        h1, h2 {
+          text-align: center;          
+        }
+
         .content {
-          p {
-            margin: 2rem 0;
+          margin-left: 0;
+
+          .starring {
+            display: flex;
+            justify-content: center;
           }
+        }
+      }
+    }
+  }
+
+  main.creation .subpage.podcast {
+    .item {
+      grid-template-columns: 1fr;
+
+      h1 {
+        margin-top: 2rem;
+        text-align: center;
+      }
+
+      .content {
+        margin-left: 0;
+
+        .links {
+          display: flex;
+          justify-content: center;
         }
       }
     }

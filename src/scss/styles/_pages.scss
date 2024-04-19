@@ -269,6 +269,89 @@ main.creation {
     }
   }
 
+  .podcast {
+    .collection {
+      p {
+        font-size: 1.3rem;
+        margin-bottom: 2rem;
+      }
+
+      .item {
+        align-items: center;
+        background-color: rgba(95, 95, 95, .3);
+        border-radius: 1.5rem;
+        box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);
+        display: grid;
+        grid-template-columns: 25rem 1fr;
+        margin-bottom: 2rem;
+        padding: 2rem;
+        width: 100%;
+
+        img {
+          width: 100%;
+        }
+    
+        .content {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          margin-left: 2rem;
+          text-align: left;
+    
+          h1 {
+            font-family: inherit;
+            font-size: 2.2rem;
+            margin-bottom: inherit;
+    
+            a {
+              color: inherit;
+              font-size: inherit;
+              text-decoration: none;
+            }
+          }
+      
+          h2 {
+            font-family: inherit;
+            font-size: 1.8rem;
+            text-indent: 1rem;
+            margin-bottom: 0;
+          }
+    
+          p {
+            font-size: 1.3rem;
+            margin: 0;
+            padding: 1.3rem 0;
+            text-indent: 1rem;
+            text-align: justify;
+          }
+    
+          a {
+            display: inline-block;
+            font-size: 1.3rem;
+            margin-bottom: 0;
+            text-decoration: none;
+            text-indent: 0;
+          }
+
+          .links {
+            a {
+              display: inline-block;
+              /* Same as for creation/music/artist-header, to be factorized */
+              border: solid 1px #D4D4D4;
+              border-radius: .5rem;
+              color: #D4D4D4;
+              font-size: 1rem;
+              font-style: italic;
+              margin-right: 1rem;
+              padding: .4rem;
+              text-decoration: none;
+            }
+          }
+        }
+      }
+    }
+  }
+
   .video {
     .video-grid {
       display: grid;
@@ -444,6 +527,7 @@ main.events {
   background-image: radial-gradient(#23353c 0,#202020 45%, #181818 80%);
 
   .event {
+    align-items: center;
     background-color: rgba(95, 95, 95, .3);
     border-radius: 1.5rem;
     box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);
@@ -454,7 +538,6 @@ main.events {
     width: 100%;
     
     img {
-      margin: 1rem 0;
       width: 100%;
     }
 
@@ -486,6 +569,7 @@ main.events {
 
       p {
         font-size: 1.3rem;
+        padding: 1.3rem 0;
         text-indent: 1rem;
         text-align: justify;
       }

@@ -38,16 +38,16 @@ class Merch {
 
   _buildDOM(data) {
     return new Promise(resolve => {
-      const apparel = this._dom.querySelector('#apparel-merch');
-      for (let i = 0; i < data.apparel.length; ++i) {
-        const collection = this.__buildApparelMerch(data.apparel[i]);
-        apparel.appendChild(collection);
-      }
-      
       const albums = this._dom.querySelector('#musical-merch');
       for (let i = 0; i < data.albums.length; ++i) {
         const album = this.__buildMusicalMerch(data.albums[i]);
         albums.appendChild(album);
+      }
+
+      const apparel = this._dom.querySelector('#apparel-merch');
+      for (let i = 0; i < data.apparel.length; ++i) {
+        const collection = this.__buildApparelMerch(data.apparel[i]);
+        apparel.appendChild(collection);
       }
 
       resolve();
@@ -76,6 +76,10 @@ class Merch {
 
     const submit = document.createElement('BUTTON');
     submit.innerHTML = this._nls.orderOne;
+
+    submit.addEventListener('click', () => {
+      window.open(`mailto:contact@messe-basse-production.com?subject=Commander le vêtement ${data.name}&body=Bonjour, je souhaite commander le vêtement ${data.name} de ${data.designer}. Ce vêtement reviens à ${data.price}, frais postaux non inclus pour la France. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
+    });
 
     collection.appendChild(image);
     collection.appendChild(name);
@@ -109,6 +113,10 @@ class Merch {
 
     const submit = document.createElement('BUTTON');
     submit.innerHTML = this._nls.orderOne;
+
+    submit.addEventListener('click', () => {
+      window.open(`mailto:contact@messe-basse-production.com?subject=Commander le disque ${data.name}&body=Bonjour, je souhaite commander le disque ${data.name}. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
+    });
 
     album.appendChild(image);
     album.appendChild(name);

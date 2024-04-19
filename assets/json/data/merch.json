@@ -11,6 +11,14 @@
   ],
   "albums": [
     {
+      "name": "The Forge – Musaïc",
+      "catalog": "MBPMC004",
+      "price": {
+        "regular": "5€",
+        "signed": "7€"
+      },
+      "image": "/assets/img/merch/musaic.webp"
+    }, {
       "name": "NAC – Dystopie",
       "catalog": "MBPMC001",
       "price": {

@@ -944,6 +944,42 @@
       }
     }
   },
+  "podcast": [
+    {
+      "name": "Fréquences Basses",
+      "description": {
+        "en": "Fréquences Basses is a web radio/podcast project hosted by Messe Basse Production. Each month, a DJ will be invited to propose a 1-hour set.<br><br>The goal is to highlight the artist, their universe, and the creations they offer. The variety of styles and genres is intentionally quite broad: electronic music (house, techno, bass music, hard music, etc.), funk, soul, rap, or others. The love of music in all its forms serves as a guideline.<br><br>The idea behind this project is to break down the barriers between musical genres and to introduce the widest audience possible to the variety of styles present in music.",
+        "fr": "Fréquences Basses est un projet de web radio/podcast de l’association Messe Basse Production. Chaque mois, un DJ sera invité et proposera un set d’1h.<br><br>Le but est de mettre en avant l’artiste, son univers et les créations qu’il propose. La variété de styles et de genres est volontairement assez large : musiques électroniques (house, techno, bass musique, hard music, etc.), funk, soul, rap ou autre. L’amour de la musique dans toutes ses formes fait office de ligne directrice.<br><br>L’idée derrière ce projet est de casser les barrières entre les genres musicaux et de faire découvrir au plus grand nombre la variété des styles présents dans la musique."
+      },
+      "episodes": [
+        {
+          "title": "Fréquences Basses #1 – DNA",
+          "catalog": "MBPMX005",
+          "image": "/assets/img/podcast/MBPMX005.webp",
+          "date": "2024-04-18",
+          "link": "https://www.instagram.com/dna_dnb_/",
+          "description": {
+            "en": "For this first episode, we welcome DNA, for a Drum & Bass DJ set. DNA is one of those DJs who tell a story behind the turntables. Thanks to her technical skill and sharp selecta, she can easily navigate through all styles, to always share more of her universe with us.<br><br>One motto: it has to roll. From Neurofunk to Techstep, passing through Jump Up and the Dancefloor, everything goes with disconcerting ease. It's thanks to her talent that she has been able to express herself in the biggest parties of the capital: Studio, Forever, U Fest, and more recently opening the Nexus for Chase & Status.",
+            "fr": "Pour ce premier épisode, nous accueillons DNA, pour un set de Drum & Bass. DNA fait partie de ces DJ qui racontent une histoire derrière les platines. Grâce à son aisance technique et sa selecta pointue, elle peut facilement se balader dans tous les styles, afin de toujours plus nous partager son univers.<br><br>Un seul mot d'ordre : il faut que ça roule. De la Neurofunk à la Techstep, en passant par la Jump Up et le Dancefloor, tout y passe avec une facilité déconcertante. C'est grâce à son talent qu'elle a pu s'exprimer dans les plus grandes soirées de la capitale : Studio, Forever, U Fest et plus récemment ouvrir le Nexus pour Chase & Status."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-1-dna/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=TyGox4qKDdM/"
+            }, 
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fréquences-basses-1-dna/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "video": [
     {
       "name": "Concert: Œuvres Itraliennes au XVIII<sup>ème</sup>",

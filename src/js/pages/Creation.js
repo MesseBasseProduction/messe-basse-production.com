@@ -40,7 +40,7 @@ class Creation {
   _fetchSubpages() {
     return new Promise(resolve => {
       const promises = [];
-      const subpages = ['music', 'video', 'photo', 'software'];
+      const subpages = ['music', 'podcast', 'video', 'photo', 'software'];
       for (let i = 0; i < subpages.length; ++i) {
         promises.push(new Promise(pageLoaded => {
           Utils.fetchPage(`/assets/html/creation/${subpages[i]}.html`)
@@ -62,6 +62,8 @@ class Creation {
     return new Promise(resolve => {
       Utils.replaceString(this._subpages.music, '{{MUSIC_TITLE}}', this._nls.music.title);
       Utils.replaceString(this._subpages.music, '{{MUSIC_DESCRIPTION}}', this._nls.music.description);
+      Utils.replaceString(this._subpages.podcast, '{{PODCAST_TITLE}}', this._nls.podcast.title);
+      Utils.replaceString(this._subpages.podcast, '{{PODCAST_DESCRIPTION}}', this._nls.podcast.description);
       Utils.replaceString(this._subpages.video, '{{VIDEO_TITLE}}', this._nls.video.title);
       Utils.replaceString(this._subpages.video, '{{VIDEO_DESCRIPTION}}', this._nls.video.description);
       Utils.replaceString(this._subpages.photo, '{{PHOTO_EXPOSITION_TITLE}}', this._nls.photo.expositionTitle);
@@ -84,6 +86,7 @@ class Creation {
   _buildDOM(data) {
     return new Promise(resolve => {
       this.__buildMusicDOM(data.music)
+        .then(this.__buildPodcastDOM.bind(this, data.podcast))
         .then(this.__buildVideoDOM.bind(this, data.video))
         .then(this.__buildPhotoDOM.bind(this, data.photo))
         .then(this.__buildSoftwareDOM.bind(this, data.software))
@@ -158,6 +161,60 @@ class Creation {
         }));
 
         this._subpages.music.firstElementChild.appendChild(band);
+      }
+      resolve();
+    });
+  }
+
+
+  __buildPodcastDOM(data) {
+    return new Promise(resolve => {
+      for (let i = 0; i < data.length; ++i) {
+        const podcast = document.createElement('DIV');
+        podcast.classList.add('collection');
+        const title = document.createElement('H2');
+        title.innerHTML = data[i].name;
+        const description = document.createElement('P');
+        description.innerHTML = data[i].description[this._lang];
+        podcast.appendChild(title);
+        podcast.appendChild(description);
+        const episodes = document.createElement('DIV');
+        for (let j = 0; j < data[i].episodes.length; ++j) {
+          const episode = document.createElement('DIV');
+          episode.classList.add('item');
+
+          const image = document.createElement('IMG');
+          image.src = data[i].episodes[j].image;
+
+          const content = document.createElement('DIV');
+          content.classList.add('content');
+          content.innerHTML = `
+            <span>
+              <h1><a href="${data[i].episodes[j].link}" target="_blank" rel="noreferrer noopener">${data[i].episodes[j].title}</a></h1>
+            </span>
+            <p>${data[i].episodes[j].description[this._lang]}</p>
+          `;
+          content.innerHTML.replace('\n', '');
+
+          const links = document.createElement('DIV');
+          links.classList.add('links');
+      
+          for (let k = 0; k < data[i].episodes[j].links.length; ++k) {
+            const link = document.createElement('A');
+            link.innerHTML = data[i].episodes[j].links[k].name;
+            link.href = data[i].episodes[j].links[k].url;
+            link.target = '_blank';
+            link.rel = 'noreferrer noopener';
+            links.appendChild(link);
+          }
+
+          content.appendChild(links);
+          episode.appendChild(image);
+          episode.appendChild(content);
+          episodes.appendChild(episode);
+        }
+        podcast.appendChild(episodes);
+        this._subpages.podcast.querySelector('#podcast-list').appendChild(podcast);
       }
       resolve();
     });
@@ -269,6 +326,7 @@ class Creation {
 
   _events() {
     this._dom.querySelector('#music-subpage').addEventListener('click', this._switchView.bind(this, 'music'));
+    this._dom.querySelector('#podcast-subpage').addEventListener('click', this._switchView.bind(this, 'podcast'));
     this._dom.querySelector('#video-subpage').addEventListener('click', this._switchView.bind(this, 'video'));
     this._dom.querySelector('#photo-subpage').addEventListener('click', this._switchView.bind(this, 'photo'));
     this._dom.querySelector('#software-subpage').addEventListener('click', this._switchView.bind(this, 'software'));
@@ -458,6 +516,9 @@ class Creation {
       case 'music':
         dom = this._subpages.music;
         break;
+      case 'podcast':
+        dom = this._subpages.podcast;
+        break;
       case 'video':
         dom = this._subpages.video;
         break;
@@ -481,10 +542,6 @@ class Creation {
       requestAnimationFrame(() => {
         this._dom.querySelector('#subpage').style.opacity = 1;
         this._updateScrolls();
-        // this._scroll = new window.ScrollBar({
-        //   target: document.getElementById('subpage'),
-        //   minSize: 90
-        // });
       });
     }, 300);
   }
