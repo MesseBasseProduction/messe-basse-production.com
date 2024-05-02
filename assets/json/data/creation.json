@@ -2,6 +2,26 @@
   "music": {
     "artists": [
       {
+        "name": "DVPE",
+        "genres": ["Techno"],
+        "image": "/assets/img/band/dvpe.webp",
+        "mainLink": "/tree/dvpe.html",
+        "releases": [
+          "MBPSP038",
+          "MBPSP035",
+          "MBPSP034"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }
+      }, {
         "name": "Guillaume Beaulieu",
         "genres": ["Baroque", "Renaissance"],
         "image": "/assets/img/band/guillaume.webp",
@@ -99,25 +119,6 @@
           "en": "",
           "fr": ""
         }     
-      }, {
-        "name": "DVPE",
-        "genres": ["Techno"],
-        "image": "/assets/img/band/dvpe.webp",
-        "mainLink": "/tree/dvpe.html",
-        "releases": [
-          "MBPSP035",
-          "MBPSP034"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }
       }, {
         "name": "La Baroquerie du Val de Bièvre",
         "genres": ["Baroque", "Renaissance"],
@@ -939,6 +940,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=CQtmNrHCP9Y&list=PLp5D05IpZHwJcZqttWweOWFZ2D0X-wJXa&index=1"
+          }
+        ]
+      },
+      "MBPSP038": {
+        "name": "Bounce",
+        "artist": ["DVPE"],
+        "date": "2024-04-11",
+        "image": "/assets/img/music/MBPSP038.webp",
+        "mainLink": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1"
           }
         ]
       }
