@@ -971,7 +971,7 @@
           "catalog": "MBPMX005",
           "image": "/assets/img/podcast/MBPMX005.webp",
           "date": "2024-04-18",
-          "link": "https://www.instagram.com/dna_dnb_/",
+          "link": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1/",
           "description": {
             "en": "For this first episode, we welcome DNA, for a Drum & Bass DJ set. DNA is one of those DJs who tell a story behind the turntables. Thanks to her technical skill and sharp selecta, she can easily navigate through all styles, to always share more of her universe with us.<br><br>One motto: it has to roll. From Neurofunk to Techstep, passing through Jump Up and the Dancefloor, everything goes with disconcerting ease. It's thanks to her talent that she has been able to express herself in the biggest parties of the capital: Studio, Forever, U Fest, and more recently opening the Nexus for Chase & Status.",
             "fr": "Pour ce premier épisode, nous accueillons DNA, pour un set de Drum & Bass. DNA fait partie de ces DJ qui racontent une histoire derrière les platines. Grâce à son aisance technique et sa selecta pointue, elle peut facilement se balader dans tous les styles, afin de toujours plus nous partager son univers.<br><br>Un seul mot d'ordre : il faut que ça roule. De la Neurofunk à la Techstep, en passant par la Jump Up et le Dancefloor, tout y passe avec une facilité déconcertante. C'est grâce à son talent qu'elle a pu s'exprimer dans les plus grandes soirées de la capitale : Studio, Forever, U Fest et plus récemment ouvrir le Nexus pour Chase & Status."
@@ -983,11 +983,36 @@
             },
             {
               "name": "YouTube",
-              "url": "https://www.youtube.com/watch?v=TyGox4qKDdM/"
+              "url": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1/"
             }, 
             {
               "name": "Mixcloud",
               "url": "https://www.mixcloud.com/MesseBasseProduction/fréquences-basses-1-dna/"
+            }
+          ]
+        }, 
+        {
+          "title": "Fréquences Basses #2 – Stanley Fatmax",
+          "catalog": "MBPMX005",
+          "image": "/assets/img/podcast/MBPMX006.webp",
+          "date": "2024-05-17",
+          "link": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2/",
+          "description": {
+            "en": "On this second episode, we welcome Stanley Fatmax, from his real name Nino Filiu, a multidisciplinary tech artist and free spirit in the world of Parisian raves. Frustrated by the monotony of these events due to the hegemony of standardized techno, Fatmax has collaborated with collectives like Craquage or Acme, which have allowed them to take risks in their audiovisual productions.<br><br>Categorically refusing the rule that demands a DJ to have musical consistency throughout their DJ sets, Fatmax’s podcasts are nevertheless consistently an artistic, narrative, and personal proposition. In their mix for Messe Basse, amid the thousands of saturated kicks, one can perceive echoes of the artist’s teenage.",
+            "fr": "Pour ce deuxième épisode, nous accueillons Stanley Fatmax, de son vrai nom Nino Filiu, tech artiste multidisciplinaire et électron libre dans le monde des raves parisiennes. Frustré la monotonie de celles-ci du à l’hégémonie de la techno standardisée, Fatmax s’est associé à des collectifs comme Craquage ou Acme qui lui ont laissé prendre des risques sur ses productions audiovisuelles.<br><br>Refusant catégoriquement la règle qui demande qu’un DJ ait une consistance musicale à travers ses sets, les podcasts de Fatmax sont cependant systématiquement une proposition artistique, narrative, et personnelle. Dans son mix pour Messe Basse, à travers les milliers de kicks saturés, on peut percevoir les échos de la période ado skateur fan de dubstep de l’artiste, et une résolution de la nostalgie de cette période par une revisite de ce genre vers de nouvelles directions."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-2-stanley-fatmax/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2/"
+            }, 
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-2-stanley-fatmax/"
             }
           ]
         }
