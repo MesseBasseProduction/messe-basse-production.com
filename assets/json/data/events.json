@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "title": "Fête de la Musique",
+      "catalog": "MBPEVT011",
+      "image": "/assets/img/event/MBPEVT011.webp",
+      "date": "2024-06-21",
+      "place": "Place Jacques Demy, Paris",
+      "link": "https://www.facebook.com/events/1515947792606857/",
+      "description": {
+        "en": "June 21 is a well know date in France for its Fête de la Musique, which celebrates music in all its form and everywhere in the streets. For this ocassion, <a href=\"https://nac.band/\" target=\"_blank\" rel=\"noreferrer noopener\">NAC</a> and <a href=\"https://theforge.band/\" target=\"_blank\" rel=\"noreferrer noopener\">The Forge</a> teamed up again to propose an energic show straight on the street, made a success by the people who gathered and danced with us!",
+        "fr": "Pour la fête de la musique, Messe Basse Production met à nouveau en scène <a href=\"https://nac.band/\" target=\"_blank\" rel=\"noreferrer noopener\">NAC</a> et <a href=\"https://theforge.band/\" target=\"_blank\" rel=\"noreferrer noopener\">The Forge</a>, pour proposer un concert énergique et tenace à même le trottoir. Grâce à un vaste public à l'envie débordante de se défouler, les deux groupes se sont délectés à dérouler leurs setlists, faites de classiques mais aussi de nombreux inédits!"
+      },
+      "starring": [
+        {
+          "name": "NAC",
+          "url": "https://nac.band/"
+        }, {
+          "name": "The Forge",
+          "url": "https://theforge.band/"
+        }
+      ]
+    }, {
       "title": "Musiques Anciennes et Baroque d'Europe",
       "catalog": "MBPEVT010",
       "image": "/assets/img/event/MBPEVT010.webp",
