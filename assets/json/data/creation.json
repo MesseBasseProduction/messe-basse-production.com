@@ -2,6 +2,26 @@
   "music": {
     "artists": [
       {
+        "name": "Guillaume Beaulieu",
+        "genres": ["Baroque", "Renaissance"],
+        "image": "/assets/img/band/guillaume.webp",
+        "mainLink": "/tree/guillaume.html",
+        "releases": [
+          "MBPSP039",
+          "MBPLP016",
+          "MBPLP013"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/guillaume.beaulieu.73"
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "DVPE",
         "genres": ["Techno"],
         "image": "/assets/img/band/dvpe.webp",
@@ -21,25 +41,6 @@
           "en": "",
           "fr": ""
         }
-      }, {
-        "name": "Guillaume Beaulieu",
-        "genres": ["Baroque", "Renaissance"],
-        "image": "/assets/img/band/guillaume.webp",
-        "mainLink": "/tree/guillaume.html",
-        "releases": [
-          "MBPLP016",
-          "MBPLP013"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }   
       }, {
         "name": "Siré Camara",
         "genres": ["Reggae", "World"],
@@ -953,6 +954,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN&index=1"
+          }
+        ]
+      },
+      "MBPSP039": {
+        "name": "Duos pour Deux Flûtes à Bec",
+        "artist": ["Guillaume Beaulieu"],
+        "date": "2024-06-14",
+        "image": "/assets/img/music/MBPSP039.webp",
+        "mainLink": "https://www.youtube.com/watch?v=1GvkYkuk92k&list=PLp5D05IpZHwJ0lSoy3iFpFOp7pZ6peQF8&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=1GvkYkuk92k&list=PLp5D05IpZHwJ0lSoy3iFpFOp7pZ6peQF8&index=1"
           }
         ]
       }
