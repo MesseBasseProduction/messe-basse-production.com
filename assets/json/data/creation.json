@@ -1007,7 +1007,7 @@
         }, 
         {
           "title": "Fréquences Basses #2 – Stanley Fatmax",
-          "catalog": "MBPMX005",
+          "catalog": "MBPMX006",
           "image": "/assets/img/podcast/MBPMX006.webp",
           "date": "2024-05-17",
           "link": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2/",
@@ -1027,6 +1027,31 @@
             {
               "name": "Mixcloud",
               "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-2-stanley-fatmax/"
+            }
+          ]
+        }, 
+        {
+          "title": "Fréquences Basses #3 – 8I'M",
+          "catalog": "MBPMX007",
+          "image": "/assets/img/podcast/MBPMX007.webp",
+          "date": "2024-06-21",
+          "link": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3/",
+          "description": {
+            "en": "This month we welcome 8I'M, electronic music producer based in Toulouse, for a Bass Music mix! Alternating between novelty and nostalgia, between energetic drops and saturated synths, 8I'M pays homage to Dubstep in all its forms with a precise and impactful mix.<br><br>8I'M is influenced by various artists: Marauda, Noisia or even Varien to name a few. Although his favorite genre is Dubstep, he has no limits and produces and mixes many different styles such as Drum & Bass, Techno, House, Trance and Hardcore.",
+            "fr": "Nous accueillons ce mois-ci 8I'M, producteur de musique électronique installé à Toulouse, pour un mix de Bass Music! Alternant entre nouveauté et nostalgie, entre drop énergétique et synthés saturés, 8I'M rend hommage à la Dubstep dans toutes ses formes avec un mix précis et impactant.<br><br>8I'M est influencé par divers artistes : Marauda, Noisia ou encore Varien pour ne citer que eux. Bien que son genre favoris soit la Dubstep, il ne se pose pas de limite et produit et mixe beaucoup de styles différents comme la Drum & Bass, la Techno, la House, la Trance, ou encore le Hardcore."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-3-8im/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3/"
+            }, 
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-3-8im/"
             }
           ]
         }
