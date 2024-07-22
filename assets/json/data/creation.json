@@ -1054,6 +1054,31 @@
               "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-3-8im/"
             }
           ]
+        }, 
+        {
+          "title": "Fréquences Basses #4 – Ernesto",
+          "catalog": "MBPMX008",
+          "image": "/assets/img/podcast/MBPMX008.webp",
+          "date": "2024-07-19",
+          "link": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4/",
+          "description": {
+            "en": "Fréquences Basses aims to showcase music in all its forms. That’s why, after three energetic editions, we’ve decided to invite Ernesto, a DJ from Portugal, for a soft ambient and downtempo mix. Perfect for the start of summer and chilling in the sun!<br><br>Ten years after he began sharing his music and shaking up the underground electronic scene in his hometown (Coimbra, Portugal) and beyond, Tiago Soares, formerly known as « Intemporal », now presents a new solo chapter titled « Ernesto » — a mystery that will unfold over time.",
+            "fr": "Fréquences Basses a pour but de mettre en valeur la musique selon toutes ses formes. C'est pour cela, après trois éditions plus qu'énergiques, que nous avons décidé d'inviter Ernesto, DJ originaire du Portugal, pour un mix d’ambiant & downtempo, tout en douceur. Parfait pour le début de l’été et chiller au soleil!<br><br>Dix ans après avoir commencé à partager sa musique et à secouer la scène électronique underground de sa ville natale (Coimbra, Portugal) et au-delà, Tiago Soares, anciennement connu sous le nom d' « Intemporal », présente aujourd'hui un nouveau chapitre solo, intitulé « Ernesto » - un mystère qui s'éclaircira avec le temps."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-4-ernesto/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4/"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/upload/MesseBasseProduction/fr%C3%A9quences-basses-4-ernesto"
+            }
+          ]
         }
       ]
     }
