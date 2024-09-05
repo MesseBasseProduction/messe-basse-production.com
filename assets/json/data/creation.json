@@ -2,6 +2,27 @@
   "music": {
     "artists": [
       {
+        "name": "DVPE",
+        "genres": ["Techno"],
+        "image": "/assets/img/band/dvpe.webp",
+        "mainLink": "/tree/dvpe.html",
+        "releases": [
+          "MBPSP040",
+          "MBPSP038",
+          "MBPSP035",
+          "MBPSP034"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }
+      }, {
         "name": "Guillaume Beaulieu",
         "genres": ["Baroque", "Renaissance"],
         "image": "/assets/img/band/guillaume.webp",
@@ -21,26 +42,6 @@
           "en": "",
           "fr": ""
         }   
-      }, {
-        "name": "DVPE",
-        "genres": ["Techno"],
-        "image": "/assets/img/band/dvpe.webp",
-        "mainLink": "/tree/dvpe.html",
-        "releases": [
-          "MBPSP038",
-          "MBPSP035",
-          "MBPSP034"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }
       }, {
         "name": "Siré Camara",
         "genres": ["Reggae", "World"],
@@ -967,6 +968,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=1GvkYkuk92k&list=PLp5D05IpZHwJ0lSoy3iFpFOp7pZ6peQF8&index=1"
+          }
+        ]
+      },
+      "MBPSP040": {
+        "name": "IA",
+        "artist": ["DVPE"],
+        "date": "2024-09-05",
+        "image": "/assets/img/music/MBPSP040.webp",
+        "mainLink": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1"
           }
         ]
       }
