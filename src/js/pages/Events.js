@@ -41,12 +41,12 @@ class Events {
 
       for (let i = 0; i < data.events.length; ++i) {
         // First case, the event hasn't occured yet, it is an upcoming one
-        if (hasUpcoming === false && data.events[i].date > this._now) {
+        if (hasUpcoming === false && data.events[i].date >= this._now) {
           hasUpcoming = true;
           const header = document.createElement('H1');
           header.innerHTML = this._nls.upcoming;
           this._dom.appendChild(header);
-        } else if (hasPast === false) {
+        } else if (data.events[i].date < this._now && hasPast === false) {
           hasPast = true;
           const header = document.createElement('H1');
           header.innerHTML = this._nls.past;
