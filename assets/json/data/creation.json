@@ -2,6 +2,28 @@
   "music": {
     "artists": [
       {
+        "name": "Interfluv",
+        "genres": ["Bass House", "Drum & Bass", "Tech House"],
+        "image": "/assets/img/band/interfluv.webp",
+        "mainLink": "/tree/interfluv.html",
+        "releases": [
+          "MBPMX009",
+          "MBPMX004",
+          "MBPMX003",
+          "MBPMX002",
+          "MBPMX001"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "DVPE",
         "genres": ["Techno"],
         "image": "/assets/img/band/dvpe.webp",
@@ -74,27 +96,6 @@
           "en": "",
           "fr": ""
         } 
-      }, {
-        "name": "Interfluv",
-        "genres": ["Bass House", "Drum & Bass", "Tech House"],
-        "image": "/assets/img/band/interfluv.webp",
-        "mainLink": "/tree/interfluv.html",
-        "releases": [
-          "MBPMX004",
-          "MBPMX003",
-          "MBPMX002",
-          "MBPMX001"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }   
       }, {
         "name": "The Forge",
         "genres": ["Progressive Rock", "Jazz Fusion"],
@@ -474,6 +475,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1"
+          }
+        ]
+      },
+      "MBPMX009": {
+        "name": "REC078.WAV",
+        "artist": ["Interfluv"],
+        "date": "2024-09-27",
+        "image": "/assets/img/music/MBPMX009.webp",
+        "mainLink": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1"
           }
         ]
       },
