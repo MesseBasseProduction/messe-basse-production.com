@@ -128,6 +128,7 @@
         "image": "/assets/img/band/bvb.webp",
         "mainLink": "/tree/bvb.html",
         "releases": [
+          "MBPSP041",
           "MBPSP033",
           "MBPLP013",
           "MBPSP027",
@@ -995,6 +996,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1"
+          }
+        ]
+      },
+      "MBPSP041": {
+        "name": "Pavan & Almain",
+        "artist": ["La Baroquerie du Val de Bièvre"],
+        "date": "2024-09-30",
+        "image": "/assets/img/music/MBPSP041.webp",
+        "mainLink": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1"
           }
         ]
       }
