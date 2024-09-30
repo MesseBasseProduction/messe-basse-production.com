@@ -2,6 +2,31 @@
   "music": {
     "artists": [
       {
+        "name": "La Baroquerie du Val de Bièvre",
+        "genres": ["Baroque", "Renaissance"],
+        "image": "/assets/img/band/bvb.webp",
+        "mainLink": "/tree/bvb.html",
+        "releases": [
+          "MBPSP041",
+          "MBPSP033",
+          "MBPLP013",
+          "MBPSP027",
+          "MBPSP005",
+          "MBPSP004",
+          "MBPSP003",
+          "MBPSP002"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }    
+      }, {
         "name": "Interfluv",
         "genres": ["Bass House", "Drum & Bass", "Tech House"],
         "image": "/assets/img/band/interfluv.webp",
@@ -122,31 +147,6 @@
           "en": "",
           "fr": ""
         }     
-      }, {
-        "name": "La Baroquerie du Val de Bièvre",
-        "genres": ["Baroque", "Renaissance"],
-        "image": "/assets/img/band/bvb.webp",
-        "mainLink": "/tree/bvb.html",
-        "releases": [
-          "MBPSP041",
-          "MBPSP033",
-          "MBPLP013",
-          "MBPSP027",
-          "MBPSP005",
-          "MBPSP004",
-          "MBPSP003",
-          "MBPSP002"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": ""
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }    
       }, {
         "name": "Lionel Baudet",
         "genres": ["Experimental", "Jazz Fusion"],
