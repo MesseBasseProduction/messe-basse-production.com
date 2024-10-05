@@ -2,6 +2,27 @@
   "music": {
     "artists": [
       {
+        "name": "Guillaume Beaulieu",
+        "genres": ["Baroque", "Renaissance"],
+        "image": "/assets/img/band/guillaume.webp",
+        "mainLink": "/tree/guillaume.html",
+        "releases": [
+          "MBPLP017",
+          "MBPSP039",
+          "MBPLP016",
+          "MBPLP013"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/guillaume.beaulieu.73"
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }   
+      }, {
         "name": "La Baroquerie du Val de Bièvre",
         "genres": ["Baroque", "Renaissance"],
         "image": "/assets/img/band/bvb.webp",
@@ -69,26 +90,6 @@
           "en": "",
           "fr": ""
         }
-      }, {
-        "name": "Guillaume Beaulieu",
-        "genres": ["Baroque", "Renaissance"],
-        "image": "/assets/img/band/guillaume.webp",
-        "mainLink": "/tree/guillaume.html",
-        "releases": [
-          "MBPSP039",
-          "MBPLP016",
-          "MBPLP013"
-        ],
-        "links": [
-          {
-            "type": "facebook",
-            "url": "https://www.facebook.com/guillaume.beaulieu.73"
-          }
-        ],
-        "bio": {
-          "en": "",
-          "fr": ""
-        }   
       }, {
         "name": "Siré Camara",
         "genres": ["Reggae", "World"],
@@ -424,6 +425,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1"
+          }
+        ]
+      },
+      "MBPLP017": {
+        "name": "Fantaisies pour flûte seule sans basse",
+        "artist": ["Guillaume Beaulieu"],
+        "date": "2024-10-05",
+        "image": "/assets/img/music/MBPLP017.webp",
+        "mainLink": "https://guillaumebeaulieu.bandcamp.com/album/fantaisies-pour-fl-te-seule-sans-basse",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://guillaumebeaulieu.bandcamp.com/album/fantaisies-pour-fl-te-seule-sans-basse"
           }
         ]
       },
