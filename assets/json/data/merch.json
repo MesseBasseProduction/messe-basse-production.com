@@ -11,6 +11,14 @@
   ],
   "albums": [
     {
+      "name": "Guillaume Beaulieu – Fantaisies pour flûte seule sans basse",
+      "catalog": "MBPMC005",
+      "price": {
+        "regular": "15€",
+        "signed": "18€"
+      },
+      "image": "/assets/img/merch/fantaisies.webp"
+    }, {
       "name": "The Forge – Musaïc",
       "catalog": "MBPMC004",
       "price": {
