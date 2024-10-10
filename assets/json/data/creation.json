@@ -23,6 +23,24 @@
           "fr": ""
         }   
       }, {
+        "name": "Drop Die",
+        "genres": ["Hardcore", "Frapcore", "Hardtek"],
+        "image": "/assets/img/band/dropdie.webp",
+        "mainLink": "/tree/dropdie.html",
+        "releases": [
+          "MBPSP042"
+        ],
+        "links": [
+          {
+            "type": "facebook",
+            "url": ""
+          }
+        ],
+        "bio": {
+          "en": "",
+          "fr": ""
+        }
+      }, {
         "name": "La Baroquerie du Val de Bièvre",
         "genres": ["Baroque", "Renaissance"],
         "image": "/assets/img/band/bvb.webp",
@@ -1023,6 +1041,19 @@
           {
             "type": "youtube",
             "url": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1"
+          }
+        ]
+      },
+      "MBPSP042": {
+        "name": "Happy Latino",
+        "artist": ["Drop Die"],
+        "date": "2024-10-10",
+        "image": "/assets/img/music/MBPSP042.webp",
+        "mainLink": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ&index=1",
+        "links": [
+          {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ&index=1"
           }
         ]
       }
