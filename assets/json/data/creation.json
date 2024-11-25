@@ -1068,6 +1068,30 @@
       },
       "episodes": [
         {
+          "title": "Fréquences Basses #5 – J.Strongrock",
+          "catalog": "MBPMX010",
+          "image": "/assets/img/podcast/MBPMX010.webp",
+          "date": "2024-11-22",
+          "link": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5",
+          "description": {
+            "en": "Fréquences Basses is back in force after a (long) summer break! To mark this return, we have the honor of welcoming J.Strongrock, artist and DJ from Toulouse, as well as president of the Cluster Traxx label. J.Strongrock has prepared an energetic and bouncy set for us, at the crossroads between Electro Break and Ghettotech.<br><br>« This set is a mix of unreleased tracks from Cluster Traxx and a selection of tracks from labels whose work we particularly admire. I wanted to offer as many tracks as possible that will be released very soon on the Cluster Traxx label, in order to highlight the talent of all the artists and producers who support us and trust us by sharing with us ever more incredible tracks. »",
+            "fr": "Fréquences Basses revient en force après une (longue) pause estivale ! Pour marquer le coup de ce retour, nous avons l’honneur d’accueillir J.Strongrock, artiste et DJ originaire de Toulouse, ainsi que président du label Cluster Traxx. J.Strongrock nous a préparé un set énergique et rebondissant, à la croisée des chemins entre Electro Break et Ghettotech.<br><br>« Ce set est un mélange d’unreleased de Cluster Traxx et d’une sélection de morceaux issus de labels dont nous admirons particulièrement le travail. J’ai voulu proposer un maximum de morceaux qui sortiront très bientôt sur le label Cluster Traxx, afin de mettre en avant le talent de tou·te·s les artistes et des producteur·ice·s qui nous soutiennent et nous font confiance en partageant avec nous des morceaux toujours plus incroyables. »"
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-5-jstrongrock"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-5-jstrongrock/"
+            }
+          ]
+        }, {
           "title": "Fréquences Basses #4 – Ernesto",
           "catalog": "MBPMX008",
           "image": "/assets/img/podcast/MBPMX008.webp",
@@ -1088,7 +1112,7 @@
             },
             {
               "name": "Mixcloud",
-              "url": "https://www.mixcloud.com/upload/MesseBasseProduction/fr%C3%A9quences-basses-4-ernesto"
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-4-ernesto/"
             }
           ]
         },
@@ -1163,7 +1187,7 @@
             }, 
             {
               "name": "Mixcloud",
-              "url": "https://www.mixcloud.com/MesseBasseProduction/fréquences-basses-1-dna/"
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-1-dna/"
             }
           ]
         }
