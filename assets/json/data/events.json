@@ -1,6 +1,23 @@
 {
   "events": [
     {
+      "title": "Concert de l'an neuf",
+      "catalog": "MBPEVT014",
+      "image": "/assets/img/event/MBPEVT014.webp",
+      "date": "2025-01-11",
+      "place": "Centre Isadora Duncan, Igny",
+      "link": "https://www.facebook.com/events/1023494486209031/",
+      "description": {
+        "en": "La Baroquerie du Val de Bièvre is delighted to invite you to a musical evening to usher in the year 2025. Immerse yourself in a captivating journey through the splendors of the Baroque era, from its delicate beginnings to the brilliance of its golden age. An enchanting program awaits, promising to delight lovers of music and timeless emotions.",
+        "fr": "La Baroquerie du Val de Bièvre a le plaisir de vous convier à une soirée musicale pour inaugurer l'année 2025. Plongez dans un voyage captivant à travers les splendeurs du baroque, depuis ses prémisses délicates jusqu'à l'éclat de son âge d'or. Un programme enchanteur qui promet de ravir les amateurs de musique et d'émotions intemporelles."
+      },
+      "starring": [
+        {
+          "name": "La Baroquerie du Val de Bièvre",
+          "url": "https://baroquerie.fr/"
+        }
+      ]
+    }, {
       "title": "Concert/conférence autour de Telemann",
       "catalog": "MBPEVT013",
       "image": "/assets/img/event/MBPEVT013.webp",
