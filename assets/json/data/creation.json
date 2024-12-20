@@ -1068,6 +1068,30 @@
       },
       "episodes": [
         {
+          "title": "Fréquences Basses #6 – Didier Viande",
+          "catalog": "MBPMX011",
+          "image": "/assets/img/podcast/MBPMX011.webp",
+          "date": "2024-12-20",
+          "link": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6",
+          "description": {
+            "en": "New month, new Fréquences Basses! For this edition, we’re inviting Chapak a.k.a Didier Viande, a Toulouse-based DJ originally from Northern Europe (Lille). Co-founder of the Couleur Vitesse label, he explores alternative electronic music with a keen focus on broken-beat aesthetics. His early productions blend ghetto-tech with hybrid techno. He’s also part of the ambient live duo Electro Dodo.<br><br>« This is a set I’ve crafted with love for the productions that are currently moving me. A mix of diverse flavors—breaks, ghetto-tech, modern jazz, and rock—combined with two unreleased tracks that will feature on an upcoming mixtape with Couleur Vitesse in December (stay tuned)! »",
+            "fr": "Nouveau mois, nouveau Fréquences Basses! On invite pour cette édition Chapak a.k.a Didier Viande, DJ Toulousain originaire du nord de l'Europe (Lille). Co-fondateur du label Couleur Vitesse, il arpente les musiques électro alternatives avec une attention particulière aux esthétiques breakées. Ses premières productions sont un mélange de ghetto-tech et de techno hybrides. Il fait également parti du duo live d'ambient Electro Dodo.<br><br>« C'est un set que j'ai concocté avec l'amour porté aux productions qui me font actuellement vibrer. Un mélange de saveurs éparses, des morceaux de break, ghetto-tech, jazz moderne et rock se combinent avec deux tracks unreleased qui sortiront sur une mixtape à venir avec Couleur Vitesse en décembre (restez branchés) ! »"
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-5-jstrongrock"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-5-jstrongrock/"
+            }
+          ]
+        }, {
           "title": "Fréquences Basses #5 – J.Strongrock",
           "catalog": "MBPMX010",
           "image": "/assets/img/podcast/MBPMX010.webp",
