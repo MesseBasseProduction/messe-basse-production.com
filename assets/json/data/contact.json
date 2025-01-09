@@ -28,6 +28,13 @@
       "name": "Pierre Bouniol",
       "role": "dev",
       "image": "/assets/img/asso/Pierre.webp"
+    }
+  ],
+  "pastMembers": [
+    {
+      "name": "Guillaume Crantz",
+      "role": "apparel",
+      "image": "/assets/img/asso/Guillaume.webp"
     }, {
       "name": "Gregory Le",
       "role": "infra",
@@ -38,15 +45,12 @@
       "image": "/assets/img/asso/Erwan.webp"
     }
   ],
-  "pastMembers": [
-    {
-      "name": "Guillaume Crantz",
-      "role": "apparel",
-      "image": "/assets/img/asso/Guillaume.webp"
-    }
-  ],
   "documents": [
     {
+      "name": "PVAGO",
+      "date": "2025-01-04",
+      "url": "/assets/doc/2025-01-04 - PVAGO.pdf"
+    }, {
       "name": "PVAGO",
       "date": "2024-01-04",
       "url": "/assets/doc/2024-01-04 - PVAGO.pdf"
