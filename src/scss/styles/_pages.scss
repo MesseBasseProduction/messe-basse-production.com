@@ -621,7 +621,9 @@ main.merch {
       border-radius: 1.5rem;
       box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);
       max-width: 100%;
+      overflow: hidden;
       padding: 2rem;
+      position: relative;
 
       img {
         max-height: 30rem;
@@ -639,6 +641,38 @@ main.merch {
 
       i, button {
         margin-top: 1.6rem;
+      }
+
+      &:active p.remaining,
+      &:focus p.remaining,
+      &:hover p.remaining {
+        opacity: 1;
+      }
+
+      p.remaining {
+        background: var(--c-primary);
+        box-shadow: 0 0 0 999px var(--c-primary);
+        clip-path: inset(0 -100%);
+        color: black;
+        inset: 0 0 auto auto;
+        opacity: .5;
+        padding: .5rem 2rem;
+        position: absolute;
+        transform-origin: 0 0;
+        transform: translate(29.3%) rotate(45deg);
+        transition: all .2s;
+      }
+
+      p.sold-out {
+        background: #d03333;
+        box-shadow: 0 0 0 999px #d03333;
+        clip-path: inset(0 -100%);
+        font-weight: bold;
+        inset: 0 0 auto auto;
+        padding: .5rem 2rem;
+        position: absolute;
+        transform-origin: 0 0;
+        transform: translate(29.3%) rotate(45deg);
       }
     }
   }

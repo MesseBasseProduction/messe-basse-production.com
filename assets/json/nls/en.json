@@ -63,7 +63,9 @@
     "regularAlbum": "Regular release",
     "signedAlbum": "Signed copy",
     "postageFee": "*Postage not included",
-    "orderOne": "Order one now!"
+    "orderOne": "Order one now!",
+    "soldOut": "Sold out!",
+    "remaining": "remaining"
   },
   "contact": {
     "title": "About us",

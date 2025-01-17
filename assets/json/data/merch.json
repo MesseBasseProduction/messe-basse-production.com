@@ -6,7 +6,8 @@
       "type": "Unisex T-Shirts",
       "catalog": "MBPMC003",
       "price": "25€",
-      "image": "/assets/img/merch/powerplant.webp"
+      "image": "/assets/img/merch/powerplant.webp",
+      "remaining": 0
     }
   ],
   "albums": [
@@ -17,7 +18,8 @@
         "regular": "15€",
         "signed": "18€"
       },
-      "image": "/assets/img/merch/fantaisies.webp"
+      "image": "/assets/img/merch/fantaisies.webp",
+      "remaining": 200
     }, {
       "name": "The Forge – Musaïc",
       "catalog": "MBPMC004",
@@ -25,7 +27,8 @@
         "regular": "5€",
         "signed": "7€"
       },
-      "image": "/assets/img/merch/musaic.webp"
+      "image": "/assets/img/merch/musaic.webp",
+      "remaining": 50
     }, {
       "name": "NAC – Dystopie",
       "catalog": "MBPMC001",
@@ -33,7 +36,8 @@
         "regular": "5€",
         "signed": "7€"
       },
-      "image": "/assets/img/merch/dystopie.webp"
+      "image": "/assets/img/merch/dystopie.webp",
+      "remaining": 80
     }, {
       "name": "The Forge – Etica Nikomak",
       "catalog": "MBPMC002",
@@ -41,7 +45,8 @@
         "regular": "5€",
         "signed": "7€"
       },
-      "image": "/assets/img/merch/etica.webp"
+      "image": "/assets/img/merch/etica.webp",
+      "remaining": 15
     }
   ]
 }

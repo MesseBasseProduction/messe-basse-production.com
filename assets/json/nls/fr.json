@@ -63,7 +63,9 @@
     "regularAlbum": "Album standard",
     "signedAlbum": "Album dédicacé",
     "postageFee": "*Frais de ports non inclus",
-    "orderOne": "Commandez le votre!"
+    "orderOne": "Commandez le votre!",
+    "soldOut": "Épuisé!",
+    "remaining": "restant(s)"
   },
   "contact": {
     "title": "À propos de nous",

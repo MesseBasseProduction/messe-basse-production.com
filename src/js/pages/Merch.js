@@ -77,9 +77,22 @@ class Merch {
     const submit = document.createElement('BUTTON');
     submit.innerHTML = this._nls.orderOne;
 
-    submit.addEventListener('click', () => {
-      window.open(`mailto:contact@messe-basse-production.com?subject=Commander le vêtement ${data.name}&body=Bonjour, je souhaite commander le vêtement ${data.name} de ${data.designer}. Ce vêtement reviens à ${data.price}, frais postaux non inclus pour la France. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
-    });
+    if (data.remaining === 0) {
+      const soldOut = document.createElement('P');
+      soldOut.classList.add('sold-out');
+      soldOut.innerHTML = this._nls.soldOut;
+      collection.appendChild(soldOut);
+      submit.setAttribute('disabled', 'disabled');
+    } else {
+      const remaining = document.createElement('P');
+      remaining.classList.add('remaining');
+      remaining.innerHTML = `${data.remaining} ${this._nls.remaining}`;
+      collection.appendChild(remaining);
+
+      submit.addEventListener('click', () => {
+        window.open(`mailto:contact@messe-basse-production.com?subject=Commander le vêtement ${data.name}&body=Bonjour, je souhaite commander le vêtement ${data.name} de ${data.designer}. Ce vêtement reviens à ${data.price}, frais postaux non inclus pour la France. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
+      });
+    }
 
     collection.appendChild(image);
     collection.appendChild(name);
@@ -114,9 +127,22 @@ class Merch {
     const submit = document.createElement('BUTTON');
     submit.innerHTML = this._nls.orderOne;
 
-    submit.addEventListener('click', () => {
-      window.open(`mailto:contact@messe-basse-production.com?subject=Commander le disque ${data.name}&body=Bonjour, je souhaite commander le disque ${data.name}. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
-    });
+    if (data.remaining === 0) {
+      const soldOut = document.createElement('P');
+      soldOut.classList.add('sold-out');
+      soldOut.innerHTML = this._nls.soldOut;
+      album.appendChild(soldOut);
+      submit.setAttribute('disabled', 'disabled');
+    } else {
+      const remaining = document.createElement('P');
+      remaining.classList.add('remaining');
+      remaining.innerHTML = `${data.remaining} ${this._nls.remaining}`;
+      album.appendChild(remaining);
+
+      submit.addEventListener('click', () => {
+        window.open(`mailto:contact@messe-basse-production.com?subject=Commander le disque ${data.name}&body=Bonjour, je souhaite commander le disque ${data.name}. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
+      });
+    }
 
     album.appendChild(image);
     album.appendChild(name);
