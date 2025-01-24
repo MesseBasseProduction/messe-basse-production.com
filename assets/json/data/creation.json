@@ -1068,6 +1068,30 @@
       },
       "episodes": [
         {
+          "title": "Fréquences Basses #7 – Symon Says",
+          "catalog": "MBPMX012",
+          "image": "/assets/img/podcast/MBPMX012.webp",
+          "date": "2025-01-24",
+          "link": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7",
+          "description": {
+            "en": "For this first edition of 2025, we wanted to warm up the spirits! Tired of the cold, the rain and the sun setting too early? This month's mix will give you all the energy you need to last until the sunny days arrive! Symon Says honors us at the start of the year with a set combining Drum & Bass, UKG and Breakbeat, just that.<br><br>DJ, producer and co-founder of the Toulouse collective Yann Records, Symon Says likes to wander between different styles in his productions and in his mixes. From Breakbeat to Drum to Trap to UK Garage, this mix is a perfect reflection of his current influences and the artists who inspire him. He also got involved in the Parisian scene by founding Plasma, a collective organizing evenings in multiple styles: techno, psytrance and breakbeat.",
+            "fr": "Pour cette première édition de l’année 2025, on a voulu réchauffer les esprits ! Marre du froid, de la pluie et du soleil qui se couche trop tôt ? Le mix de ce mois-ci saura vous redonner toute l’énergie nécessaire pour tenir jusqu’à l’arrivée des beaux jours ! Symon Says nous fait l’honneur en ce début d’année avec un set alliant Drum & Bass, UKG et Breakbeat, rien que ça.<br><br>DJ, producteur et co-fondateur du collectif Toulousain Yann Records, Symon Says aime se balader entre les différents styles dans ses productions comme dans ses mix. Du Breakbeat à la Drum en passant par la Trap ou encore de l’UK Garage, ce mix est un reflet parfait de ses influences actuelles et des artistes qui l’inspire. Il s’est également investi dans la scène parisienne en fondant Plasma, un collectif organisant des soirées aux multiples styles : techno, psytrance et breakbeat."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-7-symon-says"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-6-didier-viande/"
+            }
+          ]
+        }, {
           "title": "Fréquences Basses #6 – Didier Viande",
           "catalog": "MBPMX011",
           "image": "/assets/img/podcast/MBPMX011.webp",
