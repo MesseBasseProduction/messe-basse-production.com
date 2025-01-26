@@ -1,5 +1,5 @@
 services:
-  messe-basse-priduction:
+  messe-basse-production:
     container_name: messe_basse_production_front_node
     build: .
     command: npm run start
