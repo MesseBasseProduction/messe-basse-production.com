@@ -1,0 +1,10 @@
+services:
+  messemap:
+    container_name: messe_basse_production_front_node
+    build: .
+    command: npm run start
+    restart: always
+    ports:
+      - 8070:8070
+    environment:
+      - NODE_ENV=prod

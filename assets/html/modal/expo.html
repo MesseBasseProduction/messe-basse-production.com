@@ -1,6 +1,6 @@
 <p id="close-modal" class="close">&times</p>
 <h1><span id="expo-title"></span> <em>by <span id="expo-author"></span></em></h1>
-<p>{{PHOTO_EXPOSITION_MODAL_DESCRIPTION}}</p>
+<p data-nls="PHOTO_EXPOSITION_MODAL_DESCRIPTION">Selectionnez la photographie qui vous intérresse, puis utilisez le configurateur suivant pour préparer votre tirage selon vos besoins! Choisissez la taille désirée, le type de tirage, ses marges et enfin son cadre.</p>
 <div id="photo-selector" class="photo-selector">
   <p class="selected" data-number="0"></p>
   <p data-number="1"></p>
@@ -15,33 +15,33 @@
     </div>
   </div>
   <div class="editor">
-    <h2>{{PHOTO_EXPOSITION_MODAL_CUSTOMIZE}}</h2>
+    <h2 data-nls="PHOTO_EXPOSITION_MODAL_CUSTOMIZE">Customisez votre tirage</h2>
     <p><span id="photo-title"></span> (<em id="photo-date"></em>)</p>
     <div id="frame-size" class="editor-command">
-      <label>{{PHOTO_EXPOSITION_MODAL_PRINT_SIZE}}</label>
+      <label data-nls="PHOTO_EXPOSITION_MODAL_PRINT_SIZE">Taille du tirage</label>
       <p class="selected" data-size="a3">A3</p>
       <p data-size="a4">A4</p>
     </div>
     <div id="print-type" class="editor-command">
-      <label>{{PHOTO_EXPOSITION_MODAL_PRINT_TYPE}}</label>
-      <p class="selected" data-type="paper">{{PHOTO_EXPOSITION_MODAL_PRINT_PAPER}}</p>
-      <p data-type="dibond">{{PHOTO_EXPOSITION_MODAL_PRINT_DIBOND}}</p>
+      <label data-nls="PHOTO_EXPOSITION_MODAL_PRINT_TYPE">Support du tirage</label>
+      <p class="selected" data-type="paper" data-nls="PHOTO_EXPOSITION_MODAL_PRINT_PAPER">Papier</p>
+      <p data-type="dibond" data-nls="PHOTO_EXPOSITION_MODAL_PRINT_DIBOND">Dibond</p>
     </div>
     <div id="frame" class="editor-command">
-      <label>{{PHOTO_EXPOSITION_MODAL_FRAME}}</label>
-      <p class="selected" data-frame="no">{{PHOTO_EXPOSITION_MODAL_FRAME_NONE}}</p>
-      <p data-frame="black">{{PHOTO_EXPOSITION_MODAL_FRAME_BLACK}}</p>
-      <p data-frame="white">{{PHOTO_EXPOSITION_MODAL_FRAME_WHITE}}</p>
-      <p data-frame="wood">{{PHOTO_EXPOSITION_MODAL_FRAME_WOOD}}</p>
+      <label data-nls="PHOTO_EXPOSITION_MODAL_FRAME">Cadre</label>
+      <p class="selected" data-frame="no" data-nls="PHOTO_EXPOSITION_MODAL_FRAME_NONE">Sans cadre</p>
+      <p data-frame="black" data-nls="PHOTO_EXPOSITION_MODAL_FRAME_BLACK">Noir</p>
+      <p data-frame="white" data-nls="PHOTO_EXPOSITION_MODAL_FRAME_WHITE">Blanc</p>
+      <p data-frame="wood" data-nls="PHOTO_EXPOSITION_MODAL_FRAME_WOOD">Bois</p>
     </div>
     <div class="editor-command">
-      <label>{{PHOTO_EXPOSITION_MODAL_MARGINS}}</label>
+      <label data-nls="PHOTO_EXPOSITION_MODAL_MARGINS">Marges</label>
       <input type="checkbox" id="print-margin">
     </div>
     <div class="order">
       <h1 id="order-price">34€</h1>
-      <h3>({{PHOTO_EXPOSITION_MODAL_POSTAGE_FEES}})</h3>
-      <button id="place-order">{{PHOTO_EXPOSITION_MODAL_ORDER}}</button>
+      <h3>(<span data-nls="PHOTO_EXPOSITION_MODAL_POSTAGE_FEES">Frais postaux inclus, en France</span>)</h3>
+      <button id="place-order" data-nls="PHOTO_EXPOSITION_MODAL_ORDER">Commander</button>
     </div>
   </div>
 </div>

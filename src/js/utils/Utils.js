@@ -14,6 +14,26 @@ class Utils {
   }
 
 
+  static replaceNlsString(parent, string, value) {
+    const element = parent.querySelector(`[data-nls="${string}"]`);
+    if (!element || !element.innerHTML || !string || typeof string !== 'string' || !value || typeof value !== 'string') {
+      return false;
+    }
+
+    element.innerHTML = value;
+    return true;
+  }
+
+
+  static sleep(time) {
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        return resolve(null);
+      }, time);
+    });
+  }
+
+
   static fetchPage(url) {
     return new Promise((resolve, reject) => {
       fetch(url).then(data => {

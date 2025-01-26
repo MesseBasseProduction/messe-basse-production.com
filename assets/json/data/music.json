@@ -1,0 +1,1339 @@
+{
+  "artists": [
+    {
+      "name": "Guillaume Beaulieu",
+      "internalUrl": "guillaume-beaulieu",
+      "genres": ["Baroque", "Renaissance"],
+      "image": "/assets/img/band/guillaume.webp",
+      "website": "https://guillaumebeaulieu.com",
+      "releases": ["MBPLP017", "MBPSP039", "MBPLP016", "MBPLP013"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/guillaume.beaulieu.73"
+        }, {
+          "type": "instagram",
+          "url": "https://www.instagram.com/guillaume_beaulieu_recorder/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@GuillaumeBeaulieuRecorder"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0y9nzp1xoHA1ihi3Dx1CxY"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/guillaume-beaulieu/1677489486"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0088YBMI4/guillaume-beaulieu/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/2680111/"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/guillaume-beaulieu/17751683"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/38011368"
+        }, {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10064086/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/7a0be4a0-7cd0-46b8-b93e-dfb2853f3969"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Guillaume Beaulieu</i> débute la flûte à bec à l’âge de dix ans au conservatoire de Massy, en région parisienne. Il obtient son DEM de flûte à bec en 2010 dans la classe de <i>Jean-Pierre Nicolas</i> au CRD de la vallée de Chevreuse avec les félicitations du jury à l’unanimité, puis il intègre la classe de <i>Pierre Hamon</i> au CNSMD de Lyon. Il y obtiendra son master en 2015 avec la mention très bien. Son goût pour la musique ancienne le pousse à s’intéresser à la basse continue ; il complète ainsi sa formation en étudiant le clavecin avec <i>Michèle Dévérité</i> au CRD de la vallée de Chevreuse.<br><br>Cette polyvalence lui permet de se produire en France et à l’étranger (Brésil, Japon, Pologne, Hollande, Belgique, Israël…) avec différents ensembles : ensemble Pygmalion, les Nouveaux Caractères, Ensemble Canzona, Orchestre Français des Jeunes Baroques.<br><br>Il a remporté plusieurs prix avec son ensemble de flûtes : le Consort Brouillamini (1<sup>er</sup> prix du Concours International des journées de musiques anciennes de Vanves 2016, Prix du public pour la saison musicale de Musée en musique de Grenoble 2015). Guillaume a également remporté en soliste le 2<sup>ème</sup> prix du concours international <i>Moeck / SRP solo recorder competition</i> 2017, le 3<sup>ème</sup> prix au concours de Nordhorn, le 3<sup>ème</sup> prix au concours international de New York en 2019 (<i>Golden Classical Music Awards</i>), ainsi que le 1<sup>er</sup> prix au concours soliste international de Tel Aviv en 2020.<br><br>Passionné par l'enseignement de son instrument, Guillaume intervient régulièrement lors de <i>masterclass</i> et enseigne la flûte à bec à l’école des arts de Marcoussis, ainsi qu’au conservatoire de Chevilly-Larue dont il est également le Directeur.",
+        "en": "<i>Guillaume Beaulieu</i> began learning the recorder at the age of ten at the Massy music school, located in the south suburb of Paris, before joining <i>Jean-Pierre Nicolas</i>'s class at the CRD Paris-Saclay, graduating with unanimous high honors. He then integrated <i>Pierre Hamon</i>'s class at the CNSMD of Lyon, where he received his master's degree in 2015 with highest distinction. His passion for early music led him to explore basso continuo, furthering his education by studying harpsichord with <i>Michèle Dévérité</i> at the CRD Paris-Saclay.<br><br>His versatility has allowed him to perform both in France and internationally (Brazil, Japan, Poland, the Netherlands, Belgium, Israel…) with various ensembles: Ensemble Pygmalion, Les Nouveaux Caractères, Correspondances, Consort Brouillamini, and Barrocada Orchestra.<br><br>Guillaume Beaulieu is a laureate of several international soloist awards: 1<sup>st</sup> prize at the Tel Aviv International Solo Recorder Competition in 2020, 2<sup>nd</sup> prize at the Moeck / SRP Solo Recorder Competition in 2017, 3<sup>rd</sup> prize at the New York International Competition in 2019 (Golden Classical Music Awards), and 3<sup>rd</sup> prize at the Nordhorn Competition. Additionally, with his recorder ensemble, Consort Brouillamini, he won 1<sup>st</sup> prize at the International Early Music Days Competition in Vanves in 2016, as well as the audience prize for the Musée en Musique season in Grenoble in 2015.<br><br>Guillaume is highly passionated by his instrument and he intervenes regularly in masterclasses and teaches recorder at the School of the Arts in Marcoussis as well at the Chevilly-Larue Conservatory, where he also is the director."
+      },
+      "shortBio": {
+        "fr": "Flûtiste à Bec baroque de renommée internationale, reconnu pour sa virtuosité et son interprétation authentique des œuvres du répertoire. Il se produit régulièrement en France et à l’étranger avec des ensembles prestigieux. Soliste primé, il allie avec ferveur sa carrière artistique et son engagement passionné dans l'enseignement de la flûte à bec.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Guillaume Beaulieu</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une touche d’éclectisme baroque bienvenue au catalogue de l'Association.",
+        "en": ""
+      } 
+    }, {
+      "name": "Drop Die",
+      "internalUrl": "drop-die",
+      "genres": ["Hardcore", "Frapcore", "Hardtek"],
+      "image": "/assets/img/band/dropdie.webp",
+      "mainLink": "https://www.instagram.com/juliendropdie2.0/",
+      "releases": ["MBPSP042"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/juliendropdie2.0/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@dropdieprod"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/drop-die/1261237"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Drop+Die/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1GZ0CJNiNV64LQhsRhk7bW"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/drop-die/1576439346"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B099DD5WRR/drop-die"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/139113932"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/diedrop/7671323"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/26996279"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/15233280-Drop-Die"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/a6c61e8d-5bb8-4d61-a1ed-5204fdef549a"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Drop Die</i> est un producteur et DJ français fervent défenseur dans la scène Hardcore et Frapcore, avec un parcours marqué par son engagement dans les raves et les <i>free parties</i>. Il se distingue par son approche indépendante et son attachement à la culture undergound. Ses sets et productions, directes et sans compromis, combinent une technique irréprochable et une énergie brute.<br><br><i>Drop Die</i> a développé au fil des années un style musical rugueux et sauvage, reflet de l’énergie inaltéré qui le traverse. En tant que producteur, il reste fidèle à l’esprit de la rave : ses morceaux sont sombres, percutants, et conçus pour frapper fort ; sans concessions.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "DJ et producteur français de la scène Hardcore et Frapcore, reconnu pour son engagement dans la culture underground. Son style intense et sans détours incarne pleinement l’essence des raves et free parties.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Drop Die</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de techno énervée bienvenue au catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
+      "name": "La Baroquerie du Val de Bièvre",
+      "internalUrl": "la-baroquerie-du-val-de-bievre",
+      "genres": ["Baroque", "Renaissance"],
+      "image": "/assets/img/band/bvb.webp",
+      "mainLink": "https://baroquerie.fr/",
+      "releases": ["MBPSP041", "MBPSP033", "MBPLP013", "MBPSP027", "MBPSP005", "MBPSP004", "MBPSP003", "MBPSP002"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/baroquerie"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@LaBaroquerie"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0NDWmyeZMHf9LdeNcIDRKy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/la-baroquerie-du-val-de-bi%C3%A8vre/1658942595"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0BPH2Z4CT/la-baroquerie-du-val-de-bi%C3%A8vre/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/192901537"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/la-baroquerie-du-val-de-bievre/16644819"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/36049252"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10067725-La-Baroquerie-du-Val-de-Bi%C3%A8vre/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/f574963c-890f-492e-a3bd-99b870235a68"
+        }
+      ],
+      "bio": {
+        "fr": "<i>La Baroquerie du Val de Bièvre</i> est un ensemble instrumental de musique baroque à géométrie variable, composé d’amateurs confirmés et de quelques professionnels.<br><br>Fondé en 2007 autour d’un noyau issu du CRC de Massy, l’ensemble s’est constitué en Association loi 1901 siégeant à Igny (Essonne) au sein de la communauté d’agglomération Paris-Saclay.<br><br>Son nom fait référence à son lieu de résidence, la vallée de la Bièvre, révélée comme le théâtre du film « <i>Tous les matins du monde</i> » qui contribua fortement à l’engouement du public pour la musique baroque.<br><br>Son objectif musical ne s’inscrit pas dans une démarche historiquement informée mais revisite le répertoire et propose des interprétations originales mêlant instrumentations d’époque et moderne dans l’esprit artistique du mouvement baroque.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "Ensemble de musique baroque fondé en 2007, composé d’amateurs confirmés et de professionnels, qui revisitent le répertoire avec une approche mêlant instruments anciens et modernes.<br><br>Depuis 2021, <i>La Baroquerie du Val de Bièvre</i> est partenaire de <i>Messe Basse Production</i>, collaboration initiée aux débuts de l'Association.",
+        "en": ""
+      }
+    }, {
+      "name": "Interfluv",
+      "internalUrl": "interfluv",
+      "genres": ["Bass House", "Drum & Bass", "Tech House"],
+      "image": "/assets/img/band/interfluv.webp",
+      "mainLink": "https://www.instagram.com/interfluv/",
+      "releases": ["MBPMX009", "MBPMX004", "MBPMX003", "MBPMX002", "MBPMX001"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/interfluv/"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interfluv"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@interfluvproducer"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/Interfluv/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/13659424-Interfluv"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/4191e1e1-31a5-4551-b4e2-4430cd2aa3ce"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Interfluv</i> est un DJ aux multiples facettes, un artiste dont le talent s’étend bien au-delà des frontières des genres musicaux. Originaire de la région parisienne, il a grandi dans un environnement où les sonorités électroniques fusionnaient avec les influences musicales de tout horizon. Très jeune, il se passionne pour la musique, écoutant des morceaux de rap, de rock, de jazz, et découvrant rapidement l’univers de l’électro. Ses premières inspirations viennent des pionniers de la scène musicale underground, et c’est en écoutant des mixes variés de DJs avant-gardistes qu’il se forge son identité sonore unique.<br><br>Refusant de se limiter à un seul style, Interfluv prend un malin plaisir à traverser les genres avec une aisance déconcertante. Du Breaks au UK Garage, de la House à ses multiples déclinaisons, en passant par la Trance et la Drum & Bass, il navigue avec une fluidité totale entre des sonorités aussi différentes que complémentaires. L’un de ses talents réside dans sa capacité à ajuster chaque morceau en fonction de l’énergie de la foule, à faire vivre un moment musical intense, quel que soit le genre qu’il choisit de jouer. C’est un DJ caméléon, capable de s’adapter à tout type de public tout en préservant son propre style.<br><br>Après plusieurs années passées à jouer dans divers événements parisiens, <i>Interfluv</i> choisit de s’installer à Toulouse, où il écume désormais les soirées avec ferveur, enchaînant des sets endiablés dans des clubs prisés et lors de festivals.<br><br>Aujourd'hui, Interfluv continue de repousser les limites de son art. Il n'est jamais là où on l’attend, car son désir est d’explorer de nouveaux horizons, de réinventer ses sets à chaque occasion. Un véritable passionné, dont la mission est claire : faire vibrer les foules, transcender les genres et offrir des moments de pure énergie à son public.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "DJ polyvalent et avant-gardiste, originaire de la région parisienne, qui explore sans limites les genres musicaux, de l’électro à la Trance, en passant par la House ,la Drum & Bass et le Breaks, tout en créant des expériences uniques et énergétiques pour son public, de Paris à Toulouse.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Interfluv</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une nouvelle dimension clubesque au catalogue de l'Association.",
+        "en": ""
+      }   
+    }, {
+      "name": "DVPE",
+      "internalUrl": "dvpe",
+      "genres": ["Techno"],
+      "image": "/assets/img/band/dvpe.webp",
+      "mainLink": "/tree/dvpe.html",
+      "releases": ["MBPSP040", "MBPSP038", "MBPSP035", "MBPSP034"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/juliendropdie2.0/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@DVPE-MUSIC"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/dvpe/1174862"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Dvpe/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/3y2pMLWmGEMZQMnNDqVhwX"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/dvpe/1721934637"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0CQKHXJ47/dvpe"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/247509642"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/dvpe/20833525"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/44529600"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/13931071-DVPE"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/b336c9ea-05c7-4b2c-9210-2228fd01e6cb"
+        }
+      ],
+      "bio": {
+        "fr": "<i>DVPE</i> est un nom qui résonne dans l'univers de la techno underground, captivant avec des compositions audacieuses et expérientielles. Son approche innovante fusionne des sons bruts, des rythmes hypnotiques et des basses percutantes, créant une atmosphère qui défie le genre.<br><br>Il est notablement reconaissable pour son style unique qui repousse les frontières de la musique électronique. Sans se limiter aux normes du genre, il mêle avec aisance des éléments de techno industrielle, de minimalisme et d’expérimentation sonore, tout en créant des espaces sonores intenses et imprévisibles. Ses productions sont marquées par une volonté de déstabiliser avec des sonorités puissantes et une dynamique qui séduit les puristes du genre.<br><br>Artiste indépendant et fervent défenseur du milieu underground, <i>DVPE</i> se distingue par sa capacité à jouer avec les textures sonores et les structures rythmiques non linéaires. Chaque morceau de son répertoire est une exploration, une immersion dans une techno qui vibre au-delà des attentes et fait voyager ses auditeurs à travers des paysages musicaux singuliers.<br><br>Son évolution sur la scène underground s'est faite à travers des performances mémorables au sein de rave parties ; il préfère évoluer dans des espaces plus intimistes, où la connexion avec son public et l’impact de sa musique sont au cœur de chaque performance.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "Artiste de la scène techno underground, reconnu pour ses compositions audacieuses mêlant techno industrielle, minimalisme et expérimentation sonore, créant des atmosphères intenses et imprévisibles qui repoussent les limites du genre et captivent un public fidèle dans des performances intimistes.<br><br>C’est à partir de 2023 que ce partenariat entre <i>DVPE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de kicks et de mélodies endiablés bienvenues au catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
+      "name": "Siré Camara",
+      "internalUrl": "sire-camara",
+      "genres": ["Reggae", "World"],
+      "image": "/assets/img/band/sire.webp",
+      "mainLink": "https://sire-camara.band",
+      "releases": ["MBPSP037", "MBPSP036", "MBPSP032", "MBPSP031", "MBPSP030", "MBPSP029", "MBPSP023", "MBPSP022", "MBPSP021", "MBPSP020", "MBPSP019", "MBPSP018", "MBPSP015", "MBPSP014", "MBPSP012"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/sirecamaraband"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@sirecamaramusic"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2UjPUuirfFhU4jf93yA3qy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/sir%C3%A9-camara/1622735518"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B09ZQHQ3PV/sir%C3%A9-camara"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/en/artist/172059427"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/sire-camara/14316666"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/32446829"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/11183003-Sir%C3%A9-Camara"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/c5b40842-72e5-45ec-98e3-09ac6d9aa745"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Sire-camara/"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Siré Camara</i> est un musicien et conteur Mauritanien, Directeur de l’Espace culturel « <i>Diadié Camara</i> » à Nouakchott. Il est également membre de l’Association des <i>Griots Urbains</i> de France, animateur socioculturel et responsable de la troupe artistique « <i>Taaré-Taaré</i> ». Il est titulaire d'une maîtrise en histoire de l’Université Paris I (Sorbone), à suivi des formations en sociologie et est auteur de trois livres éducatifs (conte, mémoires de griot, palabres sur l’école, les jeunes et la culture).<br><br>Pendant ses études universitaires en histoire et en sociologie, il travaille dans le milieu associatif comme animateur socio-culturel. Il s’intéresse par la suite aux contes et fonde l’Association les <i>Griots Urbains</i> à Montreuil qui va promouvoir les contes et les instruments de musique africains.<br><br>Entre 2002 et 2006, il voyage régulièrement en Mauritanie. Durant cette période, il est en contact avec les jeunes mauritaniens qui se sentent coupés de tout échange culturel. Face à ce constat, il s’installe dans la capitale Nouakchott et décide d’y ouvrir un lieu d’échanges et de rencontres issus de la diversité culturelle de Mauritanie (communautés Maures et Négro-africaines) : l’Espace Culturel <i>Diadié Tabara Camara</i>. Dans ce lieu, il développe des activités socio-éducatives et artistiques.<br><br>Parmi ses principales activités annuelles en Mauritanie figurent le festival des Sagesses Populaires qui implique les jeunes et les écoles pour mettre en valeur le patrimoine Mauritanien (contes, berceuses, musiques, proverbes…).<br><br>Fort de ces experiences variées, <i>Siré Camara</i> à également su s'entourer pour mettre ses valeurs et ses idées en musiques sur des thèmes qui lui sont chers ; la nature, l'unité et l'harmonie des peuples.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "Musicien et conteur mauritanien, fondateur de l'Espace Culturel Diadié Camara à Nouakchott, où il mêle tradition et créativité en valorisant la musique et les contes africains. Avec une forte expérience socioculturelle, il compose et interprète des morceaux inspirés par la nature, l'unité et l'harmonie des peuples, tout en organisant des événements comme le festival des Sagesses Populaires pour promouvoir le patrimoine mauritanien.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Siré Camara</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler une vent de fraicheur chaloupé sur le catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
+      "name": "The Forge",
+      "internalUrl": "the-forge",
+      "genres": ["Progressive Rock", "Jazz Fusion"],
+      "image": "/assets/img/band/theforge.webp",
+      "mainLink": "/tree/theforge.html",
+      "releases": ["MBPLP015", "MBPSP008", "MBPLP005", "MBPLP004", "MBPLP006", "MBPLP003", "MBPLP002", "MBPLP009", "MBPSP009"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/theforgebandfr"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@theforgeband"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0qrcwgy9oeI9wXggLvFL30"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/the-forge/1590604311"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B073RRFKDQ/the-forge"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/163112637"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/the-forge/6983245"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/42857587"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/8570763-The-Forge-2"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/bdd0279f-1c11-4b51-90f7-cd3628368b1d"
+        }
+      ],
+      "bio": {
+        "fr": "<i>The Forge</i> est un groupe de Rock Progressif originaire de France, dont la formation remonte au tout début des années 1980. Dès ses premières compositions, le groupe s’est attaché à développer une identité musicale forte, mêlant avec aisance des riffs de guitare percutants et des solos enflammés, le tout porté par des arrangements soigneusement élaborés et travaillés dans les moindres détails.<br><br>Cette recherche constante d’un son à la fois puissant et raffiné a permis à The Forge d’évoluer au fil des années, passant progressivement d’un Hard Rock vocal, caractérisé par son énergie brute et sa dynamique entraînante, à un Rock Progressif Instrumental, plus complexe et sophistiqué dans sa structure et ses harmonies.<br><br>À ses débuts, la formation se faisait appeler <i>Macadam Forge</i>, un nom sous lequel elle a commencé à se faire connaître sur la scène musicale. Toutefois, au milieu des années 1990, le groupe a décidé d’adopter une nouvelle identité en simplifiant son nom pour devenir <i>Le Forge</i>, marquant ainsi une nouvelle étape dans son parcours artistique.<br><br>Quelques années plus tard, en 2001, une autre évolution s’opère avec un changement temporaire de nom, le groupe se rebaptisant <i>Small Pox</i>. Cette nouvelle appellation ne durera cependant que peu de temps, et c’est finalement sous le nom définitif de <i>The Forge</i> que la formation continue aujourd’hui d’évoluer et de partager sa musique avec son public.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "The Forge est un groupe de Rock Progressif français formé au début des années 1980. Alliant riffs percutants, solos enflammés et arrangements minutieusement travaillés, le groupe a su faire évoluer son style au fil du temps, passant d’un Hard Rock vocal énergique à un Rock Progressif Instrumental plus élaboré.<br><br>Depuis 2021, <i>The Forge</i> est partenaire de <i>Messe Basse Production</i>, collaboration initiée aux débuts de l'Association.",
+        "en": ""
+      }   
+    }, {
+      "name": "Lionel Baudet",
+      "internalUrl": "lionel-baudet",
+      "genres": ["Experimental", "Jazz Fusion"],
+      "image": "/assets/img/band/lionel.webp",
+      "mainLink": "https://lionelbaudet.bandcamp.com/",
+      "releases": ["MBPLP014", "MBPSP028", "MBPLP012", "MBPLP011", "MBPLP010"],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1QGm0yTtldvKgij7CVTWNb"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/lionel-baudet/1647359053"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B09HRC4NW9/lionel-baudet"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/184903717"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/lionel-baudet/11409877"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/34667732"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10054600-Lionel-Baudet"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/9f6bc294-fd8b-4a51-b7c3-8cfd3e867ef9"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Lionel Baudet</i>, alias <i>Eliot</i>, est un artiste solo complet ; auteur, compositeur, arrangeur et interprète de rock expérimental. Originaire de Clamart et Massy, en Île-de-France, il explore depuis plusieurs décennies un univers musical riche et singulier. Co-fondateur du groupe <i>NAC</i> en 1994, il s'est illustré au sein de cette formation en développant une approche audacieuse et novatrice du rock.<br><br>En parallèle de son engagement avec <i>NAC</i>, <i>Lionel Baudet</i> n'a jamais cessé de nourrir une recherche artistique personnelle, animé par le désir constant d'explorer de nouvelles sonorités. Son style unique est le fruit d'un mélange subtil d'influences, allant du rock psychédélique au jazz fusion, en passant par des touches électroniques captivantes. Ses compositions, souvent marquées par des structures complexes et des atmosphères envoûtantes, témoignent d'une quête d'innovation permanente.<br><br>Artiste passionné et exigeant, Lionel Baudet s'attache à donner à chacune de ses créations une dimension introspective et immersive. Son travail d'arrangeur minutieux, allié à une interprétation expressive, confère à sa musique une identité forte et reconnaissable. Que ce soit en studio ou sur scène, il offre une expérience sensorielle intense, où se mêlent virtuosité musicale et profonde authenticité.<br><br>Fort d'une carrière jalonnée de collaborations et de projets ambitieux, <i>Eliot</i> continue de repousser les limites du rock expérimental en insufflant à son oeuvre une créativité sans bornes et une vision artistique audacieuse.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "<i>Lionel Baudet</i> est un artiste solo polyvalent, alliant rock expérimental, influences psychédéliques, jazz fusion et touches électroniques, qui, de nombreuses années, développe une approche audacieuse du genre. Co-fondateur du groupe <i>NAC</i>, il continue de repousser les limites de la musique avec une créativité sans bornes.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Lionel Baudet</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler un vent experimental sur le catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
+      "name": "Five O'Clock Jazz Quartet",
+      "internalUrl": "five-oclock-jazz-quartet",
+      "genres": ["Jazz", "Jazz Vocal"],
+      "image": "/assets/img/band/five.webp",
+      "mainLink": "https://fiveoclockjazzquartet.com",
+      "releases": ["MBPSP026", "MBPSP025", "MBPSP024", "MBPSP017", "MBPSP016", "MBPSP013"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/fiveoclockjazzquartet"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@fiveoclockjazzquartet"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1injtKwIcBZUzsrgAU8wcF"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/five-oclock-jazz-quartet/1627303294"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0B2VJLQF5/five-o'clock-jazz-quartet"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/172037437"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/five-oclock-jazz-quartet/14311145"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/32439916"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/11301299-Five-OClock-Jazz-Quartet"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/385ba9fc-bc56-4c50-8376-670cb5051ed7"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Five-oclock-jazz-quartet"
+        }
+      ],
+      "bio": {
+        "fr": "Le <i>Five O'Clock Jazz Quartet</i> est une formation de smooth jazz qui captive son public à travers des reprises élégantes et inspirées des plus célèbres standards du jazz. Grâce à leur approche raffinée et leur parfaite alchimie musicale, ces quatre musiciens talentueux insufflent une nouvelle vie aux classiques intemporels du répertoire jazz.<br><br>Le groupe est porté par la voix envoûtante de <i>Lexie Kendrick</i>, dont les interprétations subtiles et émouvantes transportent instantanément l'auditeur dans un univers feutré et sophistiqué. Elle est accompagnée à la guitare, et parfois au chant par <i>Sean Gourley</i>, un talentueux musicien au toucher délicat et à la créativité sans limite.<br><br>À la contrebasse, <i>Pascal Mulot</i> apporte une profondeur rythmique et harmonique qui soutient avec finesse l'ensemble du groupe, tandis que <i>Henry Barbut</i> à la batterie, insuffle une pulsation dynamique et nuancée, complétant ainsi parfaitement cette formation aux sonorités riches et chaleureuses.<br><br>Avec une passion commune pour le jazz sous toutes ses formes, le <i>Five O'Clock Jazz Quartet</i> s'attache à offrir des performances pleines de sensibilité et d'émotion, faisant de chaque concert un moment unique de partage et d'élégance musicale.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "Le <i>Five O'Clock Jazz Quartet</i> est un ensemble de smooth jazz qui réinterprète avec raffinement les plus grands standards du genre, apportant une touche de modernité aux classiques intemporels grâce à leur harmonie musicale et leur sensibilité artistique.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Five O'Clock Jazz Quartet</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une pincée de douceur jazz bienvenue au catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
+      "name": "NAC",
+      "internalUrl": "nac",
+      "genres": ["Progressive Rock", "Hard Rock"],
+      "image": "/assets/img/band/nac.webp",
+      "mainLink": "https://nac.band",
+      "releases": ["MBPLP007", "MBPLP001", "MBPSP007", "MBPSP006", "MBPSP011", "MBPSP010", "MBPLP008"],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/nac/1588180391"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0933N2ZTY/nac/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/161217332"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/nac/1848212"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/31364715"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10054414-NAC-7/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Nac-fra/"
+        }
+      ],
+      "bio": {
+        "fr": "<i>NAC</i> est un groupe de Hard Rock et de Rock Progressif fondé en 1994 à Igny, en France. Dès ses débuts, la formation s’est distinguée par une énergie débordante et une approche musicale sans concession. Le groupe a connu de nombreuses évolutions au fil des années, sa composition variant autour de ses deux membres fondateurs, Pierrot et Eliot, véritables piliers du projet. Malgré ces changements, <i>NAC</i> a su préserver son identité sonore et sa vision artistique, s’inscrivant dans une quête constante d’authenticité et d’expressivité musicale.<br><br>C’est à partir de 2015 que le groupe trouve enfin une certaine stabilité, permettant à ses membres de développer une véritable alchimie musicale et d’affiner leur style. Forts de parcours variés et d’influences éclectiques, les musiciens de <i>NAC</i> apportent chacun leur touche personnelle, mettant leur talent et leur interprétation au service d’une musique franche, directe et sans compromis.<br><br>Ancré dans une esthétique à la croisée du hard rock percutant et des explorations du rock progressif, <i>NAC</i> s’attache à proposer des compositions intenses et immersives, où chaque note résonne avec une sincérité brute et une énergie contagieuse.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "Groupe de hard rock et de rock progressif fondé en 1994 à Igny, en France, qui s’est forgé une identité sonore authentique autour de ses deux membres fondateurs ; Pierrot et Eliot. La formation stablilisée depuis quelques années permet à ses musiciens d’explorer un style mêlant puissance brute et influences progressives, offrant des compositions intenses et sincères.<br><br>Depuis 2021, <i>NAC</i> est partenaire de <i>Messe Basse Production</i>, collaboration initiée aux débuts de l'Association.",
+        "en": ""
+      }
+    }
+  ],
+  "releases": {
+    "MBPLP001": {
+      "name": "Dystopie",
+      "artist": ["NAC"],
+      "date": "2021-11-09",
+      "image": "/assets/img/music/MBPLP001.webp",
+      "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1"
+        }
+      ]
+    },
+    "MBPLP002": {
+      "name": "Dur D'Être Apache...",
+      "artist": ["Le Forge"],
+      "date": "2021-10-04",
+      "image": "/assets/img/music/MBPLP002.webp",
+      "mainLink": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1"
+        }
+      ]
+    },
+    "MBPLP003": {
+      "name": "Small Pox",
+      "artist": ["Small Pox"],
+      "date": "2021-10-05",
+      "image": "/assets/img/music/MBPLP003.webp",
+      "mainLink": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1"
+        }
+      ]
+    },
+    "MBPLP004": {
+      "name": "The Forge",
+      "artist": ["The Forge"],
+      "date": "2021-10-06",
+      "image": "/assets/img/music/MBPLP004.webp",
+      "mainLink": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1"
+        }
+      ]
+    },
+    "MBPLP005": {
+      "name": "Etica Nikomak",
+      "artist": ["The Forge"],
+      "date": "2021-10-07",
+      "image": "/assets/img/music/MBPLP005.webp",
+      "mainLink": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1"
+        }
+      ]
+    },
+    "MBPLP006": {
+      "name": "Live...!",
+      "artist": ["Small Pox"],
+      "date": "2021-11-25",
+      "image": "/assets/img/music/MBPLP006.webp",
+      "mainLink": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1"
+        }
+      ]
+    },
+    "MBPLP007": {
+      "name": "Dystopie Live",
+      "artist": ["NAC"],
+      "date": "2021-12-06",
+      "image": "/assets/img/music/MBPLP007.webp",
+      "mainLink": "https://www.youtube.com/watch?v=6Rf4fiKfZiY&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=8",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=6Rf4fiKfZiY&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=8"
+        }
+      ]
+    },
+    "MBPLP008": {
+      "name": "NAC",
+      "artist": ["NAC"],
+      "date": "2022-04-04",
+      "image": "/assets/img/music/MBPLP008.webp",
+      "mainLink": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2&index=1"
+        }
+      ]
+    },
+    "MBPLP009": {
+      "name": "Live à Gennevilliers",
+      "artist": ["Macadam Forge"],
+      "date": "2022-05-06",
+      "image": "/assets/img/music/MBPLP009.webp",
+      "mainLink": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1"
+        }
+      ]
+    },
+    "MBPLP010": {
+      "name": "The Best Of",
+      "artist": ["Lionel Baudet"],
+      "date": "2022-10-10",
+      "image": "/assets/img/music/MBPLP010.webp",
+      "mainLink": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT&index=1"
+        }
+      ]
+    },
+    "MBPLP011": {
+      "name": "Eliot Jazz Band",
+      "artist": ["Lionel Baudet"],
+      "date": "2022-11-01",
+      "image": "/assets/img/music/MBPLP011.webp",
+      "mainLink": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s&index=1"
+        }
+      ]
+    },
+    "MBPLP012": {
+      "name": "Eliot Jazz Band 2",
+      "artist": ["Lionel Baudet"],
+      "date": "2022-11-20",
+      "image": "/assets/img/music/MBPLP012.webp",
+      "mainLink": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk&index=1"
+        }
+      ]
+    },
+    "MBPLP013": {
+      "name": "Concert: Œuvres de Corelli",
+      "artist": ["Guillaume Beaulieu", "Julien Faure"],
+      "date": "2023-03-22",
+      "image": "/assets/img/music/MBPLP013.webp",
+      "mainLink": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1"
+        }
+      ]
+    },
+    "MBPLP014": {
+      "name": "La Parade Magnifique",
+      "artist": ["Lionel Baudet"],
+      "date": "2023-10-10",
+      "image": "/assets/img/music/MBPLP014.webp",
+      "mainLink": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1"
+        }
+      ]
+    },
+    "MBPLP015": {
+      "name": "Musaïc",
+      "artist": ["The Forge"],
+      "date": "2024-02-08",
+      "image": "/assets/img/music/MBPLP015.webp",
+      "mainLink": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1"
+        }
+      ]
+    },
+    "MBPLP016": {
+      "name": "Concert: Œuvres Italiennes au XVIII<sup>ème</sup>",
+      "artist": ["Guillaume Beaulieu", "Julien Faure"],
+      "date": "2024-02-24",
+      "image": "/assets/img/music/MBPLP016.webp",
+      "mainLink": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1"
+        }
+      ]
+    },
+    "MBPLP017": {
+      "name": "Fantaisies pour flûte seule sans basse",
+      "artist": ["Guillaume Beaulieu"],
+      "date": "2024-10-05",
+      "image": "/assets/img/music/MBPLP017.webp",
+      "mainLink": "https://www.youtube.com/watch?v=ecxSzE65e1Q&list=PLCyDwfZrEyi7DFwtTHq8Sqt3roVYLlxFA&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ecxSzE65e1Q&list=PLCyDwfZrEyi7DFwtTHq8Sqt3roVYLlxFA&index=1"
+        }
+      ]
+    },
+    "MBPMX001": {
+      "name": "REC022.WAV",
+      "artist": ["Interfluv"],
+      "date": "2023-10-07",
+      "image": "/assets/img/music/MBPMX001.webp",
+      "mainLink": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ&index=1"
+        }
+      ]
+    },
+    "MBPMX002": {
+      "name": "REC012.WAV",
+      "artist": ["Interfluv"],
+      "date": "2023-10-28",
+      "image": "/assets/img/music/MBPMX002.webp",
+      "mainLink": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1"
+        }
+      ]
+    },
+    "MBPMX003": {
+      "name": "REC005.WAV",
+      "artist": ["Interfluv"],
+      "date": "2024-02-05",
+      "image": "/assets/img/music/MBPMX003.webp",
+      "mainLink": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1"
+        }
+      ]
+    },
+    "MBPMX004": {
+      "name": "REC056.WAV",
+      "artist": ["Interfluv"],
+      "date": "2024-02-18",
+      "image": "/assets/img/music/MBPMX004.webp",
+      "mainLink": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1"
+        }
+      ]
+    },
+    "MBPMX009": {
+      "name": "REC078.WAV",
+      "artist": ["Interfluv"],
+      "date": "2024-09-27",
+      "image": "/assets/img/music/MBPMX009.webp",
+      "mainLink": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1"
+        }
+      ]
+    },
+    "MBPSP002": {
+      "name": "Valentini: Concerto n°11 Op.7 (Largo)",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2021-04-11",
+      "image": "/assets/img/music/MBPSP002.webp",
+      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=9oYcU57uii0&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=1"
+        }
+      ]
+    },
+    "MBPSP003": {
+      "name": "Matteis: Fuga A Due Corde",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2021-04-25",
+      "image": "/assets/img/music/MBPSP003.webp",
+      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=2",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=2"
+        }
+      ]
+    },
+    "MBPSP004": {
+      "name": "Dall'Abaco: Cello Cappricio n°6",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2021-05-03",
+      "image": "/assets/img/music/MBPSP004.webp",
+      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=3",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=3"
+        }
+      ]
+    },
+    "MBPSP005": {
+      "name": "Rameau: Extraits Des Indes Galantes",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2021-06-14",
+      "image": "/assets/img/music/MBPSP005.webp",
+      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=4",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=4"
+        }
+      ]
+    },
+    "MBPSP006": {
+      "name": "Tramp",
+      "artist": ["NAC"],
+      "date": "2021-10-15",
+      "image": "/assets/img/music/MBPSP006.webp",
+      "mainLink": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=6",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=6"
+        }
+      ]
+    },
+    "MBPSP007": {
+      "name": "Crad' Bar Boogie",
+      "artist": ["NAC"],
+      "date": "2021-10-31",
+      "image": "/assets/img/music/MBPSP007.webp",
+      "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1"
+        }
+      ]
+    },
+    "MBPSP008": {
+      "name": "Rock'n'Roll",
+      "artist": ["The Forge"],
+      "date": "2021-11-15",
+      "image": "/assets/img/music/MBPSP008.webp",
+      "mainLink": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7&index=1"
+        }
+      ]
+    },
+    "MBPSP009": {
+      "name": "Loulou / Montpar' Blues",
+      "artist": ["Macadam Forge"],
+      "date": "2021-11-17",
+      "image": "/assets/img/music/MBPSP009.webp",
+      "mainLink": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1"
+        }
+      ]
+    },
+    "MBPSP010": {
+      "name": "NAC Featuring Tay",
+      "artist": ["NAC"],
+      "date": "2022-02-02",
+      "image": "/assets/img/music/MBPSP010.webp",
+      "mainLink": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl&index=1"
+        }
+      ]
+    },
+    "MBPSP011": {
+      "name": "Nature Humaine Origins",
+      "artist": ["NAC"],
+      "date": "2022-03-03",
+      "image": "/assets/img/music/MBPSP011.webp",
+      "mainLink": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM&index=1"
+        }
+      ]
+    },
+    "MBPSP012": {
+      "name": "Stolen Truth / Vérité Volée",
+      "artist": ["Siré Camara"],
+      "date": "2022-05-19",
+      "image": "/assets/img/music/MBPSP012.webp",
+      "mainLink": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
+        }
+      ]
+    },
+    "MBPSP013": {
+      "name": "I Don't Know Enough About You",
+      "artist": ["Five O'Clock Jazz Quartet"],
+      "date": "2022-06-10",
+      "image": "/assets/img/music/MBPSP013.webp",
+      "mainLink": "https://www.youtube.com/watch?v=pDGgZ-rn6Q4&list=PLBTeUIcRBAxN_0FdRYrdNvXLxhN6XJkqL&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=pDGgZ-rn6Q4&list=PLBTeUIcRBAxN_0FdRYrdNvXLxhN6XJkqL&index=1"
+        }
+      ]
+    },
+    "MBPSP014": {
+      "name": "Mets Ton Clignotant",
+      "artist": ["Siré Camara"],
+      "date": "2022-06-12",
+      "image": "/assets/img/music/MBPSP014.webp",
+      "mainLink": "https://www.youtube.com/watch?v=u0UIpTazzLM&list=PLFcJE-trJj_ZTJT0E6Fx0DDUipJS_iZZ0&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=u0UIpTazzLM&list=PLFcJE-trJj_ZTJT0E6Fx0DDUipJS_iZZ0&index=1"
+        }
+      ]
+    },
+    "MBPSP015": {
+      "name": "Nous Sommes le Mali",
+      "artist": ["Siré Camara"],
+      "date": "2022-06-15",
+      "image": "/assets/img/music/MBPSP015.webp",
+      "mainLink": "https://www.youtube.com/watch?v=GiFEzXR2DDg&list=PLFcJE-trJj_aarWyrqFY70AmKnsGODvZd&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=GiFEzXR2DDg&list=PLFcJE-trJj_aarWyrqFY70AmKnsGODvZd&index=1"
+        }
+      ]
+    },
+    "MBPSP016": {
+      "name": "L.O.V.E",
+      "artist": ["Five O'Clock Jazz Quartet"],
+      "date": "2022-06-17",
+      "image": "/assets/img/music/MBPSP016.webp",
+      "mainLink": "https://www.youtube.com/watch?v=P5BRYJB6d80&list=PLBTeUIcRBAxM9OtwkMkx0Oq93dAdwJ8xU&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=P5BRYJB6d80&list=PLBTeUIcRBAxM9OtwkMkx0Oq93dAdwJ8xU&index=1"
+        }
+      ]
+    },
+    "MBPSP017": {
+      "name": "Cry Me A River",
+      "artist": ["Five O'Clock Jazz Quartet"],
+      "date": "2022-07-02",
+      "image": "/assets/img/music/MBPSP017.webp",
+      "mainLink": "https://www.youtube.com/watch?v=CeYUMy0VB3Q&list=PLBTeUIcRBAxMHlXxhG-NvUAIGknzU1R26&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=CeYUMy0VB3Q&list=PLBTeUIcRBAxMHlXxhG-NvUAIGknzU1R26&index=1"
+        }
+      ]
+    },
+    "MBPSP018": {
+      "name": "Le Fleuve Sénégal",
+      "artist": ["Siré Camara"],
+      "date": "2022-07-13",
+      "image": "/assets/img/music/MBPSP018.webp",
+      "mainLink": "https://www.youtube.com/watch?v=E8HDldLok0k&list=PLp5D05IpZHwKx9JaSU3Qmikoi9r9e1LKz&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=E8HDldLok0k&list=PLp5D05IpZHwKx9JaSU3Qmikoi9r9e1LKz&index=1"
+        }
+      ]
+    },
+    "MBPSP019": {
+      "name": "Souffrances Bafouées",
+      "artist": ["Siré Camara"],
+      "date": "2022-07-17",
+      "image": "/assets/img/music/MBPSP019.webp",
+      "mainLink": "https://www.youtube.com/watch?v=lgijmpCDcDw&list=PLp5D05IpZHwJdrJgbHAUaJiVbAGMGY2Mq&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=lgijmpCDcDw&list=PLp5D05IpZHwJdrJgbHAUaJiVbAGMGY2Mq&index=1"
+        }
+      ]
+    },
+    "MBPSP020": {
+      "name": "Yitté",
+      "artist": ["Siré Camara"],
+      "date": "2022-07-28",
+      "image": "/assets/img/music/MBPSP020.webp",
+      "mainLink": "https://www.youtube.com/watch?v=1St04LZnNss&list=PLp5D05IpZHwIOv_U7VIlz5VPejJUJRH7_&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=1St04LZnNss&list=PLp5D05IpZHwIOv_U7VIlz5VPejJUJRH7_&index=1"
+        }
+      ]
+    },
+    "MBPSP021": {
+      "name": "Diata",
+      "artist": ["Siré Camara"],
+      "date": "2022-08-17",
+      "image": "/assets/img/music/MBPSP021.webp",
+      "mainLink": "https://www.youtube.com/watch?v=hWm5-STJaFE&list=PLp5D05IpZHwJJuFrPtqfL5jeD2Md6gP0E&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=hWm5-STJaFE&list=PLp5D05IpZHwJJuFrPtqfL5jeD2Md6gP0E&index=1"
+        }
+      ]
+    },
+    "MBPSP022": {
+      "name": "Gbagbo, T'Avais Raison",
+      "artist": ["Siré Camara"],
+      "date": "2022-08-25",
+      "image": "/assets/img/music/MBPSP022.webp",
+      "mainLink": "https://www.youtube.com/watch?v=dtF_-z8cCeo&list=PLp5D05IpZHwLSs7ZTBoXSU2cXZT9rIigK&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=dtF_-z8cCeo&list=PLp5D05IpZHwLSs7ZTBoXSU2cXZT9rIigK&index=1"
+        }
+      ]
+    },
+    "MBPSP023": {
+      "name": "Sophie",
+      "artist": ["Siré Camara"],
+      "date": "2022-09-10",
+      "image": "/assets/img/music/MBPSP023.webp",
+      "mainLink": "https://www.youtube.com/watch?v=q3yO_MjhXsg&list=PLp5D05IpZHwKM08nHoLR2ayB4vGvykrd9&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=q3yO_MjhXsg&list=PLp5D05IpZHwKM08nHoLR2ayB4vGvykrd9&index=1"
+        }
+      ]
+    },
+    "MBPSP024": {
+      "name": "Golden Earrings",
+      "artist": ["Five O'Clock Jazz Quartet"],
+      "date": "2022-09-15",
+      "image": "/assets/img/music/MBPSP024.webp",
+      "mainLink": "https://www.youtube.com/watch?v=VOCa1cxx8vU&list=PLp5D05IpZHwLh1-QLxFVEgTAvaFlhgbkU&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=VOCa1cxx8vU&list=PLp5D05IpZHwLh1-QLxFVEgTAvaFlhgbkU&index=1"
+        }
+      ]
+    },
+    "MBPSP025": {
+      "name": "Something Stupid",
+      "artist": ["Five O'Clock Jazz Quartet"],
+      "date": "2022-09-30",
+      "image": "/assets/img/music/MBPSP025.webp",
+      "mainLink": "https://www.youtube.com/watch?v=xNsV-CK2jyQ&list=PLp5D05IpZHwKuOAk238jm-qX-EGjtu-yv&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=xNsV-CK2jyQ&list=PLp5D05IpZHwKuOAk238jm-qX-EGjtu-yv&index=1"
+        }
+      ]
+    },
+    "MBPSP026": {
+      "name": "Stompin' At The Savoy",
+      "artist": ["Five O'Clock Jazz Quartet"],
+      "date": "2022-10-15",
+      "image": "/assets/img/music/MBPSP026.webp",
+      "mainLink": "https://www.youtube.com/watch?v=pHpE28vlW-0&list=PLp5D05IpZHwIgZZhrndIlIHtWNtfJVS_f&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=pHpE28vlW-0&list=PLp5D05IpZHwIgZZhrndIlIHtWNtfJVS_f&index=1"
+        }
+      ]
+    },
+    "MBPSP027": {
+      "name": "Noël Corellien",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2022-12-21",
+      "image": "/assets/img/music/MBPSP027.webp",
+      "mainLink": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B&index=1"
+        }
+      ]
+    },
+    "MBPSP028": {
+      "name": "Polka Polka",
+      "artist": ["Lionel Baudet"],
+      "date": "2023-02-02",
+      "image": "/assets/img/music/MBPSP028.webp",
+      "mainLink": "https://www.youtube.com/watch?v=r4GbogKv8Uo&list=PLp5D05IpZHwI9OwqIiB18vLW3k3FrHRZg&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=r4GbogKv8Uo&list=PLp5D05IpZHwI9OwqIiB18vLW3k3FrHRZg&index=1"
+        }
+      ]
+    },
+    "MBPSP029": {
+      "name": "Guidaniaxare",
+      "artist": ["Siré Camara"],
+      "date": "2023-06-13",
+      "image": "/assets/img/music/MBPSP029.webp",
+      "mainLink": "https://www.youtube.com/watch?v=bVkwgp4G9Xg&list=PLp5D05IpZHwKXHObcJo8TwrSZwJgogLQP&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=bVkwgp4G9Xg&list=PLp5D05IpZHwKXHObcJo8TwrSZwJgogLQP&index=1"
+        }
+      ]
+    },
+    "MBPSP030": {
+      "name": "Do Mousso Joy",
+      "artist": ["Siré Camara"],
+      "date": "2023-09-18",
+      "image": "/assets/img/music/MBPSP030.webp",
+      "mainLink": "https://www.youtube.com/watch?v=4IAHLPywBmw&list=PLp5D05IpZHwJMsbquc0eGphFyIcF88Ilq&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=4IAHLPywBmw&list=PLp5D05IpZHwJMsbquc0eGphFyIcF88Ilq&index=1"
+        }
+      ]
+    },
+    "MBPSP031": {
+      "name": "Antesson Faralima",
+      "artist": ["Siré Camara"],
+      "date": "2023-10-20",
+      "image": "/assets/img/music/MBPSP031.webp",
+      "mainLink": "https://www.youtube.com/watch?v=FfQP4DgMOI8&list=PLp5D05IpZHwKHVqJhsBwzaWwpQF1IqXKQ&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=FfQP4DgMOI8&list=PLp5D05IpZHwKHVqJhsBwzaWwpQF1IqXKQ&index=1"
+        }
+      ]
+    },
+    "MBPSP032": {
+      "name": "La Divine trinité",
+      "artist": ["Siré Camara"],
+      "date": "2023-11-29",
+      "image": "/assets/img/music/MBPSP032.webp",
+      "mainLink": "https://www.youtube.com/watch?v=NB0V169kK9Y&list=PLp5D05IpZHwK8FSjwz4yjWKM-yGhuhBfS&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=NB0V169kK9Y&list=PLp5D05IpZHwK8FSjwz4yjWKM-yGhuhBfS&index=1"
+        }
+      ]
+    },
+    "MBPSP033": {
+      "name": "Gorczycki: Iesu Corona Virginum",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2023-12-12",
+      "image": "/assets/img/music/MBPSP033.webp",
+      "mainLink": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1"
+        }
+      ]
+    },
+    "MBPSP034": {
+      "name": "XLP1",
+      "artist": ["DVPE"],
+      "date": "2023-12-22",
+      "image": "/assets/img/music/MBPSP034.webp",
+      "mainLink": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1"
+        }
+      ]
+    },
+    "MBPSP035": {
+      "name": "About Techno",
+      "artist": ["DVPE"],
+      "date": "2024-01-26",
+      "image": "/assets/img/music/MBPSP035.webp",
+      "mainLink": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1"
+        }
+      ]
+    },
+    "MBPSP036": {
+      "name": "Bye Bye CEDEAO",
+      "artist": ["Siré Camara"],
+      "date": "2024-02-01",
+      "image": "/assets/img/music/MBPSP036.webp",
+      "mainLink": "https://www.youtube.com/watch?v=Ug_5thg1JTk&list=PLp5D05IpZHwJqEcWHdELKThv5mvrWI80O&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=Ug_5thg1JTk&list=PLp5D05IpZHwJqEcWHdELKThv5mvrWI80O&index=1"
+        }
+      ]
+    },
+    "MBPSP037": {
+      "name": "Omotounde L'Enfant Béni",
+      "artist": ["Siré Camara"],
+      "date": "2024-02-22",
+      "image": "/assets/img/music/MBPSP037.webp",
+      "mainLink": "https://www.youtube.com/watch?v=CQtmNrHCP9Y&list=PLp5D05IpZHwJcZqttWweOWFZ2D0X-wJXa&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=CQtmNrHCP9Y&list=PLp5D05IpZHwJcZqttWweOWFZ2D0X-wJXa&index=1"
+        }
+      ]
+    },
+    "MBPSP038": {
+      "name": "Bounce",
+      "artist": ["DVPE"],
+      "date": "2024-05-11",
+      "image": "/assets/img/music/MBPSP038.webp",
+      "mainLink": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN&index=1"
+        }
+      ]
+    },
+    "MBPSP039": {
+      "name": "Duos pour Deux Flûtes à Bec",
+      "artist": ["Guillaume Beaulieu"],
+      "date": "2024-06-14",
+      "image": "/assets/img/music/MBPSP039.webp",
+      "mainLink": "https://www.youtube.com/watch?v=1GvkYkuk92k&list=PLp5D05IpZHwJ0lSoy3iFpFOp7pZ6peQF8&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=1GvkYkuk92k&list=PLp5D05IpZHwJ0lSoy3iFpFOp7pZ6peQF8&index=1"
+        }
+      ]
+    },
+    "MBPSP040": {
+      "name": "IA",
+      "artist": ["DVPE"],
+      "date": "2024-09-05",
+      "image": "/assets/img/music/MBPSP040.webp",
+      "mainLink": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1"
+        }
+      ]
+    },
+    "MBPSP041": {
+      "name": "Pavan & Almain",
+      "artist": ["La Baroquerie du Val de Bièvre"],
+      "date": "2024-09-30",
+      "image": "/assets/img/music/MBPSP041.webp",
+      "mainLink": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1"
+        }
+      ]
+    },
+    "MBPSP042": {
+      "name": "Happy Latino",
+      "artist": ["Drop Die"],
+      "date": "2024-10-10",
+      "image": "/assets/img/music/MBPSP042.webp",
+      "mainLink": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ&index=1"
+        }
+      ]
+    }
+  }
+}

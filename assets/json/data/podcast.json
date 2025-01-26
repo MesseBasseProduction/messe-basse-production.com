@@ -1,0 +1,185 @@
+{
+  "podcast": [
+    {
+      "name": "Fréquences Basses",
+      "description": {
+        "en": "Fréquences Basses is a web radio/podcast project hosted by Messe Basse Production. Each month, a DJ will be invited to propose a 1-hour set.<br><br>The goal is to highlight the artist, their universe, and the creations they offer. The variety of styles and genres is intentionally quite broad: electronic music (house, techno, bass music, hard music, etc.), funk, soul, rap, or others. The love of music in all its forms serves as a guideline.<br><br>The idea behind this project is to break down the barriers between musical genres and to introduce the widest audience possible to the variety of styles present in music.",
+        "fr": "Fréquences Basses est un projet de web radio/podcast de l’association Messe Basse Production. Chaque mois, un DJ sera invité et proposera un set d’1h.<br><br>Le but est de mettre en avant l’artiste, son univers et les créations qu’il propose. La variété de styles et de genres est volontairement assez large : musiques électroniques (house, techno, bass musique, hard music, etc.), funk, soul, rap ou autre. L’amour de la musique dans toutes ses formes fait office de ligne directrice.<br><br>L’idée derrière ce projet est de casser les barrières entre les genres musicaux et de faire découvrir au plus grand nombre la variété des styles présents dans la musique."
+      },
+      "episodes": [
+        {
+          "title": "Fréquences Basses #7 – Symon Says",
+          "catalog": "MBPMX012",
+          "image": "/assets/img/podcast/MBPMX012.webp",
+          "date": "2025-01-24",
+          "link": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7",
+          "description": {
+            "en": "For this first edition of 2025, we wanted to warm up the spirits! Tired of the cold, the rain and the sun setting too early? This month's mix will give you all the energy you need to last until the sunny days arrive! Symon Says honors us at the start of the year with a set combining Drum & Bass, UKG and Breakbeat, just that.<br><br>DJ, producer and co-founder of the Toulouse collective Yann Records, Symon Says likes to wander between different styles in his productions and in his mixes. From Breakbeat to Drum to Trap to UK Garage, this mix is a perfect reflection of his current influences and the artists who inspire him. He also got involved in the Parisian scene by founding Plasma, a collective organizing evenings in multiple styles: techno, psytrance and breakbeat.",
+            "fr": "Pour cette première édition de l’année 2025, on a voulu réchauffer les esprits ! Marre du froid, de la pluie et du soleil qui se couche trop tôt ? Le mix de ce mois-ci saura vous redonner toute l’énergie nécessaire pour tenir jusqu’à l’arrivée des beaux jours ! Symon Says nous fait l’honneur en ce début d’année avec un set alliant Drum & Bass, UKG et Breakbeat, rien que ça.<br><br>DJ, producteur et co-fondateur du collectif Toulousain Yann Records, Symon Says aime se balader entre les différents styles dans ses productions comme dans ses mix. Du Breakbeat à la Drum en passant par la Trap ou encore de l’UK Garage, ce mix est un reflet parfait de ses influences actuelles et des artistes qui l’inspire. Il s’est également investi dans la scène parisienne en fondant Plasma, un collectif organisant des soirées aux multiples styles : techno, psytrance et breakbeat."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-7-symon-says"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-6-didier-viande/"
+            }
+          ]
+        }, {
+          "title": "Fréquences Basses #6 – Didier Viande",
+          "catalog": "MBPMX011",
+          "image": "/assets/img/podcast/MBPMX011.webp",
+          "date": "2024-12-20",
+          "link": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6",
+          "description": {
+            "en": "New month, new Fréquences Basses! For this edition, we’re inviting Chapak a.k.a Didier Viande, a Toulouse-based DJ originally from Northern Europe (Lille). Co-founder of the Couleur Vitesse label, he explores alternative electronic music with a keen focus on broken-beat aesthetics. His early productions blend ghetto-tech with hybrid techno. He’s also part of the ambient live duo Electro Dodo.<br><br>« This is a set I’ve crafted with love for the productions that are currently moving me. A mix of diverse flavors—breaks, ghetto-tech, modern jazz, and rock—combined with two unreleased tracks that will feature on an upcoming mixtape with Couleur Vitesse in December (stay tuned)! »",
+            "fr": "Nouveau mois, nouveau Fréquences Basses! On invite pour cette édition Chapak a.k.a Didier Viande, DJ Toulousain originaire du nord de l'Europe (Lille). Co-fondateur du label Couleur Vitesse, il arpente les musiques électro alternatives avec une attention particulière aux esthétiques breakées. Ses premières productions sont un mélange de ghetto-tech et de techno hybrides. Il fait également parti du duo live d'ambient Electro Dodo.<br><br>« C'est un set que j'ai concocté avec l'amour porté aux productions qui me font actuellement vibrer. Un mélange de saveurs éparses, des morceaux de break, ghetto-tech, jazz moderne et rock se combinent avec deux tracks unreleased qui sortiront sur une mixtape à venir avec Couleur Vitesse en décembre (restez branchés) ! »"
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-6-didier-viande"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-6-didier-viande/"
+            }
+          ]
+        }, {
+          "title": "Fréquences Basses #5 – J.Strongrock",
+          "catalog": "MBPMX010",
+          "image": "/assets/img/podcast/MBPMX010.webp",
+          "date": "2024-11-22",
+          "link": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5",
+          "description": {
+            "en": "Fréquences Basses is back in force after a (long) summer break! To mark this return, we have the honor of welcoming J.Strongrock, artist and DJ from Toulouse, as well as president of the Cluster Traxx label. J.Strongrock has prepared an energetic and bouncy set for us, at the crossroads between Electro Break and Ghettotech.<br><br>« This set is a mix of unreleased tracks from Cluster Traxx and a selection of tracks from labels whose work we particularly admire. I wanted to offer as many tracks as possible that will be released very soon on the Cluster Traxx label, in order to highlight the talent of all the artists and producers who support us and trust us by sharing with us ever more incredible tracks. »",
+            "fr": "Fréquences Basses revient en force après une (longue) pause estivale ! Pour marquer le coup de ce retour, nous avons l’honneur d’accueillir J.Strongrock, artiste et DJ originaire de Toulouse, ainsi que président du label Cluster Traxx. J.Strongrock nous a préparé un set énergique et rebondissant, à la croisée des chemins entre Electro Break et Ghettotech.<br><br>« Ce set est un mélange d’unreleased de Cluster Traxx et d’une sélection de morceaux issus de labels dont nous admirons particulièrement le travail. J’ai voulu proposer un maximum de morceaux qui sortiront très bientôt sur le label Cluster Traxx, afin de mettre en avant le talent de tou·te·s les artistes et des producteur·ice·s qui nous soutiennent et nous font confiance en partageant avec nous des morceaux toujours plus incroyables. »"
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-5-jstrongrock"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-5-jstrongrock/"
+            }
+          ]
+        }, {
+          "title": "Fréquences Basses #4 – Ernesto",
+          "catalog": "MBPMX008",
+          "image": "/assets/img/podcast/MBPMX008.webp",
+          "date": "2024-07-19",
+          "link": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4/",
+          "description": {
+            "en": "Fréquences Basses aims to showcase music in all its forms. That’s why, after three energetic editions, we’ve decided to invite Ernesto, a DJ from Portugal, for a soft ambient and downtempo mix. Perfect for the start of summer and chilling in the sun!<br><br>Ten years after he began sharing his music and shaking up the underground electronic scene in his hometown (Coimbra, Portugal) and beyond, Tiago Soares, formerly known as « Intemporal », now presents a new solo chapter titled « Ernesto » — a mystery that will unfold over time.",
+            "fr": "Fréquences Basses a pour but de mettre en valeur la musique selon toutes ses formes. C'est pour cela, après trois éditions plus qu'énergiques, que nous avons décidé d'inviter Ernesto, DJ originaire du Portugal, pour un mix d’ambiant & downtempo, tout en douceur. Parfait pour le début de l’été et chiller au soleil!<br><br>Dix ans après avoir commencé à partager sa musique et à secouer la scène électronique underground de sa ville natale (Coimbra, Portugal) et au-delà, Tiago Soares, anciennement connu sous le nom d' « Intemporal », présente aujourd'hui un nouveau chapitre solo, intitulé « Ernesto » - un mystère qui s'éclaircira avec le temps."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-4-ernesto/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4/"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-4-ernesto/"
+            }
+          ]
+        },
+        {
+          "title": "Fréquences Basses #3 – 8I'M",
+          "catalog": "MBPMX007",
+          "image": "/assets/img/podcast/MBPMX007.webp",
+          "date": "2024-06-21",
+          "link": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3/",
+          "description": {
+            "en": "This month we welcome 8I'M, electronic music producer based in Toulouse, for a Bass Music mix! Alternating between novelty and nostalgia, between energetic drops and saturated synths, 8I'M pays homage to Dubstep in all its forms with a precise and impactful mix.<br><br>8I'M is influenced by various artists: Marauda, Noisia or even Varien to name a few. Although his favorite genre is Dubstep, he has no limits and produces and mixes many different styles such as Drum & Bass, Techno, House, Trance and Hardcore.",
+            "fr": "Nous accueillons ce mois-ci 8I'M, producteur de musique électronique installé à Toulouse, pour un mix de Bass Music! Alternant entre nouveauté et nostalgie, entre drop énergétique et synthés saturés, 8I'M rend hommage à la Dubstep dans toutes ses formes avec un mix précis et impactant.<br><br>8I'M est influencé par divers artistes : Marauda, Noisia ou encore Varien pour ne citer que eux. Bien que son genre favoris soit la Dubstep, il ne se pose pas de limite et produit et mixe beaucoup de styles différents comme la Drum & Bass, la Techno, la House, la Trance, ou encore le Hardcore."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-3-8im/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3/"
+            }, 
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-3-8im/"
+            }
+          ]
+        },
+        {
+          "title": "Fréquences Basses #2 – Stanley Fatmax",
+          "catalog": "MBPMX006",
+          "image": "/assets/img/podcast/MBPMX006.webp",
+          "date": "2024-05-17",
+          "link": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2/",
+          "description": {
+            "en": "On this second episode, we welcome Stanley Fatmax, from his real name Nino Filiu, a multidisciplinary tech artist and free spirit in the world of Parisian raves. Frustrated by the monotony of these events due to the hegemony of standardized techno, Fatmax has collaborated with collectives like Craquage or Acme, which have allowed them to take risks in their audiovisual productions.<br><br>Categorically refusing the rule that demands a DJ to have musical consistency throughout their DJ sets, Fatmax’s podcasts are nevertheless consistently an artistic, narrative, and personal proposition. In their mix for Messe Basse, amid the thousands of saturated kicks, one can perceive echoes of the artist’s teenage.",
+            "fr": "Pour ce deuxième épisode, nous accueillons Stanley Fatmax, de son vrai nom Nino Filiu, tech artiste multidisciplinaire et électron libre dans le monde des raves parisiennes. Frustré la monotonie de celles-ci du à l’hégémonie de la techno standardisée, Fatmax s’est associé à des collectifs comme Craquage ou Acme qui lui ont laissé prendre des risques sur ses productions audiovisuelles.<br><br>Refusant catégoriquement la règle qui demande qu’un DJ ait une consistance musicale à travers ses sets, les podcasts de Fatmax sont cependant systématiquement une proposition artistique, narrative, et personnelle. Dans son mix pour Messe Basse, à travers les milliers de kicks saturés, on peut percevoir les échos de la période ado skateur fan de dubstep de l’artiste, et une résolution de la nostalgie de cette période par une revisite de ce genre vers de nouvelles directions."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-2-stanley-fatmax/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2/"
+            }, 
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-2-stanley-fatmax/"
+            }
+          ]
+        }, 
+        {
+          "title": "Fréquences Basses #1 – DNA",
+          "catalog": "MBPMX005",
+          "image": "/assets/img/podcast/MBPMX005.webp",
+          "date": "2024-04-18",
+          "link": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1/",
+          "description": {
+            "en": "For this first episode, we welcome DNA, for a Drum & Bass DJ set. DNA is one of those DJs who tell a story behind the turntables. Thanks to her technical skill and sharp selecta, she can easily navigate through all styles, to always share more of her universe with us.<br><br>One motto: it has to roll. From Neurofunk to Techstep, passing through Jump Up and the Dancefloor, everything goes with disconcerting ease. It's thanks to her talent that she has been able to express herself in the biggest parties of the capital: Studio, Forever, U Fest, and more recently opening the Nexus for Chase & Status.",
+            "fr": "Pour ce premier épisode, nous accueillons DNA, pour un set de Drum & Bass. DNA fait partie de ces DJ qui racontent une histoire derrière les platines. Grâce à son aisance technique et sa selecta pointue, elle peut facilement se balader dans tous les styles, afin de toujours plus nous partager son univers.<br><br>Un seul mot d'ordre : il faut que ça roule. De la Neurofunk à la Techstep, en passant par la Jump Up et le Dancefloor, tout y passe avec une facilité déconcertante. C'est grâce à son talent qu'elle a pu s'exprimer dans les plus grandes soirées de la capitale : Studio, Forever, U Fest et plus récemment ouvrir le Nexus pour Chase & Status."
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-1-dna/"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1/"
+            }, 
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-1-dna/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

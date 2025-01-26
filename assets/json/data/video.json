@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "name": "Telemann: 12 Fantaisies pour flûte seule sans basse",
+      "artist": "Guillaume Beaulieu",
+      "date": "2025-01-15",
+      "url": "https://tube.mycozy.space/videos/embed/1a877875-615e-4af6-bbd0-973327d6fc95"
+    }, {
+      "name": "Telemann: Duo pour deux Flûtes à Bec",
+      "artist": "Guillaume Beaulieu, Julien Faure",
+      "date": "2024-06-14",
+      "url": "https://tube.mycozy.space/videos/embed/33dc6b9b-c43b-422f-94e1-cfa8a30f52a6"
+    }, {
+      "name": "Concert: Œuvres Itraliennes au XVIII<sup>ème</sup>",
+      "artist": "Guillaume Beaulieu, Julien Faure",
+      "date": "2024-01-14",
+      "url": "https://tube.mycozy.space/videos/embed/ae877fc6-28b5-46b7-98a2-7f6370bc1bc2"
+    }, {
+      "name": "Concert: Œuvres de Corelli",
+      "artist": "Guillaume Beaulieu, Julien Faure",
+      "date": "2023-01-07",
+      "url": "https://tube.mycozy.space/videos/embed/9e93a17d-dece-454f-8c59-147a2cc8a8d3"
+    }, {
+      "name": "Noël Corellien: Extraits du Concerto op.6 n°8",
+      "artist": "La Baroquerie du Val de Bièvre",
+      "date": "2022-12-21",
+      "url": "https://tube.mycozy.space/videos/embed/63cd4266-59d9-4f8a-83f1-103fce6af0d7"
+    }, {
+      "name": "Mets Ton Clignotant",
+      "artist": "Siré Camara",
+      "date": "2022-06-15",
+      "url": "https://tube.mycozy.space/videos/embed/3349dbdc-bb2a-440d-88b3-43dee78ca852"
+    }, {
+      "name": "Dystopie Live @Igny",
+      "artist": "NAC",
+      "date": "2021-11-20",
+      "url": "https://tube.mycozy.space/videos/embed/5a713c21-3093-457f-be5a-1951ea6c4ab0"
+    }, {
+      "name": "Danse du grand Calumet de la paix",
+      "artist": "La Baroquerie du Val de Bièvre",
+      "date": "2021-06-07",
+      "url": "https://tube.mycozy.space/videos/embed/c3ae3793-6e84-4317-ba9c-d085e3f422c6"
+    }, {
+      "name": "Revival '96 @Clamart",
+      "artist": "Le Forge",
+      "date": "1996-06-29",
+      "url": "https://tube.mycozy.space/videos/embed/13217142-13d2-4808-ba6d-e12376411145"
+    }, {
+      "name": "Musique au Pluriel @Élancourt",
+      "artist": "Macadam Forge",
+      "date": "1987-05-23",
+      "url": "https://tube.mycozy.space/videos/embed/852e2be5-b8bc-412f-9c2d-28dd5429f7e3"
+    }
+  ]
+}

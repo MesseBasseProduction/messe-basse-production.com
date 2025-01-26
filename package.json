@@ -1,13 +1,13 @@
 {
   "name": "messe-basse-production.com",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Messe Basse Production label website ",
   "keywords": [],
   "main": "src/mbp.js",
   "scripts": {
     "build": "webpack --config webpack/webpack.prod.js",
     "watch": "webpack --watch --config webpack/webpack.dev.js",
-    "start": "node src/js/Server.js"
+    "start": "node src/server/MBPServer.js"
   },
   "homepage": "https://github.com/MesseBasseProduction/messe-basse-production.com/README.md",
   "repository": {
@@ -20,21 +20,21 @@
   "author": "ArthurBeaulieu",
   "license": "GPL-3.0",
   "devDependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/preset-env": "^7.26.0",
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7",
     "babel-loader": "^9.2.1",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^7.1.2",
     "cssnano": "^7.0.6",
-    "eslint": "^9.18.0",
+    "eslint": "^9.19.0",
     "eslint-webpack-plugin": "^4.2.0",
     "file-loader": "^6.2.0",
     "mini-css-extract-plugin": "^2.9.2",
-    "node-sass": "^9.0.0",
     "postcss": "^8.5.1",
     "postcss-import": "^16.1.0",
     "postcss-loader": "^8.1.1",
     "postcss-preset-env": "^10.1.3",
+    "sass": "^1.83.4",
     "sass-loader": "^16.0.4",
     "stylelint": "^16.13.2",
     "stylelint-webpack-plugin": "^5.0.1",

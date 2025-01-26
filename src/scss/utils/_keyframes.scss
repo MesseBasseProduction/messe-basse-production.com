@@ -1,47 +1,3 @@
-@keyframes flashing-logo {
-  0% {
-    background: linear-gradient(60deg, #97EA9B 0%, #AD7FE6 80%);  
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    opacity: 0;
-  }
-
-  15% {
-    background: linear-gradient(120deg, #97EA9B 0%, #AD7FE6 80%);
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    opacity: 0;
-  }
-
-  58% {
-    background: linear-gradient(180deg, #97EA9B 0%, #AD7FE6 80%);  
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    opacity: 1;
-    transform: scale(1.1);
-  }
-
-  100% {
-    background: linear-gradient(240deg, #97EA9B 0%, #AD7FE6 80%);
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    opacity: 0;
-    transform: scale(1);    
-  }
-}
-
-@keyframes drop-nav-link {
-  0% {
-    margin-bottom: 20rem;
-    transform: rotate(-12deg);
-  }
-
-  100% {
-    margin-bottom: 0;
-    transform: rotate(0);
-  }
-}
-
 @keyframes beating {
   0% {
     transform: scale(1);
@@ -65,5 +21,15 @@
 
   100% {
     transform: scale(1);
+  }
+}
+
+@keyframes rotate-plane {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+  } 50% {
+    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+  } 100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
   }
 }

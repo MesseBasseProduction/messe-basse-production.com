@@ -1,0 +1,40 @@
+{
+  "creation": [
+    {
+      "name": "messemap.org",
+      "image": "/assets/img/soft/messemap.org.webp",
+      "url": "https://messemap.org",
+      "bio": {
+        "fr": "Create your unique map poster, customize it and make it ready to be printed in a few clicks.",
+        "en": "Create your unique map poster, customize it and make it ready to be printed in a few clicks."
+      }
+    }, {
+      "name": "beercrackerz.org",
+      "image": "/assets/img/soft/beercrackerz.org.webp",
+      "url": "https://beercrackerz.org",
+      "bio": {
+        "fr": "The beer lover's website! Find the best spots around to taste this refreshing beverage, or find the closest place to refill.",
+        "en": "The beer lover's website! Find the best spots around to taste this refreshing beverage, or find the closest place to refill."
+      }
+    }
+  ],
+  "artists": [
+    {
+      "name": "fiveoclockjazzquartet.com",
+      "image": "/assets/img/soft/fiveoclockjazzquartet.com.webp",
+      "url": "https://fiveoclockjazzquartet.com"
+    }, {
+      "name": "sire-camara.band",
+      "image": "/assets/img/soft/sire-camara.band.webp",
+      "url": "https://sire-camara.band"
+    }, {
+      "name": "theforge.band",
+      "image": "/assets/img/soft/theforge.band.webp",
+      "url": "https://theforge.band"
+    }, {
+      "name": "nac.band",
+      "image": "/assets/img/soft/nac.band.webp",
+      "url": "https://nac.band"
+    }
+  ]
+}

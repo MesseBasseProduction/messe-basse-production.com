@@ -7,7 +7,7 @@
 
   main.events {
     section {
-      padding: 3rem 10%;
+      padding: var(--s-bg) 10%;
     }
   }
 }
@@ -16,7 +16,7 @@
   nav.site-nav {
     a {
       font-size: 1.4rem;
-      padding: 0 .5rem;
+      padding: 0 var(--s-sl);
     }
   }
 
@@ -32,20 +32,20 @@
     .subpage-nav {
       bottom: inherit;
       flex-direction: inherit;
-      height: 2rem;
-      margin: 1rem 0;
+      height: var(--s-lg);
+      margin: var(--s) 0;
       top: 10rem;
       width: 100%;
 
       img {
         height: 100%;
-        padding: 0 1rem;
+        padding: 0 var(--s);
         width: unset;
       }
     }
 
     section {
-      padding: 1rem 2rem;
+      padding: var(--s) var(--s-lg);
       margin-bottom: 0;
     }
 
@@ -60,7 +60,7 @@
         }
 
         .band-releases {
-          padding: 2rem 1rem;
+          padding: var(--s-lg) var(--s);
           position: inherit;
           width: 100%;
 
@@ -74,7 +74,7 @@
 
           .band-albums {
             .album {
-              height: calc(95% - 3rem);
+              height: calc(95% - var(--s-bg));
             }
           }
         }
@@ -90,18 +90,18 @@
 
   main.events {
     section {
-      padding: 3rem 5%;
+      padding: var(--s-bg) 5%;
     }
   }
 
   main.contact {
     section {
-      padding: 3rem 3rem 3rem 1rem;
+      padding: var(--s-bg) var(--s-bg) var(--s-bg) var(--s);
     }
   }
 
   .modal.credit {
-    padding: 1rem;
+    padding: var(--s);
     max-width: inherit;
     width: 95%;
   }
@@ -122,7 +122,7 @@
   body.links {
     main {
       .link-wrapper {
-        padding: 2rem;
+        padding: var(--s-lg);
         max-height: 95%;
         width: 95%;
 
@@ -132,12 +132,12 @@
 
         .link {
           img {
-            margin: 0 1rem;
+            margin: 0 var(--s);
           }
           
           P {
             font-size: 1.2rem;
-            margin-right: 1rem;
+            margin-right: var(--s);
           }
         }
       }			
@@ -152,7 +152,7 @@
         grid-template-columns: 1fr;
 
         h1 {
-          margin-top: 2rem;
+          margin-top: var(--s-lg);
         }
 
         h1, h2 {
@@ -176,7 +176,7 @@
       grid-template-columns: 1fr;
 
       h1 {
-        margin-top: 2rem;
+        margin-top: var(--s-lg);
         text-align: center;
       }
 
