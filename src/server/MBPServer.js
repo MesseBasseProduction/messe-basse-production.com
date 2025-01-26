@@ -4,7 +4,7 @@ const compression = require('compression');
 const zlib = require('node:zlib');
 
 global['version'] = '0.2.0';
-const port = 8020;
+const port = 8070;
 const app = express();
 
 console.log(`${(new Date()).toISOString()} | messe-basse-production.com v${version} | Starting express.js server`);
