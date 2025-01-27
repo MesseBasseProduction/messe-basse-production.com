@@ -375,6 +375,15 @@ main.music {
           text-align: center;
           width: 100%;
           transition: all .2s;
+
+          span {
+            border: solid 1px var(--c-fg);
+            border-radius: .5rem;
+            font-size: 1.1rem;
+            font-style: italic;
+            padding: 0 var(--s-sl);
+            margin: 0 var(--s-sl);
+          }
         }
       }
     }
@@ -840,6 +849,109 @@ main.artist {
     font-size: 2rem;
     font-style: italic;
     font-weight: bold;
+  }
+}
+
+main.release {
+  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+
+  p {
+    font-size: 1.4rem;
+  }
+
+  .album-wrapper {
+    display: grid;
+    grid-template-columns: 40rem 1fr;
+
+    .album-credits {
+      .album-artwork {
+        width: 100%;
+      }
+
+      .album-links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        p {
+          border: solid 1px var(--c-fg);
+          border-radius: .5rem;
+          height: 3rem;
+          margin: var(--s-sl);
+          padding: 0 var(--s);
+
+          a {
+            align-items: center;
+            color: var(--c-fg);
+            display: flex;
+            font-size: 1.3rem;
+            height: 100%;
+            justify-content: center;
+            margin: 0;
+            text-decoration: none;
+          }
+
+          img {
+            height: 2rem;
+            padding-right: var(--s);
+          }
+        }
+      }
+    }
+
+    .album-info {
+      text-align: left;
+
+      h3 {
+        font-size: 2rem;
+      }
+
+      h4 {
+        font-size: 1.6rem;
+        font-style: italic;
+      }
+    }
+
+    .album-tracklist {
+      .track {
+        background-color: rgba(0, 0, 0, .35);
+        display: grid;
+        grid-template-columns: 3rem 2fr 1fr 6rem;
+        text-align: left;
+
+        &:nth-child(odd) {
+          background-color: rgba(0, 0, 0, .25);
+        }
+
+        p {
+          align-items: center;
+          display: flex;
+          height: 4rem;
+
+          &:first-of-type,
+          &:last-of-type {
+            text-align: center;
+          }
+        }
+
+        div {
+          display: flex;
+          flex-wrap: wrap;
+          grid-column: 1 / span 4;
+          padding-left: 6rem;
+
+          p {
+            height: inherit;
+            width: 50%;
+
+            &:first-of-type,
+            &:last-of-type {
+              text-align: inherit;
+            }
+          }
+        }
+      }
+    }
   }
 }
 

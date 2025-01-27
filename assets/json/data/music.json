@@ -521,11 +521,132 @@
       "artist": ["NAC"],
       "date": "2021-11-09",
       "image": "/assets/img/music/MBPLP001.webp",
-      "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1",
+      "EAN": "0606707367653",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "credits": [
+        { "arranger": ["Arthur Beaulieu"] },
+        { "record": ["Arthur Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Victoria Shope"] },
+        { "bass": ["Arthur Beaulieu"] },
+        { "drums": ["Sylvain Mallet"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "keyboard": ["David Béché"] },
+        { "violin": ["Arthur Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Crad' Bar Boogie",
+          "artist": ["NAC"],
+          "duration": "06:48",
+          "ISRC": "FR-9W1-21-32295",
+          "credits": [
+            { "composer": ["Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        },
+        {
+          "title": "Bad Dreams",
+          "artist": ["NAC"],
+          "duration": "06:08",
+          "ISRC": "FR-9W1-21-32296",
+          "credits": [
+            { "composer": ["David Béché", "Pierre Toïgo"] }, 
+            { "author": ["David Béché", "Philippe Dromard"] }
+          ]
+        },
+        {
+          "title": "Dystopie",
+          "artist": ["NAC"],
+          "duration": "06:12",
+          "ISRC": "FR-9W1-21-32297",
+          "credits": [
+            { "composer": ["Philippe Dromard", "Pierre Toïgo"] }, 
+            { "author": ["Arthur Beaulieu"] }
+          ]
+        },
+        {
+          "title": "Nature Humaine",
+          "artist": ["NAC"],
+          "duration": "06:03",
+          "ISRC": "FR-9W1-21-32298",
+          "credits": [
+            { "composer": ["Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Arthur Beaulieu", "Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Amor Ciego",
+          "artist": ["NAC"],
+          "duration": "06:23",
+          "ISRC": "FR-9W1-21-32299",
+          "credits": [
+            { "composer": ["Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        },
+        {
+          "title": "Tramp",
+          "artist": ["NAC"],
+          "duration": "06:43",
+          "ISRC": "FR-9W1-21-32300",
+          "credits": [
+            { "composer": ["Arthur Beaulieu", "Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        },
+        {
+          "title": "Résilience (feat. Tom)",
+          "artist": ["NAC"],
+          "duration": "08:09",
+          "ISRC": "FR-9W1-21-32301",
+          "credits": [
+            { "composer": ["Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }, 
+            { "featuring": ["Tom Souty"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "facebook",
+          "url": "https://www.facebook.com/baroquerie"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1"
+          "url": "https://www.youtube.com/@LaBaroquerie"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0NDWmyeZMHf9LdeNcIDRKy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/la-baroquerie-du-val-de-bi%C3%A8vre/1658942595"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0BPH2Z4CT/la-baroquerie-du-val-de-bi%C3%A8vre/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/192901537"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/la-baroquerie-du-val-de-bievre/16644819"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/36049252"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10067725-La-Baroquerie-du-Val-de-Bi%C3%A8vre/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/f574963c-890f-492e-a3bd-99b870235a68"
         }
       ]
     },

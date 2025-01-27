@@ -44,13 +44,13 @@ class CreationPage extends AbstractMBP {
 
   _handleEvents() {
     return new Promise((resolve) => {
-      this._dom.querySelector('#music').addEventListener('click', this._updateLocation.bind(this, 'music'));// TODO send nls of id
-      this._dom.querySelector('#video').addEventListener('click', this._updateLocation.bind(this, 'video'));// TODO send nls of id
-      this._dom.querySelector('#podcast').addEventListener('click', this._updateLocation.bind(this, 'podcast'));// TODO send nls of id
-      this._dom.querySelector('#photo').addEventListener('click', this._updateLocation.bind(this, 'photo'));// TODO send nls of id
-      this._dom.querySelector('#merch').addEventListener('click', this._updateLocation.bind(this, 'merch'));// TODO send nls of id
-      this._dom.querySelector('#software').addEventListener('click', this._updateLocation.bind(this, 'software'));// TODO send nls of id
-      //this._dom.querySelector('#catalog').addEventListener('click', this._updateLocation.bind(this, 'catalog'));// TODO send nls of id
+      this._dom.querySelector('#music').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.music));
+      this._dom.querySelector('#video').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.video));
+      this._dom.querySelector('#podcast').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.podcast));
+      this._dom.querySelector('#photo').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.photo));
+      this._dom.querySelector('#merch').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.merch));
+      this._dom.querySelector('#software').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.software));
+      //this._dom.querySelector('#catalog').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.catalog));
       resolve();
     });
   }

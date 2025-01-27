@@ -1,6 +1,6 @@
 {
   "name": "messe-basse-production.com",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Messe Basse Production label website ",
   "keywords": [],
   "main": "src/mbp.js",
@@ -45,6 +45,8 @@
   },
   "dependencies": {
     "compression": "^1.7.5",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.0",
+    "pug": "^3.0.3"
   }
 }

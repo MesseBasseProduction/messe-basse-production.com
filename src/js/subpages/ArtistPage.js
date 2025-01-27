@@ -1,15 +1,17 @@
-import AbstractMBP from './AbstractMBP.js';
-import Utils from './Utils.js';
+import AbstractMBP from '../utils/AbstractMBP.js';
+import Utils from '../utils/Utils.js';
 
 
-class AbstractArtist extends AbstractMBP {
+class ArtistPage extends AbstractMBP {
 
 
-  constructor() {
+  constructor(name) {
     super();
     this._artistData = {};
     this._releases = [];
     this._releasesScroll = {};
+    this._name = name;
+    this._initArtist();
   }
 
 
@@ -112,12 +114,15 @@ class AbstractArtist extends AbstractMBP {
   _handleEvents() {
     return new Promise(resolve => {
       this._dom.querySelector('#back-button').addEventListener('click', this._updateLocation.bind(this, 'music'));
-      /*const children = this._dom.querySelector('#releases-wrapper').firstElementChild.firstElementChild.children;
+      /*
+      const children = this._dom.querySelector('#releases-wrapper').firstElementChild.firstElementChild.children;
       for (let i = 0; i < children.length; ++i) {
         children[i].addEventListener('click', e => {
-//TODO release page          this._updateLocation();
-        })
-      }*/
+          // URL be like /MBPXX000?lang=fr
+          this._updateLocation(`${e.target.dataset.catalog}?lang=${this._lang}`);
+        });
+      }
+      */
       resolve();
     });
   }
@@ -126,4 +131,4 @@ class AbstractArtist extends AbstractMBP {
 }
 
 
-export default AbstractArtist;
+export default ArtistPage;

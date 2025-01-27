@@ -6,7 +6,7 @@ class AbstractMBP {
 
 
   constructor() {
-    this._version = '0.2.0'; // App verison
+    this._version = '0.2.1'; // App verison
     this._lang = 'fr'; // By default in french
     this._nls = null; // Translated key/values
     this._dom = null;
@@ -93,6 +93,11 @@ class AbstractMBP {
     document.getElementById('loading-overlay').style.display = 'block';
     document.getElementById('loading-overlay').style.opacity = 1;
     setTimeout(() => {
+      // Ensure the overlay is removed after calling location move. Avoid issues hitting browser back button
+      setTimeout(() => {
+        document.getElementById('loading-overlay').style.opacity = 0;
+        document.getElementById('loading-overlay').style.display = 'none';        
+      }, 400);
       window.location = `/${target}`;
     }, 200); // Match loading-overlay transition timing
   }
@@ -102,9 +107,3 @@ class AbstractMBP {
 
 
 export default AbstractMBP;
-
-window.addEventListener('popstate', e => {
-  if (e.originalEvent.state !== null) {
-    location.reload()
-  }
-});

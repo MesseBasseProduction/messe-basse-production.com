@@ -53,10 +53,15 @@ class MusicPage extends AbstractMBP {
         band.appendChild(bandImage);
 
         const bandName = document.createElement('P');
-        bandName.innerHTML = this._musicData.artists[i].name;
+        bandName.innerHTML = `${this._musicData.artists[i].name}<br>`;
+        for (let j = 0; j < this._musicData.artists[i].genres.length; ++j) {
+          const genre = document.createElement('SPAN');
+          genre.innerHTML = this._musicData.artists[i].genres[j];
+          bandName.appendChild(genre);
+        }
         band.appendChild(bandName);
-
-        band.addEventListener('click', this._updateLocation.bind(this, `artist/${this._musicData.artists[i].internalUrl}`));
+        // URL be like /artist/my-artist
+        band.addEventListener('click', this._updateLocation.bind(this, `${this._nls.translatedUrl.artist}/${this._musicData.artists[i].internalUrl}`));
         this._dom.querySelector('#musicians-grid').appendChild(band);
       }
       resolve();
