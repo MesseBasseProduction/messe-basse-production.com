@@ -15,8 +15,7 @@ module.exports = (routes, callback) => {
   fsExtra.emptyDirSync(xmlFolderPath);
   // Create sitemap xml content and fill it with app urls
   console.log(`${(new Date()).toISOString()} | messe-basse-production.com v${global['version']} |   Parse website routes and build XML content with it`);
-  let outputContentXML = `
-<?xml version="1.0" encoding="UTF-8"?>
+  let outputContentXML = `<?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">`;
   const lastModified = (new Date()).toISOString();
   for (let i = 0; i < routes.length; ++i) {
@@ -34,7 +33,8 @@ module.exports = (routes, callback) => {
   }
   //  console.log(routes);
   outputContentXML += `
-</urlset>`;
+</urlset>
+`;
   // Write content into file
   console.log(`${(new Date()).toISOString()} | messe-basse-production.com v${global['version']} |   Write all website routes into XML file`);
   fs.writeFile(`${xmlFolderPath}/sitemap.xml`, outputContentXML, err => {
