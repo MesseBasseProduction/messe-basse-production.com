@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "title": "Concert « Il Flauto di Leonardo »",
+      "catalog": "MBPEVT016",
+      "image": "/assets/img/event/MBPEVT016.webp",
+      "date": "2025-02-15",
+      "place": "Chapelle du Bon-Pasteur, Chevilly-Larue",
+      "link": "https://www.facebook.com/events/9630335020360311",
+      "description": {
+        "en": "Immerse yourself in the heart of Neapolitan Baroque for an exceptional musical evening! A concert that will invite you to explore a rare and captivating repertoire, imbued with virtuosity and emotion. This is an opportunity to promote a <a href=\"https://www.helloasso.com/associations/messe-basse-production/collectes/guillaume-beaulieu-il-flauto-di-leonardo-production project -de-disque\" target=\"_blank\" rel=\"noreferrer noopener\">crowdfunding</a>, aiming to record this unique program on a disc, in the summer 2025.",
+        "fr": "Plongez au cœur du baroque napolitain pour une soirée musicale exceptionnelle ! Un concert qui vous invitera à explorer un répertoire rare et envoûtant, empreint de virtuosité et d’émotion. C'est l’occasion de promouvoir un projet de <a href=\"https://www.helloasso.com/associations/messe-basse-production/collectes/guillaume-beaulieu-il-flauto-di-leonardo-production-de-disque\" target=\"_blank\" rel=\"noreferrer noopener\">financement participatif</a>, visant à enregistrer sur un disque ce programme unique, à l'été 2025."
+      },
+      "starring": [
+        {
+          "name": "Guillaume Beaulieu",
+          "url": "https://www.youtube.com/@GuillaumeBeaulieuRecorder"
+        }, {
+          "name": "Thomas Soltani",
+          "url": "https://ensemble-stravaganza.com"
+        }
+      ]
+    }, {
       "title": "Concert/conférence autour de Telemann",
       "catalog": "MBPEVT015",
       "image": "/assets/img/event/MBPEVT015.webp",
