@@ -67,7 +67,10 @@ class ContactPage extends AbstractMBP {
 
       this._docScroll = new window.ScrollBar({
         target: this._dom.querySelector('#documents'),
-        minSize: 90
+        minSize: 90,
+        style: {
+          color: '#FFBF00'
+        }
       });
 
       resolve();
@@ -99,7 +102,6 @@ class ContactPage extends AbstractMBP {
   __buildDocumentDOM(data) {
     const doc = document.createElement('A');
     doc.classList.add('doc-download');
-    doc.download = true;
     doc.href = data.url;
 
     const image = document.createElement('IMG');
@@ -110,6 +112,8 @@ class ContactPage extends AbstractMBP {
 
     const date = document.createElement('SPAN');
     date.innerHTML = Utils.formatDate(data.date, this._lang);
+
+    doc.download = `${data.name} Messe Basse Production – ${Utils.formatDate(data.date, this._lang)}`;
 
     doc.appendChild(image);
     doc.appendChild(name);

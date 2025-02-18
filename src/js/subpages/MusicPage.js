@@ -33,8 +33,6 @@ class MusicPage extends AbstractMBP {
 
   _translateMuserPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.music);
       Utils.replaceNlsString(this._dom, 'MUSIC_TITLE', this._nls.music.title);
       Utils.replaceNlsString(this._dom, 'MUSIC_DESCRIPTION', this._nls.music.description);
       resolve();

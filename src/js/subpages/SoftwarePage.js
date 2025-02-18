@@ -32,8 +32,6 @@ class SoftwarePage extends AbstractMBP {
 
   _translateSoftwarePage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.software);
       Utils.replaceNlsString(this._dom, 'SOFTWARE_TITLE', this._nls.software.title);
       Utils.replaceNlsString(this._dom, 'SOFTWARE_DESCRIPTION1', this._nls.software.description1);
       Utils.replaceNlsString(this._dom, 'SOFTWARE_DESCRIPTION2', this._nls.software.description2);

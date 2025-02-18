@@ -8,7 +8,7 @@ const AppRouter = express.Router();
 // Callback method to send a given HTML file to the end-user
 const loadAppPage = (req, res, filename) => {
   console.log(`${(new Date()).toISOString()} | messe-basse-production.com v${global['version']} | 200 ${req.originalUrl} page requested, return ${filename}.html`);
-  res.sendFile(path.join(__dirname, `../../../assets/html/${filename}.html`));  
+  res.sendFile(path.join(__dirname, `../../../assets/html/${filename}.html`));
 };
 // Callback method to perform a redirection into a given target
 const redirectAppPage = (req, res, redirectionTarget) => {

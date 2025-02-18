@@ -32,8 +32,6 @@ class CatalogPage extends AbstractMBP {
 
   _translateCatalogPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.catalog);
 //      Utils.replaceNlsString(this._dom, 'CATALOG_TITLE', this._nls.merch.music);
 //      Utils.replaceNlsString(this._dom, 'CATALOG_DESCRIPTION', this._nls.merch.apparel);
       resolve();

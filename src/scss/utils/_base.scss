@@ -4,6 +4,18 @@
     url('../../assets/font/Catamaran-Pro.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'Doulos';
+  src: url('../../assets/font/Doulos-SIL.ttf') format('truetype'),
+    url('../../assets/font/Doulos-SIL.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Gravity';
+  src: url('../../assets/font/Gravity.ttf') format('truetype'),
+    url('../../assets/font/Gravity.woff') format('woff');
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -20,7 +32,7 @@ html, body {
 body {
   background: var(--c-bg);
   color: var(--c-fg);
-  font-family: sans-serif;
+  font-family: 'Gravity', sans-serif;
 }
 
 a {
@@ -31,8 +43,8 @@ a {
 }
 
 button {
-  background: rgba(255, 255, 255, .1);
-  border: solid 1px var(--c-fg);
+  background: var(--c-fg-a10);
+  border: solid 1px var(--c-fg-a50);
   border-radius: var(--s-sl);
   color: var(--c-fg);
   cursor: pointer;
@@ -43,7 +55,7 @@ button {
   &:active,
   &:focus,
   &:hover {
-    background: rgba(255, 255, 255, .2);
+    background: var(--c-fg-a20);
   }
 
   &[disabled] {
@@ -130,7 +142,7 @@ main {
 
 .not-found {
   align-items: center;
-  background-image: radial-gradient(#2D2D2D 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#332600 0, var(--c-bg) 80%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -149,7 +161,7 @@ main {
 }
 
 .loading-overlay {
-  background-image: radial-gradient(#2D2D2D 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#332600 0, var(--c-bg) 80%);
   cursor: progress;
   height: 100%;
   opacity: 1;
@@ -175,16 +187,9 @@ main {
 }
 
 .item {
-  background-color: rgba(95, 95, 95, .3);
+  background-color: var(--c-fg-a10);
   border-radius: 1.5rem;
-  box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);
+  box-shadow: 0px 0px 10px  var(--c-fg-a30);
   padding: var(--s-lg);
-
   transition: all .2s;
-
-  &:active,
-  &:focus,
-  &:hover {
-    background-color: rgba(95, 95, 95, .35);
-  }
 }

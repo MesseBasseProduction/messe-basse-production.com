@@ -30,7 +30,7 @@ main {
 }
 
 main.creation {
-  background-image: radial-gradient(#2D2D2D 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#332600 0, var(--c-bg) 80%);
 
   section {
     align-items: center;
@@ -91,7 +91,7 @@ main.creation {
 }
 
 main.events {
-  background-image: radial-gradient(#23353c 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#420000 0, var(--c-bg) 80%);
 
   .event {
     align-items: center;
@@ -164,7 +164,7 @@ main.events {
 }
 
 main.contact {
-  background-image: radial-gradient(#233C26 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#233C26 0, var(--c-bg) 80%);
 
   section {
     p, a {
@@ -203,7 +203,8 @@ main.contact {
       border: solid 1px grey;
       border-radius: var(--s-sl);
       height: 8rem;
-      margin: var(--s-lg) 0;
+      margin: var(--s-lg) auto;
+      width: min(50rem, 90%);
 
       .doc-download {
         align-items: center;
@@ -254,7 +255,7 @@ main.contact {
 /* Alt pages */
 
 main.merch {
-  background-image: radial-gradient(#3C2323 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
   section {
     padding: var(--s-bg) 16%;
@@ -269,13 +270,9 @@ main.merch {
       width: 100%;
     }
 
-    .merch-item {
-      background-color: rgba(95, 95, 95, .3);
-      border-radius: 1.5rem;
-      box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);
+    .item {
       max-width: 100%;
       overflow: hidden;
-      padding: var(--s-lg);
       position: relative;
 
       img {
@@ -332,7 +329,7 @@ main.merch {
 }
 
 main.music {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
   p.description {
     font-size: 1.3rem;
@@ -393,7 +390,7 @@ main.music {
 }
 
 main.photo {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
   p.description {
     font-size: 1.3rem;
@@ -504,7 +501,7 @@ main.photo {
 }
 
 main.podcast {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
   p.description {
     font-size: 1.3rem;
@@ -524,9 +521,6 @@ main.podcast {
 
       .item {
         align-items: center;
-        background-color: rgba(95, 95, 95, .3);
-        border-radius: 1.5rem;
-        box-shadow: 0px 0px 10px rgba(245, 245, 245, .3);
         display: grid;
         grid-template-columns: 25rem 1fr;
         margin-bottom: var(--s-lg);
@@ -600,7 +594,7 @@ main.podcast {
 }
 
 main.software {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
   p.description {
     font-size: 1.3rem;
@@ -662,7 +656,7 @@ main.software {
 }
 
 main.video {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
   p.description {
     font-size: 1.3rem;
@@ -700,7 +694,7 @@ main.video {
 /* Artists pages */
 
 main.artist {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#3C3923 0, var(--c-bg) 80%);
 
   p {
     font-size: 1.4rem;
@@ -853,7 +847,7 @@ main.artist {
 }
 
 main.release {
-  background-image: radial-gradient(#3C3923 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#3C3923 0, var(--c-bg) 80%);
 
   p {
     font-size: 1.4rem;
@@ -958,7 +952,7 @@ main.release {
 /* Link trees */
 
 body.links {
-  background-image: radial-gradient(#233C26 0,#202020 45%, var(--c-bg) 80%);
+  background-image: radial-gradient(#233C26 0, var(--c-bg) 80%);
 
   main {
     align-items: center;
@@ -969,7 +963,7 @@ body.links {
     width: 100%;
 
     .link-wrapper {
-      background-color: rgba(255, 255, 255, .1);
+      background-color: var(--c-fg-a10);
       border-radius: var(--s-sl);
       max-height: 80%;
       max-width: 100rem;

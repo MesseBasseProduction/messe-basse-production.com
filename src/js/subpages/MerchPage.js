@@ -32,8 +32,6 @@ class MerchPage extends AbstractMBP {
 
   _translateMerchPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.merch);
       Utils.replaceNlsString(this._dom, 'MERCH_MUSIC', this._nls.merch.music);
       Utils.replaceNlsString(this._dom, 'MERCH_APPAREL', this._nls.merch.apparel);
       resolve();
@@ -62,7 +60,7 @@ class MerchPage extends AbstractMBP {
 
   __buildMusicalMerch(data) {
     const album = document.createElement('DIV');
-    album.classList.add('merch-item');
+    album.classList.add('item');
 
     const image = document.createElement('IMG');
     image.src = data.image;
@@ -112,7 +110,7 @@ class MerchPage extends AbstractMBP {
 
   __buildApparelMerch(data) {
     const collection = document.createElement('DIV');
-    collection.classList.add('merch-item');
+    collection.classList.add('item');
 
     const image = document.createElement('IMG');
     image.src = data.image;

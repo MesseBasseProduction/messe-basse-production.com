@@ -55,8 +55,6 @@ class ArtistPage extends AbstractMBP {
 
   _translateArtistPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.music);
       Utils.replaceNlsString(this._dom, 'ARTIST_SHORT_BIO', this._artistData.shortBio[this._lang]);
       Utils.replaceNlsString(this._dom, 'ARTIST_BIO', this._artistData.bio[this._lang]);
       Utils.replaceNlsString(this._dom, 'ARTIST_BIO_TITLE', this._nls.artist.bioTitle);

@@ -32,6 +32,11 @@ app.use('/assets', express.static(path.join(__dirname, '../../assets'), { // Ser
 app.use('/tree', express.static(path.join(__dirname, '../../tree'), { // Serve artist link trees
   maxAge: '864000000' // 10 days caching for artist link tree
 }));
+/* Handle 404 as last */
+app.all('*', (req, res) => {
+  console.log(`${(new Date()).toISOString()} | messe-basse-production.com v${global['version']} | 404 ${req.originalUrl} page requested, return 404.html`);
+  res.sendFile(path.join(__dirname, `../../assets/html/404.html`));
+});
 
 // Now update sitemap with given routes
 require('./utils/SiteMapGenerator.js')([appRoutes, artistRoutes], () => {

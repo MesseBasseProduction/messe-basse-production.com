@@ -32,8 +32,6 @@ class VideoPage extends AbstractMBP {
 
   _translateVideoPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.video);
       Utils.replaceNlsString(this._dom, 'VIDEO_TITLE', this._nls.video.title);
       Utils.replaceNlsString(this._dom, 'VIDEO_DESCRIPTION', this._nls.video.description);
       resolve();

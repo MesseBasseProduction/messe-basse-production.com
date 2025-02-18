@@ -1,10 +1,15 @@
 :root {
-  --c-primary: #FFBF00;
+  --c-primary: #FFBF00; /* Amber */
+  --c-bg: #101B1F; /* Abyssal Azure */
+  --c-fg: #EFE4E0; /* Light Peach */
+  /* Color variations */
   --c-primary-filter: invert(64%) sepia(67%) saturate(608%) hue-rotate(1deg) brightness(104%) contrast(109%);
-
-  --c-bg: #181818;
-  --c-fg: #D4D4D4;
-
+  --c-bg-a10: rgba(16, 27, 31, .1);
+  --c-fg-a10: rgba(239, 228, 224, .1);
+  --c-fg-a20: rgba(239, 228, 224, .2);
+  --c-fg-a30: rgba(239, 228, 224, .3);
+  --c-fg-a50: rgba(239, 228, 224, .5);
+  /* Spacing */
   --s-sl: .5rem;
   --s: 1rem;
   --s-lg: 2rem;

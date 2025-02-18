@@ -32,8 +32,6 @@ class PhotoPage extends AbstractMBP {
 
   _translatePhotoPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.photo);
       Utils.replaceNlsString(this._dom, 'PHOTO_EXPOSITION_TITLE', this._nls.photo.expositionTitle);
       Utils.replaceNlsString(this._dom, 'PHOTO_EXPOSITION_DESCRIPTION', this._nls.photo.expositionDescription);
       Utils.replaceNlsString(this._dom, 'PHOTO_EVENT_TITLE', this._nls.photo.eventTitle);

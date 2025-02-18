@@ -54,8 +54,6 @@ class ReleasePage extends AbstractMBP {
 
   _translateReleasePage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.music);
 //      Utils.replaceNlsString(this._dom, 'ARTIST_SHORT_BIO', this._artistData.shortBio[this._lang]);
       resolve();
     });

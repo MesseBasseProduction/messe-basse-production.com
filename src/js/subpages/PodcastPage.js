@@ -32,8 +32,6 @@ class PodcastPage extends AbstractMBP {
 
   _translatePodcastPage() {
     return new Promise((resolve) => {
-      const nav = document.getElementById('navigation');
-      Utils.replaceNlsString(nav, 'NAVBAR_CREATION', this._nls.creation.podcast);
       Utils.replaceNlsString(this._dom, 'VIDEO_TITLE', this._nls.video.title);
       Utils.replaceNlsString(this._dom, 'VIDEO_DESCRIPTION', this._nls.video.description);
       resolve();
