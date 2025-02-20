@@ -15,6 +15,7 @@ class MerchPage extends AbstractMBP {
       .then(this._translateMerchPage.bind(this))
       .then(this._buildMerchPage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 

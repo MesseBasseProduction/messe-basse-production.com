@@ -15,6 +15,7 @@ class ContactPage extends AbstractMBP {
       .then(this._initializeContactPage.bind(this))
       .then(this._translateContactPage.bind(this))
       .then(this._buildContactPage.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 
@@ -62,8 +63,6 @@ class ContactPage extends AbstractMBP {
         const doc = this.__buildDocumentDOM(this._contactData.documents[i]);
         documents.appendChild(doc);
       }
-
-      this._dom.querySelector('#credit-modal').addEventListener('click', this._openCreditModal.bind(this));
 
       this._docScroll = new window.ScrollBar({
         target: this._dom.querySelector('#documents'),
@@ -120,45 +119,6 @@ class ContactPage extends AbstractMBP {
     name.appendChild(date);
 
     return doc;
-  }
-
-
-  _openCreditModal() {
-    Utils.fetchPage('/assets/html/modal/credit.html').then(dom => {
-      const modal = document.createElement('DIV');
-      modal.classList.add('modal');
-      modal.classList.add('credit');
-      modal.appendChild(dom);
-
-      Utils.replaceNlsString(modal, 'ABOUT_TITLE', this._nls.aboutTitle);
-      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION1', this._nls.aboutDescription1);
-      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION2', this._nls.aboutDescription2);
-      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION3', this._nls.aboutDescription3);
-      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION4', this._nls.aboutDescription4);
-      Utils.replaceNlsString(modal, 'ABOUT_CLOSE', this._nls.aboutClose);
-
-      document.getElementById('overlay').appendChild(modal);
-      // Modal opening/closing animation
-      const closeModal = e => {
-        if (['overlay', 'close-modal'].indexOf(e.target.id) === -1) {
-          return;
-        }
-  
-        document.getElementById('overlay').style.opacity = 0;
-        setTimeout(() => {
-          document.getElementById('overlay').style.display = 'none';
-          document.getElementById('overlay').innerHTML = '';
-        }, 300);
-      };
-  
-      document.getElementById('overlay').style.display = 'flex';
-      setTimeout(() => document.getElementById('overlay').style.opacity = 1, 100);
-      setTimeout(() => {
-        modal.style.opacity = 1;
-        document.getElementById('overlay').addEventListener('click', closeModal);
-        document.getElementById('close-modal').addEventListener('click', closeModal);
-      }, 200);
-    });
   }
 
 

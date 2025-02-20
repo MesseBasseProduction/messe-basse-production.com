@@ -20,6 +20,10 @@
   ],
   "artists": [
     {
+      "name": "guillaumebeaulieu.com",
+      "image": "/assets/img/soft/guillaumebeaulieu.com.webp",
+      "url": "https://guillaumebeaulieu.com"
+    }, {
       "name": "fiveoclockjazzquartet.com",
       "image": "/assets/img/soft/fiveoclockjazzquartet.com.webp",
       "url": "https://fiveoclockjazzquartet.com"

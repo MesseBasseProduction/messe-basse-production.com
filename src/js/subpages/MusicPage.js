@@ -16,6 +16,7 @@ class MusicPage extends AbstractMBP {
       .then(this._translateMuserPage.bind(this))
       .then(this._buildMusicPage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 

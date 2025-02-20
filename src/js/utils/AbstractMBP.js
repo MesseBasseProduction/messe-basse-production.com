@@ -72,6 +72,14 @@ class AbstractMBP {
   }
 
 
+  _sharedEvents() {
+    return new Promise(resolve => {
+      this._dom.querySelector('#credit-modal').addEventListener('click', this._openCreditModal.bind(this));
+      resolve();
+    });
+  }
+
+
   // Called in child class, only when everything is ready on the scene
   _makeSceneVisible() {
     return new Promise(resolve => {
@@ -100,6 +108,45 @@ class AbstractMBP {
       }, 400);
       window.location = `/${target}`;
     }, 200); // Match loading-overlay transition timing
+  }
+
+
+  _openCreditModal() {
+    Utils.fetchPage('/assets/html/modal/credit.html').then(dom => {
+      const modal = document.createElement('DIV');
+      modal.classList.add('modal');
+      modal.classList.add('credit');
+      modal.appendChild(dom);
+
+      Utils.replaceNlsString(modal, 'ABOUT_TITLE', this._nls.aboutTitle);
+      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION1', this._nls.aboutDescription1);
+      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION2', this._nls.aboutDescription2);
+      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION3', this._nls.aboutDescription3);
+      Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION4', this._nls.aboutDescription4);
+      Utils.replaceNlsString(modal, 'ABOUT_CLOSE', this._nls.aboutClose);
+
+      document.getElementById('overlay').appendChild(modal);
+      // Modal opening/closing animation
+      const closeModal = e => {
+        if (['overlay', 'close-modal'].indexOf(e.target.id) === -1) {
+          return;
+        }
+  
+        document.getElementById('overlay').style.opacity = 0;
+        setTimeout(() => {
+          document.getElementById('overlay').style.display = 'none';
+          document.getElementById('overlay').innerHTML = '';
+        }, 300);
+      };
+  
+      document.getElementById('overlay').style.display = 'flex';
+      setTimeout(() => document.getElementById('overlay').style.opacity = 1, 100);
+      setTimeout(() => {
+        modal.style.opacity = 1;
+        document.getElementById('overlay').addEventListener('click', closeModal);
+        document.getElementById('close-modal').addEventListener('click', closeModal);
+      }, 200);
+    });
   }
 
 

@@ -1,10 +1,21 @@
 :root {
+  /* Theme main colors */
   --c-primary: #FFBF00; /* Amber */
   --c-bg: #101B1F; /* Abyssal Azure */
   --c-fg: #EFE4E0; /* Light Peach */
+  /* Theme color palette */
+  --c-primary-lighter: #FFE085;
+  --c-primary-light: #FFD147;
+  --c-primary-dark: #CC9900;
+  --c-primary-darker: #8F6B00;
+  --c-bg-lighter: #3E6A79;
+  --c-bg-light: #2A4651;
+  --c-fg-dark: #DCC4BC;
+  --c-fg-darker: #CEADA1;
   /* Color variations */
   --c-primary-filter: invert(64%) sepia(67%) saturate(608%) hue-rotate(1deg) brightness(104%) contrast(109%);
   --c-bg-a10: rgba(16, 27, 31, .1);
+  --c-bg-a80: rgba(16, 27, 31, .8);
   --c-fg-a10: rgba(239, 228, 224, .1);
   --c-fg-a20: rgba(239, 228, 224, .2);
   --c-fg-a30: rgba(239, 228, 224, .3);
@@ -15,4 +26,6 @@
   --s-lg: 2rem;
   --s-bg: 3rem;
   --s-hg: 4rem;
+  /* Font sizes */
+  --f: 1.5rem;
 }

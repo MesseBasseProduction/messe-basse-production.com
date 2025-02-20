@@ -38,8 +38,11 @@ body {
 a {
   display: block;
   color: var(--c-primary);
-  margin-bottom: 1.5rem;
-  font-size: 1.5rem;
+}
+
+p, a {
+  font-size: var(--f);
+  margin-bottom: var(--f);
 }
 
 button {
@@ -189,7 +192,7 @@ main {
 .item {
   background-color: var(--c-fg-a10);
   border-radius: 1.5rem;
-  box-shadow: 0px 0px 10px  var(--c-fg-a30);
+  box-shadow: 0px 0px var(--s) var(--c-fg-a30);
   padding: var(--s-lg);
   transition: all .2s;
 }

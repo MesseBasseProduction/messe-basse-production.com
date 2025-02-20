@@ -12,6 +12,7 @@ class CreationPage extends AbstractMBP {
       .then(this._initializeCreationPage.bind(this))
       .then(this._translateCreationPage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 

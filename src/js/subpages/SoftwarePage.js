@@ -15,6 +15,7 @@ class SoftwarePage extends AbstractMBP {
       .then(this._translateSoftwarePage.bind(this))
       .then(this._buildSoftwarePage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 
@@ -47,6 +48,7 @@ class SoftwarePage extends AbstractMBP {
       for (let i = 0; i < this._softwareData.creation.length; ++i) {
         const website = document.createElement('DIV');
         website.classList.add('website');
+        website.classList.add('item');
         website.dataset.url = this._softwareData.creation[i].url;
         website.innerHTML = `
           <img src="${this._softwareData.creation[i].image}" alt="mbp-website">
@@ -62,6 +64,7 @@ class SoftwarePage extends AbstractMBP {
       for (let i = 0; i < this._softwareData.artists.length; ++i) {
         const website = document.createElement('DIV');
         website.classList.add('website');
+        website.classList.add('item');
         website.dataset.url = this._softwareData.artists[i].url;
         website.innerHTML = `
           <img src="${this._softwareData.artists[i].image}" alt="mbp-website">

@@ -1,6 +1,6 @@
 .overlay {
   align-items: center;
-  background-color: rgba(0, 0, 0, .8);
+  background-color: var(--c-bg-a80);
   display: none;
   height: 100vh;
   justify-content: center;
@@ -12,8 +12,9 @@
   transition: opacity .3s;
 
   .modal {
-    background-color: #2D2D2D;
+    background-color: var(--c-bg);
     border-radius: var(--s-sl);
+    box-shadow: 0px 0px var(--s) var(--c-fg-a20);
     max-width: 80%;
     opacity: 0;
     padding: var(--s-bg);
@@ -43,7 +44,7 @@
 }
 
 .modal.expo {
-  background-color: #2D2D2D;
+  background-color: var(--c-bg);
   border-radius: inherit;
   display: flex;
   flex-direction: column;
@@ -195,7 +196,8 @@
   position: relative;
 
   img {
-    box-shadow: 0px 0px 10px var(--c-fg);		
+    border-radius: .5rem;
+    box-shadow: 0px 0px var(--s) var(--c-fg-a30);
     max-height: calc(100vh - 4.2rem); /* Font size, modal margins and text margin-top */
     max-width: calc(100vw - var(--s-lg));
   }

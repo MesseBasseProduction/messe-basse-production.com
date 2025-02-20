@@ -13,13 +13,14 @@ class EventPage extends AbstractMBP {
     this._init()
       .then(this._initializeEventPage.bind(this))
       .then(this._buildEventPage.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 
 
   _initializeEventPage() {
     return new Promise((resolve, reject) => {
-      this._dom = document.querySelector('.events-wrapper');
+      this._dom = document.getElementById('scene');
       Utils.fetchData('events').then(data => {
         this._eventData = data;
         resolve();
@@ -46,12 +47,12 @@ class EventPage extends AbstractMBP {
           hasUpcoming = true;
           const header = document.createElement('H1');
           header.innerHTML = this._nls.events.upcoming;
-          this._dom.appendChild(header);
+          this._dom.querySelector('.events-wrapper').appendChild(header);
         } else if (this._eventData.events[i].date < this._now && hasPast === false) {
           hasPast = true;
           const header = document.createElement('H1');
           header.innerHTML = this._nls.events.past;
-          this._dom.appendChild(header);
+          this._dom.querySelector('.events-wrapper').appendChild(header);
         }
         // Now check for year header in past events section
         const studiedYear = this._eventData.events[i].date.slice(0, 4);
@@ -59,11 +60,11 @@ class EventPage extends AbstractMBP {
           years[studiedYear] = studiedYear;
           const header = document.createElement('H2');
           header.innerHTML = studiedYear;
-          this._dom.appendChild(header);
+          this._dom.querySelector('.events-wrapper').appendChild(header);
         }
 
         const event = this.__buildEventDOM(this._eventData.events[i]);
-        this._dom.appendChild(event);
+        this._dom.querySelector('.events-wrapper').appendChild(event);
       }
 
       resolve();

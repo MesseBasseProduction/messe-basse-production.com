@@ -1,104 +1,73 @@
-@media (max-width: 1258px) {
+@media (max-width: 1000px) {
   nav.site-nav {
+    height: 8rem;
+
+    a {
+      font-size: 2.2rem;
+    }
+
     .socials {
       display: none;
     }
   }
 
-  main.events {
-    section {
-      padding: var(--s-bg) 10%;
-    }
-  }
-}
+  main {
+    height: calc(100% - 8rem);
 
-@media (max-width: 1000px) {
-  nav.site-nav {
-    a {
-      font-size: 1.4rem;
-      padding: 0 var(--s-sl);
+    section {
+      padding: var(--s-bg) 5%;    
     }
   }
 
-  main.home {
+  /* Subpages */
+
+  main.merch {
     section {
-      display: block;
-    }		
-  }
-
-  main.creation {
-    padding-top: 4rem;
-
-    .subpage-nav {
-      bottom: inherit;
-      flex-direction: inherit;
-      height: var(--s-lg);
-      margin: var(--s) 0;
-      top: 10rem;
-      width: 100%;
-
-      img {
-        height: 100%;
-        padding: 0 var(--s);
-        width: unset;
-      }
-    }
-
-    section {
-      padding: var(--s) var(--s-lg);
-      margin-bottom: 0;
-    }
-
-    .music {
-      .band {
-        display: flex;
-        flex-direction: column;
-        margin-bottom: 0;
-
-        .band-image {
-          display: none;
-        }
-
-        .band-releases {
-          padding: var(--s-lg) var(--s);
-          position: inherit;
-          width: 100%;
-
-          .band-header {
-            h2 {
-              overflow: hidden;
-              text-overflow: ellipsis;
-              white-space: nowrap;
-            }
-          }
-
-          .band-albums {
-            .album {
-              height: calc(95% - var(--s-bg));
-            }
-          }
+      .merch-collection {
+        .item {
+          width: 50rem;
         }
       }
     }
+  }
 
-    .video {
-      .video-grid .embed-video h2 {
-        font-size: 1.4rem;
+  main.music {
+    section {
+      .musicians-grid {
+        .band p {
+          font-size: 1.8rem;
+          opacity: 1;
+
+          span {
+            margin-top: var(--s-sl);
+            padding: var(--s-sl);
+          }
+        }
+      }
+    }    
+  }
+
+  main.podcast {
+    section {
+      .collection {
+        .item {
+          grid-template-columns: 20rem 1fr;
+        }
       }
     }
   }
 
-  main.events {
+  main.software {
     section {
-      padding: var(--s-bg) 5%;
+      .website-grid {
+        .website h2 {
+          font-size: 2rem;
+        }
+      }
     }
   }
 
-  main.contact {
-    section {
-      padding: var(--s-bg) var(--s-bg) var(--s-bg) var(--s);
-    }
-  }
+  /* Modals */
 
   .modal.credit {
     padding: var(--s);
@@ -146,105 +115,154 @@
 }
 
 @media (max-width: 720px) {
+  nav.site-nav {
+    flex-wrap: wrap;
+    height: 6rem;
+
+    a {
+      font-size: 1.8rem;
+      padding: 0 var(--s);
+    }
+  }
+
+  main {
+    height: calc(100% - 6rem);
+
+    .credit-modal {
+      font-size: 1.4rem;
+    }
+  }
+
+  /* Main pages */
+
+  main.creation {
+    section.art-domains {
+      column-gap: var(--s-lg);
+      row-gap: var(--s-lg);
+
+      div {
+        width: max(15rem, 22vw);
+
+        img {
+          margin-bottom: var(--s);
+        }
+      }
+    }
+  }
+
   main.events {
     section {
       .event {
         grid-template-columns: 1fr;
 
-        h1 {
-          margin-top: var(--s-lg);
-        }
-
-        h1, h2 {
-          text-align: center;          
-        }
-
         .content {
           margin-left: 0;
+
+          h1 {
+            margin-top: var(--s-lg);
+          }
+  
+          h1, h2 {
+            text-align: center;          
+          }  
 
           .starring {
             display: flex;
             justify-content: center;
           }
         }
-      }
-    }
-  }
 
-  main.creation .subpage.podcast {
-    .item {
-      grid-template-columns: 1fr;
-
-      h1 {
-        margin-top: var(--s-lg);
-        text-align: center;
-      }
-
-      .content {
-        margin-left: 0;
-
-        .links {
-          display: flex;
-          justify-content: center;
+        &:last-of-type {
+          margin-bottom: 0;
         }
       }
     }
   }
-}
 
-@media (max-width: 512px) {
-  nav.site-nav {
-    flex-wrap: wrap;
+  main.contact {
+    section {
+      .member-container {
+        display: flex;
+        flex-wrap: wrap;
 
-    a {
-      opacity: 0;
-      transition: opacity .5s;
+        h2 {
+          margin-bottom: var(--s-sl);
+        }
+      }
     }
   }
 
-  main.creation {
-    .music {
-      .band {
-        .band-image {
-          position: inherit;
-          width: 90%;
-        }
+  /* Subpages */
 
-        
-        .band-releases {
-          .band-header {
-            span {
-              display: none;
-            }
+  main.merch {
+    section {
+      .merch-collection {
+        .item {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  main.music {
+    section {
+      .musicians-grid {
+        grid-template-columns: repeat(auto-fit, 100%);
+
+        .band p {
+          font-size: 1.5rem;
+          opacity: 1;
+
+          span {
+            font-size: 1rem;
+            padding: 0 var(--s-sl);
           }
         }
       }
     }
   }
-}
 
-@media (max-height: 740px) {
-  /* Typically for screen with zoom factor */
-  main.home {
+  main.photo {
     section {
-      display: block;
-
-      img {
-        margin-top: 0;
-        max-width: 25rem;
-      }
-  
-      h2 {
-        margin-bottom: 2%;
-        max-width: inherit;
+      .expo-grid,
+      .photo-grid {
+        grid-template-columns: repeat(auto-fit, 100%);
       }
     }
   }
-}
 
-@media (max-height: 512px) {
-  main.home img {
-    margin: 2% 0;
-    max-width: 25rem;
+  main.podcast {
+    section {
+      .collection {
+        .item {
+          grid-gap: var(--s-lg);
+          grid-template-columns: 1fr;
+
+          h1 {
+            text-align: center;
+          }
+
+          .links {
+            text-align: right;
+          }
+        }
+      }
+    }
+  }
+
+  main.software {
+    section {
+      .website-grid {
+        grid-template-columns: repeat(auto-fit, 100%);
+      }
+    }
+  }
+
+  main.video {
+    section {
+      .video-grid {
+        grid-template-columns: repeat(auto-fit, 100%);
+      }
+    }
   }
 }

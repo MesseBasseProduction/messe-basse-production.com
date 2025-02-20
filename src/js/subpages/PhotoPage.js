@@ -15,6 +15,7 @@ class PhotoPage extends AbstractMBP {
       .then(this._translatePhotoPage.bind(this))
       .then(this._buildPhotoPage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 
@@ -56,6 +57,7 @@ class PhotoPage extends AbstractMBP {
       for (let i = 0; i < this._photoData.exposition.artist.length; ++i) {
         const expo = document.createElement('DIV');
         expo.classList.add('artist');
+        expo.classList.add('item');
         expo.innerHTML = `
           <div id="expo-${i + 1}-img-wrapper" class="img-wrapper">
             <img src="/assets/img/photo/expo/${i + 1}/5_thb.webp" loading="lazy" alt="expo-${i + 1}-5">
@@ -76,6 +78,7 @@ class PhotoPage extends AbstractMBP {
       for (let i = 0; i < this._photoData.event.length; ++i) {
         const photo = document.createElement('DIV');
         photo.classList.add('photo-element');
+        photo.classList.add('item');
         photo.innerHTML = `
           <img src="${this._photoData.event[i].image}" data-url="${this._photoData.event[i].image}" alt="mbp-photo">
           <p>${this._photoData.event[i].name} – © <i><a href="${this._photoData.event[i].url}" target="_blank" rel="noreferrer noopener">${this._photoData.event[i].photographer}</a></i></p>

@@ -15,6 +15,7 @@ class PodcastPage extends AbstractMBP {
       .then(this._translatePodcastPage.bind(this))
       .then(this._buildPodcastPage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 

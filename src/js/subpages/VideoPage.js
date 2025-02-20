@@ -15,6 +15,7 @@ class VideoPage extends AbstractMBP {
       .then(this._translateVideoPage.bind(this))
       .then(this._buildVideoPage.bind(this))
       .then(this._handleEvents.bind(this))
+      .then(this._sharedEvents.bind(this))
       .then(this._makeSceneVisible.bind(this));
   }
 
@@ -44,6 +45,7 @@ class VideoPage extends AbstractMBP {
       for (let i = 0; i < this._videoData.length; ++i) {
         const video = document.createElement('DIV');
         video.classList.add('embed-video');
+        video.classList.add('item');
         video.innerHTML = `
           <iframe src="${this._videoData[i].url}" title="${this._videoData[i].artist} – ${this._videoData[i].name}" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" frameborder="0"></iframe>
           <h2>${this._videoData[i].artist} – ${this._videoData[i].name}, ${Utils.formatDate(this._videoData[i].date, this._lang)}</h2>

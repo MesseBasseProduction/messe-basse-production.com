@@ -23,6 +23,7 @@ class ArtistPage extends AbstractMBP {
         .then(this._translateArtistPage.bind(this))
         .then(this._buildArtistPage.bind(this))
         .then(this._handleEvents.bind(this))
+        .then(this._sharedEvents.bind(this))
         .then(this._makeSceneVisible.bind(this))
         .then(resolve).catch(reject);
     });
