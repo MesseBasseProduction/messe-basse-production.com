@@ -26,6 +26,19 @@ module.exports = Object.freeze([
     ]
   },
   {
+    mainUrl: '/artiste/noiiske',
+    rootUrls: [
+      '/artiste/noiiske',
+      '/artist/noiiske'
+    ],
+    redirectionTarget: 'noiiske',
+    redirectUrls: [
+      '/artiste/noiiske',
+      '/artist/noiiske',
+      '/noiiske'
+    ]
+  },
+  {
     mainUrl: '/artiste/drop-die',
     rootUrls: [
       '/artiste/drop-die',

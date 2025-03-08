@@ -1,10 +1,72 @@
 {
   "artists": [
     {
+      "name": "NOIISKE",
+      "internalUrl": "noiiske",
+      "genres": ["Dubstep", "Trap"],
+      "image": "/assets/img/band/noiiske.webp",
+      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
+      "mainLink": "https://linktr.ee/noiiske",
+      "releases": ["MBPEP001"],
+      "links": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost"
+        }, {
+          "type": "instagram",
+          "url": "https://www.instagram.com/noiiske/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@noiiske"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/noiiske/1078617"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Noiiske/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/629qQ6NZRWzSUZg8PPc2aQ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/noiiske/1642427582"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0BC4M1Y3L"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/182472887"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/noiiske/15729932"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/34699313"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/13921693-NOIISKE"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/5f0f5e0a-9c18-4981-865b-b67cbceba9b1"
+        }
+      ],
+      "bio": {
+        "fr": "<i>NOIISKE</i> est l'un des nouveaux talents émergents de la Sunless Agency, la jeune écurie qui fait vibrer la scène <i>bass music</i> toulousaine et internationale. Hyperactif et toujours en quête de nouvelles sonorités, il s'impose par sa productivité impressionnante, son engagement sur les réseaux et sa présence dans divers projets musicaux, notamment au sein de Yann Records, Cluster Traxx ou Torsade Records.<br><br>Derrière son alias aux consonances industrielles, NOIISKE concote des tracks puissantes entre autres expérimentations sonores, le tout saupoudré d'une touche d'humour corrosif qui le rend aussi addictif qu'inclassable. Fort d'une signature sonore percutante, il affirme son identité musicale à travers des productions toujours précises et des set mémorables en club, captivant un public avide de basses massives. Entre drops chirurgicaux et transitions inattendues, NOIISKE sait créer l'effet de surprise et transporter son audience dans un univers où le wub wub est roi.<br><br>Que ce soit derrière les platines ou en studio, il ne cesse de repousser les limites du genre, prouvant que la <i>bass music</i> a encore de beaux jours devant elle. Avec NOIISKE, attendez-vous à un voyage sonore intense, où la gravité semble céder sous la puissance des basses.",
+        "en": "<i>NOIISKE</i> is one of the rising talents emerging from Sunless Agency, the young collective shaking up the Toulouse and international bass music scene. Hyperactive and constantly seeking new sounds, he stands out with his impressive productivity, strong social media presence, and involvement in various musical projects, including Yann Records, Cluster Traxx, and Torsade Records.<br><br>Behind his industrial-sounding alias, NOIISKE crafts powerful tracks alongside other sonic experiments, all sprinkled with a dose of corrosive humor that makes him as addictive as he is unclassifiable. Armed with a striking sonic signature, he asserts his musical identity through razor-sharp productions and unforgettable club sets, captivating an audience hungry for massive bass. With surgical drops and unexpected transitions, NOIISKE knows how to create surprise and immerse his listeners in a world where wub wub reigns supreme.<br><br>Whether behind the decks or in the studio, he constantly pushes the boundaries of the genre, proving that bass music has a bright future ahead. With NOIISKE, expect an intense sonic journey where gravity seems to give way under the sheer power of the bass."
+      },
+      "shortBio": {
+        "fr": "Producteur et DJ prodige de la <i>bass music</i> toulousaine, qui manie le séquenceur avec une énergie explosive ; au programme, des productions percutantes et un humour ravageur.<br><br>C'est à partir de 2025 que ce partenariat entre <i>NOIISKE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon d'humour et des basses qui font wub wub au catalogue, tout ce dont ce monde a besoin.",
+        "en": "A prodigious bass music producer and DJ from Toulouse, wielding the sequencer with explosive energy—expect hard-hitting productions and devastating humor.<br><br>This partnership between NOIISKE and Messe Basse Production kicks off in 2025, bringing a touch of humor and wub wub bass to the catalog—just what the world needs."
+      }
+    }, {
       "name": "Guillaume Beaulieu",
       "internalUrl": "guillaume-beaulieu",
       "genres": ["Baroque", "Renaissance"],
       "image": "/assets/img/band/guillaume.webp",
+      "imageCredits": "Arthur Beaulieu",
       "website": "https://guillaumebeaulieu.com",
       "releases": ["MBPLP017", "MBPSP039", "MBPLP016", "MBPLP013"],
       "links": [
@@ -119,6 +181,7 @@
       "internalUrl": "la-baroquerie-du-val-de-bievre",
       "genres": ["Baroque", "Renaissance"],
       "image": "/assets/img/band/bvb.webp",
+      "imageCredits": "Raphaël Beekmann",
       "mainLink": "https://baroquerie.fr/",
       "releases": ["MBPSP041", "MBPSP033", "MBPLP013", "MBPSP027", "MBPSP005", "MBPSP004", "MBPSP003", "MBPSP002"],
       "links": [
@@ -173,6 +236,7 @@
       "internalUrl": "interfluv",
       "genres": ["Bass House", "Drum & Bass", "Tech House"],
       "image": "/assets/img/band/interfluv.webp",
+      "imageCredits": "Raphaël Beekmann",
       "mainLink": "https://www.instagram.com/interfluv/",
       "releases": ["MBPMX009", "MBPMX004", "MBPMX003", "MBPMX002", "MBPMX001"],
       "links": [
@@ -323,6 +387,7 @@
       "internalUrl": "the-forge",
       "genres": ["Progressive Rock", "Jazz Fusion"],
       "image": "/assets/img/band/theforge.webp",
+      "imageCredits": "Arthur Beaulieu",
       "mainLink": "/tree/theforge.html",
       "releases": ["MBPLP015", "MBPSP008", "MBPLP005", "MBPLP004", "MBPLP006", "MBPLP003", "MBPLP002", "MBPLP009", "MBPSP009"],
       "links": [
@@ -374,6 +439,7 @@
       "internalUrl": "lionel-baudet",
       "genres": ["Experimental", "Jazz Fusion"],
       "image": "/assets/img/band/lionel.webp",
+      "imageCredits": "Guillaume Crantz",
       "mainLink": "https://lionelbaudet.bandcamp.com/",
       "releases": ["MBPLP014", "MBPSP028", "MBPLP012", "MBPLP011", "MBPLP010"],
       "links": [
@@ -470,6 +536,7 @@
       "internalUrl": "nac",
       "genres": ["Progressive Rock", "Hard Rock"],
       "image": "/assets/img/band/nac.webp",
+      "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://nac.band",
       "releases": ["MBPLP007", "MBPLP001", "MBPSP007", "MBPSP006", "MBPSP011", "MBPSP010", "MBPLP008"],
       "links": [
@@ -516,6 +583,103 @@
     }
   ],
   "releases": {
+    "MBPEP001": {
+      "name": "Some Bass Drops, Vol.1",
+      "artist": ["NOIISKE"],
+      "date": "2025-03-07",
+      "image": "/assets/img/music/MBPEP001.webp",
+      "mainLink": "https://www.youtube.com/watch?v=J8I46hBiaU8&list=PLft-hGtQJKk39WCqo7VljSaD1nIMTj5-B&index=1",
+      "EAN": "0642613427685",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "credits": [
+        { "record": ["NOIISKE"] },
+        { "mix": ["NOIISKE"] },
+        { "master": ["NOIISKE"] },
+        { "producer": ["Arthur Beaulieu", "NOIISKE"] },
+        { "artwork": ["NOIISKE"] },
+        { "illustration": ["NOIISKE"] }
+      ],
+      "tracks": [
+        {
+          "title": "Forgive",
+          "artist": ["NOIISKE"],
+          "duration": "03:24",
+          "ISRC": "FR-9W1-25-08853",
+          "credits": [
+            { "composer": ["NOIISKE"] }
+          ]
+        },
+        {
+          "title": "Faces",
+          "artist": ["NOIISKE"],
+          "duration": "03:14",
+          "ISRC": "FR-9W1-25-08852",
+          "credits": [
+            { "composer": ["NOIISKE"] }
+          ]
+        },
+        {
+          "title": "Baile",
+          "artist": ["NOIISKE"],
+          "duration": "03:13",
+          "ISRC": "FR-9W1-25-08851",
+          "credits": [
+            { "composer": ["NOIISKE"] }
+          ]
+        },
+        {
+          "title": "Until The Sunrise",
+          "artist": ["NOIISKE"],
+          "duration": "03:01",
+          "ISRC": "FR-9W1-25-08854",
+          "credits": [
+            { "composer": ["NOIISKE"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=J8I46hBiaU8&list=PLft-hGtQJKk39WCqo7VljSaD1nIMTj5-B&index=1"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost/sets/some-bass-drops-vol1"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0hCIzbgEwdcXc356zGner9"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/some-bass-drops-vol-1/4951920"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/noiiske-some-bass-drops-vol-1/7019504-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/some-bass-drops-vol-1-ep/1797849902"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0DY1YCTG2"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/716815731"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/some-bass-drops-vol-1-noiiske/kuxtcpwtp26ja"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/419521896"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/album/some-basse-drops-vol-1"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/33344816"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/52e903cc-a3dd-482c-8e46-653cf0cb80a2"
+        }
+      ]
+    }, 
     "MBPLP001": {
       "name": "Dystopie",
       "artist": ["NAC"],

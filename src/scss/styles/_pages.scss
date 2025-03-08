@@ -749,6 +749,39 @@ main.artist {
     text-align: justify;
   }
 
+  .artist-image {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: var(--s-bg);
+    max-width: 910px;
+    position: relative;
+
+    img {
+      margin-bottom: 0;
+    }
+
+    p.image-credits {
+      bottom: var(--s);
+      font-style: italic;
+      margin: auto 0;
+      position: absolute;
+      right: var(--s);
+      text-shadow: var(--c-bg-a80) 1px 0 var(--s-lg);
+
+      &::before {
+        content: '©';
+        padding-right: var(--s);
+      }
+
+      a {
+        display: inline;
+        font-size: inherit;
+        text-decoration: none;
+      }
+    }
+  
+  }
+
   img {
     border-radius: .5rem;
     box-shadow: 0px 0px var(--s) var(--c-fg-a10);
