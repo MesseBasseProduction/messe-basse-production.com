@@ -1,0 +1,27 @@
+{{> nav}}
+<main id="scene" class="artist">
+  <div id="back-button" class="back-button">←</div>
+  <section>
+    <h1>{{info.name}}</h1>
+    <p class="short-bio" data-nls="ARTIST_SHORT_BIO">{{info.shortBio}}</p>
+    <div class="artist-image">
+      <img src="{{info.image}}">
+      <p class="image-credits">{{{info.imageCredits}}}</p>
+    </div>
+    <h2 data-nls="ARTIST_BIO_TITLE">Biographie</h2>
+    <p class="bio" data-nls="ARTIST_BIO">{{info.longBio}}</p>
+    <hr>
+    <h2 data-nls="ARTIST_RELEASES">Créations avec Messe Basse Production</h2>
+    <div id="releases-wrapper" class="releases-wrapper"></div>
+    <hr>
+    <h2 data-nls="ARTIST_FIND_ONLINE">Retrouvez {{info.name}} sur ses réseaux</h2>
+    <div id="links-grid" class="links-grid"></div>
+    <hr>
+    <a href="{{info.mainLink}}" target="_blank" rel="noopener noreferrer">{{info.mainLink}}</a>
+  </section>
+  <p id="credit-modal" class="credit-modal"><b>Messe Basse Production – 2021/<span id="copyright"><script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span></b></p>
+</main>
+<script type="text/javascript" src="/assets/dist/ArtistPage.bundle.js"></script>
+<script>
+window.ArtistPage = new ArtistPage("{{{info.name}}}");
+</script>
