@@ -123,6 +123,7 @@ main.events {
     }
 
     img {
+      border-radius: .5rem;
       width: 100%;
     }
 
@@ -203,6 +204,7 @@ main.contact {
       width: 100%;
 
       img {
+        border-radius: .5rem;
         height: 10rem;
         margin-bottom: var(--s);
       }
