@@ -7,7 +7,7 @@ class AbstractMBP {
 
   constructor() {
     this._version = '0.2.2'; // App verison
-    this._lang = 'fr'; // By default in french
+    this._lang = null;
     this._nls = null; // Translated key/values
     this._dom = null;
     this.evts = new window.CustomEvents();
@@ -17,6 +17,14 @@ class AbstractMBP {
 
   _init() {
     return new Promise((resolve, reject) => {
+      this._lang = localStorage.getItem('website-lang');
+      if (this._lang === null) {
+        // If no local storage entry exists, check if browser language is supported and use it if so, defaults to english otherwise
+        this._lang = (['fr', 'en'].indexOf(navigator.language.substring(0, 2)) !== -1) ? navigator.language.substring(0, 2) : 'fr'; // By default in french
+        // Save curent language in local storage
+        localStorage.setItem('website-lang', this._lang);
+      }
+
       this._displayConsoleWelcome();
       this._fetchLang()
         .then(this._translateNav.bind(this))
@@ -123,7 +131,22 @@ class AbstractMBP {
       Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION2', this._nls.aboutDescription2);
       Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION3', this._nls.aboutDescription3);
       Utils.replaceNlsString(modal, 'ABOUT_DESCRIPTION4', this._nls.aboutDescription4);
+      Utils.replaceNlsString(modal, 'ABOUT_UI_LANGUAGE', this._nls.aboutDescription4);
       Utils.replaceNlsString(modal, 'ABOUT_CLOSE', this._nls.aboutClose);
+
+      // Update select menu with supported langs
+      const select = modal.querySelector('#lang-select');
+      for (let i = 0; i < select.children.length; ++i) {
+        select.children[i].innerHTML = this._nls.lang[select.children[i].value];
+        if (select.children[i].value === this._lang) {
+          select.children[i].setAttribute('selected', true);
+        }
+      }
+
+      select.addEventListener('change', e => {
+        localStorage.setItem('website-lang', e.target.value);
+        window.location.reload();
+      });
 
       document.getElementById('overlay').appendChild(modal);
       // Modal opening/closing animation

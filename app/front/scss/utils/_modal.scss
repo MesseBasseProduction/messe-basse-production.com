@@ -241,4 +241,11 @@
 .modal.credit {
   max-width: 60rem;
   width: 90%;	
+
+  select {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: .2rem 1rem;
+  }
 }
