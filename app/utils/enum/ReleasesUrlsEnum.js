@@ -1,5 +1,9 @@
 module.exports = Object.freeze([
   {
+    inputUrl: '/MBPEP001',
+    frtarget: '/artiste/noiiske/albums/some-bass-drops-vol1',
+    entarget: '/artist/noiiske/releases/some-bass-drops-vol1'
+  }, {
     inputUrl: '/MBPLP001',
     frtarget: '/artiste/nac/albums/dystopie',
     entarget: '/artist/nac/releases/dystopie'
@@ -83,5 +87,220 @@ module.exports = Object.freeze([
     inputUrl: '/MBPLP017',
     frtarget: '/artiste/guillaume-beaulieu/albums/fantaisies-pour-flute-seule-sans-basse',
     entarget: '/artist/guillaume-beaulieu/releases/fantaisies-pour-flute-seule-sans-basse'
+  },
+  {
+    inputUrl: '/MBPSP002',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/valentini-concerto-n11-op7-largo',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/valentini-concerto-n11-op7-largo'
+  },
+  {
+    inputUrl: '/MBPSP003',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/matteis-fuga-a-due-corde',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/matteis-fuga-a-due-corde'
+  },
+  {
+    inputUrl: '/MBPSP004',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/dallabaco-cello-cappricio-n6',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/dallabaco-cello-cappricio-n6'
+  },
+  {
+    inputUrl: '/MBPSP005',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/rameau-extraits-des-indes-galantes-revisite',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/rameau-extraits-des-indes-galantes-revisite'
+  },
+  {
+    inputUrl: '/MBPSP006',
+    frtarget: '/artiste/nac/albums/tramp',
+    entarget: '/artist/nac/releases/tramp'
+  },
+  {
+    inputUrl: '/MBPSP007',
+    frtarget: '/artiste/nac/albums/crad-bar-boogie',
+    entarget: '/artist/nac/releases/crad-bar-boogie'
+  },
+  {
+    inputUrl: '/MBPSP008',
+    frtarget: '/artiste/the-forge/albums/rocknroll',
+    entarget: '/artist/the-forge/releases/rocknroll'
+  },
+  {
+    inputUrl: '/MBPSP009',
+    frtarget: '/artiste/macadam-forge/albums/loulou-montpar-blues',
+    entarget: '/artist/macadam-forge/releases/loulou-montpar-blues'
+  },
+  {
+    inputUrl: '/MBPSP010',
+    frtarget: '/artiste/nac/albums/nac-featuring-tay',
+    entarget: '/artist/nac/releases/nac-featuring-tay'
+  },
+  {
+    inputUrl: '/MBPSP011',
+    frtarget: '/artiste/nac/albums/nature-humaine-origins',
+    entarget: '/artist/nac/releases/nature-humaine-origins'
+  },
+  {
+    inputUrl: '/MBPSP012',
+    frtarget: '/artiste/sire-camara/albums/stolen-truth-verite-volee',
+    entarget: '/artist/sire-camara/releases/stolen-truth-verite-volee'
+  },
+  {
+    inputUrl: '/MBPSP013',
+    frtarget: '/artiste/five-oclock-jazz-quartet/albums/i-dont-know-enough-about-you',
+    entarget: '/artist/five-oclock-jazz-quartet/releases/i-dont-know-enough-about-you'
+  },
+  {
+    inputUrl: '/MBPSP014',
+    frtarget: '/artiste/sire-camara/albums/mets-ton-clignotant',
+    entarget: '/artist/sire-camara/releases/mets-ton-clignotant'
+  },
+  {
+    inputUrl: '/MBPSP015',
+    frtarget: '/artiste/sire-camara/albums/nous-sommes-le-mali',
+    entarget: '/artist/sire-camara/releases/nous-sommes-le-mali'
+  },
+  {
+    inputUrl: '/MBPSP016',
+    frtarget: '/artiste/five-oclock-jazz-quartet/albums/love',
+    entarget: '/artist/five-oclock-jazz-quartet/releases/love'
+  },
+  {
+    inputUrl: '/MBPSP017',
+    frtarget: '/artiste/five-oclock-jazz-quartet/albums/cry-me-a-river',
+    entarget: '/artist/five-oclock-jazz-quartet/releases/cry-me-a-river'
+  },
+  {
+    inputUrl: '/MBPSP018',
+    frtarget: '/artiste/sire-camara/albums/le-fleuve-senegal',
+    entarget: '/artist/sire-camara/releases/le-fleuve-senegal'
+  },
+  {
+    inputUrl: '/MBPSP019',
+    frtarget: '/artiste/sire-camara/albums/souffrances-bafouees',
+    entarget: '/artist/sire-camara/releases/souffrances-bafouees'
+  },
+  {
+    inputUrl: '/MBPSP020',
+    frtarget: '/artiste/sire-camara/albums/yitte',
+    entarget: '/artist/sire-camara/releases/yitte'
+  },
+  {
+    inputUrl: '/MBPSP021',
+    frtarget: '/artiste/sire-camara/albums/diata',
+    entarget: '/artist/sire-camara/releases/diata'
+  },
+  {
+    inputUrl: '/MBPSP022',
+    frtarget: '/artiste/sire-camara/albums/gbagbo-tavais-raison',
+    entarget: '/artist/sire-camara/releases/gbagbo-tavais-raison'
+  },
+  {
+    inputUrl: '/MBPSP023',
+    frtarget: '/artiste/sire-camara/albums/sophie',
+    entarget: '/artist/sire-camara/releases/sophie'
+  },
+  {
+    inputUrl: '/MBPSP024',
+    frtarget: '/artiste/five-oclock-jazz-quartet/albums/golden-earrings',
+    entarget: '/artist/five-oclock-jazz-quartet/releases/golden-earrings'
+  },
+  {
+    inputUrl: '/MBPSP025',
+    frtarget: '/artiste/five-oclock-jazz-quartet/albums/something-stupid',
+    entarget: '/artist/five-oclock-jazz-quartet/releases/something-stupid'
+  },
+  {
+    inputUrl: '/MBPSP026',
+    frtarget: '/artiste/five-oclock-jazz-quartet/albums/stompin-at-the-savoy',
+    entarget: '/artist/five-oclock-jazz-quartet/releases/stompin-at-the-savoy'
+  },
+  {
+    inputUrl: '/MBPSP027',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/noel-corellien-extraits-du-concerto-n8-op6',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/noel-corellien-extraits-du-concerto-n8-op6'
+  },
+  {
+    inputUrl: '/MBPSP028',
+    frtarget: '/artiste/lionel-baudet/albums/polka-polka',
+    entarget: '/artist/lionel-baudet/releases/polka-polka'
+  },
+  {
+    inputUrl: '/MBPSP029',
+    frtarget: '/artiste/sire-camara/albums/guidaniaxare',
+    entarget: '/artist/sire-camara/releases/guidaniaxare'
+  },
+  {
+    inputUrl: '/MBPSP030',
+    frtarget: '/artiste/sire-camara/albums/do-mousso-joy',
+    entarget: '/artist/sire-camara/releases/do-mousso-joy'
+  },
+  {
+    inputUrl: '/MBPSP031',
+    frtarget: '/artiste/sire-camara/albums/antesson-faralima',
+    entarget: '/artist/sire-camara/releases/antesson-faralima'
+  },
+  {
+    inputUrl: '/MBPSP032',
+    frtarget: '/artiste/sire-camara/albums/la-divine-trinite',
+    entarget: '/artist/sire-camara/releases/la-divine-trinite'
+  },
+  {
+    inputUrl: '/MBPSP033',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/gorczycki-iesu-corona-virginum',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/gorczycki-iesu-corona-virginum'
+  },
+  {
+    inputUrl: '/MBPSP034',
+    frtarget: '/artiste/dvpe/albums/xlp1',
+    entarget: '/artist/dvpe/releases/xlp1'
+  },
+  {
+    inputUrl: '/MBPSP035',
+    frtarget: '/artiste/dvpe/albums/about-techno',
+    entarget: '/artist/dvpe/releases/about-techno'
+  },
+  {
+    inputUrl: '/MBPSP036',
+    frtarget: '/artiste/sire-camara/albums/bye-bye-cedeao',
+    entarget: '/artist/sire-camara/releases/bye-bye-cedeao'
+  },
+  {
+    inputUrl: '/MBPSP037',
+    frtarget: '/artiste/sire-camara/albums/omotounde-lenfant-beni',
+    entarget: '/artist/sire-camara/releases/omotounde-lenfant-beni'
+  },
+  {
+    inputUrl: '/MBPSP038',
+    frtarget: '/artiste/dvpe/albums/bounce',
+    entarget: '/artist/dvpe/releases/bounce'
+  },
+  {
+    inputUrl: '/MBPSP039',
+    frtarget: '/artiste/guillaume-beaulieu/albums/duos-pour-deux-flutes-a-bec',
+    entarget: '/artist/guillaume-beaulieu/releases/duos-pour-deux-flutes-a-bec'
+  },
+  {
+    inputUrl: '/MBPSP040',
+    frtarget: '/artiste/dvpe/albums/ia',
+    entarget: '/artist/dvpe/releases/ia'
+  },
+  {
+    inputUrl: '/MBPSP041',
+    frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/pavan-and-almain',
+    entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/pavan-and-almain'
+  },
+  {
+    inputUrl: '/MBPSP042',
+    frtarget: '/artiste/drop-die/albums/happy-latino',
+    entarget: '/artist/drop-die/releases/happy-latino'
+  },
+  {
+    inputUrl: '/MBPSP043',
+    frtarget: '/artiste/drop-die/albums/not-really',
+    entarget: '/artist/drop-die/releases/not-really'
+  },
+  {
+    inputUrl: '/MBPSP044',
+    frtarget: '/artiste/dvpe/albums/nolipap',
+    entarget: '/artist/dvpe/releases/nolipap'
   }
 ]);

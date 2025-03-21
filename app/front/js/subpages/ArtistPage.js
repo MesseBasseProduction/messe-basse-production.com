@@ -73,7 +73,7 @@ class ArtistPage extends AbstractMBP {
               <p>${release.name}</p>
               <p><b>${this._artistData.releases[i]}</b></p>
               <p>${Utils.formatDate(release.date, this._lang)}</p>
-              <a href="${release.mainLink}" target="_blank" rel="noreferrer noopener">${this._nls.music.listenOnline}</a>
+              <a href="${release.mainLink}" target="_blank" rel="noreferrer noopener" onclick="event.stopPropagation()">${this._nls.music.listenOnline}</a>
             </div>
           </div>
         `;
@@ -106,8 +106,7 @@ class ArtistPage extends AbstractMBP {
 
   _handleEvents() {
     return new Promise(resolve => {
-      this._dom.querySelector('#back-button').addEventListener('click', this._updateLocation.bind(this, 'music'));
-      /*
+      this._dom.querySelector('#back-button').addEventListener('click', this._loadPreviousPage.bind(this));
       const children = this._dom.querySelector('#releases-wrapper').firstElementChild.firstElementChild.children;
       for (let i = 0; i < children.length; ++i) {
         children[i].addEventListener('click', e => {
@@ -115,7 +114,6 @@ class ArtistPage extends AbstractMBP {
           this._updateLocation(`${e.target.dataset.catalog}?lang=${this._lang}`);
         });
       }
-      */
       resolve();
     });
   }

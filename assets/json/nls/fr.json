@@ -48,6 +48,10 @@
     "aboutUiLanguage": "Langue du site",
     "aboutClose": "Fermer"
   },
+  "catalog": {
+    "title": "Catalogue",
+    "description": "Découvrez ici l'ensemble de notre catalogue musical, tous artistes et tous supports confondus (album, single, EP, mix et podcast). Cela représente un total de {x} publications effectuées depuis notre création."
+  },
   "merch": {
     "apparel": "Collections",
     "music": "Disques",
@@ -136,6 +140,28 @@
   "role": {
     "composer": "Compositeur",
     "author": "Auteur",
-    "featuring": "Featuring"
+    "featuring": "Featuring",
+    "arranger": "Arrangement",
+    "record": "Enregistrement",
+    "mix": "Mixage",
+    "master": "Mastérisation",
+    "remaster": "Remastérisation",
+    "producer": "Production",
+    "artwork": "Pochette",
+    "illustration": "Illustration",
+    "artdirection": "Direction artistique",
+    "recorder": "Flûte",
+    "harpsichord": "Clavecin",
+    "bass": "Basse",
+    "drums": "Batterie",
+    "guitar": "Guitare",
+    "keyboard": "Synthétiseur",
+    "violin": "Violon",
+    "harmonica": "Harmonica",
+    "percussion": "Percussions",
+    "clap": "Claps",
+    "saxophone": "Saxophone",
+    "backvocal": "Choeur",
+    "vocal": "Chant"
   }
 }

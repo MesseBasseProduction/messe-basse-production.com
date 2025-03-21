@@ -1,6 +1,66 @@
 {
   "artists": [
     {
+      "name": "DVPE",
+      "internalUrl": "dvpe",
+      "genres": ["Techno"],
+      "image": "/assets/img/band/dvpe.webp",
+      "mainLink": "/tree/dvpe.html",
+      "releases": ["MBPSP044", "MBPSP040", "MBPSP038", "MBPSP035", "MBPSP034"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/juliendropdie2.0/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@DVPE-MUSIC"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/dvpe/1174862"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Dvpe/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/3y2pMLWmGEMZQMnNDqVhwX"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/dvpe/1721934637"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0CQKHXJ47/dvpe"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/247509642"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/dvpe/20833525"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/44529600"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/13931071-DVPE"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/b336c9ea-05c7-4b2c-9210-2228fd01e6cb"
+        }
+      ],
+      "bio": {
+        "fr": "<i>DVPE</i> est un nom qui résonne dans l'univers de la techno underground, captivant avec des compositions audacieuses et expérientielles. Son approche innovante fusionne des sons bruts, des rythmes hypnotiques et des basses percutantes, créant une atmosphère qui défie le genre.<br><br>Il est notablement reconaissable pour son style unique qui repousse les frontières de la musique électronique. Sans se limiter aux normes du genre, il mêle avec aisance des éléments de techno industrielle, de minimalisme et d’expérimentation sonore, tout en créant des espaces sonores intenses et imprévisibles. Ses productions sont marquées par une volonté de déstabiliser avec des sonorités puissantes et une dynamique qui séduit les puristes du genre.<br><br>Artiste indépendant et fervent défenseur du milieu underground, <i>DVPE</i> se distingue par sa capacité à jouer avec les textures sonores et les structures rythmiques non linéaires. Chaque morceau de son répertoire est une exploration, une immersion dans une techno qui vibre au-delà des attentes et fait voyager ses auditeurs à travers des paysages musicaux singuliers.<br><br>Son évolution sur la scène underground s'est faite à travers des performances mémorables au sein de rave parties ; il préfère évoluer dans des espaces plus intimistes, où la connexion avec son public et l’impact de sa musique sont au cœur de chaque performance.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "Artiste de la scène techno underground, reconnu pour ses compositions audacieuses mêlant techno industrielle, minimalisme et expérimentation sonore, créant des atmosphères intenses et imprévisibles qui repoussent les limites du genre et captivent un public fidèle dans des performances intimistes.<br><br>C’est à partir de 2023 que ce partenariat entre <i>DVPE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de kicks et de mélodies endiablés bienvenues au catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
       "name": "Drop Die",
       "internalUrl": "drop-die",
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
@@ -269,66 +329,6 @@
         "en": ""
       }   
     }, {
-      "name": "DVPE",
-      "internalUrl": "dvpe",
-      "genres": ["Techno"],
-      "image": "/assets/img/band/dvpe.webp",
-      "mainLink": "/tree/dvpe.html",
-      "releases": ["MBPSP040", "MBPSP038", "MBPSP035", "MBPSP034"],
-      "links": [
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/juliendropdie2.0/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@DVPE-MUSIC"
-        }, {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/dvpe-music"
-        }, {
-          "type": "beatport",
-          "url": "https://www.beatport.com/artist/dvpe/1174862"
-        }, {
-          "type": "juno",
-          "url": "https://www.junodownload.com/artists/Dvpe/"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/3y2pMLWmGEMZQMnNDqVhwX"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/dvpe/1721934637"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0CQKHXJ47/dvpe"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/247509642"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/dvpe/20833525"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/44529600"
-        }, {
-          "type": "bandcamp",
-          "url": "https://dvpe.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/13931071-DVPE"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/b336c9ea-05c7-4b2c-9210-2228fd01e6cb"
-        }
-      ],
-      "bio": {
-        "fr": "<i>DVPE</i> est un nom qui résonne dans l'univers de la techno underground, captivant avec des compositions audacieuses et expérientielles. Son approche innovante fusionne des sons bruts, des rythmes hypnotiques et des basses percutantes, créant une atmosphère qui défie le genre.<br><br>Il est notablement reconaissable pour son style unique qui repousse les frontières de la musique électronique. Sans se limiter aux normes du genre, il mêle avec aisance des éléments de techno industrielle, de minimalisme et d’expérimentation sonore, tout en créant des espaces sonores intenses et imprévisibles. Ses productions sont marquées par une volonté de déstabiliser avec des sonorités puissantes et une dynamique qui séduit les puristes du genre.<br><br>Artiste indépendant et fervent défenseur du milieu underground, <i>DVPE</i> se distingue par sa capacité à jouer avec les textures sonores et les structures rythmiques non linéaires. Chaque morceau de son répertoire est une exploration, une immersion dans une techno qui vibre au-delà des attentes et fait voyager ses auditeurs à travers des paysages musicaux singuliers.<br><br>Son évolution sur la scène underground s'est faite à travers des performances mémorables au sein de rave parties ; il préfère évoluer dans des espaces plus intimistes, où la connexion avec son public et l’impact de sa musique sont au cœur de chaque performance.",
-        "en": ""
-      },
-      "shortBio": {
-        "fr": "Artiste de la scène techno underground, reconnu pour ses compositions audacieuses mêlant techno industrielle, minimalisme et expérimentation sonore, créant des atmosphères intenses et imprévisibles qui repoussent les limites du genre et captivent un public fidèle dans des performances intimistes.<br><br>C’est à partir de 2023 que ce partenariat entre <i>DVPE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de kicks et de mélodies endiablés bienvenues au catalogue de l'Association.",
-        "en": ""
-      }
-    }, {
       "name": "Siré Camara",
       "internalUrl": "sire-camara",
       "genres": ["Reggae", "World"],
@@ -588,9 +588,14 @@
       "artist": ["NOIISKE"],
       "date": "2025-03-07",
       "image": "/assets/img/music/MBPEP001.webp",
-      "mainLink": "https://www.youtube.com/watch?v=J8I46hBiaU8&list=PLft-hGtQJKk39WCqo7VljSaD1nIMTj5-B&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=J8I46hBiaU8&list=PLft-hGtQJKk39WCqo7VljSaD1nIMTj5-B",
+      "duration": "12:52",
       "EAN": "0642613427685",
-      "styles": ["Hard Rock", "Progressive Rock"],
+      "styles": ["Dubstep"],
+      "about": {
+        "fr": "Some Bass Drops (SBD pour les intimes) est une série dEP avec pour but de partager le travail de NOIISKE en regroupant ses productions autour dune thématique, dun sous genre ou dune ambiance. Le Volume 1 se présente avec un caractère sombre et deep, des drops intenses et des mélodies mélancoliques faisant écho à son premier album Face Yourself. Une belle manière de démarrer la grande aventure de la série des SBD et de signer une nouvelle ère.",
+        "en": "Some Bass Drops (SBD for insiders) is an EP series aimed at showcasing NOIISKE's work by grouping his productions around a theme, a subgenre, or a specific atmosphere. This first volume stands out with its dark and deep character, intense drops, and melancholic melodies, echoing his debut album Face Yourself. A great way to kick off the SBD series and mark the beginning of a new era."
+      },
       "credits": [
         { "record": ["NOIISKE"] },
         { "mix": ["NOIISKE"] },
@@ -639,9 +644,6 @@
       ],
       "links": [
         {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=J8I46hBiaU8&list=PLft-hGtQJKk39WCqo7VljSaD1nIMTj5-B&index=1"
-        }, {
           "type": "soundcloud",
           "url": "https://soundcloud.com/nhc-lost/sets/some-bass-drops-vol1"
         }, {
@@ -672,6 +674,9 @@
           "type": "bandcamp",
           "url": "https://noiiske.bandcamp.com/album/some-basse-drops-vol-1"
         }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=J8I46hBiaU8&list=PLft-hGtQJKk39WCqo7VljSaD1nIMTj5-B"
+        }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/33344816"
         }, {
@@ -685,10 +690,12 @@
       "artist": ["NAC"],
       "date": "2021-11-09",
       "image": "/assets/img/music/MBPLP001.webp",
+      "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze",
+      "duration": "46:26",
       "EAN": "0606707367653",
       "styles": ["Hard Rock", "Progressive Rock"],
       "credits": [
-        { "arranger": ["Arthur Beaulieu"] },
+        { "arranger": ["Arthur Beaulieu", "David Béché", "Lionel Baudet", "Pierre Toïgo"] },
         { "record": ["Arthur Beaulieu"] },
         { "mix": ["Arthur Beaulieu"] },
         { "master": ["Arthur Beaulieu"] },
@@ -699,7 +706,8 @@
         { "drums": ["Sylvain Mallet"] },
         { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
         { "keyboard": ["David Béché"] },
-        { "violin": ["Arthur Beaulieu"] }
+        { "violin": ["Arthur Beaulieu"] },
+        { "vocal": ["David Béché"] }
       ],
       "tracks": [
         {
@@ -776,41 +784,38 @@
       ],
       "links": [
         {
-          "type": "facebook",
-          "url": "https://www.facebook.com/baroquerie"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@LaBaroquerie"
-        }, {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/baroquerie"
-        }, {
           "type": "spotify",
-          "url": "https://open.spotify.com/artist/0NDWmyeZMHf9LdeNcIDRKy"
+          "url": "https://open.spotify.com/album/44p4oWCfMZKX9HJt64ncoj"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/artist/la-baroquerie-du-val-de-bi%C3%A8vre/1658942595"
+          "url": "https://music.apple.com/album/dystopie/1588780184"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0BPH2Z4CT/la-baroquerie-du-val-de-bi%C3%A8vre/"
+          "url": "https://music.amazon.com/albums/B09HRC1LJS"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/artist/192901537"
+          "url": "https://www.deezer.com/album/263543602"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/la-baroquerie-du-val-de-bievre/16644819"
+          "url": "https://www.qobuz.com/album/dystopie-nac/urkndoct7umpb"
         }, {
           "type": "tidal",
-          "url": "https://tidal.com/browse/artist/36049252"
+          "url": "https://tidal.com/browse/album/200014684"
         }, {
           "type": "bandcamp",
-          "url": "https://labaroquerieduvaldebievre.bandcamp.com/"
+          "url": "https://nacband.bandcamp.com/album/dystopie"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/artist/10067725-La-Baroquerie-du-Val-de-Bi%C3%A8vre/"
+          "url": "https://www.discogs.com/release/20399056"
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/f574963c-890f-492e-a3bd-99b870235a68"
+          "url": "https://musicbrainz.org/release/39049941-c348-4aeb-b86b-a5af7093d3ea"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Nac-fra/Dystopie"
         }
       ]
     },
@@ -819,11 +824,93 @@
       "artist": ["Le Forge"],
       "date": "2021-10-04",
       "image": "/assets/img/music/MBPLP002.webp",
-      "mainLink": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M",
+      "duration": "18:58",
+      "EAN": "0641094043780",
+      "styles": ["Hard Rock"],
+      "credits": [
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Luc Boulogne", "Michel Mathieu", "Vincent Boulogne"] },
+        { "artwork": ["Régine Dubois"] },
+        { "illustration": ["Régine Dubois"] },
+        { "bass": ["Michel Mathieu"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Luc Boulogne"] },
+        { "vocal": ["Michel Mathieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Président Samouraï",
+          "artist": ["Le Forge"],
+          "duration": "05:14",
+          "ISRC": "FR-9W1-96-00729",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Michel Mathieu", "Vincent Boulogne"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "In/Out",
+          "artist": ["Le Forge"],
+          "duration": "05:44",
+          "ISRC": "FR-9W1-96-00730",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Michel Mathieu", "Vincent Boulogne"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Aime Moi",
+          "artist": ["Le Forge"],
+          "duration": "04:17",
+          "ISRC": "FR-9W1-96-00731",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Michel Mathieu", "Vincent Boulogne"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Macadam",
+          "artist": ["Le Forge"],
+          "duration": "03:13",
+          "ISRC": "FR-9W1-96-00732",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Michel Mathieu", "Vincent Boulogne"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/22mM01wqd6mZNqt41Bqyq4"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/dur-d%C3%AAtre-apache-ep/1591523511"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09K34PWZX"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/267582372"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/dur-detre-apache-le-forge/hw579vazsqcua"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/202078865"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/dur-d-tre-apache"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1"
+          "url": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20515321"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b87d21c0-c8bc-478d-a523-e06867be883d"
         }
       ]
     },
@@ -832,11 +919,95 @@
       "artist": ["Small Pox"],
       "date": "2021-10-05",
       "image": "/assets/img/music/MBPLP003.webp",
-      "mainLink": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU",
+      "duration": "29:32",
+      "EAN": "0641094193775",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] },
+        { "bass": ["Stéphane Philippe"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Luc Boulogne"] },
+        { "vocal": ["Stéphane Philippe"] }
+      ],
+      "tracks": [
+        {
+          "title": "Close My Eyes",
+          "artist": ["Small Pox"],
+          "duration": "09:37",
+          "ISRC": "FR-9W1-01-01267",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Mirage",
+          "artist": ["Small Pox"],
+          "duration": "05:59",
+          "ISRC": "FR-9W1-01-01268",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Doliprane",
+          "artist": ["Small Pox"],
+          "duration": "06:42",
+          "ISRC": "FR-9W1-01-01269",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Just The Reality",
+          "artist": ["Small Pox"],
+          "duration": "07:14",
+          "ISRC": "FR-9W1-01-01270",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6v6HlX4bDfFDWrrTRXeQj7"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/small-pox-ep/1591523883"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09K3S3Y66"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/267582302"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/small-pox-small-pox/hop1lxmoz03ic"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/202078894"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/small-pox"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1"
+          "url": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20548198"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/fd6530ed-63aa-4830-9874-9f993cf33dff"
         }
       ]
     },
@@ -845,11 +1016,118 @@
       "artist": ["The Forge"],
       "date": "2021-10-06",
       "image": "/assets/img/music/MBPLP004.webp",
-      "mainLink": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK",
+      "duration": "38:57",
+      "EAN": "0641094760748",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Pierre Baromes"] },
+        { "mix": ["Luc Boulogne", "Pierre Baromes", "Stéphane Philippe", "Vincent Boulogne"] },
+        { "producer": ["Arthur Beaulieu", "Luc Boulogne", "Pierre Baromes", "Stéphane Philippe", "Vincent Boulogne"] },
+        { "bass": ["Stéphane Philippe"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Luc Boulogne"] },
+        { "vocal": ["Stéphane Philippe"] }
+      ],
+      "tracks": [
+        {
+          "title": "Can You Heal My Pain?",
+          "artist": ["The Forge"],
+          "duration": "05:16",
+          "ISRC": "FR-9W1-06-05736",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Doliprane",
+          "artist": ["The Forge"],
+          "duration": "06:13",
+          "ISRC": "FR-9W1-06-05737",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Far From City",
+          "artist": ["The Forge"],
+          "duration": "04:46",
+          "ISRC": "FR-9W1-06-05738",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Fight Is Always Run",
+          "artist": ["The Forge"],
+          "duration": "07:57",
+          "ISRC": "FR-9W1-06-05739",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Mirage",
+          "artist": ["The Forge"],
+          "duration": "06:35",
+          "ISRC": "FR-9W1-06-05740",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Heart Of Stone",
+          "artist": ["The Forge"],
+          "duration": "08:10",
+          "ISRC": "FR-9W1-06-05741",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6JOsCQ7bUWptYKCtA04Jt7"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/the-forge/1590930991"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09JS8XW45"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/266746652"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/the-forge-the-forge/zs5106dz1yrpa"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/201669802"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/the-forge"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1"
+          "url": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20560249"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/e6dc0740-4c50-4920-abb6-a7f5c23bbc3d"
         }
       ]
     },
@@ -858,11 +1136,92 @@
       "artist": ["The Forge"],
       "date": "2021-10-07",
       "image": "/assets/img/music/MBPLP005.webp",
-      "mainLink": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K",
+      "duration": "32:44",
+      "EAN": "0641094488062",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Julien Goutte-Broze"] },
+        { "master": ["Julien Goutte-Broze"] },
+        { "producer": ["Arthur Beaulieu", "Julien Goutte-Broze"] },
+        { "artwork": ["Lauréline Boulogne"] },
+        { "illustration": ["Lauréline Boulogne"] },
+        { "bass": ["Paul Boulogne"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Luc Boulogne", "Tom Souty"] },
+        { "percussion": ["Fabrice Dulin"] },
+        { "clap": ["Lauréline Boulogne", "Pierre Toïgo"] }
+      ],
+      "tracks": [
+        {
+          "title": "R U S H",
+          "artist": ["The Forge"],
+          "duration": "05:38",
+          "ISRC": "FR-9W1-19-36099",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        },
+        {
+          "title": "Metalfloyd",
+          "artist": ["The Forge"],
+          "duration": "06:41",
+          "ISRC": "FR-9W1-19-36100",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        },
+        {
+          "title": "Acoustica",
+          "artist": ["The Forge"],
+          "duration": "06:59",
+          "ISRC": "FR-9W1-19-36101",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        },
+        {
+          "title": "Etica Nikomak",
+          "artist": ["The Forge"],
+          "duration": "13:26",
+          "ISRC": "FR-9W1-19-36102",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/08D3o3S0y7Y3I2z2YD95Wb"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/etica-nikomak/1590605239"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09JLK7CQJ"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/266135292"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/etica-nikomak-the-forge/puyp5kl5nl2bb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/201425661"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/etica-nikomak"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1"
+          "url": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20503012"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b3fed13e-45e9-4ba9-a094-493b7dc5e912"
         }
       ]
     },
@@ -871,11 +1230,190 @@
       "artist": ["Small Pox"],
       "date": "2021-11-25",
       "image": "/assets/img/music/MBPLP006.webp",
-      "mainLink": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu",
+      "duration": "01:17:27",
+      "EAN": "0641094072339",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "credits": [
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "bass": ["Stéphane Philippe"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Luc Boulogne"] },
+        { "vocal": ["Stéphane Philippe"] }
+      ],
+      "tracks": [
+        {
+          "title": "Raoul",
+          "artist": ["Small Pox"],
+          "duration": "04:15",
+          "ISRC": "FR-9W1-06-05746",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }
+          ]
+        },
+        {
+          "title": "Sweet Little Way",
+          "artist": ["Small Pox"],
+          "duration": "06:10",
+          "ISRC": "FR-9W1-06-05747",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "We Want To Know",
+          "artist": ["Small Pox"],
+          "duration": "04:56",
+          "ISRC": "FR-9W1-06-05748",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Close My Eyes",
+          "artist": ["Small Pox"],
+          "duration": "08:58",
+          "ISRC": "FR-9W1-06-05749",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Can You Heal My Pain?",
+          "artist": ["Small Pox"],
+          "duration": "05:00",
+          "ISRC": "FR-9W1-06-05750",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Doliprane",
+          "artist": ["Small Pox"],
+          "duration": "06:12",
+          "ISRC": "FR-9W1-06-05751",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Fight Is Always Run",
+          "artist": ["Small Pox"],
+          "duration": "07:15",
+          "ISRC": "FR-9W1-06-05752",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Heart Of Stone",
+          "artist": ["Small Pox"],
+          "duration": "07:40",
+          "ISRC": "FR-9W1-06-05753",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "I Don't Need No Doctor",
+          "artist": ["Small Pox"],
+          "duration": "06:22",
+          "ISRC": "FR-9W1-06-05754",
+          "credits": [
+            { "composer": ["Jo Armstead", "Nickolas Ashford", "Valerie Simpson"] }, 
+            { "author": ["Jo Armstead", "Nickolas Ashford", "Valerie Simpson"] }
+          ]
+        },
+        {
+          "title": "Rock'n'Roll",
+          "artist": ["Small Pox"],
+          "duration": "03:57",
+          "ISRC": "FR-9W1-06-05755",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }
+          ]
+        },
+        {
+          "title": "Just The Reality",
+          "artist": ["Small Pox"],
+          "duration": "06:17",
+          "ISRC": "FR-9W1-06-05756",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        },
+        {
+          "title": "Instru",
+          "artist": ["Small Pox"],
+          "duration": "04:25",
+          "ISRC": "FR-9W1-06-05757",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }
+          ]
+        },
+        {
+          "title": "Mirage",
+          "artist": ["Small Pox"],
+          "duration": "06:00",
+          "ISRC": "FR-9W1-06-05758",
+          "credits": [
+            { "arranger": ["Luc Boulogne", "Stéphane Philippe", "Vincent Boulogne"] }, 
+            { "composer": ["Luc Boulogne"] }, 
+            { "author": ["Stéphane Philippe"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5voAVPDuSDOY2wtPfADAIQ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/live/1647737446"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BH2NTCHM"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/362057537"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/live-small-pox/ktwo5mvlpu3kb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/251266946"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/live"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1"
+          "url": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/21077248"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/4aca1b8c-dd04-43f4-8372-ecbbead35f7d"
         }
       ]
     },
@@ -885,10 +1423,129 @@
       "date": "2021-12-06",
       "image": "/assets/img/music/MBPLP007.webp",
       "mainLink": "https://www.youtube.com/watch?v=6Rf4fiKfZiY&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=8",
+      "duration": "51:55",
+      "EAN": "0641094242091",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "about": {
+        "fr": "Enregistré live à la MJC Jean Vilar (Igny, France) au cours du Concert Rock donné le 20 Novembre 2021, pour promouvoir la sortie de l'album Dystopie. À cause d'un souci de routage au cours de l'enregistrement, la partie vocale est mixée avec le violon, la charleston et une guitare, donnant un mix plus que moyen ; on s'en excuse platement!",
+        "en": "Recorded live at MJC Jean Vilar (Igny, France) during the Concert Rock performance, given on the November 20, 2021 to promote the Dystopie album. Due to a patch issue during the recording, the vocal track is mixed with the violin, the hi-hat and a guitar, making it drowned in the mix, we're sorry for that!"
+      },
+      "credits": [
+        { "arranger": ["Arthur Beaulieu", "David Béché", "Lionel Baudet", "Pierre Toïgo"] },
+        { "record": ["Loup Voiffray"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Victoria Shope"] },
+        { "bass": ["Arthur Beaulieu", "Tom Souty"] },
+        { "drums": ["Sylvain Mallet"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "keyboard": ["David Béché"] },
+        { "violin": ["Arthur Beaulieu"] },
+        { "vocal": ["David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Tramp",
+          "artist": ["NAC"],
+          "duration": "06:48",
+          "ISRC": "FR-9W1-21-44067",
+          "credits": [
+            { "composer": ["Arthur Beaulieu", "Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        },
+        {
+          "title": "Dystopie",
+          "artist": ["NAC"],
+          "duration": "06:17",
+          "ISRC": "FR-9W1-21-44068",
+          "credits": [
+            { "composer": ["Philippe Dromard", "Pierre Toïgo"] }, 
+            { "author": ["Arthur Beaulieu"] }
+          ]
+        },
+        {
+          "title": "Bad Dreams (feat. Tom)",
+          "artist": ["NAC"],
+          "duration": "06:55",
+          "ISRC": "FR-9W1-21-44069",
+          "credits": [
+            { "composer": ["David Béché", "Pierre Toïgo"] }, 
+            { "author": ["David Béché", "Philippe Dromard"] }, 
+            { "featuring": ["Tom Souty"] }
+          ]
+        },
+        {
+          "title": "Nature Humaine",
+          "artist": ["NAC"],
+          "duration": "07:22",
+          "ISRC": "FR-9W1-21-44070",
+          "credits": [
+            { "composer": ["Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Arthur Beaulieu", "Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Amor Ciego",
+          "artist": ["NAC"],
+          "duration": "08:25",
+          "ISRC": "FR-9W1-21-44071",
+          "credits": [
+            { "composer": ["Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        },
+        {
+          "title": "Résilience",
+          "artist": ["NAC"],
+          "duration": "08:19",
+          "ISRC": "FR-9W1-21-44072",
+          "credits": [
+            { "composer": ["Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        },
+        {
+          "title": "Crad' Bar Boogie",
+          "artist": ["NAC"],
+          "duration": "07:49",
+          "ISRC": "FR-9W1-21-44073",
+          "credits": [
+            { "composer": ["Pierre Toïgo"] }, 
+            { "author": ["David Béché"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5p2DnceOJ5y0jqtBgSIVX9"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/dystopie-live/1621090635"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09YVQJV85"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/ystopie-live-nac/eeonay40gk0za"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/226351768"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/dystopie-live"
+        }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=6Rf4fiKfZiY&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=8"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/21262774"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/603ba167-d5ee-4d16-a49d-f62960f35a52"
         }
       ]
     },
@@ -897,11 +1554,165 @@
       "artist": ["NAC"],
       "date": "2022-04-04",
       "image": "/assets/img/music/MBPLP008.webp",
-      "mainLink": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2",
+      "duration": "53:03",
+      "EAN": "0641094314842",
+      "styles": ["Hard Rock"],
+      "about": {
+        "fr": "Un disque initialement sorti en juin 2001, enregistré au Studio MJC Jean Vilar (Igny, France). Les notes de livret indiquent que l'enregistrement et le mixage ont été réalisés à l'aide d'un magnétophone à cassette 4 pistes Tascam Porta-Studio et d'un graveur de CD Philips.",
+        "en": "A record originally released in June 2001, recorded at Studio MJC Jean Vilar (Igny, France). Liner notes says that recording and mixing where done using a Tascam Porta-Studio 4-tape-tracks and Phillips CD burner."
+      },
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Régine Dubois"] },
+        { "illustration": ["Gerstin Schrott"] },
+        { "bass": ["Pierre Toïgo"] },
+        { "drums": ["Christophe Boulogne"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "keyboard": ["David Béché"] },
+        { "harmonica": ["Ludovic Tabur"] },
+        { "backvocal": ["Pierre Toïgo"] },
+        { "vocal": ["Ludovic Tabur"] }
+      ],
+      "tracks": [
+        {
+          "title": "Oil Mechanic Life",
+          "artist": ["NAC"],
+          "duration": "03:59",
+          "ISRC": "FR-9W1-01-01283",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "C'Est Beau La Vie",
+          "artist": ["NAC"],
+          "duration": "05:11",
+          "ISRC": "FR-9W1-01-01284",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "Badminton Man",
+          "artist": ["NAC"],
+          "duration": "06:51",
+          "ISRC": "FR-9W1-01-01285",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "Malibu",
+          "artist": ["NAC"],
+          "duration": "05:16",
+          "ISRC": "FR-9W1-01-01286",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "La Chaise",
+          "artist": ["NAC"],
+          "duration": "03:39",
+          "ISRC": "FR-9W1-01-01287",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "Fragment D'Amertume",
+          "artist": ["NAC"],
+          "duration": "06:04",
+          "ISRC": "FR-9W1-01-01288",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "Le Jour Des Monstres",
+          "artist": ["NAC"],
+          "duration": "04:58",
+          "ISRC": "FR-9W1-01-01289",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "Indigo",
+          "artist": ["NAC"],
+          "duration": "04:03",
+          "ISRC": "FR-9W1-01-01290",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "La Bande D4",
+          "artist": ["NAC"],
+          "duration": "06:53",
+          "ISRC": "FR-9W1-01-01291",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        },
+        {
+          "title": "Le Blues Du Mille-Pattes Jaune Et Bleu",
+          "artist": ["NAC"],
+          "duration": "06:09",
+          "ISRC": "FR-9W1-01-01292",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Lionel Baudet", "Pierre Toïgo"] }, 
+            { "author": ["Lionel Baudet", "Pierre Toïgo"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0DBcFyKpuSgAmXAIraCRk9"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/nac/1617782356"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09X7FJCBC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/308824697"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/nac-nac/yg4axrbv3dzdc"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/223768968"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/nac"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2&index=1"
+          "url": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/22707005"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/d27428af-a90a-486a-8137-6ab9a4deae43"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Nac-fra/Nac"
         }
       ]
     },
@@ -910,11 +1721,124 @@
       "artist": ["Macadam Forge"],
       "date": "2022-05-06",
       "image": "/assets/img/music/MBPLP009.webp",
-      "mainLink": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb",
+      "duration": "31:31",
+      "EAN": "0641094787417",
+      "styles": ["Hard Rock"],
+      "about": {
+        "fr": "Enregistrement live réalisé à Gennevilliers, France, le 7 juin 1986. Un disque jamais sorti auparavant, tiré d'une cassette. Ingénieurs d'enregistrement et de mixage inconnus.",
+        "en": "Live recording performed at Gennevilliers, France, on June 7,1986. A record that was never released previously, taken from a cassette. Recording and Mixing engineers unknown."
+      },
+      "credits": [
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu"] },
+        { "bass": ["Michel Mathieu"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Christophe Boulogne", "Luc Boulogne"] },
+        { "vocal": ["Michel Mathieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Loulou",
+          "artist": ["Macadam Forge"],
+          "duration": "06:10",
+          "ISRC": "FR-9W1-86-00247",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Hey Petite",
+          "artist": ["Macadam Forge"],
+          "duration": "03:58",
+          "ISRC": "FR-9W1-86-00248",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Funky",
+          "artist": ["Macadam Forge"],
+          "duration": "04:49",
+          "ISRC": "FR-9W1-86-00249",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "La Bête",
+          "artist": ["Macadam Forge"],
+          "duration": "04:19",
+          "ISRC": "FR-9W1-86-00250",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Boogie",
+          "artist": ["Macadam Forge"],
+          "duration": "06:26",
+          "ISRC": "FR-9W1-86-00251",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Macadam",
+          "artist": ["Macadam Forge"],
+          "duration": "03:12",
+          "ISRC": "FR-9W1-86-00252",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Hard",
+          "artist": ["Macadam Forge"],
+          "duration": "02:37",
+          "ISRC": "FR-9W1-86-00253",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] }, 
+            { "author": ["Michel Mathieu"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7h9FufDPGroMqXR1Wq4aIp"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/live-à-gennevilliers/1647758356"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BGZMDHWL"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/live-a-gennevilliers-macadam-forge/bykdmlfl24g1a"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/251266999"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/live-gennevilliers"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1"
+          "url": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23129375"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/4e06b1f0-71c3-4f55-b8bf-8cd3b8177a26"
         }
       ]
     },
@@ -923,11 +1847,296 @@
       "artist": ["Lionel Baudet"],
       "date": "2022-10-10",
       "image": "/assets/img/music/MBPLP010.webp",
-      "mainLink": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT",
+      "duration": "1:00:15",
+      "EAN": "0641094607081",
+      "styles": ["Experimental"],
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Lionel Baudet"] },
+        { "illustration": ["Lionel Baudet"] },
+        { "bass": ["Lionel Baudet"] },
+        { "drums": ["Lionel Baudet"] },
+        { "keyboard": ["Lionel Baudet"] },
+        { "guitar": ["Lionel Baudet"] },
+        { "vocal": ["Lionel Baudet"] }
+      ],
+      "tracks": [
+        {
+          "title": "Sabrina",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:15",
+          "ISRC": "FR-9W1-10-13352",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Planet",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:38",
+          "ISRC": "FR-9W1-10-13353",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Free",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:31",
+          "ISRC": "FR-9W1-10-13354",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Dream",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:47",
+          "ISRC": "FR-9W1-10-13355",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Africa",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:14",
+          "ISRC": "FR-9W1-10-13356",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Sacrifice",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:21",
+          "ISRC": "FR-9W1-10-13357",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "4X4",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:36",
+          "ISRC": "FR-9W1-10-13358",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Ghetto",
+          "artist": ["Lionel Baudet"],
+          "duration": "05:29",
+          "ISRC": "FR-9W1-10-13359",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Darkness",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:29",
+          "ISRC": "FR-9W1-10-13360",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Africa II",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:46",
+          "ISRC": "FR-9W1-10-13361",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Guitars",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:15",
+          "ISRC": "FR-9W1-10-13362",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Time",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:21",
+          "ISRC": "FR-9W1-10-13363",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Bells",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:01",
+          "ISRC": "FR-9W1-10-13364",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "In The Night",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:03",
+          "ISRC": "FR-9W1-10-13365",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Superstar",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:05",
+          "ISRC": "FR-9W1-10-13366",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Long Way",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:32",
+          "ISRC": "FR-9W1-10-13367",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "The Beach",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:16",
+          "ISRC": "FR-9W1-10-13368",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Old",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:35",
+          "ISRC": "FR-9W1-10-13369",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Run",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:31",
+          "ISRC": "FR-9W1-10-13370",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Happy Family",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:32",
+          "ISRC": "FR-9W1-10-13371",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Disco",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:43",
+          "ISRC": "FR-9W1-10-13372",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Voices",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:55",
+          "ISRC": "FR-9W1-10-13373",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Jokk",
+          "artist": ["Lionel Baudet"],
+          "duration": "07:39",
+          "ISRC": "FR-9W1-10-13374",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Moonlight",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:41",
+          "ISRC": "FR-9W1-10-13375",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0weBsphIoQa7x8X9TwrXU2"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/the-best-of/1647360333"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BGQYYRJW"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/361243457"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/the-best-of-lionel-baudet/xfefmondm0nva"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/250727788"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/album/the-best-of"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT&index=1"
+          "url": "https://www.youtube.com/watch?v=6oJ9zYJTOIU&list=PLp5D05IpZHwLtYLp9UjjNrPCdfQycs0ZT"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24724523"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/08656a51-2ba2-4535-b503-c1bb5832b1e3"
         }
       ]
     },
@@ -936,11 +2145,163 @@
       "artist": ["Lionel Baudet"],
       "date": "2022-11-01",
       "image": "/assets/img/music/MBPLP011.webp",
-      "mainLink": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s",
+      "duration": "30:07",
+      "EAN": "0641094741815",
+      "styles": ["Experimental"],
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Lionel Baudet"] },
+        { "illustration": ["Lionel Baudet"] },
+        { "bass": ["Lionel Baudet"] },
+        { "drums": ["Lionel Baudet"] },
+        { "keyboard": ["Lionel Baudet"] },
+        { "guitar": ["Lionel Baudet"] },
+        { "vocal": ["Lionel Baudet"] }
+      ],
+      "tracks": [
+        {
+          "title": "White Orchestra",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:51",
+          "ISRC": "FR-9W1-13-24715",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Mannix",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:36",
+          "ISRC": "FR-9W1-13-247156",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Cortex",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:54",
+          "ISRC": "FR-9W1-13-247157",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Circus",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:16",
+          "ISRC": "FR-9W1-13-247158",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Full Jazz",
+          "artist": ["Lionel Baudet"],
+          "duration": "04:17",
+          "ISRC": "FR-9W1-13-247159",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Folie Douce",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:54",
+          "ISRC": "FR-9W1-13-247160",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Romeo Club",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:29",
+          "ISRC": "FR-9W1-13-247161",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Nuit Blanche",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:12",
+          "ISRC": "FR-9W1-13-247162",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Hommage",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:23",
+          "ISRC": "FR-9W1-13-247163",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "FBI",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:54",
+          "ISRC": "FR-9W1-13-247164",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Rico",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:21",
+          "ISRC": "FR-9W1-13-247165",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0MsKAYk43uJNPXsr1unNlW"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/eliot-jazz-band/1647927078"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BH1JB1ZL"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/eliot-jazz-band-lionel-baudet/rmjgr7vui095a"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/251595683"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/album/eliot-jazz-band"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s&index=1"
+          "url": "https://www.youtube.com/watch?v=GTXynYta7mY&list=PLp5D05IpZHwKII5hvLOrecXRqwmDSgV4s"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/25024390"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/d619bf6d-96fd-463c-a6b5-1d5220e134f2"
         }
       ]
     },
@@ -949,24 +2310,223 @@
       "artist": ["Lionel Baudet"],
       "date": "2022-11-20",
       "image": "/assets/img/music/MBPLP012.webp",
-      "mainLink": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk",
+      "duration": "32:44",
+      "EAN": "0641094332099",
+      "styles": ["Experimental"],
+      "about": {
+        "fr": "Disque initialement sorti en 2018, enregistré avec Nero 10, EzDrummer, Samplitude et Creative, au Studio El Factaga. Lionel Baudet a joué avec les instruments suivants pour cet album : Squier, Charvel, Aria, Master Keyboard Creative.",
+        "en": "Record originally released in 2018, recorded with Nero 10, EzDrummer, Samplitude and Creative, in Studio El Factaga. Lionel Baudet played with the following instruments for this record : Squier, Charvel, Aria, Master Keyboard Creative."
+      },
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Lionel Baudet"] },
+        { "illustration": ["Lionel Baudet"] },
+        { "bass": ["Lionel Baudet"] },
+        { "drums": ["Lionel Baudet"] },
+        { "keyboard": ["Lionel Baudet"] },
+        { "guitar": ["Lionel Baudet"] },
+        { "vocal": ["Lionel Baudet"] }
+      ],
+      "tracks": [
+        {
+          "title": "Kozel & The Bass",
+          "artist": ["Lionel Baudet"],
+          "duration": "07:22",
+          "ISRC": "FR-9W1-18-33791",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Animal",
+          "artist": ["Lionel Baudet"],
+          "duration": "04:49",
+          "ISRC": "FR-9W1-18-33792",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Progressiv Rock",
+          "artist": ["Lionel Baudet"],
+          "duration": "10:30",
+          "ISRC": "FR-9W1-18-33793",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Guitara El Basso",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:42",
+          "ISRC": "FR-9W1-18-33794",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Zen",
+          "artist": ["Lionel Baudet"],
+          "duration": "07:21",
+          "ISRC": "FR-9W1-18-33795",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6mgeMKtr8nEla3IumvWrwH"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/eliot-jazz-band-2/1647926908"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BH1LV77S"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/362391957"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/eliot-jazz-band-2-lionel-baudet/dmcuavxtmrifb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/251595671"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/album/eliot-jazz-band-2"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk&index=1"
+          "url": "https://www.youtube.com/watch?v=flMh2rjEirc&list=PLp5D05IpZHwLPHC5eZox4xlr0BPXU9ILk"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24725108"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/7b849765-027c-4dc1-bb8d-26f71d12293f"
         }
       ]
     },
     "MBPLP013": {
       "name": "Concert: Œuvres de Corelli",
-      "artist": ["Guillaume Beaulieu", "Julien Faure"],
+      "artist": ["Guillaume Beaulieu"],
       "date": "2023-03-22",
       "image": "/assets/img/music/MBPLP013.webp",
-      "mainLink": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=Ajs2g--V76k&list=PLp5D05IpZHwLg020Nic1oZNC0CvJ8mXg-",
+      "duration": "57:52",
+      "EAN": "0641094646080",
+      "styles": ["Baroque"],
+      "about": {
+        "fr": "Concert donné et enregistré le 7 janvier 2023 à l'auditorium d'Igny du Centre Culturel Isadora Duncan (Igny, France).",
+        "en": "Live performance given and recorded on January 7, 2023 at the Igny's auditorium of Centre Culturel Isadora Duncan (Igny, France)."
+      },
+      "credits": [
+        { "record": ["David Lucas"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu"] },
+        { "harpsichord": ["Julien Faure"] },
+        { "recorder": ["Guillaume Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Sonata Opus 5, n°7",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "08:54",
+          "ISRC": "FR-9W1-23-06135",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        },
+        {
+          "title": "Sonata Opus 5, n°10",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "09:59",
+          "ISRC": "FR-9W1-23-06136",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        },
+        {
+          "title": "Sonata Opus 5, n°8",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "11:10",
+          "ISRC": "FR-9W1-23-06137",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        },
+        {
+          "title": "Sonata Opus 5, n°9",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "08:59",
+          "ISRC": "FR-9W1-23-06138",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        },
+        {
+          "title": "Sonata Opus 5, n°11",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "07:17",
+          "ISRC": "FR-9W1-23-06139",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        },
+        {
+          "title": "Sonata Opus 5, n°12",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "11:33",
+          "ISRC": "FR-9W1-23-06140",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4JMSgN6eHut4Qp3qiYoSZe"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/concert-œuvres-de-corelli/1677491325"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BYNHZ1ST"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/418638697"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/concert-uvres-de-corelli-la-baroquerie-du-val-de-bievre-guillaume-beaulieu-julien-faure/eyec99rky1cec"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/282159076"
+        }, {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/album/concert-uvres-de-corelli"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1"
+          "url": "https://www.youtube.com/watch?v=Ajs2g--V76k&list=PLp5D05IpZHwLg020Nic1oZNC0CvJ8mXg-"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/26436611"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/930522a9-61fe-4405-a81e-8aa526d25650"
         }
       ]
     },
@@ -975,11 +2535,110 @@
       "artist": ["Lionel Baudet"],
       "date": "2023-10-10",
       "image": "/assets/img/music/MBPLP014.webp",
-      "mainLink": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO",
+      "duration": "24:11",
+      "EAN": "0641094781804",
+      "styles": ["Experimental", "Jazz Fusion", "Progressive Rock"],
+      "about": {
+        "fr": "Album enregistré avec Nero 10 et Reaper, au Studio El Factaga. Lionel Baudet a joué avec les instruments suivants pour cet album : Schecter, Aria, Fender 12 cordes ",
+        "en": "Album recorded with Nero 10and Reaper, in Studio El Factaga. Lionel Baudet played with the following instruments for this record : Schecter, Aria, Fender 12 strings."
+      },
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "master": ["Lionel Baudet"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Lionel Baudet"] },
+        { "bass": ["Lionel Baudet"] },
+        { "drums": ["Lionel Baudet"] },
+        { "keyboard": ["Lionel Baudet"] },
+        { "guitar": ["Lionel Baudet"] },
+        { "vocal": ["Lionel Baudet"] }
+      ],
+      "tracks": [
+        {
+          "title": "Ouverture",
+          "artist": ["Lionel Baudet"],
+          "duration": "00:55",
+          "ISRC": "FR-9W1-23-46058",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Blanche Neige",
+          "artist": ["Lionel Baudet"],
+          "duration": "04:57",
+          "ISRC": "FR-9W1-23-46059",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Piste Rouge",
+          "artist": ["Lionel Baudet"],
+          "duration": "05:24",
+          "ISRC": "FR-9W1-23-46060",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "La Parade Magnifique",
+          "artist": ["Lionel Baudet"],
+          "duration": "04:44",
+          "ISRC": "FR-9W1-23-46061",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        },
+        {
+          "title": "Polka Polka",
+          "artist": ["Lionel Baudet"],
+          "duration": "08:09",
+          "ISRC": "FR-9W1-23-01153",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2Vnni4oMMl2ryTt74fBwq8"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/la-parade-magnifique-ep/1708497480"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CJL3KDPY"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/491534785"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/la-parade-magnifique-lionel-baudet/ljox8azko9apa"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/317654362"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/album/la-parade-magnifique"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO&index=1"
+          "url": "https://www.youtube.com/watch?v=AoXojn4049k&list=PLp5D05IpZHwIRdmrjYOElFSJds6cciJxO"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/28550467"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/6a202457-850e-4840-a45c-f071b272db8b"
         }
       ]
     },
@@ -988,24 +2647,214 @@
       "artist": ["The Forge"],
       "date": "2024-02-08",
       "image": "/assets/img/music/MBPLP015.webp",
-      "mainLink": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w",
+      "duration": "33:28",
+      "EAN": "0641094946500",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Julien Goutte-Broze"] },
+        { "master": ["Julien Goutte-Broze"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Lauréline Boulogne"] },
+        { "illustration": ["Lauréline Boulogne"] },
+        { "bass": ["Paul Boulogne"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "guitar": ["Luc Boulogne", "Tom Souty"] },
+        { "percussion": ["Fabrice Dulin"] },
+        { "saxophone": ["Richard Braun"] }
+      ],
+      "tracks": [
+        {
+          "title": "5HTT",
+          "artist": ["The Forge"],
+          "duration": "10:14",
+          "ISRC": "FR-9W1-23-63717",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        },
+        {
+          "title": "Abri' Blues",
+          "artist": ["The Forge"],
+          "duration": "07:36",
+          "ISRC": "FR-9W1-23-63717",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        },
+        {
+          "title": "Musaïc",
+          "artist": ["The Forge"],
+          "duration": "10:20",
+          "ISRC": "FR-9W1-23-63719",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        },
+        {
+          "title": "Macadam Forge",
+          "artist": ["The Forge"],
+          "duration": "05:18",
+          "ISRC": "FR-9W1-23-63720",
+          "credits": [
+            { "composer": ["Luc Boulogne", "Paul Boulogne", "Tom Souty", "Vincent Boulogne"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4odEdSMnAsl5Fbn2lE184s"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/musaïc/1728684813"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CTR3BGRG"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/542972222"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/musaic-the-forge/b9er3c8xo6f3b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/343181173"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/musa-c"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w&index=1"
+          "url": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLp5D05IpZHwLKnhXY_DF8w20etr2NZx9w"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29692798"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/a807b189-9a50-4ded-90c1-f19e549b7041"
         }
       ]
     },
     "MBPLP016": {
       "name": "Concert: Œuvres Italiennes au XVIII<sup>ème</sup>",
-      "artist": ["Guillaume Beaulieu", "Julien Faure"],
+      "artist": ["Guillaume Beaulieu"],
       "date": "2024-02-24",
       "image": "/assets/img/music/MBPLP016.webp",
-      "mainLink": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB",
+      "duration": "56:21",
+      "EAN": "0641094177164",
+      "styles": ["Baroque"],
+      "about": {
+        "fr": "Concert donné (et enregistré) le 14 janvier 2024 à l'église Sainte Colombe (Chevilly-Larue, France).",
+        "en": "Live performance given (and recorded) on January 14, 2024 at the Sainte-Colombe's church. (Chevilly-Larue, France)."
+      },
+      "credits": [
+        { "record": ["Arthur Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu", "Guillaume Beaulieu"] },
+        { "harpsichord": ["Julien Faure"] },
+        { "recorder": ["Guillaume Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Sonata Opus 5, n°3",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "08:57",
+          "ISRC": "FR-9W1-24-05867",
+          "credits": [
+            { "composer": ["Arcangelo Corelli"] }
+          ]
+        },
+        {
+          "title": "Sonata In B-flat Major",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "08:30",
+          "ISRC": "FR-9W1-24-05868",
+          "credits": [
+            { "composer": ["Giuseppe Baldassare Sammartini"] }
+          ]
+        },
+        {
+          "title": "Sonata In E Minor",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "07:39",
+          "ISRC": "FR-9W1-24-05869",
+          "credits": [
+            { "composer": ["Francesco Geminiani"] }
+          ]
+        },
+        {
+          "title": "Sonata Opus 2, n°2",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "11:24",
+          "ISRC": "FR-9W1-24-05870",
+          "credits": [
+            { "composer": ["Pietro Antonio Locatelli"] }
+          ]
+        },
+        {
+          "title": "Sonata n°4 In G Major",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "08:02",
+          "ISRC": "FR-9W1-24-05871",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        },
+        {
+          "title": "Concerto In D Minor, RV541",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "07:49",
+          "ISRC": "FR-9W1-24-05872",
+          "credits": [
+            { "composer": ["Antonio Vivaldi"] }
+          ]
+        },
+        {
+          "title": "Chaconne In F Major",
+          "artist": ["Guillaume Beaulieu", "Julien Faure"],
+          "duration": "04:00",
+          "ISRC": "FR-9W1-24-05873",
+          "credits": [
+            { "composer": ["Benedetto Marcello"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0uRJXuCxj27uWmeoi4CxEg"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/concert-œuvres-italiennes-au-xviiième-live/1731309328"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CVRZ8TXY"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/549149452"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/concert-uvres-italiennes-au-xviiieme-live-guillaume-beaulieu-julien-faure/m941hjba4isza"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/345784665"
+        }, {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/album/concert-uvres-italiennes-au-xviii-me"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB&index=1"
+          "url": "https://www.youtube.com/watch?v=jHueFsWJmjU&list=PLp5D05IpZHwIzrMIWv9At3Uq8MyyMwksB"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29693143"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/f7e09fae-7dc8-494d-9c06-fcdbaa54db25"
         }
       ]
     },
@@ -1014,11 +2863,363 @@
       "artist": ["Guillaume Beaulieu"],
       "date": "2024-10-05",
       "image": "/assets/img/music/MBPLP017.webp",
-      "mainLink": "https://www.youtube.com/watch?v=ecxSzE65e1Q&list=PLCyDwfZrEyi7DFwtTHq8Sqt3roVYLlxFA&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=ecxSzE65e1Q&list=PLCyDwfZrEyi7DFwtTHq8Sqt3roVYLlxFA",
+      "duration": "01:06:18",
+      "EAN": "0642613524117",
+      "styles": ["Baroque"],
+      "about": {
+        "fr": "Véritable chef d'œuvre de la musique pour instrument solo, ces fantaisies pour flûte seule sont une source d'inspiration inépuisable et témoignent de toute l'ingéniosité de Georg Philipp Telemann. Un disque enregistré en 2023 à la chapelle Saint-Georges de Blancheface (Sermaise, France).",
+        "en": "A true masterpiece of solo instrument music, these fantasies for solo flute are an inexhaustible source of inspiration and bear witness to the ingenuity of Georg Philipp Telemann. A record recorded in 2023 at the Saint-Georges Chapel in Blancheface (Sermaise, France)."
+      },
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu", "Guillaume Beaulieu"] },
+        { "artdirection": ["Michèle Dévérité"] },
+        { "recorder": ["Guillaume Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fantaisie 1 (TWV 40:2), I. Vivace",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "03:01",
+          "ISRC": "FR-9W1-24-42297",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 1 (TWV 40:2), II. Alegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:15",
+          "ISRC": "FR-9W1-24-42298",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 2 (TWV 40:3), I. Grave",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "00:59",
+          "ISRC": "FR-9W1-24-42299",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 2 (TWV 40:3), II. Vivace",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:22",
+          "ISRC": "FR-9W1-24-42300",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 2 (TWV 40:3), III. Adagio",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:26",
+          "ISRC": "FR-9W1-24-42301",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 2 (TWV 40:3), IV. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:46",
+          "ISRC": "FR-9W1-24-42302",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 3 (TWV 40:4), I. Largo/Vivace/Largo/Vivace",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "02:59",
+          "ISRC": "FR-9W1-24-42303",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 3 (TWV 40:4), II. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:53",
+          "ISRC": "FR-9W1-24-42304",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 4 (TWV 40:5), I. Andante",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:42",
+          "ISRC": "FR-9W1-24-42305",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 4 (TWV 40:5), II. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:34",
+          "ISRC": "FR-9W1-24-42306",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 4 (TWV 40:5), III. Presto",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:14",
+          "ISRC": "FR-9W1-24-42307",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 5 (TWV 40:6), I. Presto/Largo/Presto/Dolce",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:34",
+          "ISRC": "FR-9W1-24-42308",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 5 (TWV 40:6), II. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:30",
+          "ISRC": "FR-9W1-24-42309",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 5 (TWV 40:6), III. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "02:00",
+          "ISRC": "FR-9W1-24-42310",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 6 (TWV 40:7), I. Dolce",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "03:20",
+          "ISRC": "FR-9W1-24-42311",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 6 (TWV 40:7), II. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:17",
+          "ISRC": "FR-9W1-24-42312",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 6 (TWV 40:7), III. Spirituoso",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:02",
+          "ISRC": "FR-9W1-24-42313",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 7 (TWV 40:8), I. Alla Francese",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "04:18",
+          "ISRC": "FR-9W1-24-42314",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 7 (TWV 40:8), II. Presto",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "00:52",
+          "ISRC": "FR-9W1-24-42315",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 8 (TWV 40:9), I. Largo",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "02:28",
+          "ISRC": "FR-9W1-24-42316",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 8 (TWV 40:9), II. Spirituoso",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:26",
+          "ISRC": "FR-9W1-24-42337",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 8 (TWV 40:9), III. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:20",
+          "ISRC": "FR-9W1-24-42338",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 9 (TWV 40:10), I. Affetuoso",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "04:07",
+          "ISRC": "FR-9W1-24-42339",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 9 (TWV 40:10), II. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:14",
+          "ISRC": "FR-9W1-24-42340",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 9 (TWV 40:10), III. Grave",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "00:24",
+          "ISRC": "FR-9W1-24-42341",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 9 (TWV 40:10), IV. Vivace",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:38",
+          "ISRC": "FR-9W1-24-42342",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 10 (TWV 40:11), I. A Tempo Giusto",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "03:58",
+          "ISRC": "FR-9W1-24-42343",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 10 (TWV 40:11), II. Presto",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:07",
+          "ISRC": "FR-9W1-24-42344",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 10 (TWV 40:11), III. Moderato",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:20",
+          "ISRC": "FR-9W1-24-42345",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 11 (TWV 40:12), I. Allegro/Adagio",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:24",
+          "ISRC": "FR-9W1-24-42346",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 11 (TWV 40:12), II. Vivace",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:19",
+          "ISRC": "FR-9W1-24-42347",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 11 (TWV 40:12), III. Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "01:14",
+          "ISRC": "FR-9W1-24-42348",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 12 (TWV 40:13), I. Grave/Allegro/Grave/Allegro/Dolce/Allegro",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "03:09",
+          "ISRC": "FR-9W1-24-42349",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        },
+        {
+          "title": "Fantaisie 12 (TWV 40:13), II. Presto",
+          "artist": ["Guillaume Beaulieu"],
+          "duration": "02:28",
+          "ISRC": "FR-9W1-24-42350",
+          "credits": [
+            { "composer": ["Georg Philipp Telemann"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6FiC0AWI04Qrp5xeJeBytf"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/fantaisies-pour-flûte-seule-sans-basse/1767339006"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0DGGF9TWQ"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/641229941"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/fantaisies-pour-flute-seule-sans-basse-guillaume-beaulieu/czxwo4k3ejwda"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/386124239"
+        }, {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/album/fantaisies-pour-fl-te-seule-sans-basse"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=ecxSzE65e1Q&list=PLCyDwfZrEyi7DFwtTHq8Sqt3roVYLlxFA&index=1"
+          "url": "https://www.youtube.com/watch?v=ecxSzE65e1Q&list=PLCyDwfZrEyi7DFwtTHq8Sqt3roVYLlxFA"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/31699589"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/05ef03b2-2363-4560-aebe-94555c88849a"
         }
       ]
     },
@@ -1074,6 +3275,58 @@
         }
       ]
     },
+    "MBPMX005": {
+      "name": " Fréquences Basses #1 – DNA",
+      "artist": ["Fréquences Basses"],
+      "date": "2024-04-19",
+      "image": "/assets/img/music/MBPMX004.webp",
+      "mainLink": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1"
+        }
+      ]
+    },
+    "MBPMX006": {
+      "name": " Fréquences Basses #2 – Stanley Fatmax",
+      "artist": ["Fréquences Basses"],
+      "date": "2024-05-17",
+      "image": "/assets/img/music/MBPMX005.webp",
+      "mainLink": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2"
+        }
+      ]
+    },
+    "MBPMX007": {
+      "name": " Fréquences Basses #3 – 8I'M",
+      "artist": ["Fréquences Basses"],
+      "date": "2024-06-21",
+      "image": "/assets/img/music/MBPMX007.webp",
+      "mainLink": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3"
+        }
+      ]
+    },
+    "MBPMX008": {
+      "name": " Fréquences Basses #4 – Ernesto",
+      "artist": ["Fréquences Basses"],
+      "date": "2024-07-19",
+      "image": "/assets/img/music/MBPMX008.webp",
+      "mainLink": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4"
+        }
+      ]
+    },
     "MBPMX009": {
       "name": "REC078.WAV",
       "artist": ["Interfluv"],
@@ -1084,6 +3337,45 @@
         {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1"
+        }
+      ]
+    },
+    "MBPMX010": {
+      "name": " Fréquences Basses #5 – J.Strongrock",
+      "artist": ["Fréquences Basses"],
+      "date": "2024-11-22",
+      "image": "/assets/img/music/MBPMX010.webp",
+      "mainLink": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5"
+        }
+      ]
+    },
+    "MBPMX011": {
+      "name": " Fréquences Basses #6 – Didier Viande",
+      "artist": ["Fréquences Basses"],
+      "date": "2024-12-20",
+      "image": "/assets/img/music/MBPMX011.webp",
+      "mainLink": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6"
+        }
+      ]
+    },
+    "MBPMX012": {
+      "name": " Fréquences Basses #7 – Symon Says",
+      "artist": ["Fréquences Basses"],
+      "date": "2025-01-24",
+      "image": "/assets/img/music/MBPMX012.webp",
+      "mainLink": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7"
         }
       ]
     },
@@ -1625,11 +3917,200 @@
       "artist": ["Drop Die"],
       "date": "2025-03-14",
       "image": "/assets/img/music/MBPSP043.webp",
-      "mainLink": "https://www.youtube.com/watch?v=nW4hOrf8kn4&list=PLp5D05IpZHwJByqKrPK6UnD-_ignpm468&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=nW4hOrf8kn4&list=PLp5D05IpZHwJByqKrPK6UnD-_ignpm468",
+      "duration": "02:38",
+      "EAN": "0642613568692",
+      "styles": ["Hard Techno"],
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Not Really",
+          "artist": ["Drop Die"],
+          "duration": "02:38",
+          "ISRC": "FR-9W1-25-08849",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5cu9KHkewTI8m7gecGM6jC"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/not-really/4972603"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/drop-die-not-really/7031020-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/not-really/1800487020"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0DZJ4JTZ5"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/723328031"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/not-really-drop-die/d3rtpias3sjcc"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/422284585"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/sets/not-really"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/not-really"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=nW4hOrf8kn4&list=PLp5D05IpZHwJByqKrPK6UnD-_ignpm468"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/33403937"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/86af0397-7c6a-43d8-83a9-838a2df7d870"
+        }
+      ]
+    },
+    "MBPSP044": {
+      "name": "NOLIPAP",
+      "artist": ["DVPE"],
+      "date": "2025-03-21",
+      "image": "/assets/img/music/MBPSP044.webp",
+      "mainLink": "https://www.youtube.com/watch?v=jkqZMVKynbc&list=PLp5D05IpZHwIHgIAT0GyWtM1lRqui8keg",
+      "duration": "03:21",
+      "EAN": "0642613454186",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "NOLIPAP, c'est un missile bien vnr taillé pour les teufs les plus ravagés. BPM à pleine balle, kicks ravageurs et atmosphère industrielle : cette track est prête à retourner ton cerveau.",
+        "en": "NOLIPAP is a seriously fierce missile, built for the wildest raves. Full-throttle BPM, crushing kicks, and an industrial atmosphere—this track is ready to melt your brain."
+      },
+      "credits": [
+        { "record": ["DVPE"] },
+        { "mix": ["DVPE"] },
+        { "master": ["DVPE"] },
+        { "producer": ["Arthur Beaulieu", "DVPE"] },
+        { "artwork": ["DVPE"] },
+        { "illustration": ["DVPE"] },
+        { "keyboard": ["DVPE"] },
+        { "drums": ["DVPE"] }
+      ],
+      "tracks": [
+        {
+          "title": "NOLIPAP",
+          "artist": ["DVPE"],
+          "duration": "03:21",
+          "ISRC": "FR-9W1-25-08850",
+          "credits": [
+            { "composer": ["DVPE"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2r1ZEq6KUDqBThXHjozkVq"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/nolipap/4987589"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/dvpe-nolipap/7042413-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/nolipap-single/1801989563"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0F1DB8PG9"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/726878321"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/nolipap-dvpe/cgy49o1xavvjb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/423745729"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music/sets/nolipap"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/album/nolipap"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=jkqZMVKynbc&list=PLp5D05IpZHwIHgIAT0GyWtM1lRqui8keg"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/33469280"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/2b54cd43-7c59-43f0-94fd-2244bff7c233"
+        }
+      ]
+    },
+    "MBP001": {
+      "name": "Messe Basse Produced, Vol.1",
+      "artist": ["Messe Basse Production"],
+      "date": "2021-12-17",
+      "image": "/assets/img/music/MBP001.webp",
+      "mainLink": "https://www.youtube.com/watch?v=Si03FOefTeg&list=PLp5D05IpZHwINJAPprYATfODKl_M2919z",
       "links": [
         {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=nW4hOrf8kn4&list=PLp5D05IpZHwJByqKrPK6UnD-_ignpm468&index=1"
+          "url": "https://www.youtube.com/watch?v=Si03FOefTeg&list=PLp5D05IpZHwINJAPprYATfODKl_M2919z"
+        }
+      ]
+    },
+    "MBP002": {
+      "name": "Messe Basse Produced, Vol.2",
+      "artist": ["Messe Basse Production"],
+      "date": "2022-12-22",
+      "image": "/assets/img/music/MBP002.webp",
+      "mainLink": "https://www.youtube.com/watch?v=if9OJDeY9lo&list=PLp5D05IpZHwL1oh6nUctCw7J_AuP-J8nE",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=if9OJDeY9lo&list=PLp5D05IpZHwL1oh6nUctCw7J_AuP-J8nE"
+        }
+      ]
+    },
+    "MBP003": {
+      "name": "Messe Basse Produced, Vol.3",
+      "artist": ["Messe Basse Production"],
+      "date": "2023-12-22",
+      "image": "/assets/img/music/MBP003.webp",
+      "mainLink": "https://www.youtube.com/watch?v=w1IfdlS-9Og&list=PLp5D05IpZHwI87NwL-KLICRre3KcF8_Uc",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=w1IfdlS-9Og&list=PLp5D05IpZHwI87NwL-KLICRre3KcF8_Uc"
+        }
+      ]
+    },
+    "MBP004": {
+      "name": "Messe Basse Produced, Vol.4",
+      "artist": ["Messe Basse Production"],
+      "date": "2024-12-22",
+      "image": "/assets/img/music/MBP004.webp",
+      "mainLink": "https://www.youtube.com/watch?v=9c26_3Y485k&list=PLp5D05IpZHwKvKoAk9y5KqojDi5HkbSrW",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=9c26_3Y485k&list=PLp5D05IpZHwKvKoAk9y5KqojDi5HkbSrW"
         }
       ]
     }

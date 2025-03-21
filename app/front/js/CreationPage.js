@@ -51,7 +51,7 @@ class CreationPage extends AbstractMBP {
       this._dom.querySelector('#photo').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.photo));
       this._dom.querySelector('#merch').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.merch));
       this._dom.querySelector('#software').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.software));
-      //this._dom.querySelector('#catalog').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.catalog));
+      this._dom.querySelector('#catalog').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.catalog));
       resolve();
     });
   }

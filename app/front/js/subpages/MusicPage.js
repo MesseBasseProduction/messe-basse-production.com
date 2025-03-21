@@ -70,7 +70,7 @@ class MusicPage extends AbstractMBP {
 
   _handleEvents() {
     return new Promise(resolve => {
-      this._dom.querySelector('#back-button').addEventListener('click', this._updateLocation.bind(this, 'creation'));
+      this._dom.querySelector('#back-button').addEventListener('click', this._loadPreviousPage.bind(this));
       resolve();
     });
   }

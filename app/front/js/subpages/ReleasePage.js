@@ -22,6 +22,7 @@ class ReleasePage extends AbstractMBP {
         .then(this._translateReleasePage.bind(this))
         .then(this._buildReleasePage.bind(this))
         .then(this._handleEvents.bind(this))
+        .then(this._sharedEvents.bind(this))
         .then(this._makeSceneVisible.bind(this))
         .then(resolve).catch(reject);
     });
@@ -62,8 +63,7 @@ class ReleasePage extends AbstractMBP {
 
   _buildReleasePage() {
     return new Promise(resolve => {
-      this._dom.querySelector('#album-title').innerHTML = this._release.name;
-      this._dom.querySelector('#album-artist').innerHTML = this._release.artist.join(',');
+      this._dom.querySelector('#album-title').innerHTML = `${this._release.artist.join(', ')} - ${this._release.name}`;
 
       const links = document.createElement('DIV');
       for (let i = 0; i < this._release.links.length; ++i) {
@@ -86,14 +86,14 @@ class ReleasePage extends AbstractMBP {
         for (let j = 0; j < this._release.tracks[i].credits.length; ++j) {
           const credit = document.createElement('P');
           const key = Object.keys(this._release.tracks[i].credits[j]);
-          credit.innerHTML = `<i>${this._nls.role[key]}</i> : ${this._release.tracks[i].credits[j][key]}`;
+          credit.innerHTML = `<i>${this._nls.role[key]}</i> : ${this._release.tracks[i].credits[j][key].join(', ')}`;
           credits.appendChild(credit);
         }
 
         track.innerHTML = `
           <p>${i + 1}</p>
-          <p>${this._release.tracks[i].title}</p>
-          <p>${this._release.tracks[i].artist.join(',')}</p>
+          <p><b>${this._release.tracks[i].title}</b></p>
+          <p><b>${this._release.tracks[i].artist.join(', ')}</b></p>
           <p>${this._release.tracks[i].duration}</p>
           <div class="track-info">
             ${credits.innerHTML}
@@ -103,17 +103,26 @@ class ReleasePage extends AbstractMBP {
         tracklist.appendChild(track);
       }
 
+      const albumCredits = document.createElement('DIV');
+      for (let i = 0; i < this._release.credits.length; ++i) {
+        const credit = document.createElement('P');
+        const key = Object.keys(this._release.credits[i]);
+        credit.innerHTML = `<i>${this._nls.role[key]}</i> : ${this._release.credits[i][key].join(', ')}`;
+        albumCredits.appendChild(credit);
+      }
+
+
       this._dom.querySelector('.album-wrapper').innerHTML = `
         <div class="album-credits">
           <img src="${this._release.image}" class="album-artwork">
+          <h2>${Utils.formatDate(this._release.date, this._lang)} (${this._release.duration})</h2>
+          <h2>${this._release.styles.join(', ')}</h2>
           <div class="album-links">${links.innerHTML}</div>
         </div>
         <div class="album-content">
-          <div class="album-info">
-            <h3>${this._release.name} - ${this._release.artist.join(',')}</h3>
-            <h4>Publié le ${Utils.formatDate(this._release.date, this._lang)}</h4>
-          </div>
+          ${this._release.about ? `<p class="about-album">${this._release.about[this._lang]}</p>` : ``}
           <div class="album-tracklist">${tracklist.innerHTML}</div>
+          <div class="credits-grid">${albumCredits.innerHTML}</div>
         </div>
       `;
       resolve();
@@ -123,13 +132,7 @@ class ReleasePage extends AbstractMBP {
 
   _handleEvents() {
     return new Promise(resolve => {
-      this._dom.querySelector('#back-button').addEventListener('click', this._updateLocation.bind(this, 'music'));
-      /*const children = this._dom.querySelector('#releases-wrapper').firstElementChild.firstElementChild.children;
-      for (let i = 0; i < children.length; ++i) {
-        children[i].addEventListener('click', e => {
-//TODO release page          this._updateLocation();
-        })
-      }*/
+      this._dom.querySelector('#back-button').addEventListener('click', this._loadPreviousPage.bind(this));
       resolve();
     });
   }

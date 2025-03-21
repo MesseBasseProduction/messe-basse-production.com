@@ -119,6 +119,11 @@ class AbstractMBP {
   }
 
 
+  _loadPreviousPage() {
+    history.back();
+  }
+
+
   _openCreditModal() {
     Utils.fetchPage('/modal/credit.html').then(dom => {
       const modal = document.createElement('DIV');
