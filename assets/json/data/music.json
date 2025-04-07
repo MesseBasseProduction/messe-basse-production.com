@@ -666,7 +666,7 @@
           "url": "https://www.deezer.com/us/album/716815731"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/album/some-bass-drops-vol-1-noiiske/kuxtcpwtp26ja"
+          "url": "https://www.qobuz.com/album/some-bass-drops-vol-1-noiiske/kuxtcpwtp26ja"
         }, {
           "type": "tidal",
           "url": "https://tidal.com/browse/album/419521896"
@@ -3228,11 +3228,43 @@
       "artist": ["Interfluv"],
       "date": "2023-10-07",
       "image": "/assets/img/music/MBPMX001.webp",
-      "mainLink": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ",
+      "duration": "42:47",
+      "EAN": "0641094955434",
+      "styles": ["Drum & Bass"],
+      "credits": [
+        { "dj": ["Interfluv"] },
+        { "producer": ["Arthur Beaulieu", "Interfluv"] },
+        { "artwork": ["Interfluv"] },
+        { "illustration": ["Interfluv"] }
+      ],
+      "tracks": [
+        {
+          "title": "REC022.WAV",
+          "artist": ["Interfluv"],
+          "duration": "42:47",
+          "ISRC": "FR-9W1-23-51663",
+          "credits": [
+            { "composer": ["1991", "Apashe", "Black Eyed Peas", "Black Tiger Sex Machine", "Bish", "Buunshin", "Chase & Status", "Chris Lake", "Delta Heavy", "Dirtyphonics", "Fatboy Slim", "Friction", "Gydra", "Hoax", "Killer Hertz", "Luude", "Mandidextrous", "Mefjus", "Mizo", "Phibes", "Phytius", "Sputn!k", "Sub Focus", "Tantron", "Teddy Killerz", "The McMash Clan", "Wilkinson"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interfluv/rec022wav"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ&index=1"
+          "url": "https://www.youtube.com/watch?v=iRsDVCeNGZg&list=PLp5D05IpZHwKMFUauKGFtZz2wlNsPpGlZ"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/Interfluv/rec022wav/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/28544137"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/4adc1eec-7b99-4f55-8091-5291bf8ab386"
         }
       ]
     },
@@ -3241,11 +3273,43 @@
       "artist": ["Interfluv"],
       "date": "2023-10-28",
       "image": "/assets/img/music/MBPMX002.webp",
-      "mainLink": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLatT8fhbJlZACG5ZM7_pCtUSGooXR7XdG",
+      "duration": "28:15",
+      "EAN": "0641094823344",
+      "styles": ["Bass House"],
+      "credits": [
+        { "dj": ["Interfluv"] },
+        { "producer": ["Arthur Beaulieu", "Interfluv"] },
+        { "artwork": ["Interfluv"] },
+        { "illustration": ["Interfluv"] }
+      ],
+      "tracks": [
+        {
+          "title": "REC012.WAV",
+          "artist": ["Interfluv"],
+          "duration": "28:15",
+          "ISRC": "FR-9W1-23-56141",
+          "credits": [
+            { "composer": ["Bobby Raps", "DJ KOKO", "Dr. Fresch", "Habstrakt", "heRobust", "Joyryde", "Knock2", "Marten Hørger", "Seek N Destroy", "Skrillex", "Yyng"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interfluv/rec012wav"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLp5D05IpZHwID5EJreQrNcMqhGdP0bLw2&index=1"
+          "url": "https://www.youtube.com/watch?v=Ir5uNpbRE60&list=PLatT8fhbJlZACG5ZM7_pCtUSGooXR7XdG"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/Interfluv/rec012wav/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/28726537"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0f3c939b-18c3-42d3-b2bb-c6e1035c012a"
         }
       ]
     },
@@ -3254,11 +3318,43 @@
       "artist": ["Interfluv"],
       "date": "2024-02-05",
       "image": "/assets/img/music/MBPMX003.webp",
-      "mainLink": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL",
+      "duration": "40:01",
+      "EAN": "0641094468125",
+      "styles": ["Tech House"],
+      "credits": [
+        { "dj": ["Interfluv"] },
+        { "producer": ["Arthur Beaulieu", "Interfluv"] },
+        { "artwork": ["Interfluv"] },
+        { "illustration": ["Interfluv"] }
+      ],
+      "tracks": [
+        {
+          "title": "REC005.WAV",
+          "artist": ["Interfluv"],
+          "duration": "40:01",
+          "ISRC": "FR-9W1-24-06844",
+          "credits": [
+            { "composer": ["Alesso", "Alison Wonderland", "Armand Van Helden", "ATFC", "AYYBO", "Bleu Clair", "Breaking Beattz", "Chris Lake", "Clementine Douglas", "Dillon Francis", "€urotra$h", "Hollywhaaat", "Hood Rich", "INNDRIVE", "It's Murph", "Krister", "KZN", "Mau P", "MelyJones", "Mercer", "Miane", "Rod Temperton", "Valentino Khan", "Wukileaks"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interfluv/rec005wav"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL&index=1"
+          "url": "https://www.youtube.com/watch?v=Kay52N3BWFE&list=PLp5D05IpZHwKZlWSf9wNu8m1Buy3nV6RL"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/Interfluv/rec005wav/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29692996"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/8075ee05-ffbe-400a-9831-f47ae35398b5"
         }
       ]
     },
@@ -3267,24 +3363,89 @@
       "artist": ["Interfluv"],
       "date": "2024-02-18",
       "image": "/assets/img/music/MBPMX004.webp",
-      "mainLink": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z",
+      "duration": "44:23",
+      "EAN": "0641094374808",
+      "styles": ["House"],
+      "credits": [
+        { "dj": ["Interfluv"] },
+        { "producer": ["Arthur Beaulieu", "Interfluv"] },
+        { "artwork": ["Interfluv"] },
+        { "illustration": ["Interfluv"] }
+      ],
+      "tracks": [
+        {
+          "title": "REC056.WAV",
+          "artist": ["Interfluv"],
+          "duration": "44:23",
+          "ISRC": "FR-9W1-24-09138",
+          "credits": [
+            { "composer": ["Afro Medusa", "Afrojack", "Andruss", "Blanka", "Bellaire", "Block & Crown", "Bob Sinclar", "Carlita", "D'Arabia", "DJ Delicious", "Donna Summer", "Fabich", "Fake Blood", "Franz Fraiz", "JADED", "Jafunk", "Jordan Dennis", "Lissat", "Mr. Belt & Wezol", "OOgO", "Pastel", "Tentendo", "Till West"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interfluv/rec056wav"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z&index=1"
+          "url": "https://www.youtube.com/watch?v=pCuD36Kf3Z0&list=PLp5D05IpZHwI7YsLi7DOWef3tiqsDlg-Z"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/Interfluv/rec056wav/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29817511"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/ec8bbe6d-b67d-4af0-bd21-091b2f02a59b"
         }
       ]
     },
     "MBPMX005": {
-      "name": " Fréquences Basses #1 – DNA",
+      "name": "Fréquences Basses #1 – DNA",
       "artist": ["Fréquences Basses"],
       "date": "2024-04-19",
-      "image": "/assets/img/music/MBPMX004.webp",
-      "mainLink": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1",
+      "image": "/assets/img/music/MBPMX005.webp",
+      "mainLink": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "01:00:07",
+      "EAN": "0642613440653",
+      "styles": ["Drum & Bass"],
+      "about": {
+        "fr": "Pour ce premier épisode, nous accueillons DNA, pour un set de Drum & Bass. DNA fait partie de ces DJ qui racontent une histoire derrière les platines. Grâce à son aisance technique et sa selecta pointue, elle peut facilement se balader dans tous les styles, afin de toujours plus nous partager son univers.<br><br>Un seul mot d'ordre : il faut que ça roule. De la Neurofunk à la Techstep, en passant par la Jump Up et le Dancefloor, tout y passe avec une facilité déconcertante. C'est grâce à son talent qu'elle a pu s'exprimer dans les plus grandes soirées de la capitale : Studio, Forever, U Fest et plus récemment ouvrir le Nexus pour Chase & Status.",
+        "en": "For this first episode, we welcome DNA, for a Drum & Bass DJ set. DNA is one of those DJs who tell a story behind the turntables. Thanks to her technical skill and sharp selecta, she can easily navigate through all styles, to always share more of her universe with us.<br><br>One motto: it has to roll. From Neurofunk to Techstep, passing through Jump Up and the Dancefloor, everything goes with disconcerting ease. It's thanks to her talent that she has been able to express herself in the biggest parties of the capital: Studio, Forever, U Fest, and more recently opening the Nexus for Chase & Status."
+      },
+      "credits": [
+        { "dj": ["DNA"] },
+        { "producer": ["Arthur Beaulieu", "DNA", "Raphaël Beekmann"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #1 – DNA",
+          "artist": ["DNA"],
+          "duration": "01:00:07",
+          "ISRC": "FR-9W1-24-12481",
+          "credits": [
+            { "composer": ["Arkaik", "Break", "BTK", "Bungle", "Data 3", "Dextems", "Dizplay", "DJ Hazard", "DJ Marky", "Electrosoul System", "Enei", "Foreign Concept", "Frankee", "Grim Hellhound", "Icicle", "InsideInfo", "Jam Thieves", "Kasra", "Kemal", "Koherent", "Kyo", "Levela", "Mark System", "Matrix", "Maztek", "Mindscape", "MVRK", "N.Phect", "NC-17", "Need For Mirrors", "Noisia", "Nymfo", "Ocean Wisdom", "Phace", "SCAR", "Shy FX", "Skoel", "Smuskind", "SP:MC", "Sweetpea", "Tobax", "Total Science", "Vorso", "Waeys"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-1-dna"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=1"
+          "url": "https://www.youtube.com/watch?v=TyGox4qKDdM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-1-dna/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b7f5dc67-406b-4b61-9aff-e6b1a7058a7a"
         }
       ]
     },
@@ -3292,12 +3453,45 @@
       "name": " Fréquences Basses #2 – Stanley Fatmax",
       "artist": ["Fréquences Basses"],
       "date": "2024-05-17",
-      "image": "/assets/img/music/MBPMX005.webp",
-      "mainLink": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2",
+      "image": "/assets/img/music/MBPMX006.webp",
+      "mainLink": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "56:04",
+      "EAN": "06426130642613673266440653",
+      "styles": ["Frenchcore"],
+      "about": {
+        "fr": "Pour ce deuxième épisode, nous accueillons Stanley Fatmax, de son vrai nom Nino Filiu, tech artiste multidisciplinaire et électron libre dans le monde des raves parisiennes. Frustré la monotonie de celles-ci du à l’hégémonie de la techno standardisée, Fatmax s’est associé à des collectifs comme Craquage ou Acme qui lui ont laissé prendre des risques sur ses productions audiovisuelles.<br><br>Refusant catégoriquement la règle qui demande qu’un DJ ait une consistance musicale à travers ses sets, les podcasts de Fatmax sont cependant systématiquement une proposition artistique, narrative, et personnelle. Dans son mix pour Messe Basse, à travers les milliers de kicks saturés, on peut percevoir les échos de la période ado skateur fan de dubstep de l’artiste, et une résolution de la nostalgie de cette période par une revisite de ce genre vers de nouvelles directions.",
+        "en": "On this second episode, we welcome Stanley Fatmax, from his real name Nino Filiu, a multidisciplinary tech artist and free spirit in the world of Parisian raves. Frustrated by the monotony of these events due to the hegemony of standardized techno, Fatmax has collaborated with collectives like Craquage or Acme, which have allowed them to take risks in their audiovisual productions.<br><br>Categorically refusing the rule that demands a DJ to have musical consistency throughout their DJ sets, Fatmax’s podcasts are nevertheless consistently an artistic, narrative, and personal proposition. In their mix for Messe Basse, amid the thousands of saturated kicks, one can perceive echoes of the artist’s teenage."
+      },
+      "credits": [
+        { "dj": ["Stanley Fatmax"] },
+        { "producer": ["Arthur Beaulieu", "Stanley Fatmax", "Raphaël Beekmann"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #2 – Stanley Fatmax",
+          "artist": ["Stanley Fatmax"],
+          "duration": "56:04",
+          "ISRC": "FR-9W1-24-25935",
+          "credits": [
+            { "composer": ["ゴミ太郎", "444", "A. G. Cook", "aamourocean", "Against Umanity", "Chef Tothor", "Crystal Castles", "DJKurara", "Fred Again..", "KD", "kennymphe", "Kobaltik", "M4SONIC", "MADGRRL", "Masayoshi Iimori", "Mat Weasel Busters", "Mietze Conte", "MYLKI", "Nouzbi", "Nozytrip", "Psiko", "Radium", "Reece Low", "Round Wave Crusher", "Slipknot", "Stz", "Supire", "Tanukichi", "Vandal", "Water Spirit", "Yotek", "YT"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-2-stanley-fatmax"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=2"
+          "url": "https://www.youtube.com/watch?v=KBF2D3iUVJc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-2-stanley-fatmax/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/fec2ed92-9246-4463-b19e-968530ab8048"
         }
       ]
     },
@@ -3306,11 +3500,44 @@
       "artist": ["Fréquences Basses"],
       "date": "2024-06-21",
       "image": "/assets/img/music/MBPMX007.webp",
-      "mainLink": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3",
+      "mainLink": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "01:01:21",
+      "EAN": "0642613882347",
+      "styles": ["Dubstep"],
+      "about": {
+        "fr": "Nous accueillons ce mois-ci 8I'M, producteur de musique électronique installé à Toulouse, pour un mix de Bass Music! Alternant entre nouveauté et nostalgie, entre drop énergétique et synthés saturés, 8I'M rend hommage à la Dubstep dans toutes ses formes avec un mix précis et impactant.<br><br>8I'M est influencé par divers artistes : Marauda, Noisia ou encore Varien pour ne citer que eux. Bien que son genre favoris soit la Dubstep, il ne se pose pas de limite et produit et mixe beaucoup de styles différents comme la Drum & Bass, la Techno, la House, la Trance, ou encore le Hardcore.",
+        "en": "This month we welcome 8I'M, electronic music producer based in Toulouse, for a Bass Music mix! Alternating between novelty and nostalgia, between energetic drops and saturated synths, 8I'M pays homage to Dubstep in all its forms with a precise and impactful mix.<br><br>8I'M is influenced by various artists: Marauda, Noisia or even Varien to name a few. Although his favorite genre is Dubstep, he has no limits and produces and mixes many different styles such as Drum & Bass, Techno, House, Trance and Hardcore."
+      },
+      "credits": [
+        { "dj": ["8I'M"] },
+        { "producer": ["8I'M", "Arthur Beaulieu", "Raphaël Beekmann"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #3 – 8'IM",
+          "artist": ["8'IM"],
+          "duration": "01:01:21",
+          "ISRC": "FR-9W1-24-12481",
+          "credits": [
+            { "composer": ["BadKlaat", "BAR9", "Barely Alive", "BloodThinnerz", "Bommer", "Bukez Finezt", "Carbin", "Code:Pandorum", "Crowell", "Definitive", "Dimension", "Diskirz", "Dion Timmer", "Doctrine", "Dodge & Fuski", "Downlink", "Dr. Peacock", "EH!DE", "Eliminate", "Excision", "Figure", "Foreign Beggars", "Ganon", "Gridlok", "GTA", "Hekler", "heRobust", "Infekt", "LAXX", "Liquid Stranger", "Lumberjvck", "Marauda", "Mastadon", "Megalodon", "MineSweepa", "Monsta", "Mr. Frenkie", "Murdock", "MUST DIE!", "Muzz", "MVRDA", "MYLK", "Myro", "NERO", "Noisia", "Phace", "Phiso", "Phonon", "Prayerz", "Pythius", "Rich Brian", "Skrillex", "Slander", "Spag Heddy", "TC", "Teddy Killerz", "The Prototypes", "The Upbeats", "Trampa", "Trilla", "Trolley Snatcha", "TrollPhace", "TRVCY", "Varien", "YOOKiE", "Zomboy"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-3-8im"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=3"
+          "url": "https://www.youtube.com/watch?v=XKQOw8BoQuM&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-3-8im/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/58282105-0b64-4e03-a607-169ba808bc0f"
         }
       ]
     },
@@ -3319,11 +3546,44 @@
       "artist": ["Fréquences Basses"],
       "date": "2024-07-19",
       "image": "/assets/img/music/MBPMX008.webp",
-      "mainLink": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4",
+      "mainLink": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "01:03:54",
+      "EAN": "0642613297066",
+      "styles": ["Ambient"],
+      "about": {
+        "fr": "Fréquences Basses a pour but de mettre en valeur la musique selon toutes ses formes. C'est pour cela, après trois éditions plus qu'énergiques, que nous avons décidé d'inviter Ernesto, DJ originaire du Portugal, pour un mix d’ambiant & downtempo, tout en douceur. Parfait pour le début de l’été et chiller au soleil!<br><br>Dix ans après avoir commencé à partager sa musique et à secouer la scène électronique underground de sa ville natale (Coimbra, Portugal) et au-delà, Tiago Soares, anciennement connu sous le nom d' « Intemporal », présente aujourd'hui un nouveau chapitre solo, intitulé « Ernesto » - un mystère qui s'éclaircira avec le temps.",
+        "en": "Fréquences Basses aims to showcase music in all its forms. That’s why, after three energetic editions, we’ve decided to invite Ernesto, a DJ from Portugal, for a soft ambient and downtempo mix. Perfect for the start of summer and chilling in the sun!<br><br>Ten years after he began sharing his music and shaking up the underground electronic scene in his hometown (Coimbra, Portugal) and beyond, Tiago Soares, formerly known as « Intemporal », now presents a new solo chapter titled « Ernesto » — a mystery that will unfold over time."
+      },
+      "credits": [
+        { "dj": ["Ernesto"] },
+        { "producer": ["Arthur Beaulieu", "Ernesto", "Raphaël Beekmann"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #4 – Ernesto",
+          "artist": ["Ernesto"],
+          "duration": "01:03:54",
+          "ISRC": "FR-9W1-24-29779",
+          "credits": [
+            { "composer": ["Alphawezen", "Ebi", "Josh Burke", "Kineta", "Leda Maar", "Mir8", "Neotropic", "Om Unit", "Paradise 3001", "Radboud Mens", "Redanka", "Shackleton", "TM404"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-4-ernesto"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=4"
+          "url": "https://www.youtube.com/watch?v=GEIUPMgjeKc&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-4-ernesto/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/69c1e8d5-dc30-4dc8-a8a9-9305efc8d4c4"
         }
       ]
     },
@@ -3332,11 +3592,40 @@
       "artist": ["Interfluv"],
       "date": "2024-09-27",
       "image": "/assets/img/music/MBPMX009.webp",
-      "mainLink": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo",
+      "duration": "44:21",
+      "EAN": "0642613743365",
+      "styles": ["Trance"],
+      "credits": [
+        { "dj": ["Interfluv"] },
+        { "producer": ["Arthur Beaulieu", "Interfluv"] },
+        { "artwork": ["Interfluv"] },
+        { "illustration": ["Interfluv"] }
+      ],
+      "tracks": [
+        {
+          "title": "REC078.WAV",
+          "artist": ["Interfluv"],
+          "duration": "44:21",
+          "ISRC": "FR-9W1-24-48382",
+          "credits": [
+            { "composer": ["Arman John", "Bad Boombox", "Elon Bass", "ETERA", "Ferrand", "Float (WSH)", "JMK", "Kichta", "Linds", "MLZ", "Nail On The Hat", "Pegassi", "Rihanna", "SHFTR", "Wuki"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/interfluv/rec078wav"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo&index=1"
+          "url": "https://www.youtube.com/watch?v=KY7FNUzczH0&list=PLp5D05IpZHwI5dDc4SRpuEAeVMCLt0MZo"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/Interfluv/rec078wav/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/7e3f468c-d11e-4eca-9839-a1f91121ee58"
         }
       ]
     },
@@ -3345,11 +3634,44 @@
       "artist": ["Fréquences Basses"],
       "date": "2024-11-22",
       "image": "/assets/img/music/MBPMX010.webp",
-      "mainLink": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5",
+      "mainLink": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "01:01:19",
+      "EAN": "0642613294225",
+      "styles": ["Breaks", "Ghettotech"],
+      "about": {
+        "fr": "Fréquences Basses revient en force après une (longue) pause estivale ! Pour marquer le coup de ce retour, nous avons l’honneur d’accueillir J.Strongrock, artiste et DJ originaire de Toulouse, ainsi que président du label Cluster Traxx. J.Strongrock nous a préparé un set énergique et rebondissant, à la croisée des chemins entre Electro Break et Ghettotech.<br><br>« Ce set est un mélange d’unreleased de Cluster Traxx et d’une sélection de morceaux issus de labels dont nous admirons particulièrement le travail. J’ai voulu proposer un maximum de morceaux qui sortiront très bientôt sur le label Cluster Traxx, afin de mettre en avant le talent de tou·te·s les artistes et des producteur·ice·s qui nous soutiennent et nous font confiance en partageant avec nous des morceaux toujours plus incroyables. »",
+        "en": "Fréquences Basses is back in force after a (long) summer break! To mark this return, we have the honor of welcoming J.Strongrock, artist and DJ from Toulouse, as well as president of the Cluster Traxx label. J.Strongrock has prepared an energetic and bouncy set for us, at the crossroads between Electro Break and Ghettotech.<br><br>« This set is a mix of unreleased tracks from Cluster Traxx and a selection of tracks from labels whose work we particularly admire. I wanted to offer as many tracks as possible that will be released very soon on the Cluster Traxx label, in order to highlight the talent of all the artists and producers who support us and trust us by sharing with us ever more incredible tracks. »"
+      },
+      "credits": [
+        { "dj": ["J.Strongrock"] },
+        { "producer": ["Arthur Beaulieu", "J.Strongrock", "Raphaël Beekmann"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #5 – J.Strongrock",
+          "artist": ["J.Strongrock"],
+          "duration": "01:01:19",
+          "ISRC": "FR-9W1-24-60819",
+          "credits": [
+            { "composer": ["26Degrees", "Aloka", "An Avrin", "Anna Morgan", "Bolam", "Cardozo", "Cobrah", "Delay Grounds", "DJ Gigola", "Djedjotronic", "DLB", "Ghadimi", "King Doudou", "Kool Karlo", "Leftfield", "Liebus", "Ma Sha", "Mambo Kahn", "Mutable Mercury", "Neida", "Osmode", "Pantile", "Racing Nokia", "RAVL", "Tatyana Jane", "Vema-Diodes", "Viers", "Wordcolour"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-5-jstrongrock"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=5"
+          "url": "https://www.youtube.com/watch?v=VzHTxv-SsWE&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-5-jstrongrock/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/dac4c27f-6572-41db-81c6-db968982920f"
         }
       ]
     },
@@ -3358,11 +3680,44 @@
       "artist": ["Fréquences Basses"],
       "date": "2024-12-20",
       "image": "/assets/img/music/MBPMX011.webp",
-      "mainLink": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6",
+      "mainLink": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "59:08",
+      "EAN": "0642613473156",
+      "styles": ["Breaks"],
+      "about": {
+        "fr": "Nouveau mois, nouveau Fréquences Basses! On invite pour cette édition Chapak a.k.a Didier Viande, DJ Toulousain originaire du nord de l'Europe (Lille). Co-fondateur du label Couleur Vitesse, il arpente les musiques électro alternatives avec une attention particulière aux esthétiques breakées. Ses premières productions sont un mélange de ghetto-tech et de techno hybrides. Il fait également parti du duo live d'ambient Electro Dodo.<br><br>« C'est un set que j'ai concocté avec l'amour porté aux productions qui me font actuellement vibrer. Un mélange de saveurs éparses, des morceaux de break, ghetto-tech, jazz moderne et rock se combinent avec deux tracks unreleased qui sortiront sur une mixtape à venir avec Couleur Vitesse en décembre (restez branchés) ! »",
+        "en": "New month, new Fréquences Basses! For this edition, we’re inviting Chapak a.k.a Didier Viande, a Toulouse-based DJ originally from Northern Europe (Lille). Co-founder of the Couleur Vitesse label, he explores alternative electronic music with a keen focus on broken-beat aesthetics. His early productions blend ghetto-tech with hybrid techno. He’s also part of the ambient live duo Electro Dodo.<br><br>« This is a set I’ve crafted with love for the productions that are currently moving me. A mix of diverse flavors—breaks, ghetto-tech, modern jazz, and rock—combined with two unreleased tracks that will feature on an upcoming mixtape with Couleur Vitesse in December (stay tuned)! »"
+      },
+      "credits": [
+        { "dj": ["Didier Viande"] },
+        { "producer": ["Arthur Beaulieu", "Didier Viande", "Raphaël Beekmann"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #6 – Didier Viande",
+          "artist": ["Didier Viande"],
+          "duration": "59:08",
+          "ISRC": "FR-9W1-24-67308",
+          "credits": [
+            { "composer": ["Brad Mehldau", "Babymorocco", "Chapak", "Didier Viande", "DJ Paypal", "ECHT!", "Fleetwood Mac", "Frost Children", "GREG", "Кузина", "Leese", "Mamba", "MCR-T", "Neida", "Nikitch & Kuna Maze", "Pureblast", "Tatyana Jane", "Ten Kuidao"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-6-didier-viande"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=6"
+          "url": "https://www.youtube.com/watch?v=X41oVjIpisw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-6-didier-viande/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/9b504093-a425-4836-98ad-6e5691fba251"
         }
       ]
     },
@@ -3371,11 +3726,44 @@
       "artist": ["Fréquences Basses"],
       "date": "2025-01-24",
       "image": "/assets/img/music/MBPMX012.webp",
-      "mainLink": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7",
+      "mainLink": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "01:01:51",
+      "EAN": "0642613227216",
+      "styles": ["UK Garage"],
+      "about": {
+        "fr": "Pour cette première édition de l’année 2025, on a voulu réchauffer les esprits ! Marre du froid, de la pluie et du soleil qui se couche trop tôt ? Le mix de ce mois-ci saura vous redonner toute l’énergie nécessaire pour tenir jusqu’à l’arrivée des beaux jours ! Symon Says nous fait l’honneur en ce début d’année avec un set alliant Drum & Bass, UKG et Breakbeat, rien que ça.<br><br>DJ, producteur et co-fondateur du collectif Toulousain Yann Records, Symon Says aime se balader entre les différents styles dans ses productions comme dans ses mix. Du Breakbeat à la Drum en passant par la Trap ou encore de l’UK Garage, ce mix est un reflet parfait de ses influences actuelles et des artistes qui l’inspire. Il s’est également investi dans la scène parisienne en fondant Plasma, un collectif organisant des soirées aux multiples styles : techno, psytrance et breakbeat.",
+        "en": "For this first edition of 2025, we wanted to warm up the spirits! Tired of the cold, the rain and the sun setting too early? This month's mix will give you all the energy you need to last until the sunny days arrive! Symon Says honors us at the start of the year with a set combining Drum & Bass, UKG and Breakbeat, just that.<br><br>DJ, producer and co-founder of the Toulouse collective Yann Records, Symon Says likes to wander between different styles in his productions and in his mixes. From Breakbeat to Drum to Trap to UK Garage, this mix is a perfect reflection of his current influences and the artists who inspire him. He also got involved in the Parisian scene by founding Plasma, a collective organizing evenings in multiple styles: techno, psytrance and breakbeat."
+      },
+      "credits": [
+        { "dj": ["Symon Says"] },
+        { "producer": ["Arthur Beaulieu", "Raphaël Beekmann", "Symon Says"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #7 – Symon Says",
+          "artist": ["Symon Says"],
+          "duration": "01:01:51",
+          "ISRC": "FR-9W1-25-04578",
+          "credits": [
+            { "composer": ["1111", "4K", "Agro", "Atmos", "Azotix", "Bianca Oblivion", "Bone Box", "Bullet Tooth", "Chris Lake", "Cornet", "Cru", "Decemberkid", "Di-Vincent", "Disaffected", "Disclosure", "DJ Hybrid", "Dope Ammo", "Drowning Pools", "DRZ", "Efan", "Fracture", "FUKHED", "Gray", "Inherently Viced", "Interplanetary Criminal", "Jolie P", "Joy Orbison", "Kendrick Lamar", "Klippee", "Levvis", "Lokal", "Loud373", "Major Lazer", "Manga Saint Hilare", "Manni Dee", "Missy Elliot", "MPH", "Mr. Oizo", "Mr. Williamz", "Nikita", "OOTORO", "Origin8a & Propa", "P Money", "Redders", "Riko Dan", "Run Tingz", "RWD", "Sam Binga", "SANDR", "Serum", "Shy FX", "Skrillex", "Symon Says", "Taiki Nulight", "The Glitch Mob", "The Wicked", "VAGAN", "Visages", "Waeys", "Wasap Mos", "XDBR"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-7-symon-says"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=7"
+          "url": "https://www.youtube.com/watch?v=8p6ifNnG7Vw&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-7-symon-says/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/678a169b-7039-496e-9caf-ced110144372"
         }
       ]
     },
@@ -3384,11 +3772,67 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2021-04-11",
       "image": "/assets/img/music/MBPSP002.webp",
-      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=9oYcU57uii0&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB",
+      "duration": "03:16",
+      "EAN": "0606707178419",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Barbara Daheur-Swiderska", "Jawad Daheur", "Philippe Beaulieu", "Pierre Bergdolt"] },
+        { "mix": ["Philippe Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Philippe Beauieu"] },
+        { "cello": ["Barbara Daheur-Swiderska", "Pierre Bergdolt"] },
+        { "harpsichord": ["Guillaume Beaulieu"] },
+        { "viola": ["Jawad Daheur"] },        
+        { "violin": ["Arthur Beaulieu", "Philippe Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Concerto pour 4 violons Op.7 n°11 (Largo)",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "03:16",
+          "ISRC": "FR-9W1-21-34390",
+          "credits": [
+            { "composer": ["Giuseppe Valentini"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3IKuBsE7cpYDTpIo4kZvHJ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/valentini-concerto-op-7-no-11-i-largo-single/1658943830"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BPH4W5JY"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/385077317"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/valentini-concerto-op-7-no-11-i-largo-la-baroquerie-du-val-de-bievre/d247fmjaz257a"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/265179304"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/concerto-n-11-op-7-largo"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/valentini-concerto-n-11-op-7-largo-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=9oYcU57uii0&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=1"
+          "url": "https://www.youtube.com/watch?v=9oYcU57uii0&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20421889"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/a8dc3895-cc4f-42a3-91cd-67ca4861fd8c"
         }
       ]
     },
@@ -3397,11 +3841,64 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2021-04-25",
       "image": "/assets/img/music/MBPSP003.webp",
-      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=2",
+      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB",
+      "duration": "02:00",
+      "EAN": "0606707019842",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "mix": ["Philippe Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Anne Chevy-Beaulieu"] },    
+        { "violin": ["Arthur Beaulieu", "Philippe Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fuga A Due Corde",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "02:00",
+          "ISRC": "FR-9W1-21-34391",
+          "credits": [
+            { "composer": ["Nicola Matteis"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1KhgW2Q6d2IXSd1Rci1vVL"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/matteis-fuga-a-due-corde-single/1658943676"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BPH5P2ZB"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/385077297"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/matteis-fuga-a-due-corde-la-baroquerie-du-val-de-bievre/n5kkhlcouyama"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/265179300"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/matteis-fugua-a-due-corde"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/matteis-fuga-a-due-corde-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=2"
+          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20422147"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/87212753-dabf-4ffe-a603-911b41ebda1b"
         }
       ]
     },
@@ -3410,11 +3907,64 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2021-05-03",
       "image": "/assets/img/music/MBPSP004.webp",
-      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=3",
+      "mainLink": "https://www.youtube.com/watch?v=MF6o2yd00oc&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB",
+      "duration": "03:23",
+      "EAN": "0606707419314",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Pierre Bergdolt"] },
+        { "mix": ["Philippe Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu"] },    
+        { "cello": ["Pierre Bergdolt"] }
+      ],
+      "tracks": [
+        {
+          "title": "Cello Cappricio n°6",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "03:23",
+          "ISRC": "FR-9W1-21-34392",
+          "credits": [
+            { "composer": ["Joseph Marie Clément Dall'Abaco"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1SQwSaXcqsJ3uTY2TVGEF1"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/dallabaco-cello-capriccio-no-6-single/1658943803"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BPH3R3C5"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/385077327"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/dallabaco-cello-capriccio-no-6-la-baroquerie-du-val-de-bievre/vlx3i1malbf1a"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/265179307"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/dallabaco-cello-capriccio-n-6"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/dallabaco-cello-capriccio-n-6-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=3"
+          "url": "https://www.youtube.com/watch?v=MF6o2yd00oc&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20422237"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/e3824d74-02fb-41ac-ab23-c45b83325a2c"
         }
       ]
     },
@@ -3423,11 +3973,74 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2021-06-14",
       "image": "/assets/img/music/MBPSP005.webp",
-      "mainLink": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=4",
+      "mainLink": "https://www.youtube.com/watch?v=vm_TRzyGBx8&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB",
+      "duration": "05:09",
+      "EAN": "0641094251499",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Barbara Daheur-Swiderska", "Jawad Daheur", "Mathilde Dauvergne", "Philippe Beaulieu", "Pierre Bergdolt"] },
+        { "mix": ["Philippe Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu"] },
+        { "drums": ["Arthur Beaulieu"] },
+        { "percussion": ["Barbara Daheur-Swiderska", "Iwo Daheur"] },
+        { "bass": ["Arthur Beaulieu"] },
+        { "guitar": ["Arthur Beaulieu"] },
+        { "keyboard": ["Philippe Beaulieu"] },
+        { "harpsichord": ["Guillaume Beaulieu"] },
+        { "cello": ["Pierre Bergdolt"] },
+        { "viola": ["Jawad Daheur"] },
+        { "violin": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "recorder": ["Mathilde Dauvergne"] }
+      ],
+      "tracks": [
+        {
+          "title": "Extraits Des Indes Galantes « Revisités »",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "05:09",
+          "ISRC": "FR-9W1-21-34393",
+          "credits": [
+            { "composer": ["Jean-Philippe Rameau"] },
+            { "arranger": ["Philippe Beaulieu"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0ZHNIikFoM43KvNrQMAYm5"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/rameau-extraits-des-indes-galantes-single/1658943724"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BPH34ZHK"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/385077337"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/rameau-extraits-des-indes-galantes-la-baroquerie-du-val-de-bievre/swmltjv48q8na"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/265179311"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/rameau-extraits-des-indes"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/rameau-extraits-des-indes-galantes-revisit-s-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=OadLDnwE8IE&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB&index=4"
+          "url": "https://www.youtube.com/watch?v=vm_TRzyGBx8&list=PLp5D05IpZHwJVuVcgFt9Ci17UvodPbZbB"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20422297"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/ebd8473c-8677-4b5f-a0a2-f9b7ef28dcfb"
         }
       ]
     },
@@ -3436,11 +4049,68 @@
       "artist": ["NAC"],
       "date": "2021-10-15",
       "image": "/assets/img/music/MBPSP006.webp",
-      "mainLink": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=6",
+      "mainLink": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze",
+      "duration": "06:43",
+      "EAN": "0606707764537",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "credits": [
+        { "record": ["Arthur Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Victoria Shope"] },
+        { "drums": ["Sylvain Mallet"] },
+        { "bass": ["Arthur Beaulieu"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "vocal": ["David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Tramp",
+          "artist": ["NAC"],
+          "duration": "06:43",
+          "ISRC": "FR-9W1-21-32300",
+          "credits": [
+            { "composer": ["Arthur Beaulieu", "Pierre Toïgo"] },
+            { "author": ["David Béché"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4DCYfTa2gWMaBvP6qNBEti"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/tramp-single/1588181001"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09HJC1K7Z"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/262556472"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/tramp-nac/my3z4hhynnaya"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/199407447"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/tramp-single-2"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=6"
+          "url": "https://www.youtube.com/watch?v=CsxhdwfJVyk&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Nac-fra/Tramp-single"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20398474"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0c82ec60-852a-4c23-bc7b-2a4377f82702"
         }
       ]
     },
@@ -3449,11 +4119,69 @@
       "artist": ["NAC"],
       "date": "2021-10-31",
       "image": "/assets/img/music/MBPSP007.webp",
-      "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze",
+      "duration": "06:48",
+      "EAN": "0606707970938",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "credits": [
+        { "record": ["Arthur Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Victoria Shope"] },
+        { "drums": ["Sylvain Mallet"] },
+        { "keyboard": ["David Béché"] },
+        { "bass": ["Arthur Beaulieu"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "vocal": ["David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Crad' Bar Boogie",
+          "artist": ["NAC"],
+          "duration": "06:48",
+          "ISRC": "FR-9W1-21-32295",
+          "credits": [
+            { "composer": ["Pierre Toïgo"] },
+            { "author": ["David Béché"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4zeFpm6v6E2nuCBMSCFL8d"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crad-bar-boogie-single/1588777286"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09HRB5Y7D"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/263542232"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crad-bar-boogie-nac/mgyg7s7qqrjwb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/200014704"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/crad-bar-boogie-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze&index=1"
+          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Nac-fra/Crad-bar-boogie-single"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20398864"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/3921323e-d906-47fe-bc17-e5d359cc4ea3"
         }
       ]
     },
@@ -3462,11 +4190,49 @@
       "artist": ["The Forge"],
       "date": "2021-11-15",
       "image": "/assets/img/music/MBPSP008.webp",
-      "mainLink": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7&index=1",
-      "links": [
+      "mainLink": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7",
+      "duration": "04:07",
+      "EAN": "0641094536046",
+      "styles": ["Hard Rock", "Psychedelic Rock"],
+      "about": {
+        "fr": "Enregistré au Studio SAE Institute à Paris Aubervilliers le 12 Juin 2021. Ce single officieux à été réalisé pour aider de futurs ingénieurs du son à travailler la prise de son.",
+        "en": "Recorded at Studio SAE Institute Paris Aubervilliers on June 12, 2021. This unofficial release was made to help out futur engineers to work on their recording techniques."
+      },
+      "credits": [
+        { "record": ["Antoine Prévot", "Vincent Lahcen"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu"] },
+        { "drums": ["Vincent Boulogne"] },
+        { "bass": ["Arthur Beaulieu"] },
+        { "guitar": ["Luc Boulogne"] }
+      ],
+      "tracks": [
         {
+          "title": "Rock'n'Roll",
+          "artist": ["The Forge"],
+          "duration": "04:07",
+          "ISRC": "FR-9W1-21-38762",
+          "credits": [
+            { "composer": ["Luc Boulogne"] }
+          ]
+        }
+      ],
+      "links": [
+       {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/rocknroll-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7&index=1"
+          "url": "https://www.youtube.com/watch?v=wap0ZVifTfA&list=PLGrV25VkQxOfjBFShetgHAFFCi7rYMDD7"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/21011362"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/8b719af8-d4ec-4124-90c9-d3ccbd7401fe"
         }
       ]
     },
@@ -3475,11 +4241,76 @@
       "artist": ["Macadam Forge"],
       "date": "2021-11-17",
       "image": "/assets/img/music/MBPSP009.webp",
-      "mainLink": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO",
+      "duration": "08:13",
+      "EAN": "0641094950118",
+      "styles": ["Hard Rock"],
+      "credits": [
+        { "record": ["Claude Thorel"] },
+        { "mix": ["Claude Thorel"] },
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Claude Thorel"] },
+        { "artwork": ["Claude Thorel"] },
+        { "illustration": ["Claude Thorel"] },
+        { "drums": ["Vinent Boulogne"] },
+        { "bass": ["Michel Mathieu"] },
+        { "guitar": ["Christophe Boulogne", "Luc Boulogne"] },
+        { "piano": ["Norbert Pheuplin"] },
+        { "vocal": ["Michel Mathieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Loulou",
+          "artist": ["Macadam Forge"],
+          "duration": "04:03",
+          "ISRC": "FR-9W1-86-00240",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] },
+            { "author": ["Michel Mathieu"] }
+          ]
+        },
+        {
+          "title": "Montpar' Blues",
+          "artist": ["Macadam Forge"],
+          "duration": "04:08",
+          "ISRC": "FR-9W1-86-00241",
+          "credits": [
+            { "composer": ["Christophe Boulogne", "Luc Boulogne", "Michel Mathieu"] },
+            { "author": ["Michel Mathieu"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/34MkBBhsjA23cHARdbbtvs"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/loulou-montpar-blues-single/1647758125"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BPH3R3C5"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/B0BGZN1Q8V"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/loulou-montpar-blues-macadam-forge/mj9nstj1fwywc"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/251258493"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/loulou-montpar-blues-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1"
+          "url": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/21012571"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/1d98affb-e6cc-421f-b30e-bf5dc67a7586"
         }
       ]
     },
@@ -3488,11 +4319,61 @@
       "artist": ["NAC"],
       "date": "2022-02-02",
       "image": "/assets/img/music/MBPSP010.webp",
-      "mainLink": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl",
+      "duration": "07:53",
+      "EAN": "0641094887377",
+      "styles": ["Hard Rock", "Psychedelic Rock"],
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "remaster": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Alain Quere", "Philippe Dromard"] },
+        { "illustration": ["Alain Quere", "Philippe Dromard"] },
+        { "drums": ["Lionel Durand"] },
+        { "bass": ["Pierre Toïgo"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "backvocal": ["Pierre Toïgo"] },
+        { "vocal": ["Photjanee On-Kham"] }
+      ],
+      "tracks": [
+        {
+          "title": "NAC Featuring Tay",
+          "artist": ["NAC"],
+          "duration": "07:53",
+          "ISRC": "FR-9W1-02-01533",
+          "credits": [
+            { "composer": ["Lionel Baudet", "Pierre Toïgo"] },
+            { "author": ["Armand Guyot", "Photjanee On-Kham"] },
+            { "featuring": ["Photjanee On-Kham"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0qOPXOZkCebos2KEH4zNCQ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/nac-tay-feat-tay-single/1617782182"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09X7HXK8D"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/nac-tay-feat-tay-nac/byh703lrnycuc"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/nac-featuring-tay-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl&index=1"
+          "url": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/22262149"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/8178f8e1-7ada-4b42-8c79-4b6cde029ab3"
         }
       ]
     },
@@ -3501,11 +4382,64 @@
       "artist": ["NAC"],
       "date": "2022-03-03",
       "image": "/assets/img/music/MBPSP011.webp",
-      "mainLink": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM",
+      "duration": "08:14",
+      "EAN": "0641094078591",
+      "styles": ["Pop Rock", "Psychedelic Rock"],
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Lionel Baudet"] },
+        { "drums": ["Christophe Boulogne"] },
+        { "keyboard": ["Ali Ramdan"] },
+        { "bass": ["Pierre Toïgo"] },
+        { "guitar": ["Lionel Baudet", "Pierre Toïgo"] },
+        { "vocal": ["Lionel Baudet"] }
+      ],
+      "tracks": [
+        {
+          "title": "La Nature Humaine (feat. Karine Fernel)",
+          "artist": ["NAC"],
+          "duration": "08:14",
+          "ISRC": "FR-9W1-12-21140",
+          "credits": [
+            { "composer": ["Lionel Baudet", "Pierre Toïgo"] },
+            { "author": ["Lionel Baudet"] },
+            { "featuring": ["Karine Fernel"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1opR5BwZcZDSMZIsILnBSJ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/nature-humaine-origins-feat-karine-fernel-single/1616262749"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09WK3S4W8"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/nature-humaine-origins-feat-karine-fernel-nac/f23l7g3dpl08a"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/nature-humaine-origins-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM&index=1"
+          "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/Nac-fra-la-nature-humaine-lyrics"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/22272463"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/f0179cd4-570c-48c1-8ae2-2b9b5ee5f7de"
         }
       ]
     },
@@ -3514,11 +4448,69 @@
       "artist": ["Siré Camara"],
       "date": "2022-05-19",
       "image": "/assets/img/music/MBPSP012.webp",
-      "mainLink": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle",
+      "duration": "06:48",
+      "EAN": "0606707970938",
+      "styles": ["Hard Rock", "Progressive Rock"],
+      "credits": [
+        { "record": ["Chaloupé"] },
+        { "mix": ["Chaloupé"] },
+        { "master": ["Chaloupé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Alain de France"] },
+        { "drums": ["Chaloupé"] },
+        { "keyboard": ["Chaloupé"] },
+        { "bass": ["Chaloupé"] },
+        { "vocal": ["Siré Camara"] },
+        { "backvocal": ["Aminata Mamadou Anne"] }
+      ],
+      "tracks": [
+        {
+          "title": "Stolen Truth",
+          "artist": ["Siré Camara"],
+          "duration": "03:15",
+          "ISRC": "FR-9W1-22-16524",
+          "credits": [
+            { "composer": ["Chaloupé", "Siré Camara"] },
+            { "author": ["Siré Camara"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4zeFpm6v6E2nuCBMSCFL8d"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crad-bar-boogie-single/1588777286"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09HRB5Y7D"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/263542232"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crad-bar-boogie-nac/mgyg7s7qqrjwb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/200014704"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/album/crad-bar-boogie-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
+          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Nac-fra/Crad-bar-boogie-single"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23120456"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/3921323e-d906-47fe-bc17-e5d359cc4ea3"
         }
       ]
     },
@@ -3709,11 +4701,71 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2022-12-21",
       "image": "/assets/img/music/MBPSP027.webp",
-      "mainLink": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B",
+      "duration": "07:55",
+      "EAN": "0641094880576",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu"] },
+        { "mix": ["Philippe Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Jonathan Meyer"] },
+        { "bass": ["Arthur Beaulieu"] },
+        { "keyboard": ["Philippe Beaulieu"] },
+        { "harpsichord": ["Guillaume Beaulieu"] },
+        { "organ": ["Guillaume Beaulieu"] },
+        { "cello": ["Barbara Daheur-Swiderska", "Pierre Bergdolt"] },
+        { "viola": ["Jawad Daheur"] },
+        { "violin": ["Arthur Beaulieu", "Isabelle Nodin", "Philippe Beaulieu"] },
+        { "recorder": ["Guillaume Beaulieu", "Isabelle Nodin"] }
+      ],
+      "tracks": [
+        {
+          "title": "Noël Corellien: Extraits Du Concerto N°8 Op.6",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "07:55",
+          "ISRC": "FR-9W1-22-50097",
+          "credits": [
+            { "composer": ["Arcangeo Corelli"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7jbiwCNkimQe6BNHCU0ofy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/noël-corellien-extraits-du-concerto-op-6-no-8-single/1663178175"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BRQL65MG"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/393812837"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/noel-corellien-extraits-du-concerto-op-6-no-8-la-baroquerie-du-val-de-bievre/qpkv07urgf69b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/269976346"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/no-l-coellien-extraits-du"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/no-l-corellien-extraits-du-concert-op-6-n-8-single"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B&index=1"
+          "url": "https://www.youtube.com/watch?v=A-VR4sSTIIg&list=PLp5D05IpZHwLJPhfzOruDir6wKRqFQd3B"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/25460260"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/914cff4e-ba6c-4161-9880-e6c4208440e9"
         }
       ]
     },
@@ -3787,11 +4839,67 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2023-12-12",
       "image": "/assets/img/music/MBPSP033.webp",
-      "mainLink": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=BPhdk2SyJUo&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7",
+      "duration": "04:09",
+      "EAN": "0641094583996",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu"] },
+        { "organ": ["Guillaume Beaulieu"] },
+        { "cello": ["Barbara Daheur-Swiderska", "Pierre Bergdolt"] },
+        { "viola": ["Jawad Daheur"] },
+        { "violin": ["Arthur Beaulieu", "Isabelle Nodin", "Philippe Beaulieu"] }
+      ],
+      "tracks": [
+        {
+          "title": "Iesu Corona Virginum",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "04:09",
+          "ISRC": "FR-9W1-23-65365",
+          "credits": [
+            { "composer": ["Grzegorz Gerwazy Gorczycki"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/54WjwCalbpA41zy4W4kN5I"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/gorczycki-iesu-corona-virginum-single/1721400563"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CQ9JCFKR"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/524255552"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/gorczycki-iesu-corona-virginum-la-baroquerie-du-val-de-bievre/c9lq7hnd5pknb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/335250730"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/gorczycki-iesu-corona-virginum"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/gorczycki-iesu-corona-virginum"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=3uDYRnvusVU&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7&index=1"
+          "url": "https://www.youtube.com/watch?v=BPhdk2SyJUo&list=PLp5D05IpZHwIDBy7T5FNgaqwK4vgJxvk7"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29181985"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/1925c97e-c6ab-4515-b55a-6bfccc18b36a"
         }
       ]
     },
@@ -3800,11 +4908,71 @@
       "artist": ["DVPE"],
       "date": "2023-12-22",
       "image": "/assets/img/music/MBPSP034.webp",
-      "mainLink": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn",
+      "duration": "03:26",
+      "EAN": "0641094851309",
+      "styles": ["Hard Techno"],
+      "credits": [
+        { "record": ["DVPE"] },
+        { "mix": ["DVPE"] },
+        { "master": ["DVPE"] },
+        { "producer": ["Arthur Beaulieu", "DVPE"] },
+        { "artwork": ["DVPE"] },
+        { "illustration": ["DVPE"] },
+        { "keyboard": ["DVPE"] },
+        { "drums": ["DVPE"] }
+      ],
+      "tracks": [
+        {
+          "title": "XLP1",
+          "artist": ["DVPE"],
+          "duration": "03:26",
+          "ISRC": "FR-9W1-23-66511",
+          "credits": [
+            { "composer": ["DVPE"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3IlawhZ5pfUyM2XDfwNpD4"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/xlp1/4558059"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/dvpe-xlp1/6454097-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/xlp1-single/1721936348"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CQKL557P"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/525654892"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/xlp1-dvpe/jfv4hv2fd29tb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/335855252"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music/sets/xlp1"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/album/xlp1"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn&index=1"
+          "url": "https://www.youtube.com/watch?v=wiBUOsHkyg4&list=PLp5D05IpZHwKvQq3EpmHCSMMkiTiu_XVn"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29272831"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/ab3a494a-73fe-466b-9064-0c81af106eb6"
         }
       ]
     },
@@ -3813,11 +4981,71 @@
       "artist": ["DVPE"],
       "date": "2024-01-26",
       "image": "/assets/img/music/MBPSP035.webp",
-      "mainLink": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8",
+      "duration": "03:29",
+      "EAN": "0641094526047",
+      "styles": ["Hard Techno"],
+      "credits": [
+        { "record": ["DVPE"] },
+        { "mix": ["DVPE"] },
+        { "master": ["DVPE"] },
+        { "producer": ["Arthur Beaulieu", "DVPE"] },
+        { "artwork": ["DVPE"] },
+        { "illustration": ["DVPE"] },
+        { "keyboard": ["DVPE"] },
+        { "drums": ["DVPE"] }
+      ],
+      "tracks": [
+        {
+          "title": "About Techno",
+          "artist": ["DVPE"],
+          "duration": "03:29",
+          "ISRC": "FR-9W1-24-02522",
+          "credits": [
+            { "composer": ["DVPE"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0W1k4NwQjdMVLpsFgRgcMe"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/about-techno/4416735"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/dvpe-about-techno/6472268-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/about-techno-single/1725872237"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CSDWHM8R"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/535174692"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/about-techno-dvpe/xwtwu1doqgeib"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/340069370"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music/sets/about-techno"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/album/about-techno"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8&index=1"
+          "url": "https://www.youtube.com/watch?v=fbjk4EuMnZo&list=PLp5D05IpZHwJO0Bj4oOtMqs9luxpdxyw8"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29592958"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/114f8fc2-f288-4364-85bf-d5f1ab3980ed"
         }
       ]
     },
@@ -3852,11 +5080,71 @@
       "artist": ["DVPE"],
       "date": "2024-05-11",
       "image": "/assets/img/music/MBPSP038.webp",
-      "mainLink": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN",
+      "duration": "03:18",
+      "EAN": "0642613902755",
+      "styles": ["Hard Techno"],
+      "credits": [
+        { "record": ["DVPE"] },
+        { "mix": ["DVPE"] },
+        { "master": ["DVPE"] },
+        { "producer": ["Arthur Beaulieu", "DVPE"] },
+        { "artwork": ["DVPE"] },
+        { "illustration": ["DVPE"] },
+        { "keyboard": ["DVPE"] },
+        { "drums": ["DVPE"] }
+      ],
+      "tracks": [
+        {
+          "title": "Bounce",
+          "artist": ["DVPE"],
+          "duration": "03:18",
+          "ISRC": "FR-9W1-24-22551",
+          "credits": [
+            { "composer": ["DVPE"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/17chmRGeMyM2qG8decLRzH"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/bounce/4554578"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/dvpe-bounce/6617579-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/bounce-single/1743980564"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0D31W6BKC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/580162651"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/bounce-dvpe/gye817b0hxcmb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/360419086"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music/sets/bounce"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/album/bounce"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN&index=1"
+          "url": "https://www.youtube.com/watch?v=7iw9AjP6qaM&list=PLp5D05IpZHwJIzRK6FmHt6z3X_F2WzNhN"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/30489820"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/8d0dca28-89d4-4b3d-a579-43f3a5493546"
         }
       ]
     },
@@ -3878,11 +5166,71 @@
       "artist": ["DVPE"],
       "date": "2024-09-05",
       "image": "/assets/img/music/MBPSP040.webp",
-      "mainLink": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG",
+      "duration": "03:21",
+      "EAN": "0642613454186",
+      "styles": ["Hard Techno"],
+      "credits": [
+        { "record": ["DVPE"] },
+        { "mix": ["DVPE"] },
+        { "master": ["DVPE"] },
+        { "producer": ["Arthur Beaulieu", "DVPE"] },
+        { "artwork": ["DVPE"] },
+        { "illustration": ["DVPE"] },
+        { "keyboard": ["DVPE"] },
+        { "drums": ["DVPE"] }
+      ],
+      "tracks": [
+        {
+          "title": "IA",
+          "artist": ["DVPE"],
+          "duration": "03:21",
+          "ISRC": "FR-9W1-24-45717",
+          "credits": [
+            { "composer": ["DVPE"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2UCbRCDr9I1bfwh88jwLfw"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/ia/4757512"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/dvpe-ia/6836971-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/ia-single/1771480748"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0DJC65NB8"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/650158631"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/ia-dvpe/dbn9g5cat5xla"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/390663893"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/dvpe-music/sets/ia-single"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dvpe.bandcamp.com/album/ia"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG&index=1"
+          "url": "https://www.youtube.com/watch?v=QA9JxxCM35Q&list=PLp5D05IpZHwKrFVaNBmANWFgHnFSWhsIG"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/31650143"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/ae221ec0-51db-4aad-b199-ac574294a10c"
         }
       ]
     },
@@ -3891,11 +5239,76 @@
       "artist": ["La Baroquerie du Val de Bièvre"],
       "date": "2024-09-30",
       "image": "/assets/img/music/MBPSP041.webp",
-      "mainLink": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLmyUUG_K9CFvwUl5vt1LBF2-CUaxeavPc",
+      "duration": "05:47",
+      "EAN": "0642613954518",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Philippe Beaulieu"] },
+        { "harpsichord": ["Philippe Beaulieu"] },
+        { "cello": ["Barbara Daheur-Swiderska", "Pierre Bergdolt"] },
+        { "viola": ["Jawad Daheur"] },
+        { "violin": ["Arthur Beaulieu", "Isabelle Nodin"] }
+      ],
+      "tracks": [
+        {
+          "title": "Bona Speranza",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "04:09",
+          "ISRC": "FR-9W1-24-48917",
+          "credits": [
+            { "composer": ["Anthony Holborne"] }
+          ]
+        },
+        {
+          "title": "The Choice",
+          "artist": ["La Baroquerie du Val de Bièvre"],
+          "duration": "01:36",
+          "ISRC": "FR-9W1-24-48918",
+          "credits": [
+            { "composer": ["Anthony Holborne"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5Hyq2YU42TkF6aeXDwWAld"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/pavan-almain-single/1772166250"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0DJGM55PY"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/652213291"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/pavan-almain-la-baroquerie-du-val-de-bievre/yi2lw21bro9ca"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/391208065"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/baroquerie/sets/pavan-almain"
+        }, {
+          "type": "bandcamp",
+          "url": "https://labaroquerieduvaldebievre.bandcamp.com/album/pavan-almain"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLp5D05IpZHwLjI16nk00iCeuEVafc2ID3&index=1"
+          "url": "https://www.youtube.com/watch?v=30UJr45u35Y&list=PLmyUUG_K9CFvwUl5vt1LBF2-CUaxeavPc"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/31871693"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/742c1b3b-588d-43e1-a257-057dfc254461"
         }
       ]
     },
@@ -3904,11 +5317,71 @@
       "artist": ["Drop Die"],
       "date": "2024-10-10",
       "image": "/assets/img/music/MBPSP042.webp",
-      "mainLink": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ&index=1",
+      "mainLink": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ",
+      "duration": "03:38",
+      "EAN": "0642613420402",
+      "styles": ["Hard Techno"],
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Happy Latino",
+          "artist": ["Drop Die"],
+          "duration": "03:38",
+          "ISRC": "FR-9W1-25-08849",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6pQcDTzn5TKB7EmiU3YtNC"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/happy-latino/4772670"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/drop-die-happy-latino/6836978-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/happy-latino-single/1773728236"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0DJT4JYMM"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/654930401"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/happy-latino-drop-die/wj9ub844b9ipa"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/392465675"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/sets/happy-latino"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/happy-latino"
+        }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ&index=1"
+          "url": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/32084187"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b2b3e43f-8ccc-4895-97d2-7539e6efa3b5"
         }
       ]
     },
@@ -4040,7 +5513,7 @@
           "url": "https://www.deezer.com/us/album/726878321"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/album/nolipap-dvpe/cgy49o1xavvjb"
+          "url": "https://www.qobuz.com/album/nolipap-dvpe/cgy49o1xavvjb"
         }, {
           "type": "tidal",
           "url": "https://tidal.com/browse/album/423745729"

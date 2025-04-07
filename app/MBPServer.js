@@ -1,5 +1,5 @@
 global['url'] = 'messe-basse-production.com'; // Ensure no slash at the end
-global['version'] = '0.2.2';
+global['version'] = '0.3.0';
 global['port'] = 8070;
 
 console.log(`${(new Date()).toISOString()} | ${global['url']} v${global['version']} | Starting messe-basse-production.com frontend server`);

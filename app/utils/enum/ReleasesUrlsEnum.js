@@ -89,6 +89,66 @@ module.exports = Object.freeze([
     entarget: '/artist/guillaume-beaulieu/releases/fantaisies-pour-flute-seule-sans-basse'
   },
   {
+    inputUrl: '/MBPMX001',
+    frtarget: '/artiste/interfluv/albums/rec022.wav',
+    entarget: '/artist/interfluv/releases/rec022.wav'
+  },
+  {
+    inputUrl: '/MBPMX002',
+    frtarget: '/artiste/interfluv/albums/rec012.wav',
+    entarget: '/artist/interfluv/releases/rec012.wav'
+  },
+  {
+    inputUrl: '/MBPMX003',
+    frtarget: '/artiste/interfluv/albums/rec005.wav',
+    entarget: '/artist/interfluv/releases/rec005.wav'
+  },
+  {
+    inputUrl: '/MBPMX004',
+    frtarget: '/artiste/interfluv/albums/rec056.wav',
+    entarget: '/artist/interfluv/releases/rec056.wav'
+  },
+  {
+    inputUrl: '/MBPMX005',
+    frtarget: '/artiste/freqeuences-basses/albums/dna',
+    entarget: '/artist/freqeuences-basses/releases/dna'
+  },
+  {
+    inputUrl: '/MBPMX006',
+    frtarget: '/artiste/freqeuences-basses/albums/stanley-fatmax',
+    entarget: '/artist/freqeuences-basses/releases/stanley-fatmax'
+  },
+  {
+    inputUrl: '/MBPMX007',
+    frtarget: '/artiste/freqeuences-basses/albums/8im',
+    entarget: '/artist/freqeuences-basses/releases/8im'
+  },
+  {
+    inputUrl: '/MBPMX008',
+    frtarget: '/artiste/freqeuences-basses/albums/ernesto',
+    entarget: '/artist/freqeuences-basses/releases/ernesto'
+  },
+  {
+    inputUrl: '/MBPMX009',
+    frtarget: '/artiste/interfluv/albums/rec078.wav',
+    entarget: '/artist/interfluv/releases/rec078.wav'
+  },
+  {
+    inputUrl: '/MBPMX010',
+    frtarget: '/artiste/freqeuences-basses/albums/jstrongrock',
+    entarget: '/artist/freqeuences-basses/releases/jstrongrock'
+  },
+  {
+    inputUrl: '/MBPMX011',
+    frtarget: '/artiste/freqeuences-basses/albums/didier-viande',
+    entarget: '/artist/freqeuences-basses/releases/didier-viande'
+  },
+  {
+    inputUrl: '/MBPMX012',
+    frtarget: '/artiste/freqeuences-basses/albums/symon-says',
+    entarget: '/artist/freqeuences-basses/releases/symon-says'
+  },
+  {
     inputUrl: '/MBPSP002',
     frtarget: '/artiste/la-baroquerie-du-val-de-bievre/albums/valentini-concerto-n11-op7-largo',
     entarget: '/artist/la-baroquerie-du-val-de-bievre/releases/valentini-concerto-n11-op7-largo'

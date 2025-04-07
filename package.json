@@ -1,6 +1,6 @@
 {
   "name": "messe-basse-production.com",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Messe Basse Production label website ",
   "keywords": [],
   "main": "src/mbp.js",

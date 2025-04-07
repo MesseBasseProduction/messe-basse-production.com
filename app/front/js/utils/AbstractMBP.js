@@ -6,7 +6,7 @@ class AbstractMBP {
 
 
   constructor() {
-    this._version = '0.2.2'; // App verison
+    this._version = '0.3.0'; // App verison
     this._lang = null;
     this._nls = null; // Translated key/values
     this._dom = null;
