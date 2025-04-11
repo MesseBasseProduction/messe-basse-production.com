@@ -1,6 +1,66 @@
 {
   "artists": [
     {
+      "name": "Drop Die",
+      "internalUrl": "drop-die",
+      "genres": ["Hardcore", "Frapcore", "Hardtek"],
+      "image": "/assets/img/band/dropdie.webp",
+      "mainLink": "https://www.instagram.com/juliendropdie2.0/",
+      "releases": ["MBPSP045", "MBPSP043", "MBPSP042"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/juliendropdie2.0/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@dropdieprod"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/drop-die/1261237"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Drop+Die/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1GZ0CJNiNV64LQhsRhk7bW"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/drop-die/1576439346"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B099DD5WRR/drop-die"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/139113932"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/drop-die/25528716"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/26996279"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/15233280-Drop-Die"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/a6c61e8d-5bb8-4d61-a1ed-5204fdef549a"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Drop Die</i> est un producteur et DJ français fervent défenseur dans la scène Hardcore et Frapcore, avec un parcours marqué par son engagement dans les raves et les <i>free parties</i>. Il se distingue par son approche indépendante et son attachement à la culture undergound. Ses sets et productions, directes et sans compromis, combinent une technique irréprochable et une énergie brute.<br><br><i>Drop Die</i> a développé au fil des années un style musical rugueux et sauvage, reflet de l’énergie inaltéré qui le traverse. En tant que producteur, il reste fidèle à l’esprit de la rave : ses morceaux sont sombres, percutants, et conçus pour frapper fort ; sans concessions.",
+        "en": ""
+      },
+      "shortBio": {
+        "fr": "DJ et producteur français de la scène Hardcore et Frapcore, reconnu pour son engagement dans la culture underground. Son style intense et sans détours incarne pleinement l’essence des raves et free parties.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Drop Die</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de techno énervée bienvenue au catalogue de l'Association.",
+        "en": ""
+      }
+    }, {
       "name": "DVPE",
       "internalUrl": "dvpe",
       "genres": ["Techno"],
@@ -58,66 +118,6 @@
       },
       "shortBio": {
         "fr": "Artiste de la scène techno underground, reconnu pour ses compositions audacieuses mêlant techno industrielle, minimalisme et expérimentation sonore, créant des atmosphères intenses et imprévisibles qui repoussent les limites du genre et captivent un public fidèle dans des performances intimistes.<br><br>C’est à partir de 2023 que ce partenariat entre <i>DVPE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de kicks et de mélodies endiablés bienvenues au catalogue de l'Association.",
-        "en": ""
-      }
-    }, {
-      "name": "Drop Die",
-      "internalUrl": "drop-die",
-      "genres": ["Hardcore", "Frapcore", "Hardtek"],
-      "image": "/assets/img/band/dropdie.webp",
-      "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP043", "MBPSP042"],
-      "links": [
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/juliendropdie2.0/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@dropdieprod"
-        }, {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/drop-die-prod"
-        }, {
-          "type": "beatport",
-          "url": "https://www.beatport.com/artist/drop-die/1261237"
-        }, {
-          "type": "juno",
-          "url": "https://www.junodownload.com/artists/Drop+Die/"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/1GZ0CJNiNV64LQhsRhk7bW"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/drop-die/1576439346"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B099DD5WRR/drop-die"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/139113932"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/drop-die/25528716"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/26996279"
-        }, {
-          "type": "bandcamp",
-          "url": "https://dropdie.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/15233280-Drop-Die"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/a6c61e8d-5bb8-4d61-a1ed-5204fdef549a"
-        }
-      ],
-      "bio": {
-        "fr": "<i>Drop Die</i> est un producteur et DJ français fervent défenseur dans la scène Hardcore et Frapcore, avec un parcours marqué par son engagement dans les raves et les <i>free parties</i>. Il se distingue par son approche indépendante et son attachement à la culture undergound. Ses sets et productions, directes et sans compromis, combinent une technique irréprochable et une énergie brute.<br><br><i>Drop Die</i> a développé au fil des années un style musical rugueux et sauvage, reflet de l’énergie inaltéré qui le traverse. En tant que producteur, il reste fidèle à l’esprit de la rave : ses morceaux sont sombres, percutants, et conçus pour frapper fort ; sans concessions.",
-        "en": ""
-      },
-      "shortBio": {
-        "fr": "DJ et producteur français de la scène Hardcore et Frapcore, reconnu pour son engagement dans la culture underground. Son style intense et sans détours incarne pleinement l’essence des raves et free parties.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Drop Die</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de techno énervée bienvenue au catalogue de l'Association.",
         "en": ""
       }
     }, {
@@ -5377,6 +5377,9 @@
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=d3Xa4gi4oS8&list=PLp5D05IpZHwJnvOCZlL3UruzIlaU0P4YZ"
         }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/happy-latino-47712744"
+        }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/32084187"
         }, {
@@ -5449,6 +5452,9 @@
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=nW4hOrf8kn4&list=PLp5D05IpZHwJByqKrPK6UnD-_ignpm468"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/not-really-52941903"
         }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/33403937"
@@ -5600,6 +5606,9 @@
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=gjHK8pKyQ1E&list=PLp5D05IpZHwK6dyYKXwRMw1VcJBFK0X20"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/crescendo-53982616"
         }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/33663366"
