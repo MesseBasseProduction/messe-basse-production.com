@@ -5535,6 +5535,80 @@
         }
       ]
     },
+    "MBPSP045": {
+      "name": "Crescendo",
+      "artist": ["Drop Die"],
+      "date": "2025-04-11",
+      "image": "/assets/img/music/MBPSP045.webp",
+      "mainLink": "https://www.youtube.com/watch?v=gjHK8pKyQ1E&list=PLp5D05IpZHwK6dyYKXwRMw1VcJBFK0X20",
+      "duration": "03:41",
+      "EAN": "0642613483810",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "Ce nouveau single Crescendo est une aventure tout en tension, une montée d'acid brut qui ne lâche rien jusqu'à l'explosion hardcore. Je l’ai pensé comme un cri intérieur qui enfle, sature et déferle dans vos oreilles.",
+        "en": "This new single Crescendo is a tension-filled journey, a raw acid build-up that never lets go until the hardcore explosion. I conceived it as an inner scream that swells, saturates, and crashes into your ears."
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Crescendo",
+          "artist": ["Drop Die"],
+          "duration": "03:41",
+          "ISRC": "FR-9W1-21-53558",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4ADL0Z8TdOrPeP34kQ7Bp9"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/crescendo/5014567"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crescendo-single/1805618384"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0F3359VRX"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/735574801"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crescendo-drop-die/adhvu3i50p5mc"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/427437141"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-cresendo-acid-to-hardcore"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/crescendo"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=gjHK8pKyQ1E&list=PLp5D05IpZHwK6dyYKXwRMw1VcJBFK0X20"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/33663366"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/17c73757-48cb-4ae7-8512-14f57747152e"
+        }
+      ]
+    },
     "MBP001": {
       "name": "Messe Basse Produced, Vol.1",
       "artist": ["Messe Basse Production"],
