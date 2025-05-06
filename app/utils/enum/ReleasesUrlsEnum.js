@@ -367,5 +367,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP045',
     frtarget: '/artiste/drop-die/albums/crescendo',
     entarget: '/artist/drop-die/releases/crescendo'
+  },
+  {
+    inputUrl: '/MBPSP046',
+    frtarget: '/artiste/drop-die/albums/exs-ohs',
+    entarget: '/artist/drop-die/releases/exs-ohs'
   }
 ]);
