@@ -6,7 +6,7 @@
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -149,7 +149,7 @@
           "url": "https://open.spotify.com/artist/629qQ6NZRWzSUZg8PPc2aQ"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/us/artist/noiiske/1642427582"
+          "url": "https://music.apple.com/artist/noiiske/1642427582"
         }, {
           "type": "amazon",
           "url": "https://music.amazon.com/artists/B0BC4M1Y3L"
@@ -347,7 +347,7 @@
           "url": "https://open.spotify.com/artist/2UjPUuirfFhU4jf93yA3qy"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/us/artist/sir%C3%A9-camara/1622735518"
+          "url": "https://music.apple.com/artist/sir%C3%A9-camara/1622735518"
         }, {
           "type": "amazon",
           "url": "https://music.amazon.com/artists/B09ZQHQ3PV/sir%C3%A9-camara"
@@ -657,13 +657,13 @@
           "url": "https://www.junodownload.com/products/noiiske-some-bass-drops-vol-1/7019504-02/"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/us/album/some-bass-drops-vol-1-ep/1797849902"
+          "url": "https://music.apple.com/album/some-bass-drops-vol-1-ep/1797849902"
         }, {
           "type": "amazon",
           "url": "https://music.amazon.com/albums/B0DY1YCTG2"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/716815731"
+          "url": "https://www.deezer.com/album/716815731"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/some-bass-drops-vol-1-noiiske/kuxtcpwtp26ja"
@@ -3811,7 +3811,7 @@
           "url": "https://music.amazon.com/albums/B0BPH4W5JY"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/385077317"
+          "url": "https://www.deezer.com/album/385077317"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/valentini-concerto-op-7-no-11-i-largo-la-baroquerie-du-val-de-bievre/d247fmjaz257a"
@@ -3877,7 +3877,7 @@
           "url": "https://music.amazon.com/albums/B0BPH5P2ZB"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/385077297"
+          "url": "https://www.deezer.com/album/385077297"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/matteis-fuga-a-due-corde-la-baroquerie-du-val-de-bievre/n5kkhlcouyama"
@@ -3943,7 +3943,7 @@
           "url": "https://music.amazon.com/albums/B0BPH3R3C5"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/385077327"
+          "url": "https://www.deezer.com/album/385077327"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/dallabaco-cello-capriccio-no-6-la-baroquerie-du-val-de-bievre/vlx3i1malbf1a"
@@ -4019,7 +4019,7 @@
           "url": "https://music.amazon.com/albums/B0BPH34ZHK"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/385077337"
+          "url": "https://www.deezer.com/album/385077337"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/rameau-extraits-des-indes-galantes-la-baroquerie-du-val-de-bievre/swmltjv48q8na"
@@ -4089,7 +4089,7 @@
           "url": "https://music.amazon.com/albums/B09HJC1K7Z"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/262556472"
+          "url": "https://www.deezer.com/album/262556472"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/tramp-nac/my3z4hhynnaya"
@@ -4160,7 +4160,7 @@
           "url": "https://music.amazon.com/albums/B09HRB5Y7D"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/263542232"
+          "url": "https://www.deezer.com/album/263542232"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/crad-bar-boogie-nac/mgyg7s7qqrjwb"
@@ -4292,7 +4292,7 @@
           "url": "https://music.amazon.com/albums/B0BPH3R3C5"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/B0BGZN1Q8V"
+          "url": "https://www.deezer.com/album/B0BGZN1Q8V"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/loulou-montpar-blues-macadam-forge/mj9nstj1fwywc"
@@ -4489,7 +4489,7 @@
           "url": "https://music.amazon.com/albums/B09HRB5Y7D"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/263542232"
+          "url": "https://www.deezer.com/album/263542232"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/crad-bar-boogie-nac/mgyg7s7qqrjwb"
@@ -4744,7 +4744,7 @@
           "url": "https://music.amazon.com/albums/B0BRQL65MG"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/393812837"
+          "url": "https://www.deezer.com/album/393812837"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/noel-corellien-extraits-du-concerto-op-6-no-8-la-baroquerie-du-val-de-bievre/qpkv07urgf69b"
@@ -4878,7 +4878,7 @@
           "url": "https://music.amazon.com/albums/B0CQ9JCFKR"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/524255552"
+          "url": "https://www.deezer.com/album/524255552"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/gorczycki-iesu-corona-virginum-la-baroquerie-du-val-de-bievre/c9lq7hnd5pknb"
@@ -4951,7 +4951,7 @@
           "url": "https://music.amazon.com/albums/B0CQKL557P"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/525654892"
+          "url": "https://www.deezer.com/album/525654892"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/xlp1-dvpe/jfv4hv2fd29tb"
@@ -5024,7 +5024,7 @@
           "url": "https://music.amazon.com/albums/B0CSDWHM8R"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/535174692"
+          "url": "https://www.deezer.com/album/535174692"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/about-techno-dvpe/xwtwu1doqgeib"
@@ -5123,7 +5123,7 @@
           "url": "https://music.amazon.com/albums/B0D31W6BKC"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/580162651"
+          "url": "https://www.deezer.com/album/580162651"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/bounce-dvpe/gye817b0hxcmb"
@@ -5209,7 +5209,7 @@
           "url": "https://music.amazon.com/albums/B0DJC65NB8"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/650158631"
+          "url": "https://www.deezer.com/album/650158631"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/ia-dvpe/dbn9g5cat5xla"
@@ -5287,7 +5287,7 @@
           "url": "https://music.amazon.com/albums/B0DJGM55PY"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/652213291"
+          "url": "https://www.deezer.com/album/652213291"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/pavan-almain-la-baroquerie-du-val-de-bievre/yi2lw21bro9ca"
@@ -5360,7 +5360,7 @@
           "url": "https://music.amazon.com/albums/B0DJT4JYMM"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/654930401"
+          "url": "https://www.deezer.com/album/654930401"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/happy-latino-drop-die/wj9ub844b9ipa"
@@ -5436,7 +5436,7 @@
           "url": "https://music.amazon.com/albums/B0DZJ4JTZ5"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/723328031"
+          "url": "https://www.deezer.com/album/723328031"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/not-really-drop-die/d3rtpias3sjcc"
@@ -5516,7 +5516,7 @@
           "url": "https://music.amazon.com/albums/B0F1DB8PG9"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/726878321"
+          "url": "https://www.deezer.com/album/726878321"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/nolipap-dvpe/cgy49o1xavvjb"
@@ -5590,7 +5590,7 @@
           "url": "https://music.amazon.com/albums/B0F3359VRX"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/735574801"
+          "url": "https://www.deezer.com/album/735574801"
         }, {
           "type": "qobuz",
           "url": "https://www.qobuz.com/album/crescendo-drop-die/adhvu3i50p5mc"
@@ -5615,6 +5615,83 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/17c73757-48cb-4ae7-8512-14f57747152e"
+        }
+      ]
+    },
+    "MBPSP046": {
+      "name": "Ex's & Oh's",
+      "artist": ["Drop Die", "MAYDJI "],
+      "date": "2025-04-25",
+      "image": "/assets/img/music/MBPSP046.webp",
+      "mainLink": "https://www.youtube.com/watch?v=vPW4kkYner8&list=PLp5D05IpZHwKpkYv_1y2NXrBmZUfdnx3W",
+      "duration": "02:25",
+      "EAN": "0642613566643",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "Ce nouveau single Crescendo est une aventure tout en tension, une montée d'acid brut qui ne lâche rien jusqu'à l'explosion hardcore. Je l’ai pensé comme un cri intérieur qui enfle, sature et déferle dans vos oreilles.",
+        "en": "This new single Crescendo is a tension-filled journey, a raw acid build-up that never lets go until the hardcore explosion. I conceived it as an inner scream that swells, saturates, and crashes into your ears."
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die", "MAYDJI"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die", "MAYDJI"] },
+        { "drums": ["Drop Die", "MAYDJI"] }
+      ],
+      "tracks": [
+        {
+          "title": "Ex's & Oh's",
+          "artist": ["Drop Die", "MAYDJI"],
+          "duration": "02:25",
+          "ISRC": "FR-9W1-21-73760",
+          "credits": [
+            { "composer": ["Drop Die", "MAYDJI"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4aSJMy7b3sVvmUcUQu73y7"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/exs-ohs/5006669"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/exs-ohs-feat-maydjii-single/1804892902"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0F2J4GR4F"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/733185451"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/exs-ohs-drop-die-feat-maydjii/u6gj4dzsaec0b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/426352153"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-x-may-dj-exs-ohs-remixexsohs"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/exs-ohs"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=vPW4kkYner8&list=PLp5D05IpZHwKpkYv_1y2NXrBmZUfdnx3W"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die-feat-maydjii/release/exs-and-ohs-54474750"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/33906084"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/5b6b2880-3db7-417f-9a9a-46c50a92db2b"
         }
       ]
     },
