@@ -1,6 +1,23 @@
 {
   "events": [
     {
+      "title": "Concert « Fééries et Folies baroques »",
+      "catalog": "MBPEVT018",
+      "image": "/assets/img/event/MBPEVT018.webp",
+      "date": "2025-06-01",
+      "place": "Église Notre-Dame-de-la-Nativité-de-la-Vierge, Sermaise",
+      "link": "https://www.facebook.com/events/1749654442652674",
+      "description": {
+        "en": "The Baroquerie du Val de Bièvre invites you to a captivating musical journey into the heart of the Baroque era. Immerse yourself in a world of passions and contrasts, where musicians will present you with a selection of Baroque masterpieces from across Europe.",
+        "fr": "La Baroquerie du Val de Bièvre vous invite à un voyage musical envoûtant au cœur de l'époque baroque. Plongez dans un univers de passions et de contrastes, où les musiciens vous feront découvrir un florilège de chefs-d'œuvre baroques venus de toute l'Europe."
+      },
+      "starring": [
+        {
+          "name": "La Baroquerie du Val de Bièvre",
+          "url": "https://baroquerie.fr/"
+        }
+      ]
+    }, {
       "title": "Concert « Il Flauto di Leonardo »",
       "catalog": "MBPEVT017",
       "image": "/assets/img/event/MBPEVT017.webp",

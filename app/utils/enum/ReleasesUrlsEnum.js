@@ -110,23 +110,23 @@ module.exports = Object.freeze([
   },
   {
     inputUrl: '/MBPMX005',
-    frtarget: '/artiste/freqeuences-basses/albums/dna',
-    entarget: '/artist/freqeuences-basses/releases/dna'
+    frtarget: '/artiste/freqeuences-basses/dna',
+    entarget: '/artist/freqeuences-basses/dna'
   },
   {
     inputUrl: '/MBPMX006',
-    frtarget: '/artiste/freqeuences-basses/albums/stanley-fatmax',
-    entarget: '/artist/freqeuences-basses/releases/stanley-fatmax'
+    frtarget: '/artiste/freqeuences-basses/stanley-fatmax',
+    entarget: '/artist/freqeuences-basses/stanley-fatmax'
   },
   {
     inputUrl: '/MBPMX007',
-    frtarget: '/artiste/freqeuences-basses/albums/8im',
-    entarget: '/artist/freqeuences-basses/releases/8im'
+    frtarget: '/artiste/freqeuences-basses/8im',
+    entarget: '/artist/freqeuences-basses/8im'
   },
   {
     inputUrl: '/MBPMX008',
-    frtarget: '/artiste/freqeuences-basses/albums/ernesto',
-    entarget: '/artist/freqeuences-basses/releases/ernesto'
+    frtarget: '/artiste/freqeuences-basses/ernesto',
+    entarget: '/artist/freqeuences-basses/ernesto'
   },
   {
     inputUrl: '/MBPMX009',
@@ -135,18 +135,23 @@ module.exports = Object.freeze([
   },
   {
     inputUrl: '/MBPMX010',
-    frtarget: '/artiste/freqeuences-basses/albums/jstrongrock',
-    entarget: '/artist/freqeuences-basses/releases/jstrongrock'
+    frtarget: '/artiste/freqeuences-basses/jstrongrock',
+    entarget: '/artist/freqeuences-basses/jstrongrock'
   },
   {
     inputUrl: '/MBPMX011',
-    frtarget: '/artiste/freqeuences-basses/albums/didier-viande',
-    entarget: '/artist/freqeuences-basses/releases/didier-viande'
+    frtarget: '/artiste/freqeuences-basses/didier-viande',
+    entarget: '/artist/freqeuences-basses/didier-viande'
   },
   {
     inputUrl: '/MBPMX012',
-    frtarget: '/artiste/freqeuences-basses/albums/symon-says',
-    entarget: '/artist/freqeuences-basses/releases/symon-says'
+    frtarget: '/artiste/freqeuences-basses/symon-says',
+    entarget: '/artist/freqeuences-basses/symon-says'
+  },
+  {
+    inputUrl: '/MBPMX013',
+    frtarget: '/artiste/freqeuences-basses/cross-the-fingerzzz',
+    entarget: '/artist/freqeuences-basses/cross-the-fingerzzz'
   },
   {
     inputUrl: '/MBPSP002',

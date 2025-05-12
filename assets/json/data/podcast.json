@@ -8,6 +8,30 @@
       },
       "episodes": [
         {
+          "title": "Fréquences Basses #8 – Cross The Fingerzzz",
+          "catalog": "MBPMX013",
+          "image": "/assets/img/podcast/MBPMX013.webp",
+          "date": "2025-05-07",
+          "link": "https://www.youtube.com/watch?v=ADfF68GTmp4&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=8",
+          "description": {
+            "en": "At the beginning of May, we welcome Cross The Fingerzzz for a new episode of Fréquences Basses! Originally from Quebec but based in Toulouse, DJ Cross The Fingerzzz is making waves with high-energy Bass Music sets. Although a junglist at heart, she doesn't like to limit herself to just one style. Her sets are the result of a carefully curated selection of broken, club, or UK bass tracks, featuring a hybrid and progressive structure. Already featured on Rinse France, SWU FM, Egregore, Piñata Radio, and more, Cross The Fingerzzz is now ready to conquer stages worldwide.<br><br>\"In this mix, I thought it would be fun to combine dubtechno, dubstep, and transition to halftime with a few touches of grime. You’ll find tracks from artists who are notably hybrid in these styles, especially Stacktrace, Bukkha, Eva808... Enjoy the listen!\". Soak up the sun, grab a refreshing drink, and enjoy this mix, now available on all our platforms!",
+            "fr": "En ce début du mois de mai nous accueillons Cross The Fingerzzz pour un nouvel épisode de Fréquences Basses! D’origine québécoise mais basée à Toulouse, la DJ Cross The Fingerzzz fait des vagues avec des sets Bass Music bourrés d’énergie. Bien que junglist dans l’âme, elle n’aime pas se cantonner qu’à un seul style. Ses sets sont le résultat d’une selecta pointue de morceaux breakés, club ou uk bass ; à la construction hybride et progressive. Déjà parue sur Rinse France, SWU FM, Egregore, Piñata Radio et plus, cross the fingerzzz n’attend plus que l’opportunité de naviguer les scènes du monde.<br><br>«  Dans ce mix, j'ai pensé plutôt fun d'allier dubtechno, dubstep et de glisser vers du halftime avec quelques touches de grime. On y retrouve des tracks d'artistes notablement hybrides dans ces styles, en particulier Stacktrace, Bukkha, Eva808... Bonne écoute ! ». Posez-vous au soleil, attrapez une boisson fraiche et dégustez ce mix, disponible dès maintenant sur toute nos plateformes !"
+          },
+          "links": [
+            {
+              "name": "Soundcloud",
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-8-cross-the-fingerzzz"
+            },
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=ADfF68GTmp4&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO&index=8"
+            },
+            {
+              "name": "Mixcloud",
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-8-cross-the-fingerzzz/"
+            }
+          ]
+        }, {
           "title": "Fréquences Basses #7 – Symon Says",
           "catalog": "MBPMX012",
           "image": "/assets/img/podcast/MBPMX012.webp",
@@ -20,7 +44,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-7-symon-says"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-7-symon-says"
             },
             {
               "name": "YouTube",
@@ -28,7 +52,7 @@
             },
             {
               "name": "Mixcloud",
-              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-6-didier-viande/"
+              "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-7-symon-says/"
             }
           ]
         },
@@ -45,7 +69,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-6-didier-viande"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-6-didier-viande"
             },
             {
               "name": "YouTube",
@@ -70,7 +94,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-5-jstrongrock"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-5-jstrongrock"
             },
             {
               "name": "YouTube",
@@ -95,7 +119,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-4-ernesto/"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-4-ernesto/"
             },
             {
               "name": "YouTube",
@@ -120,7 +144,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-3-8im/"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-3-8im/"
             },
             {
               "name": "YouTube",
@@ -145,7 +169,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-2-stanley-fatmax/"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-2-stanley-fatmax/"
             },
             {
               "name": "YouTube",
@@ -170,7 +194,7 @@
           "links": [
             {
               "name": "Soundcloud",
-              "url": " https://soundcloud.com/messe-basse-production/frequences-basses-1-dna/"
+              "url": "https://soundcloud.com/messe-basse-production/frequences-basses-1-dna/"
             },
             {
               "name": "YouTube",

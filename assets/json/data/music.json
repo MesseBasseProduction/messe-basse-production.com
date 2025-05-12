@@ -5628,8 +5628,8 @@
       "EAN": "0642613566643",
       "styles": ["Hard Techno"],
       "about": {
-        "fr": "Ce nouveau single Crescendo est une aventure tout en tension, une montée d'acid brut qui ne lâche rien jusqu'à l'explosion hardcore. Je l’ai pensé comme un cri intérieur qui enfle, sature et déferle dans vos oreilles.",
-        "en": "This new single Crescendo is a tension-filled journey, a raw acid build-up that never lets go until the hardcore explosion. I conceived it as an inner scream that swells, saturates, and crashes into your ears."
+        "fr": "",
+        "en": ""
       },
       "credits": [
         { "record": ["Drop Die"] },
@@ -5659,6 +5659,9 @@
         }, {
           "type": "beatport",
           "url": "https://www.beatport.com/release/exs-ohs/5006669"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/drop-die-maydjii-exs-ohs/7090735-02/"
         }, {
           "type": "apple",
           "url": "https://music.apple.com/album/exs-ohs-feat-maydjii-single/1804892902"
