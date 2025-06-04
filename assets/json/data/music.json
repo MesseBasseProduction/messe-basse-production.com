@@ -6,7 +6,7 @@
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -5695,6 +5695,137 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/5b6b2880-3db7-417f-9a9a-46c50a92db2b"
+        }
+      ]
+    },
+    "MBPSP047": {
+      "name": "FILS2 (Drop Die Frapcore Remix)",
+      "artist": ["Drop Die"],
+      "date": "2025-05-09",
+      "image": "/assets/img/music/MBPSP047.webp",
+      "mainLink": "https://www.youtube.com/watch?v=_vpbniFa5jQ&list=PLp5D05IpZHwL-vsn_ViVteJHNt9XnBMBz",
+      "duration": "02:30",
+      "EAN": "0642613215282",
+      "styles": ["Frapcore", "Hard Techno"],
+      "about": {
+        "fr": "",
+        "en": ""
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "FILS2 (Drop Die Frapcore Remix)",
+          "artist": ["Drop Die"],
+          "duration": "02:30",
+          "ISRC": "FR-9W1-22-56579",
+          "credits": [
+            { "composer": ["Wealstarr"] },
+            { "author": ["Niro", "PLK"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/dropizz-fils2-niro-fils-2-feat-plk-remix-frapcore-1"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/fils2-drop-die-frapcore-remix"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=_vpbniFa5jQ&list=PLp5D05IpZHwL-vsn_ViVteJHNt9XnBMBz"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34170340"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/f33c6fc7-c590-4668-bf60-968fbacc2b4a"
+        }
+      ]
+    },
+    "MBPSP048": {
+      "name": "Le Diable Est De Sortie",
+      "artist": ["Drop Die"],
+      "date": "2025-05-23",
+      "image": "/assets/img/music/MBPSP048.webp",
+      "mainLink": "https://www.youtube.com/watch?v=paIB_YBa3Zk&list=PLp5D05IpZHwIm8Gv-C58iYOJ9HVF7czJ9",
+      "duration": "03:20",
+      "EAN": "0642613061490",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "",
+        "en": ""
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Le Diable Est De Sortie",
+          "artist": ["Drop Die"],
+          "duration": "03:20",
+          "ISRC": "FR-9W1-21-53557",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7CTvEN35bWn8tprP6gJFVh"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/le-diable-est-de-sortie/5042481"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/le-diable-est-de-sortie-single/1809128895"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0F5BLVL6M"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/743853001"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/le-diable-est-de-sortie-drop-die/bq0crsh803zwb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/430782706"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-le-diable-et-de-sortie"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/le-diable-est-de-sortie"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=paIB_YBa3Zk&list=PLp5D05IpZHwIm8Gv-C58iYOJ9HVF7czJ9"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/le-diable-est-de-sortie-55476238"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34170463"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/e29df49b-9144-4d95-87de-f4d1ebde74c4"
         }
       ]
     },
