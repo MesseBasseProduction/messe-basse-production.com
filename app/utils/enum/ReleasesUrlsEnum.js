@@ -377,5 +377,15 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP046',
     frtarget: '/artiste/drop-die/albums/exs-ohs',
     entarget: '/artist/drop-die/releases/exs-ohs'
+  },
+  {
+    inputUrl: '/MBPSP047',
+    frtarget: '/artiste/drop-die/albums/fil2',
+    entarget: '/artist/drop-die/releases/fil2'
+  },
+  {
+    inputUrl: '/MBPSP048',
+    frtarget: '/artiste/drop-die/albums/le-diable-est-de-sortie',
+    entarget: '/artist/drop-die/releases/le-diable-est-de-sortie'
   }
 ]);
