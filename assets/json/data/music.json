@@ -3767,6 +3767,52 @@
         }
       ]
     },
+    "MBPMX013": {
+      "name": " Fréquences Basses #8 – Cross The Fingerzzz",
+      "artist": ["Fréquences Basses"],
+      "date": "2025-05-07",
+      "image": "/assets/img/music/MBPMX013.webp",
+      "mainLink": "https://www.youtube.com/watch?v=ADfF68GTmp4&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO",
+      "duration": "59:47",
+      "EAN": "0642613948142",
+      "styles": ["Dub", "Dubstep"],
+      "about": {
+        "fr": "En ce début du mois de mai nous accueillons Cross The Fingerzzz pour un nouvel épisode de Fréquences Basses! D’origine québécoise mais basée à Toulouse, la DJ Cross The Fingerzzz fait des vagues avec des sets Bass Music bourrés d’énergie. Bien que junglist dans l’âme, elle n’aime pas se cantonner qu’à un seul style. Ses sets sont le résultat d’une selecta pointue de morceaux breakés, club ou uk bass ; à la construction hybride et progressive. Déjà parue sur Rinse France, SWU FM, Egregore, Piñata Radio et plus, cross the fingerzzz n’attend plus que l’opportunité de naviguer les scènes du monde.",
+        "en": "At the beginning of May, we welcome Cross The Fingerzzz for a new episode of Fréquences Basses! Originally from Quebec but based in Toulouse, DJ Cross The Fingerzzz is making waves with her high-energy Bass Music sets. Although a junglist at heart, she doesn't like to limit herself to just one style. Her sets are the result of a sharp selection of broken, club, or UK bass tracks; with a hybrid and progressive construction. Already featured on Rinse France, SWU FM, Egregore, Piñata Radio, and more, cross the fingerzzz is just waiting for the opportunity to sail the world's stages."
+      },
+      "credits": [
+        { "dj": ["Cross The Fingerzzz"] },
+        { "producer": ["Arthur Beaulieu", "Raphaël Beekmann", "Cross The Fingerzzz"] },
+        { "artwork": ["Raphaël Beekmann"] },
+        { "illustration": ["Raphaël Beekmann"] }
+      ],
+      "tracks": [
+        {
+          "title": "Fréquences Basses #8 – Cross The Fingerzzz",
+          "artist": ["Cross The Fingerzzz"],
+          "duration": "59:47",
+          "ISRC": "FR-9W1-25-27237",
+          "credits": [
+            { "composer": ["11th Hour", "Alix Perez", "All Wootton", "Benny Mails", "Bukkha", "Dolenz", "En:vy", "EVA808", "Headhunter", "Headland", "Hebbe", "J:Kenzo", "Kahn", "Klinical", "Less-O", "Monuman", "Pearson Sound", "Prezident Lourajder", "Soa420", "Stacktrace", "Stain", "The Bug"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/messe-basse-production/frequences-basses-8-cross-the-fingerzzz"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ADfF68GTmp4&list=PLp5D05IpZHwJ_c72RgrrozphCePzRAagO"
+        }, {
+          "type": "mixcloud",
+          "url": "https://www.mixcloud.com/MesseBasseProduction/fr%C3%A9quences-basses-8-cross-the-fingerzzz/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/ef375c2c-1b53-47e6-99ab-3b5c4ccf04dd"
+        }
+      ]
+    },
     "MBPSP002": {
       "name": "Valentini: Concerto n°11 Op.7 (Largo)",
       "artist": ["La Baroquerie du Val de Bièvre"],
