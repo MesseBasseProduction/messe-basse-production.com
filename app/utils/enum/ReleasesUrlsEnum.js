@@ -3,7 +3,13 @@ module.exports = Object.freeze([
     inputUrl: '/MBPEP001',
     frtarget: '/artiste/noiiske/albums/some-bass-drops-vol1',
     entarget: '/artist/noiiske/releases/some-bass-drops-vol1'
-  }, {
+  },
+  {
+    inputUrl: '/MBPEP002',
+    frtarget: '/artiste/arn-messengers/albums/foot-trip',
+    entarget: '/artist/arn-messengers/releases/foot-trip'
+  },
+  {
     inputUrl: '/MBPLP001',
     frtarget: '/artiste/nac/albums/dystopie',
     entarget: '/artist/nac/releases/dystopie'

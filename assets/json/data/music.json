@@ -1,6 +1,60 @@
 {
   "artists": [
     {
+      "name": "A.R.N. Messengers",
+      "internalUrl": "arn-messengers",
+      "genres": ["Jazz Fusion", "Progressive Rock"],
+      "image": "/assets/img/band/arn-messengers.webp",
+      "mainLink": "https://arn-messengers.com",
+      "releases": ["MBPEP002"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/arn.messengers"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/arn-messengers"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6zmwgbDRfZ1m2x1dq3iKrK"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com//artist/a-r-n-messengers/1738476299"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0CZ9RQCPW/a-r-n-messengers"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/260143511"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/arn-messengers/21934809"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/46788772"
+        }, {
+          "type": "bandcamp",
+          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/16228780-ARN-Messengers"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/77dac6ce-b4e0-429b-9b10-beacaf659e10"
+        }
+      ],
+      "bio": {
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses : Nicolas Macassian à la guitare, Antoine Leiser à la basse et Rémy Boulogne à la batterie. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz, l'énergie du rock et les textures modernes des musiques actuelles.<br><br>Formé autour d'une passion commune pour l'improvisation et les rythmes complexes, le trio développe une identité forte, qui mêle à merveille les influences de chacun. Leurs  compositions originales sont des explorations : tantôt planantes, tantôt survoltées, mais toujours authentique et vivante.<br><br>Porté par une ambition claire et une complicité musicale rare, A.R.N. Messengers entend bien s'imposer sur la scène jazz contemporaine française et au-delà. Le trio poursuit son ascension avec ferveur, prêt à repousser les limites du genre.",
+        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music collide.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that skillfully blends each member’s influences. Their original compositions are sonic explorations—sometimes ethereal, sometimes electrifying, but always authentic and alive.<br><br>Driven by a clear ambition and a rare musical connection, A.R.N. Messengers aims to make their mark on the contemporary French jazz scene and beyond. The trio continues its rise with fervor, ready to push the boundaries of the genre."
+      },
+      "shortBio": {
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jzz fusion bienvenue au catalogue de l'Association.",
+        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians. Together, they weave a sonic universe where the freedom of jazz meets the energy of rock.<br><br>This partnership between <i>A.R.N. Messengers</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of jazz fusion to the Association's catalog."
+      }
+    }, {
       "name": "Drop Die",
       "internalUrl": "drop-die",
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
@@ -329,60 +383,6 @@
         "en": "Versatile and avant-garde DJ, originally from the Paris region, who explores musical genres without limits, from electro to Trance, including House, Drum & Bass and Breaks, while creating unique and energetic experiences for his audience, from Paris to Toulouse.<br><br>This partnership between <i>Interfluv</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a new club dimension to the Association's catalog."
       }   
     }, {
-      "name": "Siré Camara",
-      "internalUrl": "sire-camara",
-      "genres": ["Reggae", "World"],
-      "image": "/assets/img/band/sire.webp",
-      "mainLink": "https://sire-camara.band",
-      "releases": ["MBPSP037", "MBPSP036", "MBPSP032", "MBPSP031", "MBPSP030", "MBPSP029", "MBPSP023", "MBPSP022", "MBPSP021", "MBPSP020", "MBPSP019", "MBPSP018", "MBPSP015", "MBPSP014", "MBPSP012"],
-      "links": [
-        {
-          "type": "facebook",
-          "url": "https://www.facebook.com/sirecamaraband"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@sirecamaramusic"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/2UjPUuirfFhU4jf93yA3qy"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/sir%C3%A9-camara/1622735518"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B09ZQHQ3PV/sir%C3%A9-camara"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/en/artist/172059427"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/sire-camara/14316666"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/32446829"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/11183003-Sir%C3%A9-Camara"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/c5b40842-72e5-45ec-98e3-09ac6d9aa745"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/artists/Sire-camara/"
-        }
-      ],
-      "bio": {
-        "fr": "<i>Siré Camara</i> est un musicien et conteur Mauritanien, Directeur de l’Espace culturel « <i>Diadié Camara</i> » à Nouakchott. Il est également membre de l’Association des <i>Griots Urbains</i> de France, animateur socioculturel et responsable de la troupe artistique « <i>Taaré-Taaré</i> ». Il est titulaire d'une maîtrise en histoire de l’Université Paris I (Sorbone), à suivi des formations en sociologie et est auteur de trois livres éducatifs (conte, mémoires de griot, palabres sur l’école, les jeunes et la culture).<br><br>Pendant ses études universitaires en histoire et en sociologie, il travaille dans le milieu associatif comme animateur socio-culturel. Il s’intéresse par la suite aux contes et fonde l’Association les <i>Griots Urbains</i> à Montreuil qui va promouvoir les contes et les instruments de musique africains.<br><br>Entre 2002 et 2006, il voyage régulièrement en Mauritanie. Durant cette période, il est en contact avec les jeunes mauritaniens qui se sentent coupés de tout échange culturel. Face à ce constat, il s’installe dans la capitale Nouakchott et décide d’y ouvrir un lieu d’échanges et de rencontres issus de la diversité culturelle de Mauritanie (communautés Maures et Négro-africaines) : l’Espace Culturel <i>Diadié Tabara Camara</i>. Dans ce lieu, il développe des activités socio-éducatives et artistiques.<br><br>Parmi ses principales activités annuelles en Mauritanie figurent le festival des Sagesses Populaires qui implique les jeunes et les écoles pour mettre en valeur le patrimoine Mauritanien (contes, berceuses, musiques, proverbes…).<br><br>Fort de ces experiences variées, <i>Siré Camara</i> à également su s'entourer pour mettre ses valeurs et ses idées en musiques sur des thèmes qui lui sont chers ; la nature, l'unité et l'harmonie des peuples.",
-        "en": "<i>Siré Camara</i> is a Mauritanian musician and storyteller, Director of the cultural space \"<i>Diadié Camara</i>\" in Nouakchott. He is also a member of the Association of Urban Griots of France, a socio-cultural facilitator and head of the artistic troupe \"<i>Taaré-Taaré</i>\". He holds a master's degree in history from the University of Paris I (Sorbone), has trained in sociology and is the author of three educational books (storytelling, griot memoirs, palavers on school, young people and culture).<br><br>During his university studies in history and sociology, he worked in the associative sector as a socio-cultural facilitator. He subsequently became interested in storytelling and founded the Association les Griots Urbains in Montreuil, which promoted African storytelling and musical instruments.<br><br>Between 2002 and 2006, he traveled regularly to Mauritania. During this period, he came into contact with young Mauritanians who felt cut off from any cultural exchange. Faced with this observation, he settled in the capital Nouakchott and decided to open a place for exchanges and meetings from the cultural diversity of Mauritania (Moorish and Black African communities): the Espace Culturel <i>Diadié Tabara Camara</i>.In this place, he develops socio-educational and artistic activities.<br><br>Among his main annual activities in Mauritania are the Festival of Popular Wisdom which involves young people and schools to highlight Mauritanian heritage (stories, lullabies, music, proverbs, etc.).<br><br>With these varied experiences, <i>Siré Camara</i> has also been able to surround himself with people to put his values ​​and ideas into music on themes that are dear to him; nature, unity and harmony of peoples."
-      },
-      "shortBio": {
-        "fr": "Musicien et conteur mauritanien, fondateur de l'Espace Culturel Diadié Camara à Nouakchott, où il mêle tradition et créativité en valorisant la musique et les contes africains. Avec une forte expérience socioculturelle, il compose et interprète des morceaux inspirés par la nature, l'unité et l'harmonie des peuples, tout en organisant des événements comme le festival des Sagesses Populaires pour promouvoir le patrimoine mauritanien.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Siré Camara</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler une vent de fraicheur chaloupé sur le catalogue de l'Association.",
-        "en": "Musicien et conteur mauritanien, fondateur de l'Espace Culturel Diadié Camara à Nouakchott, où il mêle tradition et créativité en valorisant la musique et les contes africains. Avec une forte expérience socioculturelle, il compose et interprète des morceaux inspirés par la nature, l'unité et l'harmonie des peuples, tout en organisant des événements comme le festival des Sagesses Populaires pour promouvoir le patrimoine mauritanien.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Siré Camara</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler une vent de fraicheur chaloupé sur le catalogue de l'Association."
-      }
-    }, {
       "name": "The Forge",
       "internalUrl": "the-forge",
       "genres": ["Progressive Rock", "Jazz Fusion"],
@@ -580,6 +580,60 @@
         "fr": "Groupe de hard rock et de rock progressif fondé en 1994 à Igny, en France, qui s’est forgé une identité sonore authentique autour de ses deux membres fondateurs ; Pierrot et Eliot. La formation stablilisée depuis quelques années permet à ses musiciens d’explorer un style mêlant puissance brute et influences progressives, offrant des compositions intenses et sincères.<br><br>Depuis 2021, <i>NAC</i> est partenaire de <i>Messe Basse Production</i>, collaboration initiée aux débuts de l'Association.",
         "en": "Hard rock and progressive rock band founded in 1994 in Igny, France, which has forged an authentic sonic identity around its two founding members; Pierrot and Eliot. The formation, established over the past few years, allows its musicians to explore a style mixing raw power and progressive influences, offering intense and sincere compositions.<br><br>Since 2021, <i>NAC</i> has been a partner of <i>Messe Basse Production</i>, a collaboration initiated at the beginning of the Association."
       }
+    }, {
+      "name": "Siré Camara",
+      "internalUrl": "sire-camara",
+      "genres": ["Reggae", "World"],
+      "image": "/assets/img/band/sire.webp",
+      "mainLink": "https://sire-camara.band",
+      "releases": ["MBPSP037", "MBPSP036", "MBPSP032", "MBPSP031", "MBPSP030", "MBPSP029", "MBPSP023", "MBPSP022", "MBPSP021", "MBPSP020", "MBPSP019", "MBPSP018", "MBPSP015", "MBPSP014", "MBPSP012"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/sirecamaraband"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@sirecamaramusic"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2UjPUuirfFhU4jf93yA3qy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/sir%C3%A9-camara/1622735518"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B09ZQHQ3PV/sir%C3%A9-camara"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/en/artist/172059427"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/sire-camara/14316666"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/32446829"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/11183003-Sir%C3%A9-Camara"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/c5b40842-72e5-45ec-98e3-09ac6d9aa745"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Sire-camara/"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Siré Camara</i> est un musicien et conteur Mauritanien, Directeur de l’Espace culturel « <i>Diadié Camara</i> » à Nouakchott. Il est également membre de l’Association des <i>Griots Urbains</i> de France, animateur socioculturel et responsable de la troupe artistique « <i>Taaré-Taaré</i> ». Il est titulaire d'une maîtrise en histoire de l’Université Paris I (Sorbone), à suivi des formations en sociologie et est auteur de trois livres éducatifs (conte, mémoires de griot, palabres sur l’école, les jeunes et la culture).<br><br>Pendant ses études universitaires en histoire et en sociologie, il travaille dans le milieu associatif comme animateur socio-culturel. Il s’intéresse par la suite aux contes et fonde l’Association les <i>Griots Urbains</i> à Montreuil qui va promouvoir les contes et les instruments de musique africains.<br><br>Entre 2002 et 2006, il voyage régulièrement en Mauritanie. Durant cette période, il est en contact avec les jeunes mauritaniens qui se sentent coupés de tout échange culturel. Face à ce constat, il s’installe dans la capitale Nouakchott et décide d’y ouvrir un lieu d’échanges et de rencontres issus de la diversité culturelle de Mauritanie (communautés Maures et Négro-africaines) : l’Espace Culturel <i>Diadié Tabara Camara</i>. Dans ce lieu, il développe des activités socio-éducatives et artistiques.<br><br>Parmi ses principales activités annuelles en Mauritanie figurent le festival des Sagesses Populaires qui implique les jeunes et les écoles pour mettre en valeur le patrimoine Mauritanien (contes, berceuses, musiques, proverbes…).<br><br>Fort de ces experiences variées, <i>Siré Camara</i> à également su s'entourer pour mettre ses valeurs et ses idées en musiques sur des thèmes qui lui sont chers ; la nature, l'unité et l'harmonie des peuples.",
+        "en": "<i>Siré Camara</i> is a Mauritanian musician and storyteller, Director of the cultural space \"<i>Diadié Camara</i>\" in Nouakchott. He is also a member of the Association of Urban Griots of France, a socio-cultural facilitator and head of the artistic troupe \"<i>Taaré-Taaré</i>\". He holds a master's degree in history from the University of Paris I (Sorbone), has trained in sociology and is the author of three educational books (storytelling, griot memoirs, palavers on school, young people and culture).<br><br>During his university studies in history and sociology, he worked in the associative sector as a socio-cultural facilitator. He subsequently became interested in storytelling and founded the Association les Griots Urbains in Montreuil, which promoted African storytelling and musical instruments.<br><br>Between 2002 and 2006, he traveled regularly to Mauritania. During this period, he came into contact with young Mauritanians who felt cut off from any cultural exchange. Faced with this observation, he settled in the capital Nouakchott and decided to open a place for exchanges and meetings from the cultural diversity of Mauritania (Moorish and Black African communities): the Espace Culturel <i>Diadié Tabara Camara</i>.In this place, he develops socio-educational and artistic activities.<br><br>Among his main annual activities in Mauritania are the Festival of Popular Wisdom which involves young people and schools to highlight Mauritanian heritage (stories, lullabies, music, proverbs, etc.).<br><br>With these varied experiences, <i>Siré Camara</i> has also been able to surround himself with people to put his values ​​and ideas into music on themes that are dear to him; nature, unity and harmony of peoples."
+      },
+      "shortBio": {
+        "fr": "Musicien et conteur mauritanien, fondateur de l'Espace Culturel Diadié Camara à Nouakchott, où il mêle tradition et créativité en valorisant la musique et les contes africains. Avec une forte expérience socioculturelle, il compose et interprète des morceaux inspirés par la nature, l'unité et l'harmonie des peuples, tout en organisant des événements comme le festival des Sagesses Populaires pour promouvoir le patrimoine mauritanien.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Siré Camara</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler une vent de fraicheur chaloupé sur le catalogue de l'Association.",
+        "en": "Musicien et conteur mauritanien, fondateur de l'Espace Culturel Diadié Camara à Nouakchott, où il mêle tradition et créativité en valorisant la musique et les contes africains. Avec une forte expérience socioculturelle, il compose et interprète des morceaux inspirés par la nature, l'unité et l'harmonie des peuples, tout en organisant des événements comme le festival des Sagesses Populaires pour promouvoir le patrimoine mauritanien.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Siré Camara</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler une vent de fraicheur chaloupé sur le catalogue de l'Association."
+      }
     }
   ],
   "releases": {
@@ -682,6 +736,111 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/52e903cc-a3dd-482c-8e46-653cf0cb80a2"
+        }
+      ]
+    },
+    "MBPEP002": {
+      "name": "Foot Trip",
+      "artist": ["A.R.N. Messengers"],
+      "date": "2025-06-12",
+      "image": "/assets/img/music/MBPEP002.webp",
+      "mainLink": "https://www.youtube.com/watch?v=TMD81OyoKXA&list=PLp5D05IpZHwK8CUmQvhu1oSPAgHcRBuHd",
+      "duration": "35:29",
+      "EAN": "0198470591378",
+      "styles": ["Jazz Fusion"],
+      "about": {
+        "fr": "Foot Trip EP est la toute première excursion sonore d'A.R.N. Messengers, réunissant guitare, basse et batterie autour d'un dialogue intensément vivant. Véritable panel de saveurs, cet EP incarne la fusion des sensibilités de chaque musicien, dans une exploration libre et audacieuse des textures et des rythmes.<br><br>Avec une influence jazz pleinement assumée, Foot Trip EP flirte avec l'improvisation, joue sur les dynamiques et brouille les frontières. Chaque morceau est une escale, un instant suspendu où les identités instrumentales se rencontrent et se défient avec complicité.<br><br>Une belle invitation au voyage, les pieds bien ancrés dans le jazz, la tête tournée vers d'autres horizons.",
+        "en": "Foot Trip EP is the very first sonic journey by A.R.N. Messengers, bringing together guitar, bass, and drums in an intensely vibrant dialogue. A true palette of flavors, this EP embodies the fusion of each musician’s sensibilities, in a bold and free exploration of textures and rhythms.<br><br>With a clear jazz influence, Foot Trip EP flirts with improvisation, plays with dynamics, and blurs boundaries. Each track is a stopover, a suspended moment where instrumental identities meet and challenge each other with playful complicity.<br><br>A beautiful invitation to travel—feet firmly rooted in jazz, eyes set on distant horizons."
+      },
+      "credits": [
+        { "record": ["Fabrice Hennegrave", "Julien Goutte-Broze"] },
+        { "mix": ["Fabrice Hennegrave"] },
+        { "master": ["Fabrice Hennegrave"] },
+        { "producer": ["Arthur Beaulieu", "A.R.N. Messengers"] },
+        { "artwork": ["A.R.N. Messengers"] },
+        { "illustration": ["A.R.N. Messengers"] }
+      ],
+      "tracks": [
+        {
+          "title": "Interweave",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "05:12",
+          "ISRC": "QZ-HNA-24-19844",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        },
+        {
+          "title": "Foot Trip",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "08:33",
+          "ISRC": "QZ-HNA-24-19845",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        },
+        {
+          "title": "Free Fall",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "06:57",
+          "ISRC": "QZ-HNA-24-19846",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        },
+        {
+          "title": "Off Trail",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "09:01",
+          "ISRC": "QZ-HNA-24-19847",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        },
+        {
+          "title": "Aerial Shock Wave",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "05:48",
+          "ISRC": "QZ-HNA-24-19848",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/128tJ5emWP2mgmzNt0hM7O"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/foot-trip/1738476298"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CZ9STN7F"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/566777041"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/foot-trip-arn-messengers/l5x3g2nh9lmrc"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/354667840"
+        }, {
+          "type": "bandcamp",
+          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/arn-messengers/sets/foot-trip"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=TMD81OyoKXA&list=PLp5D05IpZHwK8CUmQvhu1oSPAgHcRBuHd"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34180540-ARN-Messengers-Foot-Trip"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/3234f1f6-a856-46e9-a439-84b73a7867c2"
         }
       ]
     }, 

@@ -1,4 +1,18 @@
 module.exports = Object.freeze([
+    {
+    mainUrl: '/artiste/arn-messengers',
+    rootUrls: [
+      '/artiste/arn-messengers',
+      '/artist/arn-messengers'
+    ],
+    redirectionTarget: 'arn-messengers',
+    redirectUrls: [
+      '/artiste/arnmessengers',
+      '/artist/arnmessengers',
+      '/arn-messengers',
+      '/arnmessengers'
+    ]
+  },
   {
     mainUrl: '/artiste/la-baroquerie-du-val-de-bievre',
     rootUrls: [
