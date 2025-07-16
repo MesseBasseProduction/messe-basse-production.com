@@ -1,66 +1,12 @@
 {
   "artists": [
     {
-      "name": "A.R.N. Messengers",
-      "internalUrl": "arn-messengers",
-      "genres": ["Jazz Fusion", "Progressive Rock"],
-      "image": "/assets/img/band/arn-messengers.webp",
-      "mainLink": "https://arn-messengers.com",
-      "releases": ["MBPEP002"],
-      "links": [
-        {
-          "type": "facebook",
-          "url": "https://www.facebook.com/arn.messengers"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@A.R.N.Messengers"
-        }, {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/arn-messengers"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/6zmwgbDRfZ1m2x1dq3iKrK"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com//artist/a-r-n-messengers/1738476299"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0CZ9RQCPW/a-r-n-messengers"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/260143511"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/arn-messengers/21934809"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/46788772"
-        }, {
-          "type": "bandcamp",
-          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/16228780-ARN-Messengers"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/77dac6ce-b4e0-429b-9b10-beacaf659e10"
-        }
-      ],
-      "bio": {
-        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses : Nicolas Macassian à la guitare, Antoine Leiser à la basse et Rémy Boulogne à la batterie. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz, l'énergie du rock et les textures modernes des musiques actuelles.<br><br>Formé autour d'une passion commune pour l'improvisation et les rythmes complexes, le trio développe une identité forte, qui mêle à merveille les influences de chacun. Leurs  compositions originales sont des explorations : tantôt planantes, tantôt survoltées, mais toujours authentique et vivante.<br><br>Porté par une ambition claire et une complicité musicale rare, A.R.N. Messengers entend bien s'imposer sur la scène jazz contemporaine française et au-delà. Le trio poursuit son ascension avec ferveur, prêt à repousser les limites du genre.",
-        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music collide.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that skillfully blends each member’s influences. Their original compositions are sonic explorations—sometimes ethereal, sometimes electrifying, but always authentic and alive.<br><br>Driven by a clear ambition and a rare musical connection, A.R.N. Messengers aims to make their mark on the contemporary French jazz scene and beyond. The trio continues its rise with fervor, ready to push the boundaries of the genre."
-      },
-      "shortBio": {
-        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jzz fusion bienvenue au catalogue de l'Association.",
-        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians. Together, they weave a sonic universe where the freedom of jazz meets the energy of rock.<br><br>This partnership between <i>A.R.N. Messengers</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of jazz fusion to the Association's catalog."
-      }
-    }, {
       "name": "Drop Die",
       "internalUrl": "drop-die",
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -113,6 +59,60 @@
       "shortBio": {
         "fr": "DJ et producteur français de la scène Hardcore et Frapcore, reconnu pour son engagement dans la culture underground. Son style intense et sans détours incarne pleinement l’essence des raves et free parties.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Drop Die</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de techno énervée bienvenue au catalogue de l'Association.",
         "en": "French DJ and producer from the Hardcore and Frapcore scene, recognized for his commitment to underground culture. His intense and straightforward style fully embodies the essence of raves and free parties.<br><br>This partnership between <i>Drop Die</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome hint of edgy techno to the Association's catalog."
+      }
+    }, {
+      "name": "A.R.N. Messengers",
+      "internalUrl": "arn-messengers",
+      "genres": ["Jazz Fusion", "Progressive Rock"],
+      "image": "/assets/img/band/arn-messengers.webp",
+      "mainLink": "https://arn-messengers.com",
+      "releases": ["MBPEP002"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/arn.messengers"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/arn-messengers"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6zmwgbDRfZ1m2x1dq3iKrK"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com//artist/a-r-n-messengers/1738476299"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0CZ9RQCPW/a-r-n-messengers"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/260143511"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/arn-messengers/21934809"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/46788772"
+        }, {
+          "type": "bandcamp",
+          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/16228780-ARN-Messengers"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/77dac6ce-b4e0-429b-9b10-beacaf659e10"
+        }
+      ],
+      "bio": {
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses : Nicolas Macassian à la guitare, Antoine Leiser à la basse et Rémy Boulogne à la batterie. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz, l'énergie du rock et les textures modernes des musiques actuelles.<br><br>Formé autour d'une passion commune pour l'improvisation et les rythmes complexes, le trio développe une identité forte, qui mêle à merveille les influences de chacun. Leurs  compositions originales sont des explorations : tantôt planantes, tantôt survoltées, mais toujours authentique et vivante.<br><br>Porté par une ambition claire et une complicité musicale rare, A.R.N. Messengers entend bien s'imposer sur la scène jazz contemporaine française et au-delà. Le trio poursuit son ascension avec ferveur, prêt à repousser les limites du genre.",
+        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music collide.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that skillfully blends each member’s influences. Their original compositions are sonic explorations—sometimes ethereal, sometimes electrifying, but always authentic and alive.<br><br>Driven by a clear ambition and a rare musical connection, A.R.N. Messengers aims to make their mark on the contemporary French jazz scene and beyond. The trio continues its rise with fervor, ready to push the boundaries of the genre."
+      },
+      "shortBio": {
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jzz fusion bienvenue au catalogue de l'Association.",
+        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians. Together, they weave a sonic universe where the freedom of jazz meets the energy of rock.<br><br>This partnership between <i>A.R.N. Messengers</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of jazz fusion to the Association's catalog."
       }
     }, {
       "name": "DVPE",
@@ -6031,6 +6031,83 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/e29df49b-9144-4d95-87de-f4d1ebde74c4"
+        }
+      ]
+    },
+    "MBPSP049": {
+      "name": "Répondez-Moi",
+      "artist": ["Drop Die"],
+      "date": "2025-07-16",
+      "image": "/assets/img/music/MBPSP049.webp",
+      "mainLink": "https://www.youtube.com/watch?v=jBAsSb7OVDg&list=PLp5D05IpZHwITfg3ECeTrldmW9XX6lGke",
+      "duration": "05:07",
+      "EAN": "0642613113694",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "Préparez-vous pour la toute dernière attaque sonore de Drop Die : Répondez-Moi - une fusion brutale d'émotion brute, de poésie hantée et de kicks implacables. Ce morceau ne demande pas gentiment - il exige une réponse. Dès le premier vers mélancolique jusqu'aux drops écrasants qui suivent, Répondez-Moi est un voyage dans une introspection sombre. C'est de la hardtek avec un cœur, débordante de sens et résonnant de rage.",
+        "en": "Brace yourself for Drop Dies latest sonic assault: Répondez-Moi - a brutal fusion of raw emotion, haunting poetry, and relentless hard kicks. This track doesnt ask politely - it demands a response. From the first melancholic verse to the crushing drops that follow, Répondez-Moi is a journey through dark introspection. Its hardtek with a heart, bleeding with meaning and echoing with rage"
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Répondez-Moi",
+          "artist": ["Drop Die"],
+          "duration": "05:07",
+          "ISRC": "FR-9W1-21-53556",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3LD9yOEoxtccx5i4G6l2H8"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/repondez-moi/5161811"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/répondez-moi-single/1824456425"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FGJZ56F5"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/782368741"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/repondez-moi-drop-die/dbwla40d79sva"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/445881142"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-repondez-moi-hard-frapcore"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/r-pondez-moi"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=jBAsSb7OVDg&list=PLp5D05IpZHwITfg3ECeTrldmW9XX6lGke"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/répondez-moi-57511527"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34553830"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/625da9fe-16f3-4478-a017-1fa38d56bc3d"
         }
       ]
     },
