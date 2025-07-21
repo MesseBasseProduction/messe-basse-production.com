@@ -6,7 +6,7 @@
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -6108,6 +6108,81 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/625da9fe-16f3-4478-a017-1fa38d56bc3d"
+        }
+      ]
+    },
+    "MBPSP050": {
+      "name": "Freeze Core (Leone) (Drop Die Frapcore Remix)",
+      "artist": ["Drop Die"],
+      "date": "2025-07-20",
+      "image": "/assets/img/music/MBPSP050.webp",
+      "mainLink": "https://www.youtube.com/watch?v=LqjpyxIqRJ4&list=PLp5D05IpZHwJuM7YBotpXqNLNPAcHPGKd",
+      "duration": "02:14",
+      "EAN": "0642613324342",
+      "styles": ["Frapcore", "Hard Techno"],
+      "about": {
+        "fr": "Drop Die nous balance « Freeze Core (Frapcore Mix) », un hommage furieux à l'iconique « Hors Ligne » de Freeze Corleone. C'est une transformation à pleine vitesse vers les territoires du frapcore, du hardcore et du hardtek. Avec un kick tranchant comme une lame qui perce le mix et une énergie implacable qui ne faiblit jamais, « Freeze Core » est taillé pour les raves sombres et les teufs le splus pointues. ",
+        "en": "Drop Die unleashes Freeze Core (Frapcore Mix), a ferocious hommage to Freeze Corleones iconic Hors Ligne. Its a full-throttle transformation into the realms of frapcore, hardcore, and hardtek. With a razor-sharp kick that cuts through the mix like a blade and a relentless energy that never lets up, Freeze Core is engineered for dark raves and sweat-soaked warehouses."
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Freeze Core (Leone) (Drop Die Frapcore Remix)",
+          "artist": ["Drop Die"],
+          "duration": "02:14",
+          "ISRC": "FR-9W1-21-53559",
+          "credits": [
+            { "composer": ["Seezy"] },
+            { "author": ["Freeze Corleone"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/18TiPOmSfjw4eCzfrvnPaP"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/fr/release/freeze-core-leone-frapcore-mix/5172841"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/freeze-core-leone-frapcore-mix-single/1825862833"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FH772RFF"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/fr/album/785882251"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/freeze-core-leone-drop-die/v0gqdbsscq47a"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/447193449"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-freeze-core-freeze-corleone-hors-ligne-frapcore-remix"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/freeze-core-drop-die-frapcore-remix"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=LqjpyxIqRJ4&list=PLp5D05IpZHwJuM7YBotpXqNLNPAcHPGKd"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34555645"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/e6248ea4-351a-4685-af3b-7b728f155563"
         }
       ]
     },
