@@ -65,6 +65,7 @@
       "internalUrl": "arn-messengers",
       "genres": ["Jazz Fusion", "Progressive Rock"],
       "image": "/assets/img/band/arn-messengers.webp",
+      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Marie Bauduin</a>",
       "mainLink": "https://arn-messengers.com",
       "releases": ["MBPEP002"],
       "links": [
