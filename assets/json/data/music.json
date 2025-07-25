@@ -6,7 +6,7 @@
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -6179,11 +6179,88 @@
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=LqjpyxIqRJ4&list=PLp5D05IpZHwJuM7YBotpXqNLNPAcHPGKd"
         }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/freeze-core-leone-frapcore-mix-57662497"
+        }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/34555645"
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/e6248ea4-351a-4685-af3b-7b728f155563"
+        }
+      ]
+    },
+    "MBPSP051": {
+      "name": "Happy Cowboy (YodleCore)",
+      "artist": ["Drop Die", "MAYDJI "],
+      "date": "2025-07-24",
+      "image": "/assets/img/music/MBPSP051.webp",
+      "mainLink": "https://www.youtube.com/watch?v=vPW4kkYner8&list=PLp5D05IpZHwKpkYv_1y2NXrBmZUfdnx3W",
+      "duration": "02:46",
+      "EAN": "0642613181136",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "",
+        "en": ""
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die", "MAYDJI"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die", "MAYDJI"] },
+        { "drums": ["Drop Die", "MAYDJI"] }
+      ],
+      "tracks": [
+        {
+          "title": "Happy Cowboy (YodleCore)",
+          "artist": ["Drop Die", "MAYDJI"],
+          "duration": "02:46",
+          "ISRC": "FR-9W1-22-56580",
+          "credits": [
+            { "composer": ["Drop Die", "MAYDJI"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6WkPjoTLYHGm3lrGJSIdvQ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/happy-cowboy-yodlecore-feat-maydji-single/1825392601"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FH2QBY7R"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/784707981"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/happy-cowboy-yodlecore-drop-die-feat-maydji/bf80hnomgazza"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/446759694"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/dropizz-happy-cowboy-youdle"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/happy-cowboy-yodlecore"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=kJslhRL39W4&list=PLp5D05IpZHwJfvUFAsIrQIJ6qUW87SZIE"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die-feat-maydji/release/happy-cowboy-yodlecore-57827704"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34635418"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/4bab2c88-86f6-4b82-a10a-0b0b879b3ba2"
         }
       ]
     },

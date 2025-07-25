@@ -403,5 +403,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP050',
     frtarget: '/artiste/drop-die/albums/freeze-core',
     entarget: '/artist/drop-die/releases/freeze-core'
+  },
+  {
+    inputUrl: '/MBPSP051',
+    frtarget: '/artiste/drop-die/albums/happy-cowboy',
+    entarget: '/artist/drop-die/releases/happy-cowboy'
   }
 ]);
