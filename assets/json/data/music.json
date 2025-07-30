@@ -1,12 +1,73 @@
 {
   "artists": [
     {
+      "name": "NOIISKE",
+      "internalUrl": "noiiske",
+      "genres": ["Dubstep", "Trap"],
+      "image": "/assets/img/band/noiiske.webp",
+      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
+      "mainLink": "https://linktr.ee/noiiske",
+      "releases": ["MBPSP054", "MBPEP001"],
+      "links": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost"
+        }, {
+          "type": "instagram",
+          "url": "https://www.instagram.com/noiiske/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@noiiske"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/noiiske/1078617"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Noiiske/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/629qQ6NZRWzSUZg8PPc2aQ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/noiiske/1642427582"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0BC4M1Y3L"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/182472887"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/noiiske/15729932"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/34699313"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/13921693-NOIISKE"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/5f0f5e0a-9c18-4981-865b-b67cbceba9b1"
+        }
+      ],
+      "bio": {
+        "fr": "<i>NOIISKE</i> est l'un des nouveaux talents émergents de la Sunless Agency, la jeune écurie qui fait vibrer la scène <i>bass music</i> toulousaine et internationale. Hyperactif et toujours en quête de nouvelles sonorités, il s'impose par sa productivité impressionnante, son engagement sur les réseaux et sa présence dans divers projets musicaux, notamment au sein de Yann Records, Cluster Traxx ou Torsade Records.<br><br>Derrière son alias aux consonances industrielles, NOIISKE concote des tracks puissantes entre autres expérimentations sonores, le tout saupoudré d'une touche d'humour corrosif qui le rend aussi addictif qu'inclassable. Fort d'une signature sonore percutante, il affirme son identité musicale à travers des productions toujours précises et des set mémorables en club, captivant un public avide de basses massives. Entre drops chirurgicaux et transitions inattendues, NOIISKE sait créer l'effet de surprise et transporter son audience dans un univers où le wub wub est roi.<br><br>Que ce soit derrière les platines ou en studio, il ne cesse de repousser les limites du genre, prouvant que la <i>bass music</i> a encore de beaux jours devant elle. Avec NOIISKE, attendez-vous à un voyage sonore intense, où la gravité semble céder sous la puissance des basses.",
+        "en": "<i>NOIISKE</i> is one of the rising talents emerging from Sunless Agency, the young collective shaking up the Toulouse and international bass music scene. Hyperactive and constantly seeking new sounds, he stands out with his impressive productivity, strong social media presence, and involvement in various musical projects, including Yann Records, Cluster Traxx, and Torsade Records.<br><br>Behind his industrial-sounding alias, NOIISKE crafts powerful tracks alongside other sonic experiments, all sprinkled with a dose of corrosive humor that makes him as addictive as he is unclassifiable. Armed with a striking sonic signature, he asserts his musical identity through razor-sharp productions and unforgettable club sets, captivating an audience hungry for massive bass. With surgical drops and unexpected transitions, NOIISKE knows how to create surprise and immerse his listeners in a world where wub wub reigns supreme.<br><br>Whether behind the decks or in the studio, he constantly pushes the boundaries of the genre, proving that bass music has a bright future ahead. With NOIISKE, expect an intense sonic journey where gravity seems to give way under the sheer power of the bass."
+      },
+      "shortBio": {
+        "fr": "Producteur et DJ prodige de la <i>bass music</i> toulousaine, qui manie le séquenceur avec une énergie explosive ; au programme, des productions percutantes et un humour ravageur.<br><br>C'est à partir de 2025 que ce partenariat entre <i>NOIISKE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon d'humour et des basses qui font wub wub au catalogue, tout ce dont ce monde a besoin.",
+        "en": "A prodigious bass music producer and DJ from Toulouse, wielding the sequencer with explosive energy—expect hard-hitting productions and devastating humor.<br><br>This partnership between NOIISKE and Messe Basse Production kicks off in 2025, bringing a touch of humor and wub wub bass to the catalog—just what the world needs."
+      }
+    }, {
       "name": "Drop Die",
       "internalUrl": "drop-die",
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP052", "MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP053", "MBPSP052", "MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -65,7 +126,7 @@
       "internalUrl": "arn-messengers",
       "genres": ["Jazz Fusion", "Progressive Rock"],
       "image": "/assets/img/band/arn-messengers.webp",
-      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Marie Bauduin</a>",
+      "imageCredits": "<a href=\"#\">Marie Bauduin</a>",
       "mainLink": "https://arn-messengers.com",
       "releases": ["MBPEP002"],
       "links": [
@@ -174,67 +235,6 @@
       "shortBio": {
         "fr": "Artiste de la scène techno underground, reconnu pour ses compositions audacieuses mêlant techno industrielle, minimalisme et expérimentation sonore, créant des atmosphères intenses et imprévisibles qui repoussent les limites du genre et captivent un public fidèle dans des performances intimistes.<br><br>C’est à partir de 2023 que ce partenariat entre <i>DVPE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de kicks et de mélodies endiablés bienvenues au catalogue de l'Association.",
         "en": "Artist of the underground techno scene, recognized for his daring compositions mixing industrial techno, minimalism and sonic experimentation, creating intense and unpredictable atmospheres that push the boundaries of the genre and captivate a loyal audience in intimate performances.<br><br>It is from 2023 that this partnership between <i>DVPE</i> and <i>Messe Basse Production</i> begins, thus bringing a hint of kicks and wild melodies welcome to the Association's catalog."
-      }
-    }, {
-      "name": "NOIISKE",
-      "internalUrl": "noiiske",
-      "genres": ["Dubstep", "Trap"],
-      "image": "/assets/img/band/noiiske.webp",
-      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
-      "mainLink": "https://linktr.ee/noiiske",
-      "releases": ["MBPEP001"],
-      "links": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/nhc-lost"
-        }, {
-          "type": "instagram",
-          "url": "https://www.instagram.com/noiiske/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@noiiske"
-        }, {
-          "type": "beatport",
-          "url": "https://www.beatport.com/artist/noiiske/1078617"
-        }, {
-          "type": "juno",
-          "url": "https://www.junodownload.com/artists/Noiiske/"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/629qQ6NZRWzSUZg8PPc2aQ"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/noiiske/1642427582"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0BC4M1Y3L"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/182472887"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/noiiske/15729932"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/34699313"
-        }, {
-          "type": "bandcamp",
-          "url": "https://noiiske.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/13921693-NOIISKE"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/5f0f5e0a-9c18-4981-865b-b67cbceba9b1"
-        }
-      ],
-      "bio": {
-        "fr": "<i>NOIISKE</i> est l'un des nouveaux talents émergents de la Sunless Agency, la jeune écurie qui fait vibrer la scène <i>bass music</i> toulousaine et internationale. Hyperactif et toujours en quête de nouvelles sonorités, il s'impose par sa productivité impressionnante, son engagement sur les réseaux et sa présence dans divers projets musicaux, notamment au sein de Yann Records, Cluster Traxx ou Torsade Records.<br><br>Derrière son alias aux consonances industrielles, NOIISKE concote des tracks puissantes entre autres expérimentations sonores, le tout saupoudré d'une touche d'humour corrosif qui le rend aussi addictif qu'inclassable. Fort d'une signature sonore percutante, il affirme son identité musicale à travers des productions toujours précises et des set mémorables en club, captivant un public avide de basses massives. Entre drops chirurgicaux et transitions inattendues, NOIISKE sait créer l'effet de surprise et transporter son audience dans un univers où le wub wub est roi.<br><br>Que ce soit derrière les platines ou en studio, il ne cesse de repousser les limites du genre, prouvant que la <i>bass music</i> a encore de beaux jours devant elle. Avec NOIISKE, attendez-vous à un voyage sonore intense, où la gravité semble céder sous la puissance des basses.",
-        "en": "<i>NOIISKE</i> is one of the rising talents emerging from Sunless Agency, the young collective shaking up the Toulouse and international bass music scene. Hyperactive and constantly seeking new sounds, he stands out with his impressive productivity, strong social media presence, and involvement in various musical projects, including Yann Records, Cluster Traxx, and Torsade Records.<br><br>Behind his industrial-sounding alias, NOIISKE crafts powerful tracks alongside other sonic experiments, all sprinkled with a dose of corrosive humor that makes him as addictive as he is unclassifiable. Armed with a striking sonic signature, he asserts his musical identity through razor-sharp productions and unforgettable club sets, captivating an audience hungry for massive bass. With surgical drops and unexpected transitions, NOIISKE knows how to create surprise and immerse his listeners in a world where wub wub reigns supreme.<br><br>Whether behind the decks or in the studio, he constantly pushes the boundaries of the genre, proving that bass music has a bright future ahead. With NOIISKE, expect an intense sonic journey where gravity seems to give way under the sheer power of the bass."
-      },
-      "shortBio": {
-        "fr": "Producteur et DJ prodige de la <i>bass music</i> toulousaine, qui manie le séquenceur avec une énergie explosive ; au programme, des productions percutantes et un humour ravageur.<br><br>C'est à partir de 2025 que ce partenariat entre <i>NOIISKE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon d'humour et des basses qui font wub wub au catalogue, tout ce dont ce monde a besoin.",
-        "en": "A prodigious bass music producer and DJ from Toulouse, wielding the sequencer with explosive energy—expect hard-hitting productions and devastating humor.<br><br>This partnership between NOIISKE and Messe Basse Production kicks off in 2025, bringing a touch of humor and wub wub bass to the catalog—just what the world needs."
       }
     }, {
       "name": "Guillaume Beaulieu",
@@ -6298,6 +6298,159 @@
           "ISRC": "FR-9W1-21-53555",
           "credits": [
             { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7xwLnuEsHMMgk8wOdnN9Yx"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/fr/release/crs/5161205"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crs-single/1824430100"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FGJRNDNC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/782347091"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crs-drop-die/saouqs3r2ok4b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/445862796"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-crs"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/crs"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=t96Ut_DhJVA&list=PLp5D05IpZHwIisJyyRKt4d5IzKYviTzMT"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/crs-58049734"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34674436"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/a4d5e556-9dfb-4f37-91de-fdd7d2ba409e"
+        }
+      ]
+    },
+    "MBPSP053": {
+      "name": "Lance-Roquette",
+      "artist": ["Drop Die"],
+      "date": "2025-08-05",
+      "image": "/assets/img/music/MBPSP053.webp",
+      "mainLink": "https://youtube.com/",
+      "duration": "04:52",
+      "EAN": "0642613043731",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "",
+        "en": ""
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "Lance-Roquette",
+          "artist": ["Drop Die"],
+          "duration": "04:52",
+          "ISRC": "FR-9W1-21-53554",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7xwLnuEsHMMgk8wOdnN9Yx"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/fr/release/crs/5161205"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crs-single/1824430100"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FGJRNDNC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/782347091"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crs-drop-die/saouqs3r2ok4b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/445862796"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-crs"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/crs"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=t96Ut_DhJVA&list=PLp5D05IpZHwIisJyyRKt4d5IzKYviTzMT"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/crs-58049734"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34674436"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/a4d5e556-9dfb-4f37-91de-fdd7d2ba409e"
+        }
+      ]
+    },
+    "MBPSP054": {
+      "name": "One (Your name) (NOIISKE Flip)",
+      "artist": ["Drop Die"],
+      "date": "2025-08-06",
+      "image": "/assets/img/music/MBPSP054.webp",
+      "mainLink": "https://youtube.com/",
+      "duration": "02:15",
+      "EAN": "0642613897471",
+      "styles": ["Dubstep"],
+      "about": {
+        "fr": "",
+        "en": ""
+      },
+      "credits": [
+        { "record": ["NOIISKE"] },
+        { "mix": ["NOIISKE"] },
+        { "master": ["NOIISKE"] },
+        { "producer": ["Arthur Beaulieu", "NOIISKE"] },
+        { "artwork": ["NOIISKE"] },
+        { "illustration": ["NOIISKE"] }
+      ],
+      "tracks": [
+        {
+          "title": "One (Your name) (NOIISKE Flip)",
+          "artist": ["NOIISKE"],
+          "duration": "02:15",
+          "ISRC": "FR-9W1-25-43470",
+          "credits": [
+            { "composer": ["Axwell", "Sebastian Ingrosso", "Steve Angello"] },
+            { "author": ["Pharrell Williams"] }
           ]
         }
       ],
