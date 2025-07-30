@@ -6,7 +6,7 @@
       "genres": ["Hardcore", "Frapcore", "Hardtek"],
       "image": "/assets/img/band/dropdie.webp",
       "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "releases": ["MBPSP052", "MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
       "links": [
         {
           "type": "instagram",
@@ -6192,7 +6192,7 @@
     },
     "MBPSP051": {
       "name": "Happy Cowboy (YodleCore)",
-      "artist": ["Drop Die", "MAYDJI "],
+      "artist": ["Drop Die", "MAYDJI"],
       "date": "2025-07-24",
       "image": "/assets/img/music/MBPSP051.webp",
       "mainLink": "https://www.youtube.com/watch?v=vPW4kkYner8&list=PLp5D05IpZHwKpkYv_1y2NXrBmZUfdnx3W",
@@ -6229,6 +6229,9 @@
           "type": "spotify",
           "url": "https://open.spotify.com/album/6WkPjoTLYHGm3lrGJSIdvQ"
         }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/fr/release/happy-cowboy-yodlecore/5198211"
+        }, {
           "type": "apple",
           "url": "https://music.apple.com/album/happy-cowboy-yodlecore-feat-maydji-single/1825392601"
         }, {
@@ -6261,6 +6264,83 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/4bab2c88-86f6-4b82-a10a-0b0b879b3ba2"
+        }
+      ]
+    },
+    "MBPSP052": {
+      "name": "CRS",
+      "artist": ["Drop Die"],
+      "date": "2025-07-30",
+      "image": "/assets/img/music/MBPSP052.webp",
+      "mainLink": "https://www.youtube.com/watch?v=t96Ut_DhJVA&list=PLp5D05IpZHwIisJyyRKt4d5IzKYviTzMT",
+      "duration": "03:13",
+      "EAN": "0642613199070",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "",
+        "en": ""
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "CRS",
+          "artist": ["Drop Die"],
+          "duration": "03:13",
+          "ISRC": "FR-9W1-21-53555",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7xwLnuEsHMMgk8wOdnN9Yx"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/fr/release/crs/5161205"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crs-single/1824430100"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FGJRNDNC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/782347091"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crs-drop-die/saouqs3r2ok4b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/445862796"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-crs"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/crs"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=t96Ut_DhJVA&list=PLp5D05IpZHwIisJyyRKt4d5IzKYviTzMT"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/crs-58049734"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34674436"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/a4d5e556-9dfb-4f37-91de-fdd7d2ba409e"
         }
       ]
     },

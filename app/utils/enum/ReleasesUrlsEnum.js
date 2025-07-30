@@ -408,5 +408,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP051',
     frtarget: '/artiste/drop-die/albums/happy-cowboy',
     entarget: '/artist/drop-die/releases/happy-cowboy'
+  },
+  {
+    inputUrl: '/MBPSP052',
+    frtarget: '/artiste/drop-die/albums/crs',
+    entarget: '/artist/drop-die/releases/crs'
   }
 ]);
