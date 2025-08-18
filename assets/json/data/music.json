@@ -6349,7 +6349,7 @@
       "artist": ["Drop Die"],
       "date": "2025-08-05",
       "image": "/assets/img/music/MBPSP053.webp",
-      "mainLink": "https://youtube.com/",
+      "mainLink": "https://www.youtube.com/watch?v=_Kc0dgs6Nb8&list=PLp5D05IpZHwJ_iz8cbtXf0Il5Peru-HxY",
       "duration": "04:52",
       "EAN": "0642613043731",
       "styles": ["Hard Techno"],
@@ -6381,43 +6381,43 @@
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/7xwLnuEsHMMgk8wOdnN9Yx"
+          "url": "https://open.spotify.com/album/3PZKtbwvt64AtMBHLiLAHG"
         }, {
           "type": "beatport",
-          "url": "https://www.beatport.com/fr/release/crs/5161205"
+          "url": "https://www.beatport.com/release/lance-roquette/5161947"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/crs-single/1824430100"
+          "url": "https://music.apple.com/album/lance-roquette-single/1824456343"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0FGJRNDNC"
+          "url": "https://music.amazon.com/albums/B0FGJTDQVP"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/album/782347091"
+          "url": "https://www.deezer.com/album/782368711"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/album/crs-drop-die/saouqs3r2ok4b"
+          "url": "https://www.qobuz.com/album/lance-roquette-drop-die/qu19cfmm70omb"
         }, {
           "type": "tidal",
-          "url": "https://tidal.com/browse/album/445862796"
+          "url": "https://tidal.com/browse/album/445927509"
         }, {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/drop-die-prod/drop-die-crs"
+          "url": "https://soundcloud.com/drop-die-prod/drop-die-lance-roquette-acidcore-to-hardcore"
         }, {
           "type": "bandcamp",
-          "url": "https://dropdie.bandcamp.com/album/crs"
+          "url": "https://dropdie.bandcamp.com/album/lance-roquette"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=t96Ut_DhJVA&list=PLp5D05IpZHwIisJyyRKt4d5IzKYviTzMT"
+          "url": "https://www.youtube.com/watch?v=_Kc0dgs6Nb8&list=PLp5D05IpZHwJ_iz8cbtXf0Il5Peru-HxY"
         }, {
           "type": "7digital",
-          "url": "https://fr.7digital.com/artist/drop-die/release/crs-58049734"
+          "url": "https://fr.7digital.com/artist/drop-die/release/lance-roquette-58279319"
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/34674436"
+          "url": "https://www.discogs.com/release/34683753"
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/a4d5e556-9dfb-4f37-91de-fdd7d2ba409e"
+          "url": "https://musicbrainz.org/release/3a9aa0b0-ef6b-4ac7-8b92-a9118d7ec1e8"
         }
       ]
     },
@@ -6426,7 +6426,7 @@
       "artist": ["Drop Die"],
       "date": "2025-08-06",
       "image": "/assets/img/music/MBPSP054.webp",
-      "mainLink": "https://youtube.com/",
+      "mainLink": "https://www.youtube.com/watch?v=qKI2zmQ-TOA&list=PLp5D05IpZHwLCEIJhQFNwDKERzVw3OLMO",
       "duration": "02:15",
       "EAN": "0642613897471",
       "styles": ["Dubstep"],
@@ -6456,44 +6456,17 @@
       ],
       "links": [
         {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/7xwLnuEsHMMgk8wOdnN9Yx"
-        }, {
-          "type": "beatport",
-          "url": "https://www.beatport.com/fr/release/crs/5161205"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/crs-single/1824430100"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0FGJRNDNC"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/782347091"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/album/crs-drop-die/saouqs3r2ok4b"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/album/445862796"
-        }, {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/drop-die-prod/drop-die-crs"
-        }, {
-          "type": "bandcamp",
-          "url": "https://dropdie.bandcamp.com/album/crs"
+          "url": "https://soundcloud.com/nhc-lost/one"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=t96Ut_DhJVA&list=PLp5D05IpZHwIisJyyRKt4d5IzKYviTzMT"
-        }, {
-          "type": "7digital",
-          "url": "https://fr.7digital.com/artist/drop-die/release/crs-58049734"
+          "url": "https://www.youtube.com/watch?v=qKI2zmQ-TOA&list=PLp5D05IpZHwLCEIJhQFNwDKERzVw3OLMO"
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/34674436"
+          "url": "https://www.discogs.com/release/34683786"
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/a4d5e556-9dfb-4f37-91de-fdd7d2ba409e"
+          "url": "https://musicbrainz.org/release/0374c7ed-7241-424b-a3b9-66170312e9ee"
         }
       ]
     },
