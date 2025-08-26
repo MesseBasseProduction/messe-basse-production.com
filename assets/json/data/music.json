@@ -1,6 +1,52 @@
 {
   "artists": [
     {
+      "name": "Lionel Baudet",
+      "internalUrl": "lionel-baudet",
+      "genres": ["Experimental", "Jazz Fusion"],
+      "image": "/assets/img/band/lionel.webp",
+      "imageCredits": "Guillaume Crantz",
+      "mainLink": "https://lionelbaudet.bandcamp.com/",
+      "releases": ["MBPLP018", "MBPLP014", "MBPSP028", "MBPLP012", "MBPLP011", "MBPLP010"],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1QGm0yTtldvKgij7CVTWNb"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/lionel-baudet/1647359053"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B09HRC4NW9/lionel-baudet"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/184903717"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/lionel-baudet/11409877"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/34667732"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10054600-Lionel-Baudet"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/9f6bc294-fd8b-4a51-b7c3-8cfd3e867ef9"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Lionel Baudet</i>, alias <i>Eliot</i>, est un artiste solo complet ; auteur, compositeur, arrangeur et interprète de rock expérimental. Originaire de Clamart et Massy, en Île-de-France, il explore depuis plusieurs décennies un univers musical riche et singulier. Co-fondateur du groupe <i>NAC</i> en 1994, il s'est illustré au sein de cette formation en développant une approche audacieuse et novatrice du rock.<br><br>En parallèle de son engagement avec <i>NAC</i>, <i>Lionel Baudet</i> n'a jamais cessé de nourrir une recherche artistique personnelle, animé par le désir constant d'explorer de nouvelles sonorités. Son style unique est le fruit d'un mélange subtil d'influences, allant du rock psychédélique au jazz fusion, en passant par des touches électroniques captivantes. Ses compositions, souvent marquées par des structures complexes et des atmosphères envoûtantes, témoignent d'une quête d'innovation permanente.<br><br>Artiste passionné et exigeant, Lionel Baudet s'attache à donner à chacune de ses créations une dimension introspective et immersive. Son travail d'arrangeur minutieux, allié à une interprétation expressive, confère à sa musique une identité forte et reconnaissable. Que ce soit en studio ou sur scène, il offre une expérience sensorielle intense, où se mêlent virtuosité musicale et profonde authenticité.<br><br>Fort d'une carrière jalonnée de collaborations et de projets ambitieux, <i>Eliot</i> continue de repousser les limites du rock expérimental en insufflant à son oeuvre une créativité sans bornes et une vision artistique audacieuse.",
+        "en": "<i>Lionel Baudet</i>, aka <i>Eliot</i>, is a complete solo artist; author, composer, arranger, and performer of experimental rock. Originally from Clamart and Massy, ​​in the Île-de-France region, he has been exploring a rich and unique musical universe for several decades. Co-founder of the group <i>NAC</i> in 1994, he distinguished himself within this group by developing a bold and innovative approach to rock.<br><br>In parallel with his involvement with <i>NAC</i>, <i>Lionel Baudet</i> has never ceased to nurture a personal artistic research, driven by the constant desire to explore new sounds. His unique style is the result of a subtle blend of influences, ranging from psychedelic rock to jazz fusion, including captivating electronic touches. His compositions, often marked by complex structures and captivating atmospheres, reflect a constant quest for innovation.<br><br>A passionate and demanding artist, Lionel Baudet strives to give each of his creations an introspective and immersive dimension. His meticulous work as an arranger, combined with expressive interpretation, gives his music a strong and recognizable identity. Whether in the studio or on stage, he offers an intense sensory experience, where musical virtuosity and profound authenticity blend.<br><br>With a career marked by collaborations and ambitious projects, <i>Eliot</i> continues to push the boundaries of experimental rock by infusing his work with boundless creativity and a bold artistic vision."
+      },
+      "shortBio": {
+        "fr": "<i>Lionel Baudet</i> est un artiste solo polyvalent, alliant rock expérimental, influences psychédéliques, jazz fusion et touches électroniques, qui, de nombreuses années, développe une approche audacieuse du genre. Co-fondateur du groupe <i>NAC</i>, il continue de repousser les limites de la musique avec une créativité sans bornes.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Lionel Baudet</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler un vent experimental sur le catalogue de l'Association.",
+        "en": "<i>Lionel Baudet</i> is a versatile solo artist, combining experimental rock, psychedelic influences, jazz fusion and electronic touches, who, over many years, has developed a bold approach to the genre. Co-founder of the group <i>NAC</i>, he continues to push the boundaries of music with boundless creativity.<br><br>This partnership between <i>Lionel Baudet</i> and <i>Messe Basse Production</i> begins in 2022, thus bringing an experimental wind to the Association's catalog."
+      }
+    }, {
       "name": "NOIISKE",
       "internalUrl": "noiiske",
       "genres": ["Dubstep", "Trap"],
@@ -435,52 +481,6 @@
         "fr": "The Forge est un groupe de Rock Progressif français formé au début des années 1980. Alliant riffs percutants, solos enflammés et arrangements minutieusement travaillés, le groupe a su faire évoluer son style au fil du temps, passant d’un Hard Rock vocal énergique à un Rock Progressif Instrumental plus élaboré.<br><br>Depuis 2021, <i>The Forge</i> est partenaire de <i>Messe Basse Production</i>, collaboration initiée aux débuts de l'Association.",
         "en": "The Forge is a French Progressive Rock band formed in the early 1980s. Combining punchy riffs, fiery solos and meticulously crafted arrangements, the band has evolved its style over time, moving from energetic vocal Hard Rock to more elaborate Instrumental Progressive Rock.<br><br>Since 2021, <i>The Forge</i> has partnered with <i>Messe Basse Production</i>, a collaboration initiated at the beginning of the Association."
       }   
-    }, {
-      "name": "Lionel Baudet",
-      "internalUrl": "lionel-baudet",
-      "genres": ["Experimental", "Jazz Fusion"],
-      "image": "/assets/img/band/lionel.webp",
-      "imageCredits": "Guillaume Crantz",
-      "mainLink": "https://lionelbaudet.bandcamp.com/",
-      "releases": ["MBPLP014", "MBPSP028", "MBPLP012", "MBPLP011", "MBPLP010"],
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/1QGm0yTtldvKgij7CVTWNb"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/lionel-baudet/1647359053"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B09HRC4NW9/lionel-baudet"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/184903717"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/lionel-baudet/11409877"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/34667732"
-        }, {
-          "type": "bandcamp",
-          "url": "https://lionelbaudet.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/10054600-Lionel-Baudet"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/9f6bc294-fd8b-4a51-b7c3-8cfd3e867ef9"
-        }
-      ],
-      "bio": {
-        "fr": "<i>Lionel Baudet</i>, alias <i>Eliot</i>, est un artiste solo complet ; auteur, compositeur, arrangeur et interprète de rock expérimental. Originaire de Clamart et Massy, en Île-de-France, il explore depuis plusieurs décennies un univers musical riche et singulier. Co-fondateur du groupe <i>NAC</i> en 1994, il s'est illustré au sein de cette formation en développant une approche audacieuse et novatrice du rock.<br><br>En parallèle de son engagement avec <i>NAC</i>, <i>Lionel Baudet</i> n'a jamais cessé de nourrir une recherche artistique personnelle, animé par le désir constant d'explorer de nouvelles sonorités. Son style unique est le fruit d'un mélange subtil d'influences, allant du rock psychédélique au jazz fusion, en passant par des touches électroniques captivantes. Ses compositions, souvent marquées par des structures complexes et des atmosphères envoûtantes, témoignent d'une quête d'innovation permanente.<br><br>Artiste passionné et exigeant, Lionel Baudet s'attache à donner à chacune de ses créations une dimension introspective et immersive. Son travail d'arrangeur minutieux, allié à une interprétation expressive, confère à sa musique une identité forte et reconnaissable. Que ce soit en studio ou sur scène, il offre une expérience sensorielle intense, où se mêlent virtuosité musicale et profonde authenticité.<br><br>Fort d'une carrière jalonnée de collaborations et de projets ambitieux, <i>Eliot</i> continue de repousser les limites du rock expérimental en insufflant à son oeuvre une créativité sans bornes et une vision artistique audacieuse.",
-        "en": "<i>Lionel Baudet</i>, aka <i>Eliot</i>, is a complete solo artist; author, composer, arranger, and performer of experimental rock. Originally from Clamart and Massy, ​​in the Île-de-France region, he has been exploring a rich and unique musical universe for several decades. Co-founder of the group <i>NAC</i> in 1994, he distinguished himself within this group by developing a bold and innovative approach to rock.<br><br>In parallel with his involvement with <i>NAC</i>, <i>Lionel Baudet</i> has never ceased to nurture a personal artistic research, driven by the constant desire to explore new sounds. His unique style is the result of a subtle blend of influences, ranging from psychedelic rock to jazz fusion, including captivating electronic touches. His compositions, often marked by complex structures and captivating atmospheres, reflect a constant quest for innovation.<br><br>A passionate and demanding artist, Lionel Baudet strives to give each of his creations an introspective and immersive dimension. His meticulous work as an arranger, combined with expressive interpretation, gives his music a strong and recognizable identity. Whether in the studio or on stage, he offers an intense sensory experience, where musical virtuosity and profound authenticity blend.<br><br>With a career marked by collaborations and ambitious projects, <i>Eliot</i> continues to push the boundaries of experimental rock by infusing his work with boundless creativity and a bold artistic vision."
-      },
-      "shortBio": {
-        "fr": "<i>Lionel Baudet</i> est un artiste solo polyvalent, alliant rock expérimental, influences psychédéliques, jazz fusion et touches électroniques, qui, de nombreuses années, développe une approche audacieuse du genre. Co-fondateur du groupe <i>NAC</i>, il continue de repousser les limites de la musique avec une créativité sans bornes.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Lionel Baudet</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler un vent experimental sur le catalogue de l'Association.",
-        "en": "<i>Lionel Baudet</i> is a versatile solo artist, combining experimental rock, psychedelic influences, jazz fusion and electronic touches, who, over many years, has developed a bold approach to the genre. Co-founder of the group <i>NAC</i>, he continues to push the boundaries of music with boundless creativity.<br><br>This partnership between <i>Lionel Baudet</i> and <i>Messe Basse Production</i> begins in 2022, thus bringing an experimental wind to the Association's catalog."
-      }
     }, {
       "name": "Five O'Clock Jazz Quartet",
       "internalUrl": "five-oclock-jazz-quartet",
@@ -3380,6 +3380,169 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/05ef03b2-2363-4560-aebe-94555c88849a"
+        }
+      ]
+    },
+    "MBPLP018": {
+      "name": "African Tempo",
+      "artist": ["Lionel Baudet"],
+      "date": "2025-08-26",
+      "image": "/assets/img/music/MBPLP018.webp",
+      "mainLink": "TODO",
+      "duration": "40:36",
+      "EAN": "0642613378048",
+      "styles": ["Experimental"],
+      "credits": [
+        { "record": ["Lionel Baudet"] },
+        { "mix": ["Lionel Baudet"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Lionel Baudet"] },
+        { "illustration": ["Philippe Dromard"] },
+        { "bass": ["Lionel Baudet"] },
+        { "drums": ["Lionel Baudet"] },
+        { "keyboard": ["Lionel Baudet"] },
+        { "guitar": ["Lionel Baudet"] },
+        { "vocal": ["Lionel Baudet"] }
+      ],
+      "tracks": [
+        {
+          "title": "Intro",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:16",
+          "ISRC": "FR-9W1-03-02002",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Africa",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:05",
+          "ISRC": "FR-9W1-03-02003",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Sacrifices",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:54",
+          "ISRC": "FR-9W1-03-02004",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Wheels Of 4x4",
+          "artist": ["Lionel Baudet"],
+          "duration": "02:37",
+          "ISRC": "FR-9W1-03-02005",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "African Wings",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:00",
+          "ISRC": "FR-9W1-03-02006",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Sabbath",
+          "artist": ["Lionel Baudet"],
+          "duration": "04:02",
+          "ISRC": "FR-9W1-03-02007",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Open The Gates",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:06",
+          "ISRC": "FR-9W1-03-02008",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Drums",
+          "artist": ["Lionel Baudet"],
+          "duration": "03:39",
+          "ISRC": "FR-9W1-03-02009",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Ghetto",
+          "artist": ["Lionel Baudet"],
+          "duration": "05:30",
+          "ISRC": "FR-9W1-03-02010",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "The Other Side",
+          "artist": ["Lionel Baudet"],
+          "duration": "04:35",
+          "ISRC": "FR-9W1-03-02011",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Darkness",
+          "artist": ["Lionel Baudet"],
+          "duration": "05:01",
+          "ISRC": "FR-9W1-03-02012",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }, {
+          "title": "Africa II",
+          "artist": ["Lionel Baudet"],
+          "duration": "01:46",
+          "ISRC": "FR-9W1-03-02013",
+          "credits": [
+            { "composer": ["Lionel Baudet"] }, 
+            { "author": ["Lionel Baudet"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5kWXTH9a5dNPfFJxidGv4Z"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/african-tempo/1834029923"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FMSCNCNF"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/african-tempo-lionel-baudet/rvjkwqpyc8iac"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/454838461"
+        }, {
+          "type": "bandcamp",
+          "url": "https://lionelbaudet.bandcamp.com/album/african-tempo"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=FO3EWziB-fg&list=PLp5D05IpZHwLeGln1UIw5EkZQH10SulJ3"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34851272"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/1f4a22c0-5b66-4b8c-a046-dfc30c0d3603"
         }
       ]
     },

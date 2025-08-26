@@ -95,6 +95,11 @@ module.exports = Object.freeze([
     entarget: '/artist/guillaume-beaulieu/releases/fantaisies-pour-flute-seule-sans-basse'
   },
   {
+    inputUrl: '/MBPLP018',
+    frtarget: '/artiste/lionel-baudet/albums/african-tempo',
+    entarget: '/artist/lionel-baudet/releases/african-tempo'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'
