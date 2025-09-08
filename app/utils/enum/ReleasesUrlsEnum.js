@@ -100,6 +100,11 @@ module.exports = Object.freeze([
     entarget: '/artist/lionel-baudet/releases/african-tempo'
   },
   {
+    inputUrl: '/MBPLP019',
+    frtarget: '/artiste/enjoy-the-moment/albums/enjoy-the-moment',
+    entarget: '/artist/enjoy-the-moment/releases/enjoy-the-moment'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'

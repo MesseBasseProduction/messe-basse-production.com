@@ -1,5 +1,19 @@
 module.exports = Object.freeze([
-    {
+  {
+    mainUrl: '/artiste/enjoy-the-moment',
+    rootUrls: [
+      '/artiste/enjoy-the-moment',
+      '/artist/enjoy-the-moment'
+    ],
+    redirectionTarget: 'enjoy-the-moment',
+    redirectUrls: [
+      '/artiste/enjoythemoment',
+      '/artist/etm',
+      '/enjoythemoment',
+      '/etm'
+    ]
+  },
+  {
     mainUrl: '/artiste/arn-messengers',
     rootUrls: [
       '/artiste/arn-messengers',

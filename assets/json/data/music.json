@@ -1,6 +1,61 @@
 {
   "artists": [
     {
+      "name": "Enjoy The Moment",
+      "internalUrl": "enjoy-the-moment",
+      "genres": ["Progressive Rock", "Hard Rock"],
+      "image": "/assets/img/band/enjoy-the-moment.webp",
+      "imageCredits": "",
+      "mainLink": "https://enjoy-the-moment.fr",
+      "releases": ["MBPLP019"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/enjoy_the_moment_label/"
+        }, {
+          "type": "facebook",
+          "url": "https://www.facebook.com/enjoythemomentmusic"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/enjoy_the_moment_label"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/22A1ywPhZcptvT8nSrodFq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/enjoy-the-moment/1835517647"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0CPCDTK1F"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/245474462"
+        }, {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/artist/44206306"
+        }, {
+          "type": "bandcamp",
+          "url": "https://enjoythemoment.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/16624184-Enjoy-The-Moment"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/eff94528-4d52-446b-9c31-474391676906"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Enjoy-the-moment"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Enjoy The Moment</i> est un groupe de rock alternatif qui réunit cinq musiciens aux univers multiples. Leur musique se distingue par une énergie singulière, offrant des atmosphères planantes, des constructions complexes et des envolées musicales plus abrasives.<br><br>Puisant dans l'héritage de formations emblématiques telles que Pink Floyd, Led Zeppelin, Primus ou encore Rage Against the Machine, le groupe façonne un son original, à la croisée de l'intensité brute et de la profondeur émotionnelle.<br><br>Sur scène comme en studio, <i>Enjoy The Moment</i> invite son public à un voyage sonore immersif, où chaque morceau devient une expérience à part entière.",
+        "en": "<i>Enjoy The Moment</i> is an alternative rock band that brings together five musicians from diverse backgrounds. Their music stands out with a unique energy, offering atmospheric soundscapes, complex structures, and more abrasive musical outbursts.<br><br>Drawing from the legacy of iconic bands such as Pink Floyd, Led Zeppelin, Primus, and Rage Against the Machine, the group shapes an original sound, blending raw intensity with emotional depth.<br><br>On stage as well as in the studio, <i>Enjoy The Moment</i> invites its audience on an immersive sonic journey, where each track becomes a unique experience."
+      },
+      "shortBio": {
+        "fr": "Cinq musiciens, une passion commune : faire vibrer l'instant. <i>Enjoy The Moment</i>, c'est du rock alternatif qui passe du planant au percutant en un clin d'œil.<br><br>C'est à partir de 2025 que ce partenariat entre <i>Enjoy The Moment</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de prog rock énervé bienvenue au catalogue de l'Association.",
+        "en": "Five musicians, one shared passion: making the moment resonate. <i>Enjoy The Moment</i> is alternative rock that shifts from dreamy to hard-hitting in the blink of an eye.<br><br>This partnership between <i>Enjoy The Moment</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of angry prog rock to the Association's catalog."
+      }
+    }, {
       "name": "Lionel Baudet",
       "internalUrl": "lionel-baudet",
       "genres": ["Experimental", "Jazz Fusion"],
@@ -219,7 +274,7 @@
         "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music collide.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that skillfully blends each member’s influences. Their original compositions are sonic explorations—sometimes ethereal, sometimes electrifying, but always authentic and alive.<br><br>Driven by a clear ambition and a rare musical connection, A.R.N. Messengers aims to make their mark on the contemporary French jazz scene and beyond. The trio continues its rise with fervor, ready to push the boundaries of the genre."
       },
       "shortBio": {
-        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jzz fusion bienvenue au catalogue de l'Association.",
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jazz fusion bienvenue au catalogue de l'Association.",
         "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians. Together, they weave a sonic universe where the freedom of jazz meets the energy of rock.<br><br>This partnership between <i>A.R.N. Messengers</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of jazz fusion to the Association's catalog."
       }
     }, {
@@ -3388,7 +3443,7 @@
       "artist": ["Lionel Baudet"],
       "date": "2025-08-26",
       "image": "/assets/img/music/MBPLP018.webp",
-      "mainLink": "TODO",
+      "mainLink": "https://www.youtube.com/watch?v=FO3EWziB-fg&list=PLp5D05IpZHwLeGln1UIw5EkZQH10SulJ3",
       "duration": "40:36",
       "EAN": "0642613378048",
       "styles": ["Experimental"],
@@ -3543,6 +3598,155 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/1f4a22c0-5b66-4b8c-a046-dfc30c0d3603"
+        }
+      ]
+    },
+    "MBPLP019": {
+      "name": "Enjoy The Moment",
+      "artist": ["Enjoy The Moment"],
+      "date": "2025-09-08",
+      "image": "/assets/img/music/MBPLP019.webp",
+      "mainLink": "",
+      "duration": "44:53",
+      "EAN": "0642613378048",
+      "styles": ["Experimental"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Julien Goutte-Broze"] },
+        { "master": ["Julien Goutte-Broze"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Frédéric Thiere", "Nathalie Barillot"] },
+        { "illustration": ["Frédéric Thiere", "Nathalie Barillot"] },
+        { "bass": ["Vincent Greco"] },
+        { "drums": ["Rémy Boulogne"] },
+        { "keyboard": ["Sébastien Moraux"] },
+        { "guitar": ["Nicolas Macassian"] },
+        { "vocal": ["Nicolas Macassian", "Sophie Hamadi"] }
+      ],
+      "tracks": [
+        {
+          "title": "Second State",
+          "artist": ["Enjoy The Moment"],
+          "duration": "03:15",
+          "ISRC": "FR-9W1-23-74239",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Stone Made Heart",
+          "artist": ["Enjoy The Moment"],
+          "duration": "03:31",
+          "ISRC": "FR-9W1-23-74240",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Do You Know",
+          "artist": ["Enjoy The Moment"],
+          "duration": "04:28",
+          "ISRC": "FR-9W1-23-74241",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Blank",
+          "artist": ["Enjoy The Moment"],
+          "duration": "05:54",
+          "ISRC": "FR-9W1-23-74242",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Social Funny Faces",
+          "artist": ["Enjoy The Moment"],
+          "duration": "04:42",
+          "ISRC": "FR-9W1-23-74243",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "The Only Ones",
+          "artist": ["Enjoy The Moment"],
+          "duration": "04:09",
+          "ISRC": "FR-9W1-23-74244",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Enjoy The Moment",
+          "artist": ["Enjoy The Moment"],
+          "duration": "04:47",
+          "ISRC": "FR-9W1-23-74245",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Sex Addict",
+          "artist": ["Enjoy The Moment"],
+          "duration": "04:31",
+          "ISRC": "FR-9W1-23-74246",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Gravitating",
+          "artist": ["Enjoy The Moment"],
+          "duration": "04:00",
+          "ISRC": "FR-9W1-23-74247",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }, {
+          "title": "Until There's No Matter In The Universe Anymore",
+          "artist": ["Enjoy The Moment"],
+          "duration": "05:32",
+          "ISRC": "FR-9W1-23-74248",
+          "credits": [
+            { "composer": ["Nicolas Macassian"] }, 
+            { "author": ["Nicolas Macassian"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5HKRhCVVyQrQuKKm6G5WGg"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/enjoy-the-moment/1835518999"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FNN8ZXZC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/810960591"
+        }, {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/456237177"
+        }, {
+          "type": "bandcamp",
+          "url": "https://enjoythemoment.bandcamp.com/album/enjoy-the-moment"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=cQkbZ8wtCsM&list=PLp5D05IpZHwJLASTNkp19aXLTWaWGsOc1"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/34985984"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/fff49921-2b1e-4822-9569-e9843d472bf5"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Enjoy-the-moment/Enjoy-the-moment"
         }
       ]
     },
