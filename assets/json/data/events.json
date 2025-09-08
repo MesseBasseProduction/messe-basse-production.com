@@ -23,17 +23,12 @@
       "image": "/assets/img/event/MBPEVT022.webp",
       "date": "2025-09-20",
       "place": "Sermaise",
-      "link": "",
+      "link": "https://www.facebook.com/events/1347722990307492",
       "description": {
         "en": "The Messe Basse Production Association is proud to host a photographic exhibition of old postcards, allowing visitors to rediscover the village at the beginning of the twentieth century. The Association will also have the pleasure of presenting its first work; « La commune de Sermaise (1899) ». This is a transcription by Arthur Beaulieu of a monograph written by the schoolteacher of the time, Martin Eugène Legrand, which offers a true window onto the village's past.",
         "fr": "L'Association Messe Basse Production est fier d'animer une exposition photographique de cartes postales anciennes, permettant de re-découvrir le village au début du vingtième siècle. L'Association aura également le plaisir de présenter son premier ouvrage ; « La commune de Sermaise (1899) ». Il s'agit d'une transcription d'Arthur Beaulieu, d'une monographie écrite par l'instituteur de l'époque Martin Eugène Legrand et qui offre une véritable fenêtre sur le passé du village."
       },
-      "starring": [
-        {
-          "name": "A.R.N. Messengers",
-          "url": "https://www.youtube.com/@A.R.N.Messengers"
-        }
-      ]
+      "starring": []
     }, {
       "title": "A.R.N. Messengers débarque au Sunset",
       "catalog": "MBPEVT021",
