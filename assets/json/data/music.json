@@ -37,6 +37,9 @@
           "type": "bandcamp",
           "url": "https://enjoythemoment.bandcamp.com/"
         }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/enjoy-the-moment-78"
+        }, {
           "type": "discogs",
           "url": "https://www.discogs.com/artist/16624184-Enjoy-The-Moment"
         }, {
@@ -3735,6 +3738,9 @@
         }, {
           "type": "bandcamp",
           "url": "https://enjoythemoment.bandcamp.com/album/enjoy-the-moment"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/enjoy-the-moment-78/sets/enjoy-the-moment"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=cQkbZ8wtCsM&list=PLp5D05IpZHwJLASTNkp19aXLTWaWGsOc1"
