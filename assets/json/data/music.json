@@ -34,6 +34,9 @@
           "type": "tidal",
           "url": "https://listen.tidal.com/artist/44206306"
         }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/enjoy-the-moment/20693706"
+        }, {
           "type": "bandcamp",
           "url": "https://enjoythemoment.bandcamp.com/"
         }, {
@@ -3735,6 +3738,9 @@
         }, {
           "type": "tidal",
           "url": "https://listen.tidal.com/album/456237177"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/enjoy-the-moment-enjoy-the-moment/r2u6thymhenga"
         }, {
           "type": "bandcamp",
           "url": "https://enjoythemoment.bandcamp.com/album/enjoy-the-moment"
