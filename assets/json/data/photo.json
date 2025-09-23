@@ -2,6 +2,16 @@
   "exposition": {
     "artist": [
       {
+        "title": "Sermaise d'Hier et d'Aujourd'hui, 2025",
+        "photographer": "Messe Basse Production",
+        "url": "",
+        "photos": [{
+          "title": "Sur le Fil – Pisac, Pérou",
+          "date": "2019-05-21",
+          "margin": "20",
+          "image": "/assets/img/photo/expo/1/1.webp"
+        }]
+      }, {
         "title": "Amérique du Sud, 2019",
         "photographer": "Guillaume Crantz",
         "url": "https://www.instagram.com/lafriteestdequalite/",
