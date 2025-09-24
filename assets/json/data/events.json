@@ -1,6 +1,43 @@
 {
   "events": [
     {
+      "title": "A.R.N. Messengers // Enjoy The Moment à la Péniche Antipode",
+      "catalog": "MBPEVT025",
+      "image": "/assets/img/event/MBPEVT025.webp",
+      "date": "2025-11-30",
+      "place": "Péniche Antipode - Paris",
+      "link": "https://www.facebook.com/events/1337424548089295",
+      "description": {
+        "en": "The trio A.R.N. Messengers and the rock quintet Enjoy The Moment take over the stage of the Péniche Antipode in Paris for an afternoon at the crossroads of Jazz Fusion, Progressive Rock, and Hard Rock. This concert is the perfect opportunity to enjoy a Sunday where the setting and the music will come together beautifully to offer a warm, friendly, and unforgettable moment.",
+        "fr": "Le trio A.R.N. Messengers et le quintet rock Enjoy The Moment investissent la scène de la Péniche Antipode à Paris pour une après-midi à la croisée du Jazz Fusion, du Rock Progressif et du Hard Rock. Ce concert est l'occasion de profiter d'un dimanche où le cadre et la musique s'uniront à merveille pour offrir un moment chaleureux, convivial et inoubliable."
+      },
+      "starring": [
+        {
+          "name": "A.R.N. Messengers",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }, {
+          "name": "Enjoy The Moment",
+          "url": "https://www.youtube.com/@Enjoy-The-Moment-78"
+        }
+      ]
+    }, {
+      "title": "A.R.N. Messengers débarque au Noktabül + Guest Pierrick Biffot Trio",
+      "catalog": "MBPEVT024",
+      "image": "/assets/img/event/MBPEVT024.webp",
+      "date": "2025-10-23",
+      "place": "Café-Concert Noktambül - Rennes",
+      "link": "https://www.facebook.com/events/772543365541475",
+      "description": {
+        "en": "The A.R.N. Messengers Trio takes the stage at Noktambül for an evening dedicated to Jazz Fusion. Get ready for an explosive encounter: three close-knit musicians, driven by contagious energy, will take you on a vibrant and daring sonic journey.",
+        "fr": "Le trio A.R.N. Messengers s'invite sur la scène du Noktambül pour une soirée sous le signe du Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative."
+      },
+      "starring": [
+        {
+          "name": "A.R.N. Messengers",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }
+      ]
+    }, {
       "title": "A.R.N. Messengers débarque au Hangar Dreux",
       "catalog": "MBPEVT023",
       "image": "/assets/img/event/MBPEVT023.webp",
