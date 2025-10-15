@@ -35,6 +35,7 @@ class MerchPage extends AbstractMBP {
     return new Promise((resolve) => {
       Utils.replaceNlsString(this._dom, 'MERCH_MUSIC', this._nls.merch.music);
       Utils.replaceNlsString(this._dom, 'MERCH_APPAREL', this._nls.merch.apparel);
+      Utils.replaceNlsString(this._dom, 'MERCH_BOOKS', this._nls.merch.books);
       resolve();
     });
   }
@@ -52,6 +53,12 @@ class MerchPage extends AbstractMBP {
       for (let i = 0; i < this._merchData.apparel.length; ++i) {
         const collection = this.__buildApparelMerch(this._merchData.apparel[i]);
         apparel.appendChild(collection);
+      }
+
+      const books = this._dom.querySelector('#books-merch');
+      for (let i = 0; i < this._merchData.books.length; ++i) {
+        const book = this.__buildBooksMerch(this._merchData.books[i]);
+        books.appendChild(book);
       }
 
       resolve();
@@ -156,6 +163,60 @@ class MerchPage extends AbstractMBP {
     collection.appendChild(submit);
 
     return collection;
+  }
+
+
+  __buildBooksMerch(data) {
+    const book = document.createElement('DIV');
+    book.classList.add('item');
+
+    const image = document.createElement('IMG');
+    image.src = data.image;
+
+    const name = document.createElement('H2');
+    name.innerHTML = data.name;
+
+    const designed = document.createElement('P');
+    designed.innerHTML = `${this._nls.merch.by} <b>${data.writter}</b><br><br>`;
+
+    const regularPrice = document.createElement('P');
+    regularPrice.innerHTML = `${this._nls.merch.regularBook} : <b>${data.price.regular}*</b>`;
+
+    const signedPrice = document.createElement('P');
+    signedPrice.innerHTML = `${this._nls.merch.signedBook} : <b>${data.price.signed}*</b>`;
+
+    const postageFee = document.createElement('I');
+    postageFee.innerHTML = this._nls.merch.postageFee;
+
+    const submit = document.createElement('BUTTON');
+    submit.innerHTML = this._nls.merch.orderOne;
+
+    if (data.remaining === 0) {
+      const soldOut = document.createElement('P');
+      soldOut.classList.add('sold-out');
+      soldOut.innerHTML = this._nls.merch.soldOut;
+      book.appendChild(soldOut);
+      submit.setAttribute('disabled', 'disabled');
+    } else {
+      const remaining = document.createElement('P');
+      remaining.classList.add('remaining');
+      remaining.innerHTML = `${data.remaining} ${this._nls.merch.remaining}`;
+      book.appendChild(remaining);
+
+      submit.addEventListener('click', () => {
+        window.open(`mailto:contact@messe-basse-production.com?subject=Commander le livre ${data.name}&body=Bonjour, je souhaite commander le livre ${data.name} de ${data.writter}. Nos équipes prennent en compte votre demande, et reviennent au plus vite vers vous. Merci de votre confiance!`, '_self');
+      });
+    }
+
+    book.appendChild(image);
+    book.appendChild(name);
+    book.appendChild(designed);
+    book.appendChild(regularPrice);
+    book.appendChild(signedPrice);
+    book.appendChild(postageFee);
+    book.appendChild(submit);
+
+    return book;
   }
 
 

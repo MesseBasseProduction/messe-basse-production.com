@@ -55,9 +55,12 @@
   "merch": {
     "apparel": "Collections",
     "music": "Disques",
+    "books": "Livres",
     "by": "Par",
     "regularAlbum": "Album standard",
     "signedAlbum": "Album dédicacé",
+    "regularBook": "Livre standard",
+    "signedBook": "Livre dédicacé",
     "postageFee": "*Frais de ports non inclus",
     "orderOne": "Commandez le votre!",
     "soldOut": "Épuisé!",

@@ -55,9 +55,12 @@
   "merch": {
     "apparel": "Apparel",
     "music": "Music",
+    "books": "Books",
     "by": "By",
     "regularAlbum": "Regular release",
     "signedAlbum": "Signed copy",
+    "regularBook": "Regular book",
+    "signedBook": "Signed copy",
     "postageFee": "*Postage not included",
     "orderOne": "Order one now!",
     "soldOut": "Sold out!",

@@ -5,8 +5,9 @@
       "designer": "Guillaume Crantz",
       "type": "Unisex T-Shirts",
       "catalog": "MBPMC003",
+      "year": "2023",
       "price": "25€",
-      "image": "/assets/img/merch/powerplant.webp",
+      "image": "/assets/img/merch/MBPMC003.webp",
       "remaining": 0
     }
   ],
@@ -14,39 +15,57 @@
     {
       "name": "Guillaume Beaulieu – Fantaisies pour flûte seule sans basse",
       "catalog": "MBPMC005",
+      "year": "2024",
       "price": {
         "regular": "15€",
         "signed": "18€"
       },
-      "image": "/assets/img/merch/fantaisies.webp",
+      "image": "/assets/img/merch/MBPMC005.webp",
       "remaining": 200
     }, {
       "name": "The Forge – Musaïc",
       "catalog": "MBPMC004",
+      "year": "2024",
       "price": {
         "regular": "5€",
         "signed": "7€"
       },
-      "image": "/assets/img/merch/musaic.webp",
+      "image": "/assets/img/merch/MBPMC004.webp",
       "remaining": 50
-    }, {
-      "name": "NAC – Dystopie",
-      "catalog": "MBPMC001",
-      "price": {
-        "regular": "5€",
-        "signed": "7€"
-      },
-      "image": "/assets/img/merch/dystopie.webp",
-      "remaining": 80
     }, {
       "name": "The Forge – Etica Nikomak",
       "catalog": "MBPMC002",
+      "year": "2021",
       "price": {
         "regular": "5€",
         "signed": "7€"
       },
-      "image": "/assets/img/merch/etica.webp",
+      "image": "/assets/img/merch/MBPMC002.webp",
       "remaining": 15
+    }, {
+      "name": "NAC – Dystopie",
+      "catalog": "MBPMC001",
+      "year": "2021",
+      "price": {
+        "regular": "5€",
+        "signed": "7€"
+      },
+      "image": "/assets/img/merch/MBPMC001.webp",
+      "remaining": 80
+    }
+  ],
+  "books": [
+    {
+      "name": "La Commune de Sermaise (1899)",
+      "writter": "Arthur Beaulieu",
+      "catalog": "MBPMC006",
+      "year": "2025",
+      "price": {
+        "regular": "10€",
+        "signed": "12€"
+      },
+      "image": "/assets/img/merch/MBPMC006.webp",
+      "remaining": 55
     }
   ]
 }
