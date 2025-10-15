@@ -105,6 +105,11 @@ module.exports = Object.freeze([
     entarget: '/artist/enjoy-the-moment/releases/enjoy-the-moment'
   },
   {
+    inputUrl: '/MBPLP020',
+    frtarget: '/artiste/arn-messengers/albums/arn-messengers-debarque-au-sunset',
+    entarget: '/artist/arn-messengers/releases/arn-messengers-debarque-au-sunset'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'
@@ -433,5 +438,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP054',
     frtarget: '/artiste/noiiske/albums/one-your-love',
     entarget: '/artist/noiiske/releases/one-your-love'
+  },
+  {
+    inputUrl: '/MBPSP055',
+    frtarget: '/artiste/drop-die/albums/crs-remix-uptempo',
+    entarget: '/artist/drop-die/releases/crs-remix-uptempo'
   }
 ]);
