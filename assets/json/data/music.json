@@ -1,6 +1,121 @@
 {
   "artists": [
     {
+      "name": "Drop Die",
+      "internalUrl": "drop-die",
+      "genres": ["Hardcore", "Frapcore", "Hardtek", "Uptempo"],
+      "image": "/assets/img/band/dropdie.webp",
+      "mainLink": "https://www.instagram.com/juliendropdie2.0/",
+      "releases": ["MBPSP055", "MBPSP053", "MBPSP052", "MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/juliendropdie2.0/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@dropdieprod"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/drop-die/1261237"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Drop+Die/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/1GZ0CJNiNV64LQhsRhk7bW"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/drop-die/1576439346"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B099DD5WRR/drop-die"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/139113932"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/drop-die/25528716"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/26996279"
+        }, {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/15233280-Drop-Die"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/a6c61e8d-5bb8-4d61-a1ed-5204fdef549a"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Drop Die</i> est un producteur et DJ français fervent défenseur dans la scène Hardcore et Frapcore, avec un parcours marqué par son engagement dans les raves et les <i>free parties</i>. Il se distingue par son approche indépendante et son attachement à la culture undergound. Ses sets et productions, directes et sans compromis, combinent une technique irréprochable et une énergie brute.<br><br><i>Drop Die</i> a développé au fil des années un style musical rugueux et sauvage, reflet de l’énergie inaltéré qui le traverse. En tant que producteur, il reste fidèle à l’esprit de la rave : ses morceaux sont sombres, percutants, et conçus pour frapper fort ; sans concessions.",
+        "en": "<i>Drop Die</i> is a French producer and DJ, a fervent supporter of the Hardcore and Frapcore scene, with a background marked by his involvement in raves and <i>free parties</i>. He stands out for his independent approach and his commitment to underground culture. His directed and uncompromising sets and productions combine impeccable technique and raw energy. <br><br><i>Drop Die</i> has developed over the years a rough and wild musical style, a reflection of the unadulterated energy that runs through him. As a producer, he remains faithful to the spirit of rave: his tracks are dark, hard-hitting, and designed to hit hard; without compromise."
+      },
+      "shortBio": {
+        "fr": "DJ et producteur français de la scène Hardcore et Frapcore, reconnu pour son engagement dans la culture underground. Son style intense et sans détours incarne pleinement l’essence des raves et free parties.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Drop Die</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de techno énervée bienvenue au catalogue de l'Association.",
+        "en": "French DJ and producer from the Hardcore and Frapcore scene, recognized for his commitment to underground culture. His intense and straightforward style fully embodies the essence of raves and free parties.<br><br>This partnership between <i>Drop Die</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome hint of edgy techno to the Association's catalog."
+      }
+    }, {
+      "name": "A.R.N. Messengers",
+      "internalUrl": "arn-messengers",
+      "genres": ["Jazz Fusion", "Progressive Rock"],
+      "image": "/assets/img/band/arn-messengers.webp",
+      "imageCredits": "<a href=\"#\">Marie Bauduin</a>",
+      "mainLink": "https://arn-messengers.com",
+      "releases": ["MBPLP020", "MBPEP002"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/arn.messengers"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/arn-messengers"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/6zmwgbDRfZ1m2x1dq3iKrK"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com//artist/a-r-n-messengers/1738476299"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0CZ9RQCPW/a-r-n-messengers"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/260143511"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/arn-messengers/21934809"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/46788772"
+        }, {
+          "type": "bandcamp",
+          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/16228780-ARN-Messengers"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/77dac6ce-b4e0-429b-9b10-beacaf659e10"
+        }
+      ],
+      "bio": {
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses : Nicolas Macassian à la guitare, Antoine Leiser à la basse et Rémy Boulogne à la batterie. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz, l'énergie du rock et les textures modernes des musiques actuelles.<br><br>Formé autour d'une passion commune pour l'improvisation et les rythmes complexes, le trio développe une identité forte, qui mêle à merveille les influences de chacun. Leurs  compositions originales sont des explorations : tantôt planantes, tantôt survoltées, mais toujours authentique et vivante.<br><br>Porté par une ambition claire et une complicité musicale rare, A.R.N. Messengers entend bien s'imposer sur la scène jazz contemporaine française et au-delà. Le trio poursuit son ascension avec ferveur, prêt à repousser les limites du genre.",
+        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music collide.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that skillfully blends each member’s influences. Their original compositions are sonic explorations—sometimes ethereal, sometimes electrifying, but always authentic and alive.<br><br>Driven by a clear ambition and a rare musical connection, A.R.N. Messengers aims to make their mark on the contemporary French jazz scene and beyond. The trio continues its rise with fervor, ready to push the boundaries of the genre."
+      },
+      "shortBio": {
+        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jazz fusion bienvenue au catalogue de l'Association.",
+        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians. Together, they weave a sonic universe where the freedom of jazz meets the energy of rock.<br><br>This partnership between <i>A.R.N. Messengers</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of jazz fusion to the Association's catalog."
+      }
+    }, {
       "name": "Enjoy The Moment",
       "internalUrl": "enjoy-the-moment",
       "genres": ["Progressive Rock", "Hard Rock"],
@@ -167,121 +282,6 @@
       "shortBio": {
         "fr": "Producteur et DJ prodige de la <i>bass music</i> toulousaine, qui manie le séquenceur avec une énergie explosive ; au programme, des productions percutantes et un humour ravageur.<br><br>C'est à partir de 2025 que ce partenariat entre <i>NOIISKE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon d'humour et des basses qui font wub wub au catalogue, tout ce dont ce monde a besoin.",
         "en": "A prodigious bass music producer and DJ from Toulouse, wielding the sequencer with explosive energy—expect hard-hitting productions and devastating humor.<br><br>This partnership between NOIISKE and Messe Basse Production kicks off in 2025, bringing a touch of humor and wub wub bass to the catalog—just what the world needs."
-      }
-    }, {
-      "name": "Drop Die",
-      "internalUrl": "drop-die",
-      "genres": ["Hardcore", "Frapcore", "Hardtek"],
-      "image": "/assets/img/band/dropdie.webp",
-      "mainLink": "https://www.instagram.com/juliendropdie2.0/",
-      "releases": ["MBPSP053", "MBPSP052", "MBPSP051", "MBPSP050", "MBPSP049", "MBPSP048", "MBPSP047", "MBPSP046", "MBPSP045", "MBPSP043", "MBPSP042"],
-      "links": [
-        {
-          "type": "instagram",
-          "url": "https://www.instagram.com/juliendropdie2.0/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@dropdieprod"
-        }, {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/drop-die-prod"
-        }, {
-          "type": "beatport",
-          "url": "https://www.beatport.com/artist/drop-die/1261237"
-        }, {
-          "type": "juno",
-          "url": "https://www.junodownload.com/artists/Drop+Die/"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/1GZ0CJNiNV64LQhsRhk7bW"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/drop-die/1576439346"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B099DD5WRR/drop-die"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/139113932"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/drop-die/25528716"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/26996279"
-        }, {
-          "type": "bandcamp",
-          "url": "https://dropdie.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/15233280-Drop-Die"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/a6c61e8d-5bb8-4d61-a1ed-5204fdef549a"
-        }
-      ],
-      "bio": {
-        "fr": "<i>Drop Die</i> est un producteur et DJ français fervent défenseur dans la scène Hardcore et Frapcore, avec un parcours marqué par son engagement dans les raves et les <i>free parties</i>. Il se distingue par son approche indépendante et son attachement à la culture undergound. Ses sets et productions, directes et sans compromis, combinent une technique irréprochable et une énergie brute.<br><br><i>Drop Die</i> a développé au fil des années un style musical rugueux et sauvage, reflet de l’énergie inaltéré qui le traverse. En tant que producteur, il reste fidèle à l’esprit de la rave : ses morceaux sont sombres, percutants, et conçus pour frapper fort ; sans concessions.",
-        "en": "<i>Drop Die</i> is a French producer and DJ, a fervent supporter of the Hardcore and Frapcore scene, with a background marked by his involvement in raves and <i>free parties</i>. He stands out for his independent approach and his commitment to underground culture. His directed and uncompromising sets and productions combine impeccable technique and raw energy. <br><br><i>Drop Die</i> has developed over the years a rough and wild musical style, a reflection of the unadulterated energy that runs through him. As a producer, he remains faithful to the spirit of rave: his tracks are dark, hard-hitting, and designed to hit hard; without compromise."
-      },
-      "shortBio": {
-        "fr": "DJ et producteur français de la scène Hardcore et Frapcore, reconnu pour son engagement dans la culture underground. Son style intense et sans détours incarne pleinement l’essence des raves et free parties.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Drop Die</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de techno énervée bienvenue au catalogue de l'Association.",
-        "en": "French DJ and producer from the Hardcore and Frapcore scene, recognized for his commitment to underground culture. His intense and straightforward style fully embodies the essence of raves and free parties.<br><br>This partnership between <i>Drop Die</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome hint of edgy techno to the Association's catalog."
-      }
-    }, {
-      "name": "A.R.N. Messengers",
-      "internalUrl": "arn-messengers",
-      "genres": ["Jazz Fusion", "Progressive Rock"],
-      "image": "/assets/img/band/arn-messengers.webp",
-      "imageCredits": "<a href=\"#\">Marie Bauduin</a>",
-      "mainLink": "https://arn-messengers.com",
-      "releases": ["MBPEP002"],
-      "links": [
-        {
-          "type": "facebook",
-          "url": "https://www.facebook.com/arn.messengers"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@A.R.N.Messengers"
-        }, {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/arn-messengers"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/6zmwgbDRfZ1m2x1dq3iKrK"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com//artist/a-r-n-messengers/1738476299"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0CZ9RQCPW/a-r-n-messengers"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/260143511"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/arn-messengers/21934809"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/46788772"
-        }, {
-          "type": "bandcamp",
-          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/16228780-ARN-Messengers"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/77dac6ce-b4e0-429b-9b10-beacaf659e10"
-        }
-      ],
-      "bio": {
-        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses : Nicolas Macassian à la guitare, Antoine Leiser à la basse et Rémy Boulogne à la batterie. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz, l'énergie du rock et les textures modernes des musiques actuelles.<br><br>Formé autour d'une passion commune pour l'improvisation et les rythmes complexes, le trio développe une identité forte, qui mêle à merveille les influences de chacun. Leurs  compositions originales sont des explorations : tantôt planantes, tantôt survoltées, mais toujours authentique et vivante.<br><br>Porté par une ambition claire et une complicité musicale rare, A.R.N. Messengers entend bien s'imposer sur la scène jazz contemporaine française et au-delà. Le trio poursuit son ascension avec ferveur, prêt à repousser les limites du genre.",
-        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music collide.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that skillfully blends each member’s influences. Their original compositions are sonic explorations—sometimes ethereal, sometimes electrifying, but always authentic and alive.<br><br>Driven by a clear ambition and a rare musical connection, A.R.N. Messengers aims to make their mark on the contemporary French jazz scene and beyond. The trio continues its rise with fervor, ready to push the boundaries of the genre."
-      },
-      "shortBio": {
-        "fr": "<i>A.R.N. Messengers</i> est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz et l'énergie du rock.<br><br>C'est à partir de 2025 que ce partenariat entre <i>A.R.N. Messengers</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un vent de jazz fusion bienvenue au catalogue de l'Association.",
-        "en": "<i>A.R.N. Messengers</i> is an instrumental jazz fusion trio born from the explosive meeting of three virtuoso musicians. Together, they weave a sonic universe where the freedom of jazz meets the energy of rock.<br><br>This partnership between <i>A.R.N. Messengers</i> and <i>Messe Basse Production</i> begins in 2025, bringing a welcome wave of jazz fusion to the Association's catalog."
       }
     }, {
       "name": "DVPE",
@@ -3612,10 +3612,10 @@
       "artist": ["Enjoy The Moment"],
       "date": "2025-09-08",
       "image": "/assets/img/music/MBPLP019.webp",
-      "mainLink": "",
+      "mainLink": "https://www.youtube.com/watch?v=cQkbZ8wtCsM&list=PLp5D05IpZHwJLASTNkp19aXLTWaWGsOc1",
       "duration": "44:53",
       "EAN": "0642613378048",
-      "styles": ["Experimental"],
+      "styles": ["Alternative Rock", "Indie Rock", "Progressive Rock"],
       "credits": [
         { "record": ["Julien Goutte-Broze"] },
         { "mix": ["Julien Goutte-Broze"] },
@@ -3759,6 +3759,125 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Enjoy-the-moment/Enjoy-the-moment"
+        }
+      ]
+    },
+    "MBPLP020": {
+      "name": "A.R.N. Messengers Débarque Au Sunset",
+      "artist": ["A.R.N. Messengers"],
+      "date": "2025-10-09",
+      "image": "/assets/img/music/MBPLP020.webp",
+      "mainLink": "https://www.youtube.com/watch?v=Wqga6w2H-vE&list=PLp5D05IpZHwIZ_DPPPyJ5-gXOEq-uFhZN",
+      "duration": "01:11:45",
+      "EAN": "0642613556613",
+      "styles": ["Jazz Fusion", "Jazz"],
+      "credits": [
+        { "record": ["Victor Canceles"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Marie Bauduin"] },
+        { "bass": ["Antoine Leiser"] },
+        { "drums": ["Rémy Boulogne"] },
+        { "guitar": ["Nicolas Macassian"] }
+      ],
+      "tracks": [
+        {
+          "title": "Aerial Shock Wave",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "06:42",
+          "ISRC": "FR-9W1-25-54606",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Foot Trip",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "08:35",
+          "ISRC": "FR-9W1-25-54607",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Rabbit Hole",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "06:14",
+          "ISRC": "FR-9W1-25-54608",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Free Fall",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "08:16",
+          "ISRC": "FR-9W1-25-54609",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Searching For Mushin",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "05:00",
+          "ISRC": "FR-9W1-25-54610",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Interweave",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "08:32",
+          "ISRC": "FR-9W1-25-54611",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Honneur À La Guitare",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "04:29",
+          "ISRC": "FR-9W1-25-54612",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Which Way Please",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "08:04",
+          "ISRC": "FR-9W1-25-54613",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Honneur À La Basse",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "07:06",
+          "ISRC": "FR-9W1-25-54614",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }, {
+          "title": "Off Trail",
+          "artist": ["A.R.N. Messengers"],
+          "duration": "08:48",
+          "ISRC": "FR-9W1-25-54615",
+          "credits": [
+            { "composer": ["Antoine Leiser", "Nicolas Macassian", "Rémy Boulogne"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://arnmessengers.bandcamp.com/album/a-r-n-messengers-d-barque-au-sunset"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=Wqga6w2H-vE&list=PLp5D05IpZHwIZ_DPPPyJ5-gXOEq-uFhZN"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/35327044"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/50e88413-dd14-4411-b17d-71f0e16d512a"
         }
       ]
     },
@@ -6846,6 +6965,53 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/0374c7ed-7241-424b-a3b9-66170312e9ee"
+        }
+      ]
+    },
+    "MBPSP055": {
+      "name": "CRS Remix Uptempo",
+      "artist": ["Drop Die"],
+      "date": "2025-10-16",
+      "image": "/assets/img/music/MBPSP055.webp",
+      "mainLink": "",
+      "duration": "02:25",
+      "EAN": "0642613370325",
+      "styles": ["Hard Techno"],
+      "about": {
+        "fr": "Avec ce remix uptempo de CRS, Drop Die délivre une déflagration sonore taillée pour les raves les plus sombres. C'est une déclaration féroce contre le système — un cri électronique qui s'élève tout droit des rues.<br><br>Énergie rebelle, rage maîtrisée et puissance rave pure — CRS Remix Uptempo s'impose comme un hymne underground pour ceux qui refusent de baisser le volume.",
+        "en": "With this uptempo remix of CRS, Drop Die delivers a sonic punch crafted for the darkest raves. It drops a fierce statement against the system — an electronic cry rising straight from the streets.<br><br>Rebellious energy, controlled rage, and pure rave power — CRS Remix Uptempo stands as an underground anthem for those who refuse to turn the volume down."
+      },
+      "credits": [
+        { "record": ["Drop Die"] },
+        { "mix": ["Drop Die"] },
+        { "master": ["Drop Die"] },
+        { "producer": ["Arthur Beaulieu", "Drop Die"] },
+        { "artwork": ["Drop Die"] },
+        { "illustration": ["Drop Die"] },
+        { "keyboard": ["Drop Die"] },
+        { "drums": ["Drop Die"] }
+      ],
+      "tracks": [
+        {
+          "title": "CRS Remix Uptempo",
+          "artist": ["Drop Die"],
+          "duration": "02:25",
+          "ISRC": "FR-9W1-25-57332",
+          "credits": [
+            { "composer": ["Drop Die"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://dropdie.bandcamp.com/album/crs-remix-uptempo"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/35370307"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/63e01840-4e4d-4407-bfca-67a071dbbfac"
         }
       ]
     },
