@@ -1,6 +1,29 @@
 {
   "events": [
     {
+      "title": "Éphémère'n'Roll",
+      "catalog": "MBPEVT026",
+      "image": "/assets/img/event/MBPEVT026.webp",
+      "date": "2026-01-17",
+      "place": "Le Tremplin - Châteaufort",
+      "link": "https://www.facebook.com/events/748947891514829",
+      "description": {
+        "en": "One day. Seven bands. Riffs, laughter, and new connections. On January 17, 2026, Châteaufort becomes the capital of heavy sound for a single day. Welcome to Éphémère'n'Roll — where music comes alive, if only for a moment.",
+        "fr": "Un jour. Sept groupes. Des riffs, des rires et des rencontres. Le 17 janvier 2026, Châteaufort devient la capitale du gros son le temps d'une journée. Bienvenue à Éphémère'n'Roll — là où la musique vit, le temps d'un instant."
+      },
+      "starring": [
+        {
+          "name": "A.R.N. Messengers",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }, {
+          "name": "NAC",
+          "url": "https://nac.band/"
+        }, {
+          "name": "The Forge",
+          "url": "https://theforge.band/"
+        }
+      ]
+    }, {
       "title": "A.R.N. Messengers // Enjoy The Moment à la Péniche Antipode",
       "catalog": "MBPEVT025",
       "image": "/assets/img/event/MBPEVT025.webp",
