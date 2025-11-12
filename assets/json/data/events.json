@@ -2,8 +2,8 @@
   "events": [
     {
       "title": "Éphémère'n'Roll",
-      "catalog": "MBPEVT026",
-      "image": "/assets/img/event/MBPEVT026.webp",
+      "catalog": "MBPEVT027",
+      "image": "/assets/img/event/MBPEVT027.webp",
       "date": "2026-01-17",
       "place": "Le Tremplin - Châteaufort",
       "link": "https://www.facebook.com/events/748947891514829",
@@ -21,6 +21,23 @@
         }, {
           "name": "The Forge",
           "url": "https://theforge.band/"
+        }
+      ]
+    }, {
+      "title": "A.R.N. Messengers de retour au Hangar Dreux",
+      "catalog": "MBPEVT026",
+      "image": "/assets/img/event/MBPEVT026.webp",
+      "date": "2025-12-06",
+      "place": "Le Hangar Dreux, Bar - Dreux",
+      "link": "https://www.facebook.com/events/832486199404169",
+      "description": {
+        "en": "The A.R.N. Messengers Trio takes the stage at Hangar Dreux for an evening dedicated to Jazz Fusion. Get ready for an explosive encounter: three close-knit musicians, driven by contagious energy, will take you on a vibrant and daring sonic journey.",
+        "fr": "Le trio A.R.N. Messengers s'invite de nouveau sur la scène du Hangar Dreux pour une soirée sous le signe du Jazz Fusion. Après une prestation remarquée le 27 septembre dernier, le trio de musiciens complices, à l'énergie communicative, aura le plaisir de vous envoyer son set."
+      },
+      "starring": [
+        {
+          "name": "A.R.N. Messengers",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
         }
       ]
     }, {
