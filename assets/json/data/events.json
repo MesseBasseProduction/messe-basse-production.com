@@ -1,6 +1,23 @@
 {
   "events": [
     {
+      "title": "A.R.N. Messengers débarque à La Java",
+      "catalog": "MBPEVT029",
+      "image": "/assets/img/event/MBPEVT029.webp",
+      "date": "2026-02-28",
+      "place": "La Java - Paris",
+      "link": "https://www.facebook.com/events/1526675798673961",
+      "description": {
+        "en": "The trio A.R.N. Messengers takes over the stage of the legendary La Java for an evening of Jazz Fusion. An explosive encounter awaits you, driven by three close-knit musicians with contagious energy.",
+        "fr": "Le trio A.R.N. Messengers investit la scène légendaire de La Java pour une soirée sous le signe du Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative."
+      },
+      "starring": [
+        {
+          "name": "A.R.N. Messengers",
+          "url": "https://www.youtube.com/@A.R.N.Messengers"
+        }
+      ]
+    }, {
       "title": "Éphémère'n'Roll",
       "catalog": "MBPEVT027",
       "image": "/assets/img/event/MBPEVT027.webp",
