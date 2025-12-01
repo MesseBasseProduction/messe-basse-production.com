@@ -443,5 +443,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP055',
     frtarget: '/artiste/drop-die/albums/crs-remix-uptempo',
     entarget: '/artist/drop-die/releases/crs-remix-uptempo'
+  },
+  {
+    inputUrl: '/MBPSP056',
+    frtarget: '/artiste/noiiske/albums/papi',
+    entarget: '/artist/noiiske/releases/papi'
   }
 ]);

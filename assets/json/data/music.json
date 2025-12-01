@@ -1,6 +1,67 @@
 {
   "artists": [
     {
+      "name": "NOIISKE",
+      "internalUrl": "noiiske",
+      "genres": ["Dubstep", "Trap"],
+      "image": "/assets/img/band/noiiske.webp",
+      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
+      "mainLink": "https://linktr.ee/noiiske",
+      "releases": ["MBPSP056", "MBPSP054", "MBPEP001"],
+      "links": [
+        {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost"
+        }, {
+          "type": "instagram",
+          "url": "https://www.instagram.com/noiiske/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@noiiske"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/artist/noiiske/1078617"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/artists/Noiiske/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/629qQ6NZRWzSUZg8PPc2aQ"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/noiiske/1642427582"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0BC4M1Y3L"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/182472887"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/noiiske/15729932"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/34699313"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/13921693-NOIISKE"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/5f0f5e0a-9c18-4981-865b-b67cbceba9b1"
+        }
+      ],
+      "bio": {
+        "fr": "<i>NOIISKE</i> est l'un des nouveaux talents émergents de la Sunless Agency, la jeune écurie qui fait vibrer la scène <i>bass music</i> toulousaine et internationale. Hyperactif et toujours en quête de nouvelles sonorités, il s'impose par sa productivité impressionnante, son engagement sur les réseaux et sa présence dans divers projets musicaux, notamment au sein de Yann Records, Cluster Traxx ou Torsade Records.<br><br>Derrière son alias aux consonances industrielles, NOIISKE concote des tracks puissantes entre autres expérimentations sonores, le tout saupoudré d'une touche d'humour corrosif qui le rend aussi addictif qu'inclassable. Fort d'une signature sonore percutante, il affirme son identité musicale à travers des productions toujours précises et des set mémorables en club, captivant un public avide de basses massives. Entre drops chirurgicaux et transitions inattendues, NOIISKE sait créer l'effet de surprise et transporter son audience dans un univers où le wub wub est roi.<br><br>Que ce soit derrière les platines ou en studio, il ne cesse de repousser les limites du genre, prouvant que la <i>bass music</i> a encore de beaux jours devant elle. Avec NOIISKE, attendez-vous à un voyage sonore intense, où la gravité semble céder sous la puissance des basses.",
+        "en": "<i>NOIISKE</i> is one of the rising talents emerging from Sunless Agency, the young collective shaking up the Toulouse and international bass music scene. Hyperactive and constantly seeking new sounds, he stands out with his impressive productivity, strong social media presence, and involvement in various musical projects, including Yann Records, Cluster Traxx, and Torsade Records.<br><br>Behind his industrial-sounding alias, NOIISKE crafts powerful tracks alongside other sonic experiments, all sprinkled with a dose of corrosive humor that makes him as addictive as he is unclassifiable. Armed with a striking sonic signature, he asserts his musical identity through razor-sharp productions and unforgettable club sets, captivating an audience hungry for massive bass. With surgical drops and unexpected transitions, NOIISKE knows how to create surprise and immerse his listeners in a world where wub wub reigns supreme.<br><br>Whether behind the decks or in the studio, he constantly pushes the boundaries of the genre, proving that bass music has a bright future ahead. With NOIISKE, expect an intense sonic journey where gravity seems to give way under the sheer power of the bass."
+      },
+      "shortBio": {
+        "fr": "Producteur et DJ prodige de la <i>bass music</i> toulousaine, qui manie le séquenceur avec une énergie explosive ; au programme, des productions percutantes et un humour ravageur.<br><br>C'est à partir de 2025 que ce partenariat entre <i>NOIISKE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon d'humour et des basses qui font wub wub au catalogue, tout ce dont ce monde a besoin.",
+        "en": "A prodigious bass music producer and DJ from Toulouse, wielding the sequencer with explosive energy—expect hard-hitting productions and devastating humor.<br><br>This partnership between NOIISKE and Messe Basse Production kicks off in 2025, bringing a touch of humor and wub wub bass to the catalog—just what the world needs."
+      }
+    }, {
       "name": "Drop Die",
       "internalUrl": "drop-die",
       "genres": ["Hardcore", "Frapcore", "Hardtek", "Uptempo"],
@@ -221,67 +282,6 @@
       "shortBio": {
         "fr": "<i>Lionel Baudet</i> est un artiste solo polyvalent, alliant rock expérimental, influences psychédéliques, jazz fusion et touches électroniques, qui, de nombreuses années, développe une approche audacieuse du genre. Co-fondateur du groupe <i>NAC</i>, il continue de repousser les limites de la musique avec une créativité sans bornes.<br><br>C’est à partir de 2022 que ce partenariat entre <i>Lionel Baudet</i> et <i>Messe Basse Production</i> démarre, faisant ainsi souffler un vent experimental sur le catalogue de l'Association.",
         "en": "<i>Lionel Baudet</i> is a versatile solo artist, combining experimental rock, psychedelic influences, jazz fusion and electronic touches, who, over many years, has developed a bold approach to the genre. Co-founder of the group <i>NAC</i>, he continues to push the boundaries of music with boundless creativity.<br><br>This partnership between <i>Lionel Baudet</i> and <i>Messe Basse Production</i> begins in 2022, thus bringing an experimental wind to the Association's catalog."
-      }
-    }, {
-      "name": "NOIISKE",
-      "internalUrl": "noiiske",
-      "genres": ["Dubstep", "Trap"],
-      "image": "/assets/img/band/noiiske.webp",
-      "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
-      "mainLink": "https://linktr.ee/noiiske",
-      "releases": ["MBPSP054", "MBPEP001"],
-      "links": [
-        {
-          "type": "soundcloud",
-          "url": "https://soundcloud.com/nhc-lost"
-        }, {
-          "type": "instagram",
-          "url": "https://www.instagram.com/noiiske/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@noiiske"
-        }, {
-          "type": "beatport",
-          "url": "https://www.beatport.com/artist/noiiske/1078617"
-        }, {
-          "type": "juno",
-          "url": "https://www.junodownload.com/artists/Noiiske/"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/629qQ6NZRWzSUZg8PPc2aQ"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/noiiske/1642427582"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0BC4M1Y3L"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/182472887"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/noiiske/15729932"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/34699313"
-        }, {
-          "type": "bandcamp",
-          "url": "https://noiiske.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/13921693-NOIISKE"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/5f0f5e0a-9c18-4981-865b-b67cbceba9b1"
-        }
-      ],
-      "bio": {
-        "fr": "<i>NOIISKE</i> est l'un des nouveaux talents émergents de la Sunless Agency, la jeune écurie qui fait vibrer la scène <i>bass music</i> toulousaine et internationale. Hyperactif et toujours en quête de nouvelles sonorités, il s'impose par sa productivité impressionnante, son engagement sur les réseaux et sa présence dans divers projets musicaux, notamment au sein de Yann Records, Cluster Traxx ou Torsade Records.<br><br>Derrière son alias aux consonances industrielles, NOIISKE concote des tracks puissantes entre autres expérimentations sonores, le tout saupoudré d'une touche d'humour corrosif qui le rend aussi addictif qu'inclassable. Fort d'une signature sonore percutante, il affirme son identité musicale à travers des productions toujours précises et des set mémorables en club, captivant un public avide de basses massives. Entre drops chirurgicaux et transitions inattendues, NOIISKE sait créer l'effet de surprise et transporter son audience dans un univers où le wub wub est roi.<br><br>Que ce soit derrière les platines ou en studio, il ne cesse de repousser les limites du genre, prouvant que la <i>bass music</i> a encore de beaux jours devant elle. Avec NOIISKE, attendez-vous à un voyage sonore intense, où la gravité semble céder sous la puissance des basses.",
-        "en": "<i>NOIISKE</i> is one of the rising talents emerging from Sunless Agency, the young collective shaking up the Toulouse and international bass music scene. Hyperactive and constantly seeking new sounds, he stands out with his impressive productivity, strong social media presence, and involvement in various musical projects, including Yann Records, Cluster Traxx, and Torsade Records.<br><br>Behind his industrial-sounding alias, NOIISKE crafts powerful tracks alongside other sonic experiments, all sprinkled with a dose of corrosive humor that makes him as addictive as he is unclassifiable. Armed with a striking sonic signature, he asserts his musical identity through razor-sharp productions and unforgettable club sets, captivating an audience hungry for massive bass. With surgical drops and unexpected transitions, NOIISKE knows how to create surprise and immerse his listeners in a world where wub wub reigns supreme.<br><br>Whether behind the decks or in the studio, he constantly pushes the boundaries of the genre, proving that bass music has a bright future ahead. With NOIISKE, expect an intense sonic journey where gravity seems to give way under the sheer power of the bass."
-      },
-      "shortBio": {
-        "fr": "Producteur et DJ prodige de la <i>bass music</i> toulousaine, qui manie le séquenceur avec une énergie explosive ; au programme, des productions percutantes et un humour ravageur.<br><br>C'est à partir de 2025 que ce partenariat entre <i>NOIISKE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon d'humour et des basses qui font wub wub au catalogue, tout ce dont ce monde a besoin.",
-        "en": "A prodigious bass music producer and DJ from Toulouse, wielding the sequencer with explosive energy—expect hard-hitting productions and devastating humor.<br><br>This partnership between NOIISKE and Messe Basse Production kicks off in 2025, bringing a touch of humor and wub wub bass to the catalog—just what the world needs."
       }
     }, {
       "name": "DVPE",
@@ -7012,6 +7012,79 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/63e01840-4e4d-4407-bfca-67a071dbbfac"
+        }
+      ]
+    },
+    "MBPSP056": {
+      "name": "Papi",
+      "artist": ["NOIISKE"],
+      "date": "2025-11-28",
+      "image": "/assets/img/music/MBPSP056.webp",
+      "mainLink": "https://www.youtube.com/watch?v=qKI2zmQ-TOA&list=PLp5D05IpZHwLCEIJhQFNwDKERzVw3OLMO",
+      "duration": "04:10",
+      "EAN": "0642613617970",
+      "styles": ["Dubstep"],
+      "about": {
+        "fr": "Prépare tes subs — NOIISKE revient avec une nouvelle sortie sismique : Papi. Issu de la vibrante scène bass de Toulouse, NOIISKE livre une véritable masterclass de production dubstep moderne : lourde, précise et résolument raffinée. Le drop, avec son sound design unique, met en avant l'attention méticuleuse de NOIISKE pour le détail sonore et son talent pour créer des tracks qui font exploser les esprits.",
+        "en": "Prepare your subs — NOIISKE is back with a seismic new release ; Papi. Emerging from the vibrant bass scene of Toulouse, NOIISKE delivers a masterclass in modern dubstep production: heavy, precise, and unapologetically refined. The drop, with its unique sound design showcases NOIISKE's meticulous attention to sonic detail and his flair for crafting blowing minds tracks."
+      },
+      "credits": [
+        { "record": ["NOIISKE"] },
+        { "mix": ["NOIISKE"] },
+        { "master": ["NOIISKE"] },
+        { "producer": ["Arthur Beaulieu", "NOIISKE"] },
+        { "artwork": ["NOIISKE"] },
+        { "illustration": ["NOIISKE"] }
+      ],
+      "tracks": [
+        {
+          "title": "Papi",
+          "artist": ["NOIISKE"],
+          "duration": "04:10",
+          "ISRC": "FR-9W1-25-59404",
+          "credits": [
+            { "composer": ["NOIISKE"] },
+            { "author": [] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5BOfJBFIHqSOBaDmk8Hgci"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/papi/5557395"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/noiiske-papi/7341229-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/papi-single/1850748832"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FZLKQJVL"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/850216842"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/papi-noiiske/ror5s968mbmkb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/471633970"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/album/papi"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=A9fUgD5UK14&list=PLp5D05IpZHwJc2SX4IYkc9laBg916DeZa"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/35783974"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/558616ec-48ae-48cb-9e78-184a3863422d"
         }
       ]
     },
