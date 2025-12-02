@@ -52,6 +52,18 @@ module.exports = Object.freeze([
     ]
   },
   {
+    mainUrl: '/livres',
+    rootUrls: [
+      '/livres',
+      '/books'
+    ],
+    redirectionTarget: 'subpages/book',
+    redirectUrls: [
+      '/livre',
+      '/book'
+    ]
+  },
+  {
     mainUrl: '/produits',
     rootUrls: [
       '/produits',

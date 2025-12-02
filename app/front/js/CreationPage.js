@@ -35,6 +35,7 @@ class CreationPage extends AbstractMBP {
       Utils.replaceNlsString(this._dom, 'ART_VIDEO', this._nls.creation.video);
       Utils.replaceNlsString(this._dom, 'ART_PODCAST', this._nls.creation.podcast);
       Utils.replaceNlsString(this._dom, 'ART_PHOTO', this._nls.creation.photo);
+      //Utils.replaceNlsString(this._dom, 'ART_BOOK', this._nls.creation.book);
       Utils.replaceNlsString(this._dom, 'ART_MERCH', this._nls.creation.merch);
       Utils.replaceNlsString(this._dom, 'ART_SOFTWARE', this._nls.creation.software);
       Utils.replaceNlsString(this._dom, 'ART_CATALOG', this._nls.creation.catalog);
@@ -49,6 +50,7 @@ class CreationPage extends AbstractMBP {
       this._dom.querySelector('#video').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.video));
       this._dom.querySelector('#podcast').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.podcast));
       this._dom.querySelector('#photo').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.photo));
+      //this._dom.querySelector('#book').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.book));
       this._dom.querySelector('#merch').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.merch));
       this._dom.querySelector('#software').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.software));
       this._dom.querySelector('#catalog').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.catalog));

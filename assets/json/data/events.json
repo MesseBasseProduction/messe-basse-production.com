@@ -18,6 +18,23 @@
         }
       ]
     }, {
+      "title": "Enjoy The Moment @Meeple",
+      "catalog": "MBPEVT028",
+      "image": "/assets/img/event/MBPEVT028.webp",
+      "date": "2026-01-24",
+      "place": "Meeple Bar - Maurepas",
+      "link": "https://www.facebook.com/events/1356385606136696",
+      "description": {
+        "en": "Enjoy The Moment is at your service to set the Meeple Bar on fire and bring you a concert that will warm both your legs and your heart! Five musicians, one shared passion: making every moment vibrate 🎸🔥",
+        "fr": "Enjoy The Moment se met à votre service pour enflammer le Meeple Bar, et vous proposer un concert qui réchauffera les jambes et les cœurs! Cinq musiciens, une passion commune : faire vibrer l'instant 🎸🔥"
+      },
+      "starring": [
+        {
+          "name": "Enjoy The Moment",
+          "url": "https://www.youtube.com/@Enjoy-The-Moment-78"
+        }
+      ]
+    }, {
       "title": "Éphémère'n'Roll",
       "catalog": "MBPEVT027",
       "image": "/assets/img/event/MBPEVT027.webp",

@@ -11,6 +11,7 @@ module.exports = {
     EventPage: './app/front/js/EventPage.js',
     ContactPage: './app/front/js/ContactPage.js',
     ArtistPage: './app/front/js/subpages/ArtistPage.js',
+    BookPage: './app/front/js/subpages/BookPage.js',
     CatalogPage: './app/front/js/subpages/CatalogPage.js',
     MerchPage: './app/front/js/subpages/MerchPage.js',
     MusicPage: './app/front/js/subpages/MusicPage.js',

@@ -16,6 +16,7 @@
     "video": "Vidéo",
     "podcast": "Podcast",
     "photo": "Photographie",
+    "book": "Livre",
     "merch": "Produits",
     "software": "Logiciel",
     "catalog": "Catalogue"
@@ -137,6 +138,7 @@
     "video": "video",
     "podcast": "podcast",
     "photo": "photographie",
+    "book": "livres",
     "merch": "produits",
     "software": "logiciels",
     "catalog": "catalogue"
