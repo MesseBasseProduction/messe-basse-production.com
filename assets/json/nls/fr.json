@@ -30,6 +30,7 @@
     "description1": "Fraîchement déclarée, Messe Basse Production est une jeune association loi 1901, fondée par Arthur Beaulieu et David Béché. Amis de longue date et passionnés d'art sous toutes ses formes, nous avons emmagasinés des compétences tant techniques qu'artistique au fil des années. Animés par la volonté de mettre à contribution nos connaissances et notre savoir faire, nous avons fondé cette association avec la ferme intention d'en faire profiter des artistes ayant besoin de promouvoir leur art, de le rendre conforme aux normes de l'industrie pour ainsi leur permettre de se focaliser sur leurs créations.",
     "description2": "Les valeurs clés de Messe Basse Production, c'est <i>open source</i> et non lucratif. Nous avons à cœur de laisser aux artistes la paternité de leur projets, tout en les aidant à produire et promouvoir leurs œuvres afin de les laisser se concentrer au plus sur leur créativité.",
     "description3": "Vous souhaitez discuter avec nous de ces valeurs qui nous sont chères, ou vous souhaitez bénéficier d'une expertise et d'une structure pour la standardisation de votre musique, de vos podcasts, de vos films, de vos livres, de vos logiciels ou de vos collections textiles ? Ou peut-être voulez-vous nous rejoindre et apporter vos connaissances aux service des artistes qui nous font confiance ? Dans ce cas, contactez-nous :",
+    "documentation": "Dans un souci de transparence, vous retrouverez ci-après nos statuts associatifs, ainsi que les procès-verbaux d'assemblées générales afin de mieux saisir la portée de nos actions.",
     "team": "Voilà l'équipe qui n'attend plus que vous!",
     "roles": {
       "president": "Président",
@@ -40,7 +41,7 @@
       "communication": "Communication",
       "apparel": "Designer"
     },
-    "documentation": "Vous retrouverez ci-après nos statuts associatifs, ainsi que les procès-verbaux d'assemblées générales afin de mieux saisir la portée de nos actions.",
+    "tree": "Retrouvez Messe Basse Production en ligne",
     "aboutTitle": "Information",
     "aboutDescription1": "Ce site est hébergé par <a href=\"https://github.com/\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub.com</a>. Son code source est accesible sur le <a href=\"https://github.com/MesseBasseProduction/messe-basse-production.com\" target=\"_blank\" rel=\"noopener noreferrer\">dépot suivant</a> et est distribué sous la license libre <a href=\"https://github.com/MesseBasseProduction/messe-basse-production.com/blob/master/LICENSE\" target=\"_blank\" rel=\"noopener noreferrer\">GPL-3.0</a>.",
     "aboutDescription2": "L'Association <b>Messe Basse Production</b> est domicilée à <i>Sermaise – 91530</i>. Pour le mandat 2025 le Président est M. Arthur Beaulieu, le Trésorier est M. David Béché et le secrétaire est M. Raphaël Beekman.",

@@ -4,6 +4,49 @@
     "type": "Association loi 1901",
     "creation": "2021-09-06"
   },
+  "documents": [
+    {
+      "name": "Statuts v2",
+      "date": "2025-11-05",
+      "url": "/assets/doc/2025-11-05 - Statuts MBP.pdf"
+    }, {
+      "name": "PVAGE",
+      "date": "2025-11-05",
+      "url": "/assets/doc/2025-11-05 - PVAGE.pdf"
+    }, {
+      "name": "PVAGO",
+      "date": "2025-01-04",
+      "url": "/assets/doc/2025-01-04 - PVAGO.pdf"
+    }, {
+      "name": "PVAGO",
+      "date": "2024-01-04",
+      "url": "/assets/doc/2024-01-04 - PVAGO.pdf"
+    }, {
+      "name": "PVAGO",
+      "date": "2023-01-04",
+      "url": "/assets/doc/2023-01-04 - PVAGO.pdf"
+    }, {
+      "name": "PVAGO",
+      "date": "2022-01-08",
+      "url": "/assets/doc/2022-01-08 - PVAGO.pdf"
+    }, {
+      "name": "PVAGE",
+      "date": "2021-10-12",
+      "url": "/assets/doc/2021-10-12 - PVAGE.pdf"
+    }, {
+      "name": "PVAGE",
+      "date": "2021-09-10",
+      "url": "/assets/doc/2021-09-10 - PVAGE.pdf"
+    }, {
+      "name": "PVAGC",
+      "date": "2021-09-06",
+      "url": "/assets/doc/2021-09-06 - PVAGC.pdf"
+    }, {
+      "name": "Statuts v1",
+      "date": "2021-09-06",
+      "url": "/assets/doc/2021-09-06 - Statuts MBP.pdf"
+    }
+  ],
   "leaders": [
     {
       "name": "Arthur Beaulieu",
@@ -45,47 +88,75 @@
       "image": "/assets/img/asso/Erwan.webp"
     }
   ],
-  "documents": [
+  "links": [
     {
-      "name": "Statuts",
-      "date": "2025-11-05",
-      "url": "/assets/doc/2025-11-05 - Statuts MBP.pdf"
+      "name" : "Bandcamp",
+      "url": "https://messebasseproduction.bandcamp.com/",
+      "icon": "/assets/img/logo/bandcamp.svg"
     }, {
-      "name": "PVAGE",
-      "date": "2025-11-05",
-      "url": "/assets/doc/2025-11-05 - PVAGE.pdf"
+      "name" : "Beatport",
+      "url": "https://www.beatport.com/label/messe-basse-production/118956",
+      "icon": "/assets/img/logo/beatport.svg"
     }, {
-      "name": "PVAGO",
-      "date": "2025-01-04",
-      "url": "/assets/doc/2025-01-04 - PVAGO.pdf"
+      "name" : "Discogs",
+      "url": "https://www.discogs.com/label/2417359",
+      "icon": "/assets/img/logo/discogs.svg"
     }, {
-      "name": "PVAGO",
-      "date": "2024-01-04",
-      "url": "/assets/doc/2024-01-04 - PVAGO.pdf"
+      "name" : "Facebook",
+      "url": "https://www.facebook.com/messebasseproduction",
+      "icon": "/assets/img/logo/facebook.svg"
     }, {
-      "name": "PVAGO",
-      "date": "2023-01-04",
-      "url": "/assets/doc/2023-01-04 - PVAGO.pdf"
+      "name" : "Flickr",
+      "url": "https://www.flickr.com/photos/messebasseproduction/",
+      "icon": "/assets/img/logo/flickr.svg"
     }, {
-      "name": "PVAGO",
-      "date": "2022-01-08",
-      "url": "/assets/doc/2022-01-08 - PVAGO.pdf"
+      "name" : "Genius",
+      "url": "https://genius.com/artists/Messe-basse-production",
+      "icon": "/assets/img/logo/genius.svg"
     }, {
-      "name": "PVAGE",
-      "date": "2021-10-12",
-      "url": "/assets/doc/2021-10-12 - PVAGE.pdf"
+      "name" : "Github",
+      "url": "https://github.com/MesseBasseProduction",
+      "icon": "/assets/img/logo/github.svg"
     }, {
-      "name": "PVAGE",
-      "date": "2021-09-10",
-      "url": "/assets/doc/2021-09-10 - PVAGE.pdf"
+      "name" : "HelloAsso",
+      "url": "https://www.helloasso.com/associations/messe-basse-production",
+      "icon": "/assets/img/logo/helloasso.svg"
     }, {
-      "name": "PVAGC",
-      "date": "2021-09-06",
-      "url": "/assets/doc/2021-09-06 - PVAGC.pdf"
+      "name" : "Instagram",
+      "url": "https://www.instagram.com/messebasseproduction",
+      "icon": "/assets/img/logo/instagram.svg"
     }, {
-      "name": "Statuts",
-      "date": "2021-09-06",
-      "url": "/assets/doc/2021-09-06 - Statuts MBP.pdf"
+      "name" : "JunoDownload",
+      "url": "https://www.junodownload.com/labels/Messe+Basse+Production/",
+      "icon": "/assets/img/logo/juno.svg"
+    }, {
+      "name" : "LinkedIn",
+      "url": "https://www.linkedin.com/company/messe-basse-production/",
+      "icon": "/assets/img/logo/linkedin.svg"
+    }, {
+      "name" : "Mixcloud",
+      "url": "https://www.mixcloud.com/MesseBasseProduction/",
+      "icon": "/assets/img/logo/mixcloud.svg"
+    }, {
+      "name" : "MusicBrainz",
+      "url": "https://musicbrainz.org/label/46aaf733-2af9-4eb7-b48e-8b4855b9f801",
+      "icon": "/assets/img/logo/musicbrainz.svg"
+    }, {
+      "name" : "ShotGun",
+      "url": "https://shotgun.live/fr/venues/messe-basse-production",
+      "icon": "/assets/img/logo/shotgun.svg"
+    }, {
+      "name" : "Soundcloud",
+      "url": "https://soundcloud.com/messe-basse-production",
+      "icon": "/assets/img/logo/soundcloud.svg"
+    }, {
+      "name" : "X",
+      "url": "https://x.com/basse_messe",
+      "icon": "/assets/img/logo/x.svg"
+    }, {
+      "name" : "YouTube",
+      "url": "https://www.youtube.com/@messebasseproduction",
+      "icon": "/assets/img/logo/youtube.svg"
     }
   ]
 }

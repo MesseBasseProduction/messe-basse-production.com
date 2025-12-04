@@ -194,13 +194,73 @@ main.contact {
       margin-bottom: 0;
     }
 
+    .doc-wrapper {
+      background-color: var(--c-fg-a10);
+      border: solid 1px var(--c-fg-a30);
+      border-radius: var(--s-sl);
+      height: 14rem;
+      margin: var(--s-lg) auto;
+      margin-bottom: var(--s-bg);
+      width: 100%;
+
+      .doc-container {
+        align-items: center;
+        display: flex;
+        height: calc(100% - var(--default-scroll-size));
+
+        .doc-download {
+          align-items: center;
+          background-color: rgba(255, 255, 255, 0);
+          border-radius: .5rem;
+          color: var(--c-fg);
+          display: inline-block;
+          flex-direction: column;
+          justify-content: center;
+          margin: var(--s-sl) 0;
+          padding: var(--s);
+          text-decoration: none;
+          width: 16rem;
+
+          transition: all .3s;
+  
+          &:active,
+          &:focus,
+          &:hover {
+            background-color: var(--c-fg-a20);
+            transform: scale(1.05);
+          }
+
+          img {
+            height: 5rem;
+            margin-bottom: var(--s);
+            width: 10rem;
+          }
+  
+          p {
+            font-weight: bold;
+            margin-bottom: 0;
+            text-align: center;
+  
+            span {
+              display: block;
+              font-size: var(--s);
+              font-style: italic;
+              font-weight: normal;
+            }
+          }
+        }
+      }
+
+    }
+
     .member-container {
       align-content: center;
       display: grid;
-      grid-gap: var(--s-lg);
+      grid-gap: var(--s);
       grid-template-columns: repeat(auto-fit, calc(min(15rem, 90vw)));
       justify-content: center;
       margin: var(--s-lg) 0;
+      margin-bottom: var(--s-bg);
       width: 100%;
 
       img {
@@ -211,58 +271,51 @@ main.contact {
 
       h2 {
         font-size: 1.4rem;
+        margin-bottom: var(--s-sl);
       }
 
       h3 {
         font-size: 1rem;
+        font-weight: normal;
       }
     }
 
-    .doc-wrapper {
-      background-color: var(--c-fg-a10);
-      border: solid 1px grey;
-      border-radius: var(--s-sl);
-      height: 8rem;
-      margin: var(--s-lg) auto;
-      margin-bottom: 0;
-      width: min(50rem, 90%);
+    .links-container {
+      display: flex;
+      grid-gap: var(--s);
+      flex-wrap: wrap;
+      justify-content: center;
+      width: 100%;
 
-      .doc-download {
+      .link {
         align-items: center;
+        background-color: var(--c-fg-a10);
+        border: solid 1px var(--c-fg-a30);
         color: var(--c-fg);
+        border-radius: var(--s-sl);
         display: flex;
-        justify-content: center;
-        margin: var(--s-sl) var(--s-hg);
-        padding: 0 var(--s);
+        margin-bottom: 0;
+        padding: var(--s-sl) var(--s);
         text-decoration: none;
-        transition: transform .3s;
+
+        transition: all .3s;
 
         &:active,
         &:focus,
         &:hover {
-          transform: scale(1.1);
+          background-color: var(--c-fg-a20);
+          color: var(--c-primary)
         }
 
         img {
-          height: var(--s-lg);
-          margin-right: var(--s);
+          width: 3rem;
         }
 
-        p {
-          margin-bottom: 0;
-          text-align: left;
-
-          span {
-            font-size: 1.2rem;
-            font-style: italic;
-
-            &::before {
-              content: '–';
-              padding: 0 var(--s);
-            }
-          }
+        P {
+          padding: var(--s);
         }
       }
+
     }
   }
 }
@@ -496,8 +549,8 @@ main.catalog {
         }
 
         .front {
-          background-color: #bbb;
-          color: black;
+          background-color: var(--c-fg);
+          color: var(--c-bg);
 
           img {
             border-radius: .5rem;
@@ -506,7 +559,7 @@ main.catalog {
 
           p {
             color: rgb(255, 255, 255, .7);
-            text-shadow: black 1px 0 4px;
+            text-shadow: var(--c-bg) 1px 0 4px;
             font-size: 1rem;
             font-style: italic;
             right: calc(var(--s-sl));
@@ -519,7 +572,7 @@ main.catalog {
         
         .back {
           background-color: var(--c-primary-dark);
-          color: white;
+          color: var(--c-fg);
           display: flex;
           flex-direction: column;
           justify-content: flex-end;
@@ -535,7 +588,7 @@ main.catalog {
           }
 
           h3 {
-            text-shadow: black 1px 0 4px;
+            text-shadow: var(--c-bg) 1px 0 4px;
             font-size: 1.2rem;
             font-style: italic;
             left: calc(var(--s) + var(--s-sl));
@@ -1204,7 +1257,7 @@ body.links {
 
       .link {
         align-items: center;
-        border: solid grey 1px;
+        border: solid var(--c-fg-a30) 1px;
         border-radius: var(--s-sl);
         color: var(--c-fg);
         display: flex;
