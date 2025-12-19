@@ -7,7 +7,7 @@
       "image": "/assets/img/band/noiiske.webp",
       "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
       "mainLink": "https://linktr.ee/noiiske",
-      "releases": ["MBPSP056", "MBPSP054", "MBPEP001"],
+      "releases": ["MBPSP057", "MBPSP056", "MBPSP054", "MBPEP001"],
       "links": [
         {
           "type": "soundcloud",
@@ -5224,10 +5224,63 @@
       "date": "2022-06-10",
       "image": "/assets/img/music/MBPSP013.webp",
       "mainLink": "https://www.youtube.com/watch?v=pDGgZ-rn6Q4&list=PLBTeUIcRBAxN_0FdRYrdNvXLxhN6XJkqL&index=1",
+      "duration": "01:32",
+      "EAN": "0641094142001",
+      "styles": ["Smooth Jazz"],
+      "credits": [
+        { "record": ["Pascal Mulot", "Remy Cotelle"] },
+        { "mix": ["Douglas Marcolino", "Henry Barbut"] },
+        { "master": ["Douglas Marcolino", "Henry Barbut"] },
+        { "producer": ["Arthur Beaulieu", "Henry Barbut"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "drums": ["Henry Barbut"] },
+        { "doublebass": ["Pascal Mulot"] },
+        { "guitar": ["Sean Gourley"] },
+        { "vocal": ["Lexie kendrick", "Sean Gourley"] }
+      ],
+      "tracks": [
+        {
+          "title": "I Don't Know Enough About You",
+          "artist": ["Five O'Clock Jazz Quartet"],
+          "duration": "01:32",
+          "ISRC": "FR-9W1-21-13313",
+          "credits": [
+            { "composer": ["Dave Barbour", "Peggy Lee"] },
+            { "author": ["Dave Barbour", "Peggy Lee"] }
+          ]
+        }
+      ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5BLDCpEclL7xKTuzPIdwB2"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/i-dont-know-enough-about-you/1627304441"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0B2VFC5M2"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/323891267"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/i-dont-know-enough-about-you-five-oclock-jazz-quartet/gff6wtp5unx1a"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/231661298"
+        }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=pDGgZ-rn6Q4&list=PLBTeUIcRBAxN_0FdRYrdNvXLxhN6XJkqL&index=1"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/Five-oclock-jazz-quartet-i-dont-know-enough-about-you-lyrics"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23410910"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/61009b69-9bc7-4d30-b243-48545a4769cf"
         }
       ]
     },
@@ -6955,7 +7008,7 @@
       "links": [
         {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/nhc-lost/one"
+          "url": "https://soundcloud.com/nhc-lost/swedish-house-mafia-one-your-1"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=qKI2zmQ-TOA&list=PLp5D05IpZHwLCEIJhQFNwDKERzVw3OLMO"
@@ -7003,9 +7056,39 @@
         }
       ],
       "links": [
-        {
+      {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/45dpYCCgG7wrwkjMD5907a"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/crs-rmx-uptempo/5529221"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/crs-rmx-uptempo-single/1847670073"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0FX5DM53J"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/841812102"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/crs-drop-die/xg3nstzk1y03b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/468371966"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/drop-die-prod/crs-remix-uptempo"
+        }, {
           "type": "bandcamp",
           "url": "https://dropdie.bandcamp.com/album/crs-remix-uptempo"
+        }, {
+          "type": "youtube",
+          "url": "www.youtube.com/watch?v=yZkbi7eF4Kg&list=PLp5D05IpZHwJ7E6j1I4ae-lVAyrnTLrqG"
+        }, {
+          "type": "7digital",
+          "url": "https://fr.7digital.com/artist/drop-die/release/crs-rmx-uptempo-62216901"
         }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/35370307"
@@ -7077,6 +7160,9 @@
           "type": "bandcamp",
           "url": "https://noiiske.bandcamp.com/album/papi"
         }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost/papi"
+        }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=A9fUgD5UK14&list=PLp5D05IpZHwJc2SX4IYkc9laBg916DeZa"
         }, {
@@ -7085,6 +7171,82 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/558616ec-48ae-48cb-9e78-184a3863422d"
+        }
+      ]
+    },
+    "MBPSP057": {
+      "name": "Make It Bounce",
+      "artist": ["NOIISKE"],
+      "date": "2025-12-19",
+      "image": "/assets/img/music/MBPSP057.webp",
+      "mainLink": "https://www.youtube.com/watch?v=rEYAJdbU-bo&list=PLp5D05IpZHwJyT_f4QiHiM3pV5pOxpdLq",
+      "duration": "03:46",
+      "EAN": "0642613741231",
+      "styles": ["Dubstep"],
+      "about": {
+        "fr": "Prépare-toi à sentir le sol trembler — NOIISKE est de retour avec un nouveau single dubstep monstrueux, Make It Bounce. Ce morceau dégage cette énergie inimitable de NOIISKE : des basses parfaitement accordées pour te frapper droit dans la poitrine. Produit avec une précision chirurgicale, c'est de la musique bass à son summum. Monte le son, appuie sur play, et fais-la rebondir.",
+        "en": "Get ready to feel the floor shake — NOIISKE is back with a monstrous new dubstep single, Make It Bounce. It delivers that unmistakable NOIISKE energy ; low-end perfectly tuned to hit you right in the chest. produced with surgical detail, this is bass music at its sharpest. Turn it up, hit play, and make. it. bounce."
+      },
+      "credits": [
+        { "record": ["NOIISKE"] },
+        { "mix": ["NOIISKE"] },
+        { "master": ["NOIISKE"] },
+        { "producer": ["Arthur Beaulieu", "NOIISKE"] },
+        { "artwork": ["NOIISKE"] },
+        { "illustration": ["NOIISKE"] }
+      ],
+      "tracks": [
+        {
+          "title": "Make It Bounce",
+          "artist": ["NOIISKE"],
+          "duration": "03:46",
+          "ISRC": "FR-9W1-25-59405",
+          "credits": [
+            { "composer": ["NOIISKE"] },
+            { "author": [] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6nOrEKTv29FnwfkArZJncm"
+        }, {
+          "type": "beatport",
+          "url": ""
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/noiiske-make-it-bounce/7360764-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/make-it-bounce-single/1854496287"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0G313WF12"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/859886802"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/make-it-bounce-noiiske/vwtmo6rz0jytb"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/album/475331230"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/album/make-it-bounce"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost/make-it-bounce"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=rEYAJdbU-bo&list=PLp5D05IpZHwJyT_f4QiHiM3pV5pOxpdLq"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/35957890"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/6602a83a-5ae0-4b4e-a7ac-47049dad0d03"
         }
       ]
     },
