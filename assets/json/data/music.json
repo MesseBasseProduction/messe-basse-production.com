@@ -7301,6 +7301,19 @@
           "url": "https://www.youtube.com/watch?v=9c26_3Y485k&list=PLp5D05IpZHwKvKoAk9y5KqojDi5HkbSrW"
         }
       ]
+    },
+    "MBP005": {
+      "name": "Messe Basse Produced, Vol.5",
+      "artist": ["Messe Basse Production"],
+      "date": "2025-12-20",
+      "image": "/assets/img/music/MBP005.webp",
+      "mainLink": "https://www.youtube.com/watch?v=cQdPVYAPeic&list=PLp5D05IpZHwIZ2RLsq63xwoUfOTZ6nJrK",
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=cQdPVYAPeic&list=PLp5D05IpZHwIZ2RLsq63xwoUfOTZ6nJrK"
+        }
+      ]
     }
   }
 }
