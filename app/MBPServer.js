@@ -47,8 +47,8 @@ app.use('/tree', express.static(path.join(__dirname, '../tree'), { // Serve arti
 app.all('*', (req, res) => {
   console.log(`${(new Date()).toISOString()} | ${global['url']} v${global['version']} | 404 ${req.originalUrl} page requested, return 404.handlebars`);
   res.render('404' , {
-    pageTitle: 'TODO',
-    pageDescription: 'TODO',
+    pageTitle: '',
+    pageDescription: '',
   });
 });
 // Now update sitemap with given routes
