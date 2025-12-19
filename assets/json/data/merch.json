@@ -13,6 +13,16 @@
   ],
   "albums": [
     {
+      "name": "A.R.N. Messengers – .R.N. Messengers Débarque au Sunset",
+      "catalog": "MBPMC007",
+      "year": "2025",
+      "price": {
+        "regular": "10€",
+        "signed": "12€"
+      },
+      "image": "/assets/img/merch/MBPMC007.webp",
+      "remaining": 50
+    }, {
       "name": "Guillaume Beaulieu – Fantaisies pour flûte seule sans basse",
       "catalog": "MBPMC005",
       "year": "2024",
