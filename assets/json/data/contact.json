@@ -6,6 +6,14 @@
   },
   "documents": [
     {
+      "name": "Statuts v3",
+      "date": "2026-01-03",
+      "url": "/assets/doc/2026-01-03 - Statuts MBP.pdf"
+    }, {
+      "name": "PVAGO",
+      "date": "2026-01-03",
+      "url": "/assets/doc/2026-01-03 - PVAGO.pdf"
+    }, {
       "name": "Statuts v2",
       "date": "2025-11-05",
       "url": "/assets/doc/2025-11-05 - Statuts MBP.pdf"
@@ -71,6 +79,14 @@
       "name": "Pierre Bouniol",
       "role": "dev",
       "image": "/assets/img/asso/Pierre.webp"
+    }, {
+      "name": "Raphaël Dondon",
+      "role": "Sport",
+      "image": "/assets/img/asso/RaphaëlD.webp"
+    }, {
+      "name": "Starron Silva",
+      "role": "Sport",
+      "image": "/assets/img/asso/Starron.webp"
     }
   ],
   "pastMembers": [
