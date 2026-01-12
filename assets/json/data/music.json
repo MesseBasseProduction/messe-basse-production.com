@@ -7,7 +7,7 @@
       "image": "/assets/img/band/noiiske.webp",
       "imageCredits": "<a href=\"https://www.instagram.com/vaghty_graph/\" target=\"_blank\" rel=\"noreferrer noopener\">Athénaïs Fiquet - Vaghty Graph</a>",
       "mainLink": "https://linktr.ee/noiiske",
-      "releases": ["MBPSP057", "MBPSP056", "MBPSP054", "MBPEP001"],
+      "releases": ["MBPSP058", "MBPSP057", "MBPSP056", "MBPSP054", "MBPEP001"],
       "links": [
         {
           "type": "soundcloud",
@@ -7213,7 +7213,7 @@
           "url": "https://open.spotify.com/album/6nOrEKTv29FnwfkArZJncm"
         }, {
           "type": "beatport",
-          "url": "https://www.beatport.com/track/make-it-bounce/22721173"
+          "url": "https://www.beatport.com/release/make-it-bounce/5635628"
         }, {
           "type": "juno",
           "url": "https://www.junodownload.com/products/noiiske-make-it-bounce/7360764-02/"
@@ -7237,7 +7237,7 @@
           "url": "https://noiiske.bandcamp.com/album/make-it-bounce"
         }, {
           "type": "soundcloud",
-          "url": "https://soundcloud.com/nhc-lost/make-it-bounce"
+          "url": "https://soundcloud.com/nhc-lost/noiiske-make-it-bounce"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=rEYAJdbU-bo&list=PLp5D05IpZHwJyT_f4QiHiM3pV5pOxpdLq"
@@ -7247,6 +7247,82 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/6602a83a-5ae0-4b4e-a7ac-47049dad0d03"
+        }
+      ]
+    },
+    "MBPSP058": {
+      "name": "Bop That",
+      "artist": ["NOIISKE"],
+      "date": "2026-01-09",
+      "image": "/assets/img/music/MBPSP058.webp",
+      "mainLink": "https://www.youtube.com/watch?v=85IP4j-xgTQ&list=PLp5D05IpZHwKszcw631QUsIQsUB9_52NL",
+      "duration": "03:10",
+      "EAN": "0642613430555",
+      "styles": ["Dubstep"],
+      "about": {
+        "fr": "NOIISKE remet la pression avec sa dernière arme dubstep : Bop That. Un morceau qui frappe fort dès la première seconde — une ligne de basse parfaitement conçue qui groove, gronde et percute. C'est le son du dubstep moderne à son meilleur. Monte le son et... bop that.",
+        "en": "NOIISKE is turning up the pressure once again with his latest dubstep weapon: Bop That. A track that hits hard from the first second — a perfectly-engineered bassline that grooves, growls, and hits hard. This is the sound of modern dubstep at its finest. Crank the volume and just... bop that."
+      },
+      "credits": [
+        { "record": ["NOIISKE"] },
+        { "mix": ["NOIISKE"] },
+        { "master": ["NOIISKE"] },
+        { "producer": ["Arthur Beaulieu", "NOIISKE"] },
+        { "artwork": ["NOIISKE"] },
+        { "illustration": ["NOIISKE"] }
+      ],
+      "tracks": [
+        {
+          "title": "Bop That",
+          "artist": ["NOIISKE"],
+          "duration": "03:10",
+          "ISRC": "FR-9W1-25-59406",
+          "credits": [
+            { "composer": ["NOIISKE"] },
+            { "author": [] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/295KoYnUeX2J85dKUzJbll"
+        }, {
+          "type": "beatport",
+          "url": "https://www.beatport.com/release/bop-that/5704759"
+        }, {
+          "type": "juno",
+          "url": "https://www.junodownload.com/products/noiiske-bop-that/7386982-02/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/bop-that-single/1860521427"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0G66W158G"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/874696972"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/bop-that-noiiske/aufi0gu3umrjy"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/480751067"
+        }, {
+          "type": "bandcamp",
+          "url": "https://noiiske.bandcamp.com/album/bop-that"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/nhc-lost/noiiske-bop-that"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=85IP4j-xgTQ&list=PLp5D05IpZHwKszcw631QUsIQsUB9_52NL"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/36177436"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/429dab1b-4de4-4f4c-a452-987a1cef0848"
         }
       ]
     },
