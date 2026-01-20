@@ -2,16 +2,6 @@
   "exposition": {
     "artist": [
       {
-        "title": "Sermaise d'Hier et d'Aujourd'hui, 2025",
-        "photographer": "Messe Basse Production",
-        "url": "",
-        "photos": [{
-          "title": "Sur le Fil – Pisac, Pérou",
-          "date": "2019-05-21",
-          "margin": "20",
-          "image": "/assets/img/photo/expo/1/1.webp"
-        }]
-      }, {
         "title": "Amérique du Sud, 2019",
         "photographer": "Guillaume Crantz",
         "url": "https://www.instagram.com/lafriteestdequalite/",
@@ -106,122 +96,216 @@
   },
   "event": [
     {
-      "name": "David Béché",
+      "name": "Enjoy The Moment, 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB14.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, {
+      "name": "NAC, 2026",
+      "photographer": "Raphaël Beekmann",
+      "image": "/assets/img/photo/RB7.webp",
+      "url": "https://www.instagram.com/raphael.beekmann/"
+    }, {
+      "name": "The Forge, 2026",
+      "photographer": "Raphaël Beekmann",
+      "image": "/assets/img/photo/RB6.webp",
+      "url": "https://www.instagram.com/raphael.beekmann/"
+    }, {
+      "name": "Enjoy The Moment, 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB12.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, {
+      "name": "Blood Sugar (Luc), 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB10.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, {
+      "name": "Blood Sugar (Anthony), 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB11.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, {
+      "name": "NAC (Pierrot), 2026",
+      "photographer": "Raphaël Beekmann",
+      "image": "/assets/img/photo/RB10.webp",
+      "url": "https://www.instagram.com/raphael.beekmann/"
+    }, {
+      "name": "Blood Sugar (Anthony), 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB8.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, {
+      "name": "Enjoy The Moment (Sophie), 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB13.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, {
+      "name": "The Forge (Luc), 2026",
+      "photographer": "Raphaël Beekmann",
+      "image": "/assets/img/photo/RB9.webp",
+      "url": "https://www.instagram.com/raphael.beekmann/"
+    }, {
+      "name": "The Forge (Tom), 2026",
+      "photographer": "Raphaël Beekmann",
+      "image": "/assets/img/photo/RB8.webp",
+      "url": "https://www.instagram.com/raphael.beekmann/"
+    }, {
+      "name": "Blood Sugar (Anthony), 2026",
+      "photographer": "Arthur Beaulieu",
+      "image": "/assets/img/photo/AB9.webp",
+      "url": "https://www.instagram.com/a_Messmaker/"
+    }, 
+    
+    {
+      "name": "A.R.N. Messengers (Rémy), 2025",
+      "photographer": "Emma David",
+      "image": "/assets/img/photo/ED3.webp",
+      "url": "https://www.instagram.com/retross.e/"
+    }, {
+      "name": "A.R.N. Messengers, 2025",
+      "photographer": "Emma David",
+      "image": "/assets/img/photo/ED2.webp",
+      "url": "https://www.instagram.com/retross.e/"
+    }, {
+      "name": "Enjoy The Moment (Sophie), 2025",
+      "photographer": "Emma David",
+      "image": "/assets/img/photo/ED1.webp",
+      "url": "https://www.instagram.com/retross.e/"
+    }, {
+      "name": "Enjoy The Moment (Vincent), 2025",
+      "photographer": "Emma David",
+      "image": "/assets/img/photo/ED6.webp",
+      "url": "https://www.instagram.com/retross.e/"
+    }, {
+      "name": "A.R.N. Messengers (Antoine), 2025",
+      "photographer": "Emma David",
+      "image": "/assets/img/photo/ED5.webp",
+      "url": "https://www.instagram.com/retross.e/"
+    }, {
+      "name": "Enjoy The Moment (Sébastien), 2025",
+      "photographer": "Emma David",
+      "image": "/assets/img/photo/ED4.webp",
+      "url": "https://www.instagram.com/retross.e/"
+    }, 
+    
+    {
+      "name": "NAC (David), 2021",
       "photographer": "Raphaël Beekmann",
       "image": "/assets/img/photo/RB4.webp",
       "url": "https://www.instagram.com/raphael.beekmann/"
     }, {
-      "name": "Luc Boulogne",
+      "name": "The Forge (Luc), 2020",
       "photographer": "Pascal Cosnier",
       "image": "/assets/img/photo/PC2.webp",
       "url": "http://pascalcosnier.fr/"
     }, {
-      "name": "Tom Souty",
+      "name": "The Forge (Tom), 2022",
       "photographer": "Arthur Beaulieu",
       "image": "/assets/img/photo/AB7.webp",
       "url": "https://www.instagram.com/a_Messmaker/"
     }, {
-      "name": "Paul Boulogne",
+      "name": "The Forge (Paul), 2021",
       "photographer": "Arthur Beaulieu",
       "image": "/assets/img/photo/AB4.webp",
       "url": "https://www.instagram.com/a_Messmaker/"
     }, {
-      "name": "David Béché",
+      "name": "NAC (David), 2021",
       "photographer": "Raphaël Beekmann",
       "image": "/assets/img/photo/RB2.webp",
       "url": "https://www.instagram.com/raphael.beekmann/"
     }, {
-      "name": "Pierre Toïgo",
+      "name": "NAC (Pierrot), 2021",
       "photographer": "Raphaël Beekmann",
       "image": "/assets/img/photo/RB1.webp",
       "url": "https://www.instagram.com/raphael.beekmann/"
     }, {
-      "name": "The Forge",
+      "name": "The Forge, 2021",
       "photographer": "Arthur Beaulieu",
       "image": "/assets/img/photo/AB2.webp",
       "url": "https://www.instagram.com/a_Messmaker/"
     }, {
-      "name": "Paul Boulogne",
+      "name": "The Forge (Paul), 2020",
       "photographer": "Pascal Cosnier",
       "image": "/assets/img/photo/PC3.webp",
       "url": "http://pascalcosnier.fr/"
     }, {
-      "name": "Vincent Boulogne",
+      "name": "The Forge (Vincent), 2020",
       "photographer": "Pascal Cosnier",
       "image": "/assets/img/photo/PC1.webp",
       "url": "http://pascalcosnier.fr/"
     }, {
-      "name": "Sylvain Mallet",
+      "name": "NAC (Sylvain), 2021",
       "photographer": "Guillaume Crantz",
       "image": "/assets/img/photo/GC3.webp",
       "url": "https://www.instagram.com/lafriteestdequalite/"
     }, {
-      "name": "Tom Souty",
+      "name": "The Forge (Tom), 2021",
       "photographer": "Arthur Beaulieu",
       "image": "/assets/img/photo/AB3.webp",
       "url": "https://www.instagram.com/a_Messmaker/"
     }, {
-      "name": "David Béché",
+      "name": "NAC (David), 2021",
       "photographer": "Guillaume Crantz",
       "image": "/assets/img/photo/GC1.webp",
       "url": "https://www.instagram.com/lafriteestdequalite/"
     }, {
-      "name": "Luc Boulogne",
+      "name": "The Forge (Luc), 2022",
       "photographer": "Arthur Beaulieu",
       "image": "/assets/img/photo/AB6.webp",
       "url": "https://www.instagram.com/a_Messmaker/"
     }, {
-      "name": "Pierre Toïgo",
+      "name": "NAC (Pierrot), 2021",
       "photographer": "Régine Dubois",
       "image": "/assets/img/photo/RD2.webp",
       "url": ""
     }, {
-      "name": "Lionel Baudet",
+      "name": "NAC (Lionel), 2021",
       "photographer": "Régine Dubois",
       "image": "/assets/img/photo/RD4.webp",
       "url": ""
     }, {
-      "name": "David Béché",
+      "name": "NAC (David), 2021",
       "photographer": "Guillaume Crantz",
       "image": "/assets/img/photo/GC5.webp",
       "url": "https://www.instagram.com/lafriteestdequalite/"
     }, {
-      "name": "Luc Boulogne",
+      "name": "The Forge (Luc), 2020",
       "photographer": "Pascal Cosnier",
       "image": "/assets/img/photo/PC5.webp",
       "url": "http://pascalcosnier.fr/"
     }, {
-      "name": "Arthur Beaulieu",
+      "name": "NAC (Arthur), 2021",
       "photographer": "Guillaume Crantz",
       "image": "/assets/img/photo/GC4.webp",
       "url": "https://www.instagram.com/lafriteestdequalite/"
     }, {
-      "name": "NAC",
+      "name": "NAC, 2021",
       "photographer": "Raphaël Beekmann",
       "image": "/assets/img/photo/RB3.webp",
       "url": "https://www.instagram.com/raphael.beekmann/"
     }, {
-      "name": "Pierre Toïgo",
+      "name": "NAC (Pierre), 2021",
       "photographer": "Guillaume Crantz",
       "image": "/assets/img/photo/GC2.webp",
       "url": "https://www.instagram.com/lafriteestdequalite/"
     }, {
-      "name": "Lionel Baudet",
+      "name": "NAC (Lionel), 2021",
       "photographer": "Régine Dubois",
       "image": "/assets/img/photo/RD1.webp",
       "url": ""
     }, {
-      "name": "Frères Boulogne",
+      "name": "The Forge (Frères Boulogne), 2020",
       "photographer": "Pascal Cosnier",
       "image": "/assets/img/photo/PC4.webp",
       "url": "http://pascalcosnier.fr/"
     }, {
-      "name": "Équidé Légendaire",
+      "name": "NAC (Équidé Légendaire), 2021",
       "photographer": "Raphaël Beekmann",
       "image": "/assets/img/photo/RB5.webp",
       "url": "https://www.instagram.com/raphael.beekmann/"
     }, {
-      "name": "David Béché",
+      "name": "NAC (David), 2021",
       "photographer": "Régine Dubois",
       "image": "/assets/img/photo/RD3.webp",
       "url": ""
