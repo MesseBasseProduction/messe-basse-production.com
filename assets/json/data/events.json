@@ -2,8 +2,8 @@
   "events": [
     {
       "title": "A.R.N. Messengers débarque au Vinyle Vintage Studio",
-      "catalog": "MBPEVT033",
-      "image": "/assets/img/event/MBPEVT033.webp",
+      "catalog": "MBPEVT032",
+      "image": "/assets/img/event/MBPEVT032.webp",
       "date": "2026-03-28",
       "place": "Vinyle Vintage Studio - Conflans-Sainte-Honorine",
       "link": "https://www.facebook.com/events/755705074257598",
@@ -36,8 +36,8 @@
       ]
     }, {
       "title": "L'apéro LIVE du jeudi en mode JAZZ FUSION avec A.R.N Messengers",
-      "catalog": "MBPEVT031",
-      "image": "/assets/img/event/MBPEVT031.webp",
+      "catalog": "MBPEVT030",
+      "image": "/assets/img/event/MBPEVT030.webp",
       "date": "2026-02-26",
       "place": "L'Usine - Marcoussis",
       "link": "https://www.facebook.com/events/878515054542135",
@@ -53,31 +53,14 @@
       ]
     }, {
       "title": "A.R.N. Messengers débarque au Fury Bar",
-      "catalog": "MBPEVT030",
-      "image": "/assets/img/event/MBPEVT030.webp",
+      "catalog": "MBPEVT029",
+      "image": "/assets/img/event/MBPEVT029.webp",
       "date": "2026-02-23",
       "place": "Fury Bar - Rouen",
       "link": "https://www.facebook.com/events/1212652503554479",
       "description": {
         "en": "The A.R.N. Messengers Trio takes the stage at the Fury Bar for an evening dedicated to Jazz Fusion. Get ready for an explosive encounter: three close-knit musicians, driven by contagious energy, will take you on a vibrant and daring sonic journey.",
         "fr": "Le trio A.R.N. Messengers s'invite sur la scène du Fury Bar à Rouen pour une soirée sous le signe du Jazz Fusion. Après une prestation remarquée le 27 septembre dernier, le trio de musiciens complices, à l'énergie communicative, aura le plaisir de vous envoyer son set."
-      },
-      "starring": [
-        {
-          "name": "A.R.N. Messengers",
-          "url": "https://www.youtube.com/@A.R.N.Messengers"
-        }
-      ]
-    }, {
-      "title": "A.R.N. Messengers débarque au Meeple",
-      "catalog": "MBPEVT029",
-      "image": "/assets/img/event/MBPEVT029.webp",
-      "date": "2026-02-14",
-      "place": "Meeple Bar - Maurepas",
-      "link": "https://www.facebook.com/events/1598898788223734",
-      "description": {
-        "en": "The A.R.N. Messengers Trio takes the stage at the Meeple Bar for an evening dedicated to Jazz Fusion. Get ready for an explosive encounter: three close-knit musicians, driven by contagious energy, will take you on a vibrant and daring sonic journey.",
-        "fr": "Le trio A.R.N. Messengers s'invite sur la scène du Meeple Bar à Maurepas pour une soirée sous le signe du Jazz Fusion. Après une prestation remarquée le 27 septembre dernier, le trio de musiciens complices, à l'énergie communicative, aura le plaisir de vous envoyer son set."
       },
       "starring": [
         {
