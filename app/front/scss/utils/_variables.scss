@@ -15,11 +15,13 @@
   /* Color variations */
   --c-primary-filter: invert(64%) sepia(67%) saturate(608%) hue-rotate(1deg) brightness(104%) contrast(109%);
   --c-bg-a10: rgba(16, 27, 31, .1);
+  --c-bg-a50: rgba(16, 27, 31, .5);
   --c-bg-a80: rgba(16, 27, 31, .8);
   --c-fg-a10: rgba(239, 228, 224, .1);
   --c-fg-a20: rgba(239, 228, 224, .2);
   --c-fg-a30: rgba(239, 228, 224, .3);
   --c-fg-a50: rgba(239, 228, 224, .5);
+  --c-fg-a80: rgba(239, 228, 224, .8);
   /* Spacing */
   --s-sl: .5rem;
   --s: 1rem;

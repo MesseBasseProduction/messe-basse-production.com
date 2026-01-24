@@ -618,8 +618,50 @@ main.book {
       justify-content: flex-start;
       margin: 0 auto;
       max-width: 800px;
+      padding: var(--s-bg) 0;
       text-align: justify;
       width: 100%;
+
+      .img-container {
+        cursor: pointer;
+        position: relative;
+
+        &:active,
+        &:focus,
+        &:hover {
+          .dl, .mx {
+            opacity: 1;
+          }
+        }
+
+        .dl, .mx {
+          background-color: var(--c-bg-a50);
+          border-radius: .5rem;
+          bottom: var(--s-bg);
+          box-shadow: 0 0 var(--s) var(--c-fg-a50);
+          height: var(--s-bg);
+          padding: var(--s-sl);
+          opacity: 0;
+          position: absolute;
+          width: var(--s-bg);
+          filter: invert(1);
+          transition: all .2s;
+
+          &:active,
+          &:focus,
+          &:hover {
+            background-color: var(--c-bg-a80);
+          }
+        }
+
+        .dl {
+          right: calc(2 * var(--s-bg) + var(--s));
+        }
+
+        .mx {
+          right: var(--s-bg);
+        }
+      }
 
       .s-image {
         width: 20%;
@@ -630,7 +672,16 @@ main.book {
       }
 
       .toc-entry {
+        color: var(--c-fg);
         text-decoration: none;
+
+        transition: all .2s;
+
+        &:active,
+        &:focus,
+        &:hover {
+          color: var(--c-primary)
+        }
 
         &.part {
           font-size: 2.2rem;
@@ -676,7 +727,7 @@ main.book {
       }
 
       .void {
-        background-image: linear-gradient(to right, rgba(255,255,255,0) 33%, rgba(255,255,255,0) 0%);
+        background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 33%, rgba(255,255,255,0) 0%);
       }
 
       .dash-line {
@@ -712,9 +763,21 @@ main.book {
         width: 50%;
       }
 
+      .underline-width {
+        background-image: linear-gradient(to right, var(--c-fg) 99%, rgba(255, 255, 255, 0) 0%);
+        background-position: bottom;
+        background-size: var(--s-sl) 1px;
+        background-repeat: repeat-x;
+        display: block;
+        height: 1px;
+        margin: 0 var(--s);
+        overflow: hidden;
+      }
+
       img {
+        border-radius: .5rem;
         margin: 0 auto;
-        width: 90%;
+        width: 100%;
       }
 
       .part {
@@ -757,7 +820,7 @@ main.book {
       }
 
       .quote {
-        padding: 0 calc(var(--s-hg) * 2)
+        padding: 0 calc(var(--s-hg) * 2);
       }
 
       .it {
@@ -801,6 +864,10 @@ main.book {
 
       .ml-hg {
         margin-left: calc(var(--s-bg) * 2);
+      }
+
+      .ml-hg-max {
+        margin-left:  calc(var(--s-hg) * 2);
       }
 
       .mb-lg {
