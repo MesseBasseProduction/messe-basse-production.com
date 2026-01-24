@@ -27,9 +27,11 @@ app.set('views',  path.resolve(__dirname, './views'));
 const appRoutes = require('./route/AppRoutes');
 const artistRoutes = require('./route/ArtistRoutes');
 const releaseRoutes = require('./route/ReleaseRoutes');
+const bookRoutes = require('./route/BookRoutes');
 app.use('/', appRoutes);
 app.use('/', artistRoutes);
 app.use('/', releaseRoutes);
+app.use('/', bookRoutes);
 
 app.use('/assets', express.static(path.join(__dirname, '../assets'), { // Serve static files
   maxAge: '864000000' // 10 days caching for app assets
@@ -52,7 +54,7 @@ app.all('*', (req, res) => {
   });
 });
 // Now update sitemap with given routes
-require('./utils/SiteMapGenerator.js')([appRoutes, artistRoutes, releaseRoutes], () => {
+require('./utils/SiteMapGenerator.js')([appRoutes, artistRoutes, releaseRoutes, bookRoutes], () => {
   // Start server console
   app.listen(port, () => {
     console.log(`${(new Date()).toISOString()} | ${global['url']} v${version} | Server started and listening on port ${port}`);

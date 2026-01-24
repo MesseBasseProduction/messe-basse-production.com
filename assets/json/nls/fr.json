@@ -55,6 +55,10 @@
     "title": "Catalogue",
     "description": "Découvrez ici l'ensemble de notre catalogue musical, tous artistes et tous supports confondus (album, single, EP, mix et podcast). Cela représente un total de {x} publications effectuées depuis notre création."
   },
+  "book": {
+    "title": "Livres",
+    "description": "L'Association Messe Basse Production vous accompagne à chaque étape de l'édition littéraire : de l'écriture à la diffusion, en passant par la relecture, la mise en page et le maquetage. Elle vous assiste également dans les démarches administratives, comme l'attribution de l'ISBN et le dépôt légal, pour une publication conforme et professionnelle. Avec un suivi personnalisé et des outils adaptés, elle simplifie la réalisation de vos projets, vous permettant de vous concentrer sur votre création ; le texte. Que vous soyez auteur débutant ou confirmé, l'association vous offre un cadre structurant pour donner vie à vos écrits et les faire rayonner."
+  },
   "merch": {
     "apparel": "Collections",
     "music": "Disques",

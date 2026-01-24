@@ -3,9 +3,12 @@
   <div id="back-button" class="back-button">←</div>
   <section>
     <h1 data-nls="BOOK_TITLE">Livres</h1>
-    <p class="description" data-nls="BOOK_DESCRIPTION">L'Association Messe Basse Production produit une variété de podcasts, qu'ils soient musicaux ou vocaux, offrant une diversité de contenus captivants. Elle propose également son expertise et ses ressources techniques pour vous accompagner dans la production de vos propres podcasts, mettant à disposition des moyens techniques et assurant la post-production pour un rendu professionnel. En outre, l'association offre un soutien aux créateurs en les aidant à mettre leurs podcasts aux normes, incluant la diffusion et l'immatriculation, pour leur permettre d'atteindre leur public cible de manière efficace et conforme aux réglementations en vigueur.</p>
-    <div id="podcast-list"></div>
+    <p class="description" data-nls="BOOK_DESCRIPTION">L'Association Messe Basse Production vous accompagne à chaque étape de l'édition littéraire : de l'écriture à la diffusion, en passant par la relecture, la mise en page et le maquetage. Elle vous assiste également dans les démarches administratives, comme l'attribution de l'ISBN et le dépôt légal, pour une publication conforme et professionnelle. Avec un suivi personnalisé et des outils adaptés, elle simplifie la réalisation de vos projets, vous permettant de vous concentrer sur votre création ; le texte. Que vous soyez auteur débutant ou confirmé, l'association vous offre un cadre structurant pour donner vie à vos écrits et les faire rayonner.</p>
+    <div id="collection-list" class="collection-list"></div>
   </section>
   {{> footer}}
 </main>
 <script type="text/javascript" src="/assets/dist/BookPage.bundle.js"></script>
+<script>
+window.BookPage = new BookPage();
+</script>

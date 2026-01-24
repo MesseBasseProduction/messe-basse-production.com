@@ -4,7 +4,7 @@ const ReleaseRouter = express.Router();
 
 const loadReleasePage = (req, res, catalog) => {
   console.log(`${(new Date()).toISOString()} | ${global['url']} v${global['version']} | 200 ${req.originalUrl} page requested, return release.handlebars for ${catalog}`);
-  res.render('subpages/release' , {
+  res.render('subpages/release', {
     info: {
       catalog: catalog
     }

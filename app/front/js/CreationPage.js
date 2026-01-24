@@ -50,7 +50,7 @@ class CreationPage extends AbstractMBP {
       this._dom.querySelector('#video').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.video));
       this._dom.querySelector('#podcast').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.podcast));
       this._dom.querySelector('#photo').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.photo));
-      //this._dom.querySelector('#book').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.book));
+      this._dom.querySelector('#book').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.book));
       this._dom.querySelector('#merch').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.merch));
       this._dom.querySelector('#software').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.software));
       this._dom.querySelector('#catalog').addEventListener('click', this._updateLocation.bind(this, this._nls.translatedUrl.catalog));

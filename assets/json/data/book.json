@@ -1,0 +1,22 @@
+{
+  "collections": [
+    {
+      "name": "Collection Empreinte d'Histoire",
+      "books": [
+        {
+          "title": "La Commune de Sermaise (1899)",
+          "subtitle": "décrite par Martin Eugène Legrand",
+          "authors": ["Arthur Beaulieu"],
+          "date": "2025-09-21",
+          "ISBN": "979-10-978137-1-0",
+          "catalog": "MBPPB001",
+          "image": "/assets/img/book/MBPPB001.webp",
+          "synopsis": {
+            "fr": "En 1899, à la demande du ministère de l'Instruction Publique, l'instituteur de Sermaise, Martin Eugène Legrand, se prête à une entreprise exceptionnelle : rédiger le portrait vivant de la commune. Il livre une véritable fresque sensible, minutieuse et humaine de la vie quotidienne à la fin du XIXᵉ siècle, dont ses mots sont aujourd'hui les témoins.<br><br>À travers cette monographie retranscrite avec fidélité, découvrez Sermaise d'hier : sa géographie, ses hameaux, ses terres, son histoire locale jalonnée d'anecdotes étonnantes et l'évolution de son école républicaine en construction à l'aube du XXᵉ siècle.<br><br>Ce document rare, ressurgi de son stockage d'archive est bien plus qu'un témoignage, c'est un précieux fragment d'époque dédié aux racines, à l'école et à la construction du lien entre l'homme et son paysage. Il est des villages qui n'existent qu'à la mesure de ceux qui les racontent ; puisse ce livre être un miroir pour celles et ceux qui habitent ou arpentent encore aujourd'hui ces terres façonnées par les siècles.",
+            "en": "In 1899, at the request of the Ministry of Public Instruction, the schoolteacher of Sermaise, Martin Eugène Legrand, undertook an extraordinary task: to craft a vivid portrait of the commune. His account offers a sensitive, meticulous, and deeply human depiction of daily life at the turn of the 19th century, with his words standing today as poignant witnesses to that era.<br><br>Through this faithfully transcribed monograph, explore Sermaise of yesteryear: its geography, hamlets, lands, and local history—punctuated by surprising anecdotes—as well as the evolution of its republican school, still under construction at the dawn of the 20th century.<br><br>This rare document, unearthed from archival storage, is more than just a testament; it is a precious fragment of a bygone era, dedicated to roots, education, and the bond between people and their landscape. There are villages that exist only through the stories of those who tell their tales; may this book serve as a mirror for those who still inhabit or wander these lands shaped by centuries."
+          }
+        }
+      ]
+    }
+  ]
+}

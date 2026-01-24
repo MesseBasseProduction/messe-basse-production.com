@@ -55,6 +55,10 @@
     "title": "Catalog",
     "description": "Discover our entire music catalog here, featuring all artists and formats (album, single, EP, mix, and podcast). This represents a total of {x} releases since our creation."
   },
+  "book": {
+    "title": "Books",
+    "description": "The Messe Basse Production organization supports you at every stage of literary publishing: from writing to distribution, including proofreading, layout, and typesetting. It also assists you with administrative procedures, such as ISBN assignment and legal deposit, to ensure a compliant and professional publication. With personalized support and tailored tools, it simplifies the realization of your projects, allowing you to focus on your creation—the text. Whether you are a beginner or an experienced author, the association provides a structured framework to bring your writings to life and help them shine."
+  },
   "merch": {
     "apparel": "Apparel",
     "music": "Music",
