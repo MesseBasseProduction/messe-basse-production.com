@@ -58,6 +58,32 @@
     }
   }
 
+  main.book {
+    section {
+      .book-content {
+        .img-container {
+          .dl, .mx {
+            opacity: 1;
+
+            &:active,
+            &:focus,
+            &:hover {
+              background-color: var(--c-bg-a80);
+            }
+          }
+
+          .dl {
+            right: calc(2 * var(--s-bg) + var(--s));
+          }
+
+          .mx {
+            right: var(--s-bg);
+          }
+        }        
+      }
+    }
+  }
+
   main.software {
     section {
       .website-grid {

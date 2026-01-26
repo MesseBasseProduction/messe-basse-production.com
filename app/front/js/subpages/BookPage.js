@@ -117,7 +117,8 @@ class BookPage extends AbstractMBP {
       this._dom.querySelector('#back-button').addEventListener('click', this._loadPreviousPage.bind(this));
 
       if (this._isReadingPage === true) {
-        const imgContainers = this._dom.querySelectorAll('.img-container');
+        // Book image containers
+        let imgContainers = this._dom.querySelector('.book-content').querySelectorAll('.img-container');
         for (let i = 0; i < imgContainers.length; ++i) {
           imgContainers[i].children[1].addEventListener('click', () => {
             const outputImage = document.createElement('A');
@@ -131,6 +132,44 @@ class BookPage extends AbstractMBP {
             name: imgContainers[i].dataset.name
           }));
         }
+
+        const carousels = this._dom.querySelector('.book-bonus').querySelectorAll('.img-carousel');
+        for (let i = 0; i < carousels.length; ++i) {
+          imgContainers = carousels[i].querySelectorAll('.img-container');
+          for (let j = 0; j < imgContainers.length; ++j) {
+            imgContainers[j].children[1].addEventListener('click', () => {
+              const outputImage = document.createElement('A');
+              outputImage.href = `/assets/img/book/MBPPB001/fullres/archives/${imgContainers[j].dataset.file}`;
+              outputImage.download = `${imgContainers[j].dataset.name}`;
+              outputImage.click();
+            });
+
+            imgContainers[j].children[2].addEventListener('click', this._openSlideshowModal.bind(this, {
+              file: imgContainers[j].dataset.file,
+              image: `/assets/img/book/MBPPB001/fullres/archives/${imgContainers[j].dataset.file}`,
+              name: imgContainers[j].dataset.name,
+              total: carousels[i].dataset.total,
+              number: j + 1
+            })); 
+          }
+        }
+
+        new window.ScrollBar({
+          target: this._dom.querySelector('#original-carousel'),
+          horizontal: true,
+          minSize: 200,
+          style: {
+            color: '#FFBF00'
+          }
+        });
+        new window.ScrollBar({
+          target: this._dom.querySelector('#vernier-carousel'),
+          horizontal: true,
+          minSize: 200,
+          style: {
+            color: '#FFBF00'
+          }
+        });
       }
       resolve();
     });
@@ -146,6 +185,7 @@ class BookPage extends AbstractMBP {
       modal.appendChild(dom);
       
       const img = modal.getElementsByTagName('IMG')[0];
+      img.classList.add('in-book');
       img.src = photo.image;
       img.style.boxShadow = '0 0 0 rgba(420, 420, 420, 0)';
 
@@ -170,6 +210,139 @@ class BookPage extends AbstractMBP {
         modal.style.opacity = 1;
         document.getElementById('overlay').addEventListener('click', closeModal);
         document.getElementById('close-modal').addEventListener('click', closeModal);
+      }, 200);
+    });
+  }
+
+
+  _openSlideshowModal(photo) {
+    Utils.fetchPage('/modal/slideshow.html').then(dom => {
+      const modal = document.createElement('DIV');
+      modal.classList.add('modal');
+      modal.classList.add('slideshow');
+      modal.id = 'slideshow-modal';
+      modal.appendChild(dom);
+      const mainImg = modal.getElementsByTagName('IMG')[0];
+
+      // Magnify zoom (thx boss https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp - here adapted to fit our exact need)
+      const glass = mainImg.parentElement.querySelector('.img-magnifier-glass');
+      let w = glass.offsetWidth / 2;
+      let h = glass.offsetHeight / 2;
+      let bw = 3;
+      let zoom = 3;
+      const moveMagnifier = e => {
+        e.preventDefault();
+        // Get the x and y positions of the image
+        const a = mainImg.getBoundingClientRect();
+        // Get the cursor's x and y positions
+        // Calculate the cursor's x and y coordinates, relative to the image
+        let x = (e.pageX - a.left) - window.pageXOffset;
+        let y = (e.pageY - a.top) - window.pageYOffset;
+        // Prevent the magnifier glass from being positioned outside the image
+        if (x > mainImg.width - (w / zoom)) { x = mainImg.width - (w / zoom); }
+        if (x < w / zoom) { x = w / zoom; }
+        if (y > mainImg.height - (h / zoom)) { y = mainImg.height - (h / zoom); }
+        if (y < h / zoom) { y = h / zoom; }
+        // Set the position of the magnifier glass
+        glass.style.left = `${(x - w)}px`;
+        glass.style.top = `${(y - h)}px`;
+        // Display what the magnifier glass "sees"
+        glass.style.backgroundPosition = `-${((x * zoom) - w + bw)}px -${((y * zoom) - h + bw)}px`;
+      };
+      // Execute a function when someone moves the magnifier glass over the image
+      glass.addEventListener('mousemove', moveMagnifier);
+      mainImg.addEventListener('mousemove', moveMagnifier);
+      glass.addEventListener('touchmove', moveMagnifier);
+      mainImg.addEventListener('touchmove', moveMagnifier);
+      glass.addEventListener('click', () => {
+        if (modal.querySelector('.img-magnifier-glass').style.display === 'block') {
+          modal.querySelector('.img-magnifier-glass').style.display = 'none';
+          modal.getElementsByTagName('IMG')[3].classList.remove('activated');
+        } else {
+          modal.querySelector('.img-magnifier-glass').style.display = 'block';
+          modal.getElementsByTagName('IMG')[3].classList.add('activated');
+        }
+        setTimeout(() => {
+          // Update glass magnifier dimension when made visible
+          w = glass.offsetWidth / 2;
+          h = glass.offsetHeight / 2;          
+        });
+      });
+
+
+      // Next/Previous processing
+      let currentIndex = photo.number;
+      const updateImage = amount => {
+        if (currentIndex + amount > parseInt(photo.total)) {
+          currentIndex = 1;
+        } else if (currentIndex + amount < 1) {
+          currentIndex = parseInt(photo.total);
+        } else {
+          currentIndex += amount;
+        }
+
+        const newFile = photo.file.replace(/(R-\d{3})/, 'R-' + currentIndex.toString().padStart(3, '0'));
+        modal.getElementsByTagName('IMG')[0].src =  `/assets/img/book/MBPPB001/fullres/archives/${newFile}`;
+        modal.querySelector('#image-title').innerHTML = `${currentIndex} / ${photo.total}`;
+
+        modal.querySelector('#img-loading-spinner').style.display = 'block';
+        setTimeout(() => modal.querySelector('#img-loading-spinner').style.opacity = 1);
+      };
+
+      // Internal events (previous, download, zoom, next)
+      modal.getElementsByTagName('IMG')[1].addEventListener('click', () => updateImage(-1));
+      modal.getElementsByTagName('IMG')[2].addEventListener('click', () => {
+        const outputImage = document.createElement('A');
+        outputImage.href = photo.image;
+        outputImage.download = `${photo.name}`;
+        outputImage.click();
+      });
+      modal.getElementsByTagName('IMG')[3].addEventListener('click', () => {
+        if (modal.querySelector('.img-magnifier-glass').style.display === 'block') {
+          modal.querySelector('.img-magnifier-glass').style.display = 'none';
+          modal.getElementsByTagName('IMG')[3].classList.remove('activated');
+        } else {
+          modal.querySelector('.img-magnifier-glass').style.display = 'block';
+          modal.getElementsByTagName('IMG')[3].classList.add('activated');
+        }
+        setTimeout(() => {
+          // Update glass magnifier dimension when made visible
+          w = glass.offsetWidth / 2;
+          h = glass.offsetHeight / 2;
+        });
+      });
+      modal.getElementsByTagName('IMG')[4].addEventListener('click', () => updateImage(1));
+
+      // Internal onload event to remove loading spinner over image
+      mainImg.onload = () => {
+        glass.style.backgroundImage = `url('${mainImg.src}')`;
+        glass.style.backgroundSize = `${mainImg.width * zoom}px ${mainImg.height * zoom}px`;
+        modal.querySelector('#img-loading-spinner').style.opacity = 0;
+        setTimeout(() => modal.querySelector('#img-loading-spinner').style.display = 'none', 200);
+      };
+
+      // Modal opening/closing animation
+      document.getElementById('overlay').appendChild(modal);
+      const closeModal = e => {
+        if (['overlay', 'slideshow-modal', 'close-modal'].indexOf(e.target.id) === -1 || modal.querySelector('#img-loading-spinner').style.opacity === 1) {
+          return;
+        }
+  
+        document.getElementById('overlay').style.opacity = 0;
+        setTimeout(() => {
+          document.getElementById('overlay').style.display = 'none';
+          document.getElementById('overlay').innerHTML = '';
+        }, 300);
+      };
+      document.getElementById('overlay').style.display = 'flex';
+      setTimeout(() => document.getElementById('overlay').style.opacity = 1, 100);
+      setTimeout(() => {
+        modal.style.opacity = 1;
+        document.getElementById('overlay').addEventListener('click', closeModal);
+        document.getElementById('close-modal').addEventListener('click', closeModal);
+        // Only update modal main image when modal is displayed to avoid onLoad fired to soon
+        modal.getElementsByTagName('IMG')[0].src = photo.image;
+        modal.querySelector('#image-title').innerHTML = `${photo.number} / ${photo.total}`;
       }, 200);
     });
   }

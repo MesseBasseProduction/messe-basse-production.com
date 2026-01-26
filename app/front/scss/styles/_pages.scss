@@ -123,7 +123,7 @@ main.events {
     }
 
     img {
-      border-radius: .5rem;
+      border-radius: var(--s-sl);
       width: 100%;
     }
 
@@ -211,7 +211,7 @@ main.contact {
         .doc-download {
           align-items: center;
           background-color: rgba(255, 255, 255, 0);
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           color: var(--c-fg);
           display: inline-block;
           flex-direction: column;
@@ -264,7 +264,7 @@ main.contact {
       width: 100%;
 
       img {
-        border-radius: .5rem;
+        border-radius: var(--s-sl);
         height: 10rem;
         margin-bottom: var(--s);
       }
@@ -371,7 +371,7 @@ main.artist {
   }
 
   img {
-    border-radius: .5rem;
+    border-radius: var(--s-sl);
     box-shadow: 0px 0px var(--s) var(--c-fg-a10);
     max-width: 910px;
     width: 100%;
@@ -471,7 +471,7 @@ main.artist {
       align-items: center;
       background-color: rgba(0,0,0,.1);
       border: 1px solid #d4d4d4;
-      border-radius: .5rem;
+      border-radius: var(--s-sl);
       color: inherit;
       cursor: pointer;
       display: flex;
@@ -541,7 +541,7 @@ main.book {
         }
 
         img {
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           width: 100%;
         }
     
@@ -611,6 +611,82 @@ main.book {
       }
     }
 
+    .img-container {
+      cursor: pointer;
+      position: relative;
+
+      &:active,
+      &:focus,
+      &:hover {
+        .dl, .mx {
+          opacity: 1;
+        }
+      }
+
+      .dl, .mx {
+        background-color: var(--c-bg-a50);
+        border-radius: var(--s-sl);
+        bottom: var(--s-bg);
+        box-shadow: 0 0 var(--s) var(--c-fg-a50);
+        height: var(--s-bg);
+        padding: var(--s-sl);
+        opacity: 0;
+        position: absolute;
+        width: var(--s-bg);
+        filter: invert(1);
+        transition: all .2s;
+
+        &:active,
+        &:focus,
+        &:hover {
+          background-color: var(--c-bg);
+        }
+      }
+
+      .dl {
+        right: calc(2 * var(--s-bg) + var(--s));
+      }
+
+      .mx {
+        right: var(--s-bg);
+      }
+    }
+
+    .book-context {
+      h1 {
+        margin-bottom: 0;
+      }
+
+      h3 {
+        font-size: 2.2rem;
+        margin-bottom: var(--s);
+      }
+
+      h4 {
+        font-size: 1.8rem;
+        font-style: italic;
+        margin-bottom: var(--s-bg);
+      }
+
+      p {
+        text-align: justify;
+        text-indent: var(--s-bg);
+
+        &:last-of-type {
+          margin-bottom: var(--s-bg);
+        }
+      }
+
+      a {
+        text-indent: 0;
+      }
+
+      .qrcode {
+        border-radius: var(--s-sl);
+        max-width: 300px;
+      }
+    }
+
     .book-content {
       align-items: flex-start;
       display: flex;
@@ -621,47 +697,6 @@ main.book {
       padding: var(--s-bg) 0;
       text-align: justify;
       width: 100%;
-
-      .img-container {
-        cursor: pointer;
-        position: relative;
-
-        &:active,
-        &:focus,
-        &:hover {
-          .dl, .mx {
-            opacity: 1;
-          }
-        }
-
-        .dl, .mx {
-          background-color: var(--c-bg-a50);
-          border-radius: .5rem;
-          bottom: var(--s-bg);
-          box-shadow: 0 0 var(--s) var(--c-fg-a50);
-          height: var(--s-bg);
-          padding: var(--s-sl);
-          opacity: 0;
-          position: absolute;
-          width: var(--s-bg);
-          filter: invert(1);
-          transition: all .2s;
-
-          &:active,
-          &:focus,
-          &:hover {
-            background-color: var(--c-bg-a80);
-          }
-        }
-
-        .dl {
-          right: calc(2 * var(--s-bg) + var(--s));
-        }
-
-        .mx {
-          right: var(--s-bg);
-        }
-      }
 
       .s-image {
         width: 20%;
@@ -763,19 +798,8 @@ main.book {
         width: 50%;
       }
 
-      .underline-width {
-        background-image: linear-gradient(to right, var(--c-fg) 99%, rgba(255, 255, 255, 0) 0%);
-        background-position: bottom;
-        background-size: var(--s-sl) 1px;
-        background-repeat: repeat-x;
-        display: block;
-        height: 1px;
-        margin: 0 var(--s);
-        overflow: hidden;
-      }
-
       img {
-        border-radius: .5rem;
+        border-radius: var(--s-sl);
         margin: 0 auto;
         width: 100%;
       }
@@ -812,6 +836,7 @@ main.book {
       }
 
       a {
+        display: block;
         margin-bottom: 0;
       }
 
@@ -860,6 +885,10 @@ main.book {
         float: right;
         margin-left: auto;
         text-align: right;
+      }
+
+      .al-j {
+        text-align: justify;
       }
 
       .ml-hg {
@@ -935,6 +964,50 @@ main.book {
         }
       }
     }
+
+    .book-bonus {
+      h2 {
+        margin-bottom: 0;
+      }
+
+      h2 + p {
+        font-style: italic;
+      }
+
+      p a {
+        margin-bottom: 0;
+      }
+
+      .img-carousel-wrapper {
+        height: calc(40rem + var(--s-lg) * 2 + var(--default-scroll-size));
+        margin-bottom: var(--s-lg);
+        width: 100%;
+
+        .img-carousel {
+          column-gap: var(--s);
+          display: flex;
+          padding: var(--s-lg) 0;
+
+          .img-container {
+            height: 40rem;
+
+            img:first-of-type {
+              height: 40rem;
+            }
+
+            .dl {
+              bottom: var(--s-lg);
+              right: calc(var(--s) + var(--s-lg) + var(--s-bg));
+            }
+
+            .mx {
+              bottom: var(--s-lg);
+              right: var(--s-lg);
+            }
+          }
+        }
+      }
+    }
   }
 }
 
@@ -955,7 +1028,7 @@ main.catalog {
       width: 20rem;
     
       .release-container {
-        border-radius: .5rem;
+        border-radius: var(--s-sl);
         box-shadow: 0px 0px var(--s) var(--c-fg-a30);
         cursor: pointer;
         height: 100%;
@@ -968,7 +1041,7 @@ main.catalog {
 
         .front, .back {
           backface-visibility: hidden;
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           height: 100%;
           position: absolute;
           width: 100%;
@@ -979,7 +1052,7 @@ main.catalog {
           color: var(--c-bg);
 
           img {
-            border-radius: .5rem;
+            border-radius: var(--s-sl);
             width: 100%;
           }
 
@@ -1006,7 +1079,7 @@ main.catalog {
           transform: rotateY(180deg);
 
           img {
-            border-radius: .5rem;
+            border-radius: var(--s-sl);
             margin-bottom: var(--s);
             position: absolute;
             top: var(--s);
@@ -1163,7 +1236,7 @@ main.music {
         }
 
         img {
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           width: 100%;
         }
 
@@ -1182,7 +1255,7 @@ main.music {
 
           span {
             border: solid 1px var(--c-fg);
-            border-radius: .5rem;
+            border-radius: var(--s-sl);
             display: inline-flex;
             font-size: 1.2rem;
             font-style: italic;
@@ -1265,7 +1338,7 @@ main.photo {
         }
 
         img {
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           height: 100%;
           position: absolute;
           transition: opacity .2s;
@@ -1296,7 +1369,7 @@ main.photo {
         padding: var(--s);
 
         img {
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           cursor: pointer;
           width: 100%;
           transition: opacity 1s, transform .5s;
@@ -1318,6 +1391,7 @@ main.photo {
   }
 }
 
+main.book,
 main.podcast {
   background-image: radial-gradient(#00374a 0, var(--c-bg) 80%);
 
@@ -1345,7 +1419,7 @@ main.podcast {
         }
 
         img {
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           width: 100%;
         }
     
@@ -1425,7 +1499,7 @@ main.release {
 
     .album-credits {
       .album-artwork {
-        border-radius: .5rem;
+        border-radius: var(--s-sl);
         box-shadow: 0px 0px var(--s) var(--c-fg-a30);
         margin-bottom: var(--s-lg);
         width: 100%;
@@ -1446,7 +1520,7 @@ main.release {
 
         p {
           border: solid 1px var(--c-fg);
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           height: 3rem;
           margin: var(--s-sl);
           padding: 0 var(--s);
@@ -1478,13 +1552,13 @@ main.release {
         text-align: left;
 
         &:first-of-type {
-          border-top-left-radius: .5rem;
-          border-top-right-radius: .5rem;
+          border-top-left-radius: var(--s-sl);
+          border-top-right-radius: var(--s-sl);
         }
 
         &:last-of-type {
-          border-bottom-left-radius: .5rem;
-          border-bottom-right-radius: .5rem;
+          border-bottom-left-radius: var(--s-sl);
+          border-bottom-right-radius: var(--s-sl);
         }
 
         &:nth-child(odd) {
@@ -1586,7 +1660,7 @@ main.software {
         padding: var(--s-lg);
 
         img {
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           width: 100%;
           transition: transform .2s;
 
@@ -1640,7 +1714,7 @@ main.video {
       .embed-video {
         iframe {
           aspect-ratio: 16 / 9;
-          border-radius: .5rem;
+          border-radius: var(--s-sl);
           box-shadow: 0px 0px var(--s) var(--c-fg-a10);
           width: 100%;
         }
