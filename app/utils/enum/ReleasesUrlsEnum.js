@@ -458,5 +458,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP058',
     frtarget: '/artiste/noiiske/albums/bop-that',
     entarget: '/artist/noiiske/releases/bop-that'
+  },
+  {
+    inputUrl: '/MBPSP059',
+    frtarget: '/artiste/noiiske/albums/turn-up-the-beat',
+    entarget: '/artist/noiiske/releases/turn-up-the-beat'
   }
 ]);
