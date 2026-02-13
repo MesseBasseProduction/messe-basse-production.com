@@ -463,5 +463,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP059',
     frtarget: '/artiste/noiiske/albums/turn-up-the-beat',
     entarget: '/artist/noiiske/releases/turn-up-the-beat'
+  },
+  {
+    inputUrl: '/MBPSP059',
+    frtarget: '/artiste/angela-coadou/albums/ici-et-la-bas',
+    entarget: '/artist/angela-coadou/releases/ici-et-la-bas'
   }
 ]);

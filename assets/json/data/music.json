@@ -1,6 +1,70 @@
 {
   "artists": [
     {
+      "name": "Angela Coadou",
+      "internalUrl": "agela-coadou",
+      "genres": ["Soul", "R&B"],
+      "image": "/assets/img/band/angela.webp",
+      "imageCredits": "",
+      "mainLink": "https://angelacoadou.com",
+      "releases": ["MBPSP060"],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/angela.coadou.music"
+        }, {
+          "type": "tiktok",
+          "url": "https://www.tiktok.com/@angela.coadou"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@angela-coadou"
+        }, {
+          "type": "facebook",
+          "url": "https://www.facebook.com/tchoupine"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/626fqBGnlyJG3qJixHoJWD"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/angela-coadou/1709847034"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.de/artists/B0CK7V36DT/angela-coadou"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/233784481"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/interpreter/angela-coadou/19958438"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/artist/42534536"
+        }, {
+          "type": "bandcamp",
+          "url": "https://angelacoadou.bandcamp.com"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/angelacoadou"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/17309320-Angela-Coadou"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Angela-coadou"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/6866f05e-1099-4748-b76b-46444813f4f9"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Angela Coadou</i> est une artiste dont la voix raconte les passages, les tiraillements et les réconciliations intérieures. Chanteuse, autrice-compositrice, elle place la voix au cœur de son art : une voix vivante, organique, profondément ancrée.<br><br>Nourrie par des musiques sans frontières (jazz, blues, afro, classique, etc.), la spiritualité et la transmission, <i>Angela Coadou</i> mêle douceur et puissance, simplicité et profondeur. Sa musique inspire la quête de vérité : celle qui relie, apaise et réveille à la fois.<br><br>À travers ses chansons, elle invite chacun à revenir à soi, à écouter ce qui vibre, et à transformer les épreuves en passage vers plus de justesse.",
+        "en": "<i>Angela Coadou</i> is an artist whose voice tells the stories of transitions, inner struggles, and reconciliations. A singer and songwriter, she places the voice at the heart of her art: a living, organic, deeply rooted voice.<br><br>Inspired by boundaryless music (jazz, blues, Afro, classical, etc.), spirituality, and transmission, <i>Angela Coadou</i> blends gentleness and power, simplicity and depth. Her music inspires the quest for truth: the kind that connects, soothes, and awakens all at once.<br><br>Through her songs, she invites everyone to return to themselves, to listen to what resonates within, and to transform trials into a journey toward greater authenticity."
+      },
+      "shortBio": {
+        "fr": "<i>Angela Coadou</i> est une chanteuse et autrice-compositrice pour qui la voix est un lieu de vérité et de transformation. À travers ses chansons, elle invite chacun à revenir à soi, à écouter ce qui vibre, et à transformer les épreuves en passage vers plus de justesse.<br><br>C'est à partir de 2025 que ce partenariat entre <i>Angela Coadou</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un air frais et sensible au catalogue ; tout ce dont ce monde a besoin.",
+        "en": "<i>Angela Coadou</i> is a singer and songwriter for whom the voice is a place of truth and transformation. Through her songs, she invites everyone to return to themselves, to listen to what resonates within, and to transform trials into a journey toward greater authenticity.<br><br>It was in 2025 that the partnership between <i>Angela Coadou</i> and Messe Basse Production began, bringing a fresh and sensitive touch to their catalog—exactly what this world needs."
+      }
+    }, {
       "name": "NOIISKE",
       "internalUrl": "noiiske",
       "genres": ["Dubstep", "Trap"],
@@ -7399,6 +7463,82 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/f5494b70-9d9e-4868-bbcd-2c78832cc08e"
+        }
+      ]
+    },
+    "MBPSP060": {
+      "name": "Ici & Là-Bas",
+      "artist": ["Angela Coadou"],
+      "date": "2026-02-13",
+      "image": "/assets/img/music/MBPSP060.webp",
+      "mainLink": "https://www.youtube.com/watch?v=VO4rDbfHkKg&list=PLp5D05IpZHwIAEvCRR9Yr6a9MKkvwOWs_",
+      "duration": "04:21",
+      "EAN": "0642613566650",
+      "styles": ["Soul", "World"],
+      "about": {
+        "fr": "Un tiraillement. Une union. « Ici & Là-Bas » nous rappelle qu'il n'y a pas toujours à choisir, mais à embrasser.",
+        "en": "A tug-of-war. A union. « Ici & Là-Bas » (Here & There) reminds us that we don't always have to choose—sometimes, we just need to embrace."
+      },
+      "credits": [
+        { "arranger": ["Pascale Sastre", "Séverin Chazalmartin"] },
+        { "record": ["Studio Caz'Africa"] },
+        { "mix": ["Studio Caz'Africa"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Angela Coadou"] },
+        { "illustration": ["Angela Coadou"] },
+        { "vocal": ["Angela Coadou"] },
+        { "backvocal": ["Angela Coadou", "Armand Biyag", "Chloé Bentolila", "Ethan Coadou", "Nolan Coadou", "Pascale Sastre", "Touhfat Mouhtare"] }
+      ],
+      "tracks": [
+        {
+          "title": "Ici & Là-Bas",
+          "artist": ["Angela Coadou"],
+          "duration": "04:21",
+          "ISRC": "FR-9W1-26-01945",
+          "credits": [
+            { "composer": ["Angela Coadou", "Armand Biyag"] },
+            { "author": ["Angela Coadou"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7FC9rlEil8A4Y6ouoU7PK9"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/ici-l%C3%A0-bas-single/1868708742"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0GGJR2M69"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/896646462"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/ici-la-bas-angela-coadou/pbegcp5rtqdb2"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/489371518"
+        }, {
+          "type": "bandcamp",
+          "url": "https://angelacoadou.bandcamp.com/album/ici-l-bas"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/angelacoadou/sets/ici-la-bas"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=VO4rDbfHkKg&list=PLp5D05IpZHwIAEvCRR9Yr6a9MKkvwOWs_"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/36460323"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Angela-coadou/Ici-la-bas"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/cd56efa4-d823-4e4d-b7f1-67a8a6022aca"
         }
       ]
     },
