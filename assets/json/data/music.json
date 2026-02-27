@@ -7,7 +7,7 @@
       "image": "/assets/img/band/angela.webp",
       "imageCredits": "",
       "mainLink": "https://angelacoadou.com",
-      "releases": ["MBPSP060"],
+      "releases": ["MBPSP061", "MBPSP060"],
       "links": [
         {
           "type": "instagram",
@@ -7474,7 +7474,7 @@
       "mainLink": "https://www.youtube.com/watch?v=VO4rDbfHkKg&list=PLp5D05IpZHwIAEvCRR9Yr6a9MKkvwOWs_",
       "duration": "04:21",
       "EAN": "0642613566650",
-      "styles": ["Soul", "World"],
+      "styles": ["West Africa", "World", "Soul"],
       "about": {
         "fr": "Un tiraillement. Une union. « Ici & Là-Bas » nous rappelle qu'il n'y a pas toujours à choisir, mais à embrasser.",
         "en": "A tug-of-war. A union. « Ici & Là-Bas » (Here & There) reminds us that we don't always have to choose—sometimes, we just need to embrace."
@@ -7539,6 +7539,64 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/cd56efa4-d823-4e4d-b7f1-67a8a6022aca"
+        }
+      ]
+    },
+    "MBPSP061": {
+      "name": "Des Vies",
+      "artist": ["Angela Coadou"],
+      "date": "2026-02-27",
+      "image": "/assets/img/music/MBPSP061.webp",
+      "mainLink": "https://www.youtube.com/watch?v=sgGQxrT6veo&list=PLp5D05IpZHwJjhHdRTlrvytdoKhLC9kHg",
+      "duration": "03:37",
+      "EAN": "0642613218429",
+      "styles": ["West Africa", "World", "Soul"],
+      "about": {
+        "fr": "De la survie à la vie : j'ai repris mon souffle et mon destin. « Des vies » raconte ce moment où tout a basculé.",
+        "en": "From survival to life: I regained my breath and my destiny. « Des vies » recounts that moment when everything changed."
+      },
+      "credits": [
+        { "arranger": ["Pascale Sastre", "Séverin Chazalmartin"] },
+        { "record": ["AK Studios"] },
+        { "mix": ["AK Studios", "Pascale Sastre", "Séverin Chazalmartin"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Angela Coadou"] },
+        { "illustration": ["Angela Coadou"] },
+        { "vocal": ["Angela Coadou"] },
+        { "guitar": ["Stéphane Kharat"] }
+      ],
+      "tracks": [
+        {
+          "title": "Des Vies",
+          "artist": ["Angela Coadou"],
+          "duration": "03:37",
+          "ISRC": "FR-9W1-26-07391",
+          "credits": [
+            { "composer": ["Angela Coadou"] },
+            { "author": ["Angela Coadou"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://angelacoadou.bandcamp.com/album/des-vies"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/angelacoadou/sets/des-vies"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=sgGQxrT6veo&list=PLp5D05IpZHwJjhHdRTlrvytdoKhLC9kHg"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/36606586"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Angela-coadou/Des-vies"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/fe669f71-45d1-416d-8796-1003a133bf09"
         }
       ]
     },
