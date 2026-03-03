@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "title": "Sermaise Five Trophy",
+      "catalog": "MBPEVT034",
+      "image": "/assets/img/event/MBPEVT034.webp",
+      "date": "2026-05-02",
+      "place": "Terrain multi-sports - Sermaise",
+      "link": "https://www.facebook.com/events/1380205910528027",
+      "description": {
+        "en": "The Sermaise Five Trophy is arriving for its very first edition! For the first time, Sermaise's brand-new multi-sports field will come alive to the rhythm of five-a-side football (or “five” for those in the know), an explosive and friendly sport that combines speed, strategy, and team spirit! Whether you're a young enthusiast or an experienced player, this tournament is made for you. Our goal is to create a family-friendly, welcoming, and sporty event where everyone can have fun, push themselves, and share unforgettable moments.",
+        "fr": "Le Sermaise Five Trophy débarque pour sa 1ère édition ! Pour la première fois, le terrain multi-sports flambant neuf de Sermaise va vibrer au rythme du football à cinq (five pour les intimes), sport explosif et convivial qui mêle vitesse, stratégie et esprit d'équipe ! Que vous soyez un jeune passionné ou un joueur confirmé, ce tournoi est fait pour vous. Notre volonté est de créer un événement familial, convivial et sportif, où chacun peut s'amuser, se dépasser et partager des moments inoubliables."
+      },
+      "starring": []
+    }, {
       "title": "A.R.N. Messengers débarque au Vinyle Vintage Studio",
       "catalog": "MBPEVT032",
       "image": "/assets/img/event/MBPEVT032.webp",
