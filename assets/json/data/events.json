@@ -13,6 +13,23 @@
       },
       "starring": []
     }, {
+      "title": "L'Odyssée: Prologue",
+      "catalog": "MBPEVT033",
+      "image": "/assets/img/event/MBPEVT033.webp",
+      "date": "2026-04-18",
+      "place": "Église Notre-Dame-de-la-Nativité-de-la-Vierge, Sermaise",
+      "link": "https://www.facebook.com/events/1950190459040431",
+      "description": {
+        "en": "Through this concert, Angela Coadou delivers an immersive journey between voice and kora. A performance blending reinterpretations of classic songs with exclusive original compositions.",
+        "fr": "À travers ce concert, Anglea Coadou livre un voyage immersif entre la voix er la kora. Un concert ou se mêleront reprises de classiques de la chanson, avec des compositions originales exclusives."
+      },
+      "starring": [
+        {
+          "name": "Angela Coadou",
+          "url": "https://www.youtube.com/@angela-coadou"
+        }
+      ]
+    }, {
       "title": "A.R.N. Messengers débarque au Vinyle Vintage Studio",
       "catalog": "MBPEVT032",
       "image": "/assets/img/event/MBPEVT032.webp",
