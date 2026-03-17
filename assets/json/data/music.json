@@ -7580,6 +7580,24 @@
       ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6HtXvi8OBFxYXcounZDPSX"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/des-vies-single/1881624411"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0GQT6V4X7"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/930541501"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/des-vies-angela-coadou/qhtawmbigw2ij"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/503504271"
+        }, {
           "type": "bandcamp",
           "url": "https://angelacoadou.bandcamp.com/album/des-vies"
         }, {
