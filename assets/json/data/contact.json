@@ -72,6 +72,10 @@
   ],
   "members": [
     {
+      "name": "Aliénor Beaulieu",
+      "role": "communication",
+      "image": "/assets/img/asso/Aliénor.webp"
+    }, {
       "name": "Pierre Bouniol",
       "role": "dev",
       "image": "/assets/img/asso/Pierre.webp"
@@ -87,10 +91,6 @@
   ],
   "pastMembers": [
     {
-      "name": "Aliénor Beaulieu",
-      "role": "communication",
-      "image": "/assets/img/asso/Aliénor.webp"
-    }, {
       "name": "Guillaume Crantz",
       "role": "apparel",
       "image": "/assets/img/asso/Guillaume.webp"
