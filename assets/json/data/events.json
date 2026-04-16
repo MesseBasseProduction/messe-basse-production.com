@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "title": "Les Foulées Sarmates",
+      "catalog": "MBPEVT0XX",
+      "image": "/assets/img/event/MBPEVT0XX.webp",
+      "date": "2026-10-17",
+      "place": "Sermaise",
+      "link": "https://les-foulees-sarmates.com",
+      "description": {
+        "en": "Dive into the heart of Sermaise for a day of sport, solidarity, and good vibes! Les Foulées Sarmates features three nature runs to explore the richness of our village: 5 km, 10 km, and 21 km, suitable for all levels. Through forests, the Orge Valley, rivers, hills, plains, hamlets, ponds, and historical monuments, each route offers a unique experience where sport meets discovery. By taking part in Les Foulées Sarmates, you are supporting the fight against cancer in women. 50% of the profits will be donated to the Ligue contre le cancer – Essonne Committee as part of Pink October.",
+        "fr": "Plongez au cœur de Sermaise le temps d'une journée sportive, solidaire et conviviale ! Les Foulées Sarmates, c'est trois courses nature pour explorer les richesses de notre village : 5 km, 10 km et 21 km, accessibles à tous les niveaux. Entre forêts, vallée de l'Orge, rivières, côtes, plaines, hameaux, mares et monuments historiques, chaque parcours vous fera vivre une expérience unique, où le sport se mêle à la découverte. En participant aux Foulées Sarmates, vous soutenez la lutte contre les cancers chez les femmes. 50 % des bénéfices seront reversés à la Ligue contre le cancer - Comité Essonne, dans le cadre de l'Octobre Rose."
+      },
+      "starring": []
+    }, {
       "title": "Sermaise Five Trophy",
       "catalog": "MBPEVT034",
       "image": "/assets/img/event/MBPEVT034.webp",

@@ -653,6 +653,11 @@ main.book {
     }
 
     .book-context {
+      &.book-context p {
+        text-align: center;
+        text-indent: 0;
+      }
+      
       h1 {
         margin-bottom: 0;
       }

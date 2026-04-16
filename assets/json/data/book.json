@@ -1,6 +1,23 @@
 {
   "collections": [
     {
+      "name": "Traversée des Songes",
+      "books": [
+        {
+          "title": "Instants",
+          "subtitle": "",
+          "authors": ["André Chevalier"],
+          "date": "2026-04-15",
+          "ISBN": "979-10-978137-2-7",
+          "catalog": "MBPPB002",
+          "image": "/assets/img/book/MBPPB002.webp",
+          "synopsis": {
+            "fr": "Avec Instants, André Chevalier revient à la poésie après un premier ouvrage publié en 1981. Ce nouveau recueil, mûri par le temps, la mémoire et l'expérience d'une vie, livre une parole simple, directe, profondément humaine, où chaque poème saisit un fragment d'existence.<br><br>Au fil des pages, les souvenirs d'enfance côtoient les deuils intimes, l'amour, la filiation, les paysages intérieurs et les blessures d'un homme. Ces poèmes capturent ces moments suspendus qui composent une vie : un souvenir, une absence, une rencontre, une inquiétude, un espoir.<br><br>Ces vers témoignent de la fragilité de nos vies et la persistance de l'espérance, des drames collectifs, des silences de la mémoire aux révoltes face à l'injustice. Chaque poème est une halte sensible dans le tumulte du temps.",
+            "en": "With Instants, André Chevalier returns to poetry after a first work published in 1981. This new collection, shaped by time, memory, and a lifetime of experience, offers a voice that is simple, direct, and deeply human, where each poem captures a fragment of existence.<br><br>As the pages unfold, childhood memories stand alongside personal grief, love, family ties, inner landscapes, and the wounds of a man. These poems capture those suspended moments that make up a life: a memory, an absence, an encounter, a worry, a hope.<br><br>These lines bear witness to the fragility of our lives and the persistence of hope, to collective tragedies, to the silences of memory, and to acts of resistance in the face of injustice. Each poem is a sensitive pause in the turmoil of time."
+          }
+        }
+      ]
+    }, {
       "name": "Collection Empreinte d'Histoire",
       "books": [
         {

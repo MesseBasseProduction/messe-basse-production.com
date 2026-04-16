@@ -1,0 +1,26 @@
+{{> nav}}
+<main id="scene" class="book" data-catalog="{{info.catalog}}">
+  <div id="back-button" class="back-button">←</div>
+  <section>
+    <div class="book-context MBPPB002">
+      <h1 id="page-title">Instants</h1>
+      <h4>André Chevalier</h4>
+      <p>Avec Instants, André Chevalier revient à la poésie après un premier ouvrage publié en 1981. Ce nouveau recueil, mûri par le temps, la mémoire et l'expérience d'une vie, livre une parole simple, directe, profondément humaine, où chaque poème saisit un fragment d'existence.</p>
+      <p>Au fil des pages, les souvenirs d'enfance côtoient les deuils intimes, l'amour, la filiation, les paysages intérieurs et les blessures d'un homme. Ces poèmes capturent ces moments suspendus qui composent une vie : un souvenir, une absence, une rencontre, une inquiétude, un espoir.</p>
+      <p>Ces vers témoignent de la fragilité de nos vies et la persistance de l'espérance, des drames collectifs, des silences de la mémoire aux révoltes face à l'injustice. Chaque poème est une halte sensible dans le tumulte du temps.</p>
+      <p>Un recueil habité par la mélancolie, mais aussi par une profonde attention à l'autre — une invitation à ressentir les mots dès lors qu'ils touchent à l'essentiel.</p>
+      <p>Publié le 15 avril 2026 chez Messe Basse Production, au sein de la « <i>Traversée des Songes</i> ».</p>
+      <p>Ainsi, si vous êtes interressé pour acheter votre exemplaire de ce livre, nous vous invitons à scanner le QR code ci-dessous, ou bien à vous rendre sur la page de vente <a href="https://www.helloasso.com/associations/messe-basse-production/boutiques/les-livres-de-messe-basse-production" target="_blank" rel="noopener noreferrer">HelloAsso</a> associé.</p>
+      <a href="https://www.helloasso.com/associations/messe-basse-production/boutiques/les-livres-de-messe-basse-production" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/img/book/MBPPB002/qrcode.png" class="qrcode" alt="qr-code-to-buy-book">
+      </a>
+    </div>
+  </section>
+  {{> footer}}
+</main>
+<script type="text/javascript" src="/assets/dist/BookPage.bundle.js"></script>
+<script>
+window.BookPage = new BookPage({
+  catalog: '{{info.catalog}}'
+});
+</script>

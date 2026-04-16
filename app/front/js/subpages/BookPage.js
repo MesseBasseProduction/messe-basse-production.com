@@ -24,7 +24,7 @@ class BookPage extends AbstractMBP {
       this._isReadingPage = true;
       this._init()
         .then(this._translateBookPage.bind(this))
-        .then(this._handleEvents.bind(this))
+        .then(this._handleEvents.bind(this, options))
         .then(this._sharedEvents.bind(this))
         .then(this._makeSceneVisible.bind(this));
     }
@@ -58,7 +58,6 @@ class BookPage extends AbstractMBP {
 
   _buildBookPage() {
     return new Promise(resolve => {
-      console.log(this._collections);
       for (let i = 0; i < this._collections.length; ++i) {
         const collection = document.createElement('DIV');
         collection.classList.add('book-collection');
@@ -112,11 +111,11 @@ class BookPage extends AbstractMBP {
   }
 
 
-  _handleEvents() {
+  _handleEvents(options) {
     return new Promise(resolve => {
       this._dom.querySelector('#back-button').addEventListener('click', this._loadPreviousPage.bind(this));
 
-      if (this._isReadingPage === true) {
+      if (this._isReadingPage === true && options && options.catalog === 'MBPPB001') {
         // Book image containers
         let imgContainers = this._dom.querySelector('.book-content').querySelectorAll('.img-container');
         for (let i = 0; i < imgContainers.length; ++i) {
@@ -171,6 +170,7 @@ class BookPage extends AbstractMBP {
           }
         });
       }
+
       resolve();
     });
   }

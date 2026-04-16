@@ -1,6 +1,14 @@
 {
   "creation": [
     {
+      "name": "les-foulees-sarmates.com",
+      "image": "/assets/img/soft/les-foulees-sarmates.com.webp",
+      "url": "https://les-foulees-sarmates.com",
+      "bio": {
+        "fr": "Create your unique map poster, customize it and make it ready to be printed in a few clicks.",
+        "en": "Create your unique map poster, customize it and make it ready to be printed in a few clicks."
+      }
+    }, {
       "name": "messemap.org",
       "image": "/assets/img/soft/messemap.org.webp",
       "url": "https://messemap.org",
@@ -20,6 +28,18 @@
   ],
   "artists": [
     {
+      "name": "melasoul.fr",
+      "image": "/assets/img/soft/melasoul.fr.webp",
+      "url": "https://melasoul.fr"
+    }, {
+      "name": "enjoy-the-moment.fr",
+      "image": "/assets/img/soft/enjoy-the-moment.fr.webp",
+      "url": "https://enjoy-the-moment.fr"
+    }, {
+      "name": "arn-messengers.com",
+      "image": "/assets/img/soft/arn-messengers.com.webp",
+      "url": "https://arn-messengers.com"
+    }, {
       "name": "guillaumebeaulieu.com",
       "image": "/assets/img/soft/guillaumebeaulieu.com.webp",
       "url": "https://guillaumebeaulieu.com"

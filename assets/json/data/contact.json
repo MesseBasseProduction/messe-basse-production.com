@@ -6,6 +6,10 @@
   },
   "documents": [
     {
+      "name": "PVAGE",
+      "date": "2026-03-12",
+      "url": "/assets/doc/2026-03-12 - PVAGE.pdf"
+    }, {
       "name": "Statuts v3",
       "date": "2026-01-03",
       "url": "/assets/doc/2026-01-03 - Statuts MBP.pdf"
@@ -165,6 +169,10 @@
       "name" : "Soundcloud",
       "url": "https://soundcloud.com/messe-basse-production",
       "icon": "/assets/img/logo/soundcloud.svg"
+    }, {
+      "name" : "Strava",
+      "url": "https://www.strava.com/clubs/les-foulees-sarmates",
+      "icon": "/assets/img/logo/strava.svg"
     }, {
       "name" : "X",
       "url": "https://x.com/basse_messe",
