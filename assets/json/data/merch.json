@@ -13,6 +13,16 @@
   ],
   "albums": [
     {
+      "name": "A.R.N. Messengers – Foot Trip EP",
+      "catalog": "MBPMC009",
+      "year": "2026",
+      "price": {
+        "regular": "10€",
+        "signed": "12€"
+      },
+      "image": "/assets/img/merch/MBPMC009.webp",
+      "remaining": 50
+    }, {
       "name": "A.R.N. Messengers – A.R.N. Messengers Débarque au Sunset",
       "catalog": "MBPMC007",
       "year": "2025",
@@ -31,7 +41,7 @@
         "signed": "18€"
       },
       "image": "/assets/img/merch/MBPMC005.webp",
-      "remaining": 200
+      "remaining": 166
     }, {
       "name": "The Forge – Musaïc",
       "catalog": "MBPMC004",
@@ -66,6 +76,17 @@
   ],
   "books": [
     {
+      "name": "Instants",
+      "writter": "André Chevalier",
+      "catalog": "MBPMC008",
+      "year": "2026",
+      "price": {
+        "regular": "10€",
+        "signed": "12€"
+      },
+      "image": "/assets/img/merch/MBPMC008.webp",
+      "remaining": 100
+    }, {
       "name": "La Commune de Sermaise (1899)",
       "writter": "Arthur Beaulieu",
       "catalog": "MBPMC006",
