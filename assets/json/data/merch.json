@@ -13,6 +13,16 @@
   ],
   "albums": [
     {
+      "name": "Guillaume Beaulieu – Il Flauto Di Leonardo",
+      "catalog": "MBPMC010",
+      "year": "2026",
+      "price": {
+        "regular": "20€",
+        "signed": "25€"
+      },
+      "image": "/assets/img/merch/MBPMC010.webp",
+      "remaining": 180
+    }, {
       "name": "A.R.N. Messengers – Foot Trip EP",
       "catalog": "MBPMC009",
       "year": "2026",

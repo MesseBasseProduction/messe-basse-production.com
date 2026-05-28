@@ -1,6 +1,61 @@
 {
   "artists": [
     {
+      "name": "Guillaume Beaulieu",
+      "internalUrl": "guillaume-beaulieu",
+      "genres": ["Baroque", "Renaissance"],
+      "image": "/assets/img/band/guillaume.webp",
+      "imageCredits": "Arthur Beaulieu",
+      "website": "https://guillaumebeaulieu.com",
+      "releases": ["MBPLP021", "MBPLP017", "MBPSP039", "MBPLP016", "MBPLP013"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/guillaume.beaulieu.73"
+        }, {
+          "type": "instagram",
+          "url": "https://www.instagram.com/guillaume_beaulieu_recorder/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@GuillaumeBeaulieuRecorder"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0y9nzp1xoHA1ihi3Dx1CxY"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/guillaume-beaulieu/1677489486"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0088YBMI4/guillaume-beaulieu/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/2680111/"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/guillaume-beaulieu/17751683"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/38011368"
+        }, {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10064086/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/7a0be4a0-7cd0-46b8-b93e-dfb2853f3969"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Guillaume Beaulieu</i> débute la flûte à bec à l’âge de dix ans au conservatoire de Massy, en région parisienne. Il obtient son DEM de flûte à bec en 2010 dans la classe de <i>Jean-Pierre Nicolas</i> au CRD de la vallée de Chevreuse avec les félicitations du jury à l’unanimité, puis il intègre la classe de <i>Pierre Hamon</i> au CNSMD de Lyon. Il y obtiendra son master en 2015 avec la mention très bien. Son goût pour la musique ancienne le pousse à s’intéresser à la basse continue ; il complète ainsi sa formation en étudiant le clavecin avec <i>Michèle Dévérité</i> au CRD de la vallée de Chevreuse.<br><br>Cette polyvalence lui permet de se produire en France et à l’étranger (Brésil, Japon, Pologne, Hollande, Belgique, Israël…) avec différents ensembles : ensemble Pygmalion, les Nouveaux Caractères, Ensemble Canzona, Orchestre Français des Jeunes Baroques.<br><br>Il a remporté plusieurs prix avec son ensemble de flûtes : le Consort Brouillamini (1<sup>er</sup> prix du Concours International des journées de musiques anciennes de Vanves 2016, Prix du public pour la saison musicale de Musée en musique de Grenoble 2015). Guillaume a également remporté en soliste le 2<sup>ème</sup> prix du concours international <i>Moeck / SRP solo recorder competition</i> 2017, le 3<sup>ème</sup> prix au concours de Nordhorn, le 3<sup>ème</sup> prix au concours international de New York en 2019 (<i>Golden Classical Music Awards</i>), ainsi que le 1<sup>er</sup> prix au concours soliste international de Tel Aviv en 2020.<br><br>Passionné par l'enseignement de son instrument, Guillaume intervient régulièrement lors de <i>masterclass</i> et enseigne la flûte à bec à l’école des arts de Marcoussis, ainsi qu’au conservatoire de Chevilly-Larue dont il est également le Directeur.",
+        "en": "<i>Guillaume Beaulieu</i> began learning the recorder at the age of ten at the Massy music school, located in the south suburb of Paris, before joining <i>Jean-Pierre Nicolas</i>'s class at the CRD Paris-Saclay, graduating with unanimous high honors. He then integrated <i>Pierre Hamon</i>'s class at the CNSMD of Lyon, where he received his master's degree in 2015 with highest distinction. His passion for early music led him to explore basso continuo, furthering his education by studying harpsichord with <i>Michèle Dévérité</i> at the CRD Paris-Saclay.<br><br>His versatility has allowed him to perform both in France and internationally (Brazil, Japan, Poland, the Netherlands, Belgium, Israel…) with various ensembles: Ensemble Pygmalion, Les Nouveaux Caractères, Correspondances, Consort Brouillamini, and Barrocada Orchestra.<br><br>Guillaume Beaulieu is a laureate of several international soloist awards: 1<sup>st</sup> prize at the Tel Aviv International Solo Recorder Competition in 2020, 2<sup>nd</sup> prize at the Moeck / SRP Solo Recorder Competition in 2017, 3<sup>rd</sup> prize at the New York International Competition in 2019 (Golden Classical Music Awards), and 3<sup>rd</sup> prize at the Nordhorn Competition. Additionally, with his recorder ensemble, Consort Brouillamini, he won 1<sup>st</sup> prize at the International Early Music Days Competition in Vanves in 2016, as well as the audience prize for the Musée en Musique season in Grenoble in 2015.<br><br>Guillaume is highly passionated by his instrument and he intervenes regularly in masterclasses and teaches recorder at the School of the Arts in Marcoussis as well at the Chevilly-Larue Conservatory, where he also is the director."
+      },
+      "shortBio": {
+        "fr": "Flûtiste à Bec baroque de renommée internationale, reconnu pour sa virtuosité et son interprétation authentique des œuvres du répertoire. Il se produit régulièrement en France et à l’étranger avec des ensembles prestigieux. Soliste primé, il allie avec ferveur sa carrière artistique et son engagement passionné dans l'enseignement de la flûte à bec.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Guillaume Beaulieu</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une touche d’éclectisme baroque bienvenue au catalogue de l'Association.",
+        "en": "An internationally renowned baroque recorder player, renowned for his virtuosity and authentic interpretation of works from the repertoire. He performs regularly in France and abroad with prestigious ensembles. An award-winning soloist, he fervently combines his artistic career with his passionate commitment to recorder teaching.<br><br>This partnership between <i>Guillaume Beaulieu</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome touch of baroque eclecticism to the Association's catalog."
+      } 
+    }, {
       "name": "Angela Coadou",
       "internalUrl": "angela-coadou",
       "genres": ["Soul", "R&B"],
@@ -407,61 +462,6 @@
         "fr": "Artiste de la scène techno underground, reconnu pour ses compositions audacieuses mêlant techno industrielle, minimalisme et expérimentation sonore, créant des atmosphères intenses et imprévisibles qui repoussent les limites du genre et captivent un public fidèle dans des performances intimistes.<br><br>C’est à partir de 2023 que ce partenariat entre <i>DVPE</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un soupçon de kicks et de mélodies endiablés bienvenues au catalogue de l'Association.",
         "en": "Artist of the underground techno scene, recognized for his daring compositions mixing industrial techno, minimalism and sonic experimentation, creating intense and unpredictable atmospheres that push the boundaries of the genre and captivate a loyal audience in intimate performances.<br><br>It is from 2023 that this partnership between <i>DVPE</i> and <i>Messe Basse Production</i> begins, thus bringing a hint of kicks and wild melodies welcome to the Association's catalog."
       }
-    }, {
-      "name": "Guillaume Beaulieu",
-      "internalUrl": "guillaume-beaulieu",
-      "genres": ["Baroque", "Renaissance"],
-      "image": "/assets/img/band/guillaume.webp",
-      "imageCredits": "Arthur Beaulieu",
-      "website": "https://guillaumebeaulieu.com",
-      "releases": ["MBPLP017", "MBPSP039", "MBPLP016", "MBPLP013"],
-      "links": [
-        {
-          "type": "facebook",
-          "url": "https://www.facebook.com/guillaume.beaulieu.73"
-        }, {
-          "type": "instagram",
-          "url": "https://www.instagram.com/guillaume_beaulieu_recorder/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@GuillaumeBeaulieuRecorder"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/0y9nzp1xoHA1ihi3Dx1CxY"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/guillaume-beaulieu/1677489486"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0088YBMI4/guillaume-beaulieu/"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/2680111/"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/guillaume-beaulieu/17751683"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/38011368"
-        }, {
-          "type": "bandcamp",
-          "url": "https://guillaumebeaulieu.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/10064086/"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/7a0be4a0-7cd0-46b8-b93e-dfb2853f3969"
-        }
-      ],
-      "bio": {
-        "fr": "<i>Guillaume Beaulieu</i> débute la flûte à bec à l’âge de dix ans au conservatoire de Massy, en région parisienne. Il obtient son DEM de flûte à bec en 2010 dans la classe de <i>Jean-Pierre Nicolas</i> au CRD de la vallée de Chevreuse avec les félicitations du jury à l’unanimité, puis il intègre la classe de <i>Pierre Hamon</i> au CNSMD de Lyon. Il y obtiendra son master en 2015 avec la mention très bien. Son goût pour la musique ancienne le pousse à s’intéresser à la basse continue ; il complète ainsi sa formation en étudiant le clavecin avec <i>Michèle Dévérité</i> au CRD de la vallée de Chevreuse.<br><br>Cette polyvalence lui permet de se produire en France et à l’étranger (Brésil, Japon, Pologne, Hollande, Belgique, Israël…) avec différents ensembles : ensemble Pygmalion, les Nouveaux Caractères, Ensemble Canzona, Orchestre Français des Jeunes Baroques.<br><br>Il a remporté plusieurs prix avec son ensemble de flûtes : le Consort Brouillamini (1<sup>er</sup> prix du Concours International des journées de musiques anciennes de Vanves 2016, Prix du public pour la saison musicale de Musée en musique de Grenoble 2015). Guillaume a également remporté en soliste le 2<sup>ème</sup> prix du concours international <i>Moeck / SRP solo recorder competition</i> 2017, le 3<sup>ème</sup> prix au concours de Nordhorn, le 3<sup>ème</sup> prix au concours international de New York en 2019 (<i>Golden Classical Music Awards</i>), ainsi que le 1<sup>er</sup> prix au concours soliste international de Tel Aviv en 2020.<br><br>Passionné par l'enseignement de son instrument, Guillaume intervient régulièrement lors de <i>masterclass</i> et enseigne la flûte à bec à l’école des arts de Marcoussis, ainsi qu’au conservatoire de Chevilly-Larue dont il est également le Directeur.",
-        "en": "<i>Guillaume Beaulieu</i> began learning the recorder at the age of ten at the Massy music school, located in the south suburb of Paris, before joining <i>Jean-Pierre Nicolas</i>'s class at the CRD Paris-Saclay, graduating with unanimous high honors. He then integrated <i>Pierre Hamon</i>'s class at the CNSMD of Lyon, where he received his master's degree in 2015 with highest distinction. His passion for early music led him to explore basso continuo, furthering his education by studying harpsichord with <i>Michèle Dévérité</i> at the CRD Paris-Saclay.<br><br>His versatility has allowed him to perform both in France and internationally (Brazil, Japan, Poland, the Netherlands, Belgium, Israel…) with various ensembles: Ensemble Pygmalion, Les Nouveaux Caractères, Correspondances, Consort Brouillamini, and Barrocada Orchestra.<br><br>Guillaume Beaulieu is a laureate of several international soloist awards: 1<sup>st</sup> prize at the Tel Aviv International Solo Recorder Competition in 2020, 2<sup>nd</sup> prize at the Moeck / SRP Solo Recorder Competition in 2017, 3<sup>rd</sup> prize at the New York International Competition in 2019 (Golden Classical Music Awards), and 3<sup>rd</sup> prize at the Nordhorn Competition. Additionally, with his recorder ensemble, Consort Brouillamini, he won 1<sup>st</sup> prize at the International Early Music Days Competition in Vanves in 2016, as well as the audience prize for the Musée en Musique season in Grenoble in 2015.<br><br>Guillaume is highly passionated by his instrument and he intervenes regularly in masterclasses and teaches recorder at the School of the Arts in Marcoussis as well at the Chevilly-Larue Conservatory, where he also is the director."
-      },
-      "shortBio": {
-        "fr": "Flûtiste à Bec baroque de renommée internationale, reconnu pour sa virtuosité et son interprétation authentique des œuvres du répertoire. Il se produit régulièrement en France et à l’étranger avec des ensembles prestigieux. Soliste primé, il allie avec ferveur sa carrière artistique et son engagement passionné dans l'enseignement de la flûte à bec.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Guillaume Beaulieu</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une touche d’éclectisme baroque bienvenue au catalogue de l'Association.",
-        "en": "An internationally renowned baroque recorder player, renowned for his virtuosity and authentic interpretation of works from the repertoire. He performs regularly in France and abroad with prestigious ensembles. An award-winning soloist, he fervently combines his artistic career with his passionate commitment to recorder teaching.<br><br>This partnership between <i>Guillaume Beaulieu</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome touch of baroque eclecticism to the Association's catalog."
-      } 
     }, {
       "name": "La Baroquerie du Val de Bièvre",
       "internalUrl": "la-baroquerie-du-val-de-bievre",
@@ -3942,6 +3942,212 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/50e88413-dd14-4411-b17d-71f0e16d512a"
+        }
+      ]
+    },
+    "MBPLP021": {
+      "name": "Il Flauto Di Leonardo",
+      "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+      "date": "2026-06-01",
+      "image": "/assets/img/music/MBPLP021.webp",
+      "mainLink": "",
+      "duration": "53:13",
+      "EAN": "0642613995313",
+      "styles": ["Baroque"],
+      "credits": [
+        { "record": ["Arthur Beaulieu", "Philippe Beaulieu"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Arthur Beaulieu"] },
+        { "illustration": ["Arthur Beaulieu", "Guillaume Beaulieu"] },
+        { "artdirection": ["Michèle Dévérité"] },
+        { "recorder": ["Guillaume Beaulieu"] },
+        { "cello": ["Antoine Touche"] },
+        { "harpsichord": ["Thomas Soltani"] }
+
+      ],
+      "tracks": [
+        {
+          "title": "Sonate I - I. Adagio",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "01:53",
+          "ISRC": "FR-9W1-26-19791",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate I - II. Allegro",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:39",
+          "ISRC": "FR-9W1-26-19792",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate I - III. Largo",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "01:33",
+          "ISRC": "FR-9W1-26-19793",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate I - IV. Presto/V. Pastorella",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:33",
+          "ISRC": "FR-9W1-26-19794",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en la mineur - I. Arioso",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:56",
+          "ISRC": "FR-9W1-26-19795",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en la mineur - II. Allegro",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "01:49",
+          "ISRC": "FR-9W1-26-19796",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en la mineur - III. Largo",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:08",
+          "ISRC": "FR-9W1-26-19797",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en la mineur - IV. Allegro/V. Minuè",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "03:06",
+          "ISRC": "FR-9W1-26-19798",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate IV - I. Non Tanto Allegro",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:51",
+          "ISRC": "FR-9W1-26-19799",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate IV - II. Andante Delicato",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "04:33",
+          "ISRC": "FR-9W1-26-19800",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate IV - III. Menuet",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "01:25",
+          "ISRC": "FR-9W1-26-19801",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate V - I. Affetuoso",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "04:34",
+          "ISRC": "FR-9W1-26-19802",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate V - II. Moderato",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:03",
+          "ISRC": "FR-9W1-26-19803",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate V - III. Allegro",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:26",
+          "ISRC": "FR-9W1-26-19804",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en do mineur - I. Tempo Giusto",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:19",
+          "ISRC": "FR-9W1-26-19805",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en do mineur - II. Presto",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:36",
+          "ISRC": "FR-9W1-26-19806",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en do mineur - III. Grave",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "01:31",
+          "ISRC": "FR-9W1-26-19807",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate en do mineur - IV. Giusto",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:17",
+          "ISRC": "FR-9W1-26-19808",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate IX - I. Allegro",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "02:00",
+          "ISRC": "FR-9W1-26-19809",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate IX - II. Andante",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "03:55",
+          "ISRC": "FR-9W1-26-19810",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }, {
+          "title": "Sonate IX - III. Presto",
+          "artist": ["Ensemble Bressan", "Guillaume Beaulieu"],
+          "duration": "01:53",
+          "ISRC": "FR-9W1-26-19812",
+          "credits": [
+            { "composer": ["Leonardo Vinci"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/album/il-flauto-di-leonardo"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37464339"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b7cfac61-377c-4a3c-9dbc-604d16a0d568"
         }
       ]
     },
