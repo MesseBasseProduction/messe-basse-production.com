@@ -110,6 +110,11 @@ module.exports = Object.freeze([
     entarget: '/artist/arn-messengers/releases/arn-messengers-debarque-au-sunset'
   },
   {
+    inputUrl: '/MBPLP021',
+    frtarget: '/artiste/guillaume-beaulieu/albums/il-flauto-di-leonardo',
+    entarget: '/artist/guillaume-beaulieu/releases/il-flauto-di-leonardo'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'
