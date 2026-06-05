@@ -1,68 +1,13 @@
 {
   "artists": [
     {
-      "name": "Guillaume Beaulieu",
-      "internalUrl": "guillaume-beaulieu",
-      "genres": ["Baroque", "Renaissance"],
-      "image": "/assets/img/band/guillaume.webp",
-      "imageCredits": "Arthur Beaulieu",
-      "website": "https://guillaumebeaulieu.com",
-      "releases": ["MBPLP021", "MBPLP017", "MBPSP039", "MBPLP016", "MBPLP013"],
-      "links": [
-        {
-          "type": "facebook",
-          "url": "https://www.facebook.com/guillaume.beaulieu.73"
-        }, {
-          "type": "instagram",
-          "url": "https://www.instagram.com/guillaume_beaulieu_recorder/"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@GuillaumeBeaulieuRecorder"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/0y9nzp1xoHA1ihi3Dx1CxY"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/artist/guillaume-beaulieu/1677489486"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/artists/B0088YBMI4/guillaume-beaulieu/"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/2680111/"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/interpreter/guillaume-beaulieu/17751683"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/browse/artist/38011368"
-        }, {
-          "type": "bandcamp",
-          "url": "https://guillaumebeaulieu.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/10064086/"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/7a0be4a0-7cd0-46b8-b93e-dfb2853f3969"
-        }
-      ],
-      "bio": {
-        "fr": "<i>Guillaume Beaulieu</i> débute la flûte à bec à l’âge de dix ans au conservatoire de Massy, en région parisienne. Il obtient son DEM de flûte à bec en 2010 dans la classe de <i>Jean-Pierre Nicolas</i> au CRD de la vallée de Chevreuse avec les félicitations du jury à l’unanimité, puis il intègre la classe de <i>Pierre Hamon</i> au CNSMD de Lyon. Il y obtiendra son master en 2015 avec la mention très bien. Son goût pour la musique ancienne le pousse à s’intéresser à la basse continue ; il complète ainsi sa formation en étudiant le clavecin avec <i>Michèle Dévérité</i> au CRD de la vallée de Chevreuse.<br><br>Cette polyvalence lui permet de se produire en France et à l’étranger (Brésil, Japon, Pologne, Hollande, Belgique, Israël…) avec différents ensembles : ensemble Pygmalion, les Nouveaux Caractères, Ensemble Canzona, Orchestre Français des Jeunes Baroques.<br><br>Il a remporté plusieurs prix avec son ensemble de flûtes : le Consort Brouillamini (1<sup>er</sup> prix du Concours International des journées de musiques anciennes de Vanves 2016, Prix du public pour la saison musicale de Musée en musique de Grenoble 2015). Guillaume a également remporté en soliste le 2<sup>ème</sup> prix du concours international <i>Moeck / SRP solo recorder competition</i> 2017, le 3<sup>ème</sup> prix au concours de Nordhorn, le 3<sup>ème</sup> prix au concours international de New York en 2019 (<i>Golden Classical Music Awards</i>), ainsi que le 1<sup>er</sup> prix au concours soliste international de Tel Aviv en 2020.<br><br>Passionné par l'enseignement de son instrument, Guillaume intervient régulièrement lors de <i>masterclass</i> et enseigne la flûte à bec à l’école des arts de Marcoussis, ainsi qu’au conservatoire de Chevilly-Larue dont il est également le Directeur.",
-        "en": "<i>Guillaume Beaulieu</i> began learning the recorder at the age of ten at the Massy music school, located in the south suburb of Paris, before joining <i>Jean-Pierre Nicolas</i>'s class at the CRD Paris-Saclay, graduating with unanimous high honors. He then integrated <i>Pierre Hamon</i>'s class at the CNSMD of Lyon, where he received his master's degree in 2015 with highest distinction. His passion for early music led him to explore basso continuo, furthering his education by studying harpsichord with <i>Michèle Dévérité</i> at the CRD Paris-Saclay.<br><br>His versatility has allowed him to perform both in France and internationally (Brazil, Japan, Poland, the Netherlands, Belgium, Israel…) with various ensembles: Ensemble Pygmalion, Les Nouveaux Caractères, Correspondances, Consort Brouillamini, and Barrocada Orchestra.<br><br>Guillaume Beaulieu is a laureate of several international soloist awards: 1<sup>st</sup> prize at the Tel Aviv International Solo Recorder Competition in 2020, 2<sup>nd</sup> prize at the Moeck / SRP Solo Recorder Competition in 2017, 3<sup>rd</sup> prize at the New York International Competition in 2019 (Golden Classical Music Awards), and 3<sup>rd</sup> prize at the Nordhorn Competition. Additionally, with his recorder ensemble, Consort Brouillamini, he won 1<sup>st</sup> prize at the International Early Music Days Competition in Vanves in 2016, as well as the audience prize for the Musée en Musique season in Grenoble in 2015.<br><br>Guillaume is highly passionated by his instrument and he intervenes regularly in masterclasses and teaches recorder at the School of the Arts in Marcoussis as well at the Chevilly-Larue Conservatory, where he also is the director."
-      },
-      "shortBio": {
-        "fr": "Flûtiste à Bec baroque de renommée internationale, reconnu pour sa virtuosité et son interprétation authentique des œuvres du répertoire. Il se produit régulièrement en France et à l’étranger avec des ensembles prestigieux. Soliste primé, il allie avec ferveur sa carrière artistique et son engagement passionné dans l'enseignement de la flûte à bec.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Guillaume Beaulieu</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une touche d’éclectisme baroque bienvenue au catalogue de l'Association.",
-        "en": "An internationally renowned baroque recorder player, renowned for his virtuosity and authentic interpretation of works from the repertoire. He performs regularly in France and abroad with prestigious ensembles. An award-winning soloist, he fervently combines his artistic career with his passionate commitment to recorder teaching.<br><br>This partnership between <i>Guillaume Beaulieu</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome touch of baroque eclecticism to the Association's catalog."
-      } 
-    }, {
       "name": "Angela Coadou",
       "internalUrl": "angela-coadou",
       "genres": ["Soul", "R&B"],
       "image": "/assets/img/band/angela.webp",
       "imageCredits": "",
       "mainLink": "https://angelacoadou.com",
-      "releases": ["MBPSP061", "MBPSP060"],
+      "releases": ["MBPSP062", "MBPSP061", "MBPSP060"],
       "links": [
         {
           "type": "instagram",
@@ -119,6 +64,61 @@
         "fr": "<i>Angela Coadou</i> est une chanteuse et autrice-compositrice pour qui la voix est un lieu de vérité et de transformation. À travers ses chansons, elle invite chacun à revenir à soi, à écouter ce qui vibre, et à transformer les épreuves en passage vers plus de justesse.<br><br>C'est à partir de 2025 que ce partenariat entre <i>Angela Coadou</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un air frais et sensible au catalogue ; tout ce dont ce monde a besoin.",
         "en": "<i>Angela Coadou</i> is a singer and songwriter for whom the voice is a place of truth and transformation. Through her songs, she invites everyone to return to themselves, to listen to what resonates within, and to transform trials into a journey toward greater authenticity.<br><br>It was in 2025 that the partnership between <i>Angela Coadou</i> and Messe Basse Production began, bringing a fresh and sensitive touch to their catalog—exactly what this world needs."
       }
+    }, {
+      "name": "Guillaume Beaulieu",
+      "internalUrl": "guillaume-beaulieu",
+      "genres": ["Baroque", "Renaissance"],
+      "image": "/assets/img/band/guillaume.webp",
+      "imageCredits": "Arthur Beaulieu",
+      "website": "https://guillaumebeaulieu.com",
+      "releases": ["MBPLP021", "MBPLP017", "MBPSP039", "MBPLP016", "MBPLP013"],
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/guillaume.beaulieu.73"
+        }, {
+          "type": "instagram",
+          "url": "https://www.instagram.com/guillaume_beaulieu_recorder/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@GuillaumeBeaulieuRecorder"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/0y9nzp1xoHA1ihi3Dx1CxY"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/artist/guillaume-beaulieu/1677489486"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/artists/B0088YBMI4/guillaume-beaulieu/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/2680111/"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/interpreter/guillaume-beaulieu/17751683"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/browse/artist/38011368"
+        }, {
+          "type": "bandcamp",
+          "url": "https://guillaumebeaulieu.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10064086/"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/7a0be4a0-7cd0-46b8-b93e-dfb2853f3969"
+        }
+      ],
+      "bio": {
+        "fr": "<i>Guillaume Beaulieu</i> débute la flûte à bec à l’âge de dix ans au conservatoire de Massy, en région parisienne. Il obtient son DEM de flûte à bec en 2010 dans la classe de <i>Jean-Pierre Nicolas</i> au CRD de la vallée de Chevreuse avec les félicitations du jury à l’unanimité, puis il intègre la classe de <i>Pierre Hamon</i> au CNSMD de Lyon. Il y obtiendra son master en 2015 avec la mention très bien. Son goût pour la musique ancienne le pousse à s’intéresser à la basse continue ; il complète ainsi sa formation en étudiant le clavecin avec <i>Michèle Dévérité</i> au CRD de la vallée de Chevreuse.<br><br>Cette polyvalence lui permet de se produire en France et à l’étranger (Brésil, Japon, Pologne, Hollande, Belgique, Israël…) avec différents ensembles : ensemble Pygmalion, les Nouveaux Caractères, Ensemble Canzona, Orchestre Français des Jeunes Baroques.<br><br>Il a remporté plusieurs prix avec son ensemble de flûtes : le Consort Brouillamini (1<sup>er</sup> prix du Concours International des journées de musiques anciennes de Vanves 2016, Prix du public pour la saison musicale de Musée en musique de Grenoble 2015). Guillaume a également remporté en soliste le 2<sup>ème</sup> prix du concours international <i>Moeck / SRP solo recorder competition</i> 2017, le 3<sup>ème</sup> prix au concours de Nordhorn, le 3<sup>ème</sup> prix au concours international de New York en 2019 (<i>Golden Classical Music Awards</i>), ainsi que le 1<sup>er</sup> prix au concours soliste international de Tel Aviv en 2020.<br><br>Passionné par l'enseignement de son instrument, Guillaume intervient régulièrement lors de <i>masterclass</i> et enseigne la flûte à bec à l’école des arts de Marcoussis, ainsi qu’au conservatoire de Chevilly-Larue dont il est également le Directeur.",
+        "en": "<i>Guillaume Beaulieu</i> began learning the recorder at the age of ten at the Massy music school, located in the south suburb of Paris, before joining <i>Jean-Pierre Nicolas</i>'s class at the CRD Paris-Saclay, graduating with unanimous high honors. He then integrated <i>Pierre Hamon</i>'s class at the CNSMD of Lyon, where he received his master's degree in 2015 with highest distinction. His passion for early music led him to explore basso continuo, furthering his education by studying harpsichord with <i>Michèle Dévérité</i> at the CRD Paris-Saclay.<br><br>His versatility has allowed him to perform both in France and internationally (Brazil, Japan, Poland, the Netherlands, Belgium, Israel…) with various ensembles: Ensemble Pygmalion, Les Nouveaux Caractères, Correspondances, Consort Brouillamini, and Barrocada Orchestra.<br><br>Guillaume Beaulieu is a laureate of several international soloist awards: 1<sup>st</sup> prize at the Tel Aviv International Solo Recorder Competition in 2020, 2<sup>nd</sup> prize at the Moeck / SRP Solo Recorder Competition in 2017, 3<sup>rd</sup> prize at the New York International Competition in 2019 (Golden Classical Music Awards), and 3<sup>rd</sup> prize at the Nordhorn Competition. Additionally, with his recorder ensemble, Consort Brouillamini, he won 1<sup>st</sup> prize at the International Early Music Days Competition in Vanves in 2016, as well as the audience prize for the Musée en Musique season in Grenoble in 2015.<br><br>Guillaume is highly passionated by his instrument and he intervenes regularly in masterclasses and teaches recorder at the School of the Arts in Marcoussis as well at the Chevilly-Larue Conservatory, where he also is the director."
+      },
+      "shortBio": {
+        "fr": "Flûtiste à Bec baroque de renommée internationale, reconnu pour sa virtuosité et son interprétation authentique des œuvres du répertoire. Il se produit régulièrement en France et à l’étranger avec des ensembles prestigieux. Soliste primé, il allie avec ferveur sa carrière artistique et son engagement passionné dans l'enseignement de la flûte à bec.<br><br>C’est à partir de 2023 que ce partenariat entre <i>Guillaume Beaulieu</i> et <i>Messe Basse Production</i> démarre, apportant ainsi une touche d’éclectisme baroque bienvenue au catalogue de l'Association.",
+        "en": "An internationally renowned baroque recorder player, renowned for his virtuosity and authentic interpretation of works from the repertoire. He performs regularly in France and abroad with prestigious ensembles. An award-winning soloist, he fervently combines his artistic career with his passionate commitment to recorder teaching.<br><br>This partnership between <i>Guillaume Beaulieu</i> and <i>Messe Basse Production</i> will begin in 2023, bringing a welcome touch of baroque eclecticism to the Association's catalog."
+      } 
     }, {
       "name": "NOIISKE",
       "internalUrl": "noiiske",
@@ -7821,6 +7821,83 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/fe669f71-45d1-416d-8796-1003a133bf09"
+        }
+      ]
+    },
+    "MBPSP062": {
+      "name": "Mon Choix",
+      "artist": ["Angela Coadou"],
+      "date": "2026-06-05",
+      "image": "/assets/img/music/MBPSP062.webp",
+      "mainLink": "https://www.youtube.com/watch?v=K5de6UdwyK4&list=PLp5D05IpZHwLQ_nCEBiGDY6tXU79GyfBb",
+      "duration": "04:28",
+      "EAN": "0642613780674",
+      "styles": ["West Africa", "World", "Soul"],
+      "about": {
+        "fr": "On appelle parfois ça « de la chance », mais derrière chaque liberté, il y a souvent des choix difficiles que personne ne voit. Mon choix raconte ce prix invisible.",
+        "en": "It's sometimes called “luck,” but behind every freedom, there are often difficult choices no one sees. My choice tells the story of that invisible price."
+      },
+      "credits": [
+        { "arranger": ["Pascale Sastre"] },
+        { "record": ["Angela Coadou"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Angela Coadou"] },
+        { "illustration": ["Angela Coadou"] },
+        { "vocal": ["Angela Coadou"] },
+        { "backvocal": ["Pascale Sastre"] },
+        { "kora": ["Angela Coadou"] }
+      ],
+      "tracks": [
+        {
+          "title": "Mon Choix",
+          "artist": ["Angela Coadou"],
+          "duration": "04:28",
+          "ISRC": "FR-9W1-26-22587",
+          "credits": [
+            { "composer": ["Angela Coadou"] },
+            { "author": ["Angela Coadou"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1Pow4L2Rlpg7T0oQkee9Al"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/mon-choix-single/6769850501"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0H1MVG114"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/981965091"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/mon-choix-angela-coadou/lbt3nxcssfe7b"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/524303250"
+        }, {
+          "type": "bandcamp",
+          "url": "https://angelacoadou.bandcamp.com/album/mon-choix"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/angelacoadou/sets/mon-choix"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=K5de6UdwyK4&list=PLp5D05IpZHwLQ_nCEBiGDY6tXU79GyfBb"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37318713"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "musicbrainz",
+          "url": ""
         }
       ]
     },

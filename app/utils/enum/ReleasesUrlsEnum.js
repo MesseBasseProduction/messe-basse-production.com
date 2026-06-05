@@ -478,5 +478,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP061',
     frtarget: '/artiste/angela-coadou/albums/des-vies',
     entarget: '/artist/angela-coadou/releases/des-vies'
+  },
+  {
+    inputUrl: '/MBPSP062',
+    frtarget: '/artiste/angela-coadou/albums/mon-choix',
+    entarget: '/artist/angela-coadou/releases/mon-choix'
   }
 ]);
