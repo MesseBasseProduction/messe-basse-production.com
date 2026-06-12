@@ -1,5 +1,18 @@
 module.exports = Object.freeze([
   {
+    mainUrl: '/artiste/rich-art',
+    rootUrls: [
+      '/artiste/rich-art',
+      '/artist/rich-art'
+    ],
+    redirectionTarget: 'rich-art',
+    redirectUrls: [
+      '/artiste/richartmusic',
+      '/artist/richart',
+      '/rich-art',
+      '/richart'
+    ]
+  }, {
     mainUrl: '/artiste/angela-coadou',
     rootUrls: [
       '/artiste/angela-coadou',

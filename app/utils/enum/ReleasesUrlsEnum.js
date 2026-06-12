@@ -115,6 +115,11 @@ module.exports = Object.freeze([
     entarget: '/artist/guillaume-beaulieu/releases/il-flauto-di-leonardo'
   },
   {
+    inputUrl: '/MBPLP022',
+    frtarget: '/artiste/rich-art/albums/spiritualite',
+    entarget: '/artist/rich-art/releases/spiritualite'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'

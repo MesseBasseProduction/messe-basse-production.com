@@ -1,6 +1,61 @@
 {
   "artists": [
     {
+      "name": "Rich'Art",
+      "internalUrl": "rich-art",
+      "genres": ["Jazz", "Jazz Fusion", "Progressive Rock", "Hard Rock"],
+      "image": "/assets/img/band/richart.webp",
+      "imageCredits": "Arthur Beaulieu",
+      "mainLink": "https://rich-art-music.com",
+      "releases": ["MBPLP022"],
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@rich-art-music"
+        }, {
+          "type": "facebook",
+          "url": "https://www.facebook.com/rich.art.music.off/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2VXxfl9gjvDVDCgxiM3nm0"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/richart/1753777691"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/artists/B0H2FDRJ5D/rich'art"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/211511417"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/us-en/interpreter/richart-2/33373980"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/artist/79896047"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/17789292-RichArt"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Richart-fra"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/3b4a1134-d188-4baa-bf77-afc2d30727e7"
+        }
+      ],
+      "bio": {
+        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, <i>Rich'Art</i> développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>Musicien expérimenté, il consacre sa carrière à explorer, fusionner et faire dialoguer différents styles musicaux, construisant au fil du temps une identité artistique singulière et ouverte sur le monde.<br><br>Au cours de son riche parcours, il a fondé et dirigé de nombreux groupes aux influences variées, naviguant avec aisance entre le rock, le jazz, le funk, les musiques du monde. Cette diversité musicale témoigne de sa curiosité artistique et de sa capacité à réunir des musiciens autour de projets authentiques et créatifs.<br><br>À travers ses enregistrements et concerts, <i>Rich'Art</i> met son talent au service de compositions originales et propose une musique vivante, sincère et généreuse, portée par l'improvisation, le partage et l'émotion.",
+        "en": "Singer-songwriter, performer, and multi-instrumentalist, <i>Rich'Art</i> has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>An experienced musician, he has dedicated his career to exploring, blending, and connecting different musical styles, gradually building a unique artistic identity that is both distinctive and open to the world.<br><br>Throughout his extensive career, he has founded and led numerous bands with diverse influences, moving effortlessly between rock, jazz, funk, and world music. This musical diversity reflects his artistic curiosity and his ability to bring musicians together around authentic and creative projects.<br><br>Through his recordings and live performances, <i>Rich'Art</i> puts his talent at the service of original compositions, offering music that is vibrant, sincere, and generous, driven by improvisation, sharing, and emotion."
+      },
+      "shortBio": {
+        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, <i>Rich'Art</i> développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>C'est à partir de 2026 que ce partenariat entre <i>Rich'Art</i> et <i>Messe Basse Production</i> démarre, pour apporter toujours plus d'improvisations et de sensations Jazz.",
+        "en": "Singer-songwriter, performer, and multi-instrumentalist, <i>Rich'Art</i> has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>It was in 2025 that the partnership between <i>Rich'Art</i> and Messe Basse Production began, renforcing the welcomed jazzy-touch to the catalog."
+      }
+    }, {
       "name": "Angela Coadou",
       "internalUrl": "angela-coadou",
       "genres": ["Soul", "R&B"],
@@ -35,7 +90,7 @@
           "url": "https://www.deezer.com/artist/233784481"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/interpreter/angela-coadou/19958438"
+          "url": "https://www.qobuz.com/fr-fr/interpreter/angela-coadou/19958438"
         }, {
           "type": "tidal",
           "url": "https://tidal.com/artist/42534536"
@@ -4148,6 +4203,170 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/b7cfac61-377c-4a3c-9dbc-604d16a0d568"
+        }
+      ]
+    },
+    "MBPLP022": {
+      "name": "Spiritualité",
+      "artist": ["Rich'Art"],
+      "date": "2026-06-12",
+      "image": "/assets/img/music/MBPLP022.webp",
+      "mainLink": "https://www.youtube.com/watch?v=StthjsqojGg&list=PLp5D05IpZHwKfzvW8lnxk0wDLG75ZspR7",
+      "duration": "58:00",
+      "EAN": "0642613543293",
+      "styles": ["Jazz", "Jazz Fusion"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Joël Xavier", "Nicolas Posé", "Richard Braun"] },
+        { "master": ["Joël Xavier", "Nicolas Posé", "Richard Braun"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Joelle Terol"] },
+        { "illustration": ["Joelle Terol", "Richard Braun"] },
+        { "vocal": ["Richard Braun"] },
+        { "saxophone": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Joël Xavier", "Richard Braun"] },
+        { "drums": ["Fabien Drouet"] },
+        { "keyboard": ["Louis-François Parmentier", "Richard Braun"] }
+      ],
+      "tracks": [
+        {
+          "title": "Amour Et Compassion",
+          "artist": ["Rich'Art"],
+          "duration": "05:46",
+          "ISRC": "FR-9W1-06-06433",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Méditation",
+          "artist": ["Rich'Art"],
+          "duration": "05:18",
+          "ISRC": "FR-9W1-06-06434",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Doucement",
+          "artist": ["Rich'Art"],
+          "duration": "06:11",
+          "ISRC": "FR-9W1-06-06435",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Bouddhisme Tibétain",
+          "artist": ["Rich'Art"],
+          "duration": "03:56",
+          "ISRC": "FR-9W1-06-06436",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Quiétude De L'Esprit",
+          "artist": ["Rich'Art"],
+          "duration": "05:07",
+          "ISRC": "FR-9W1-06-06437",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Prière Pour La Paix",
+          "artist": ["Rich'Art"],
+          "duration": "05:50",
+          "ISRC": "FR-9W1-06-06438",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Étrange",
+          "artist": ["Rich'Art"],
+          "duration": "04:55",
+          "ISRC": "FR-9W1-06-06439",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Où Est Le Chemin De La Paix?",
+          "artist": ["Rich'Art"],
+          "duration": "03:33",
+          "ISRC": "FR-9W1-06-06440",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Présence",
+          "artist": ["Rich'Art"],
+          "duration": "04:29",
+          "ISRC": "FR-9W1-06-06441",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Joie S'Éveille",
+          "artist": ["Rich'Art"],
+          "duration": "04:56",
+          "ISRC": "FR-9W1-06-06442",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Frère",
+          "artist": ["Rich'Art"],
+          "duration": "04:12",
+          "ISRC": "FR-9W1-06-06443",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Considération",
+          "artist": ["Rich'Art"],
+          "duration": "03:47",
+          "ISRC": "FR-9W1-06-06444",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/0ZVdWXxta44Pgn9RVIbN1I"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/spiritualit%C3%A9/6775808889"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H3LD8NBJ"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/995866491"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/529689607"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/spiritualite-richart/i5xqby7mecz4j"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/spiritualit"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=StthjsqojGg&list=PLp5D05IpZHwKfzvW8lnxk0wDLG75ZspR7"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37402530"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/ee42dae1-9e0e-481b-bd1a-180112336fe7"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Spiritualite"            
         }
       ]
     },
