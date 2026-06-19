@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP022"],
+      "releases": ["MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -4367,6 +4367,181 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Spiritualite"            
+        }
+      ]
+    },
+    "MBPLP023": {
+      "name": "Vivre En Harmonie",
+      "artist": ["Rich'Art"],
+      "date": "2026-06-19",
+      "image": "/assets/img/music/MBPLP023.webp",
+      "mainLink": "https://www.youtube.com/watch?v=hg2kVDKzNTg&list=PLp5D05IpZHwJcjJA41DqW0X8UInnSKWmh",
+      "duration": "49:27",
+      "EAN": "0642613543293",
+      "styles": ["Bossa Nova", "Pop", "Folk"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Joël Xavier", "Nicolas Posé", "Richard Braun"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Joelle Terol"] },
+        { "illustration": ["Joelle Terol", "Richard Braun"] },
+        { "vocal": ["Claire Meyer", "Sandrine Bodelin", "Richard Braun"] },
+        { "saxophone": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "piano": ["Richard Braun"] },
+        { "xylophone": ["Richard Braun"] },
+        { "violin": ["Yann Petit"] },
+        { "flute": ["Christine Chardonnier"] },
+        { "bass": ["Farid Djaouni", "Joël Xavier"] },
+        { "drums": ["Fabien Drouet", "Philippe Ferret"] },
+        { "percussion": ["Olivier Vasquez", "Nicolas Posé"] }
+      ],
+      "tracks": [
+        {
+          "title": "J'Ai Du Pain Sur La Planche",
+          "artist": ["Rich'Art"],
+          "duration": "03:50",
+          "ISRC": "FR-9W1-07-07781",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Fanfan Se Marie",
+          "artist": ["Rich'Art"],
+          "duration": "04:44",
+          "ISRC": "FR-9W1-07-07782",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Excès De Tristesse",
+          "artist": ["Rich'Art"],
+          "duration": "03:28",
+          "ISRC": "FR-9W1-07-07783",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Vivre En Harmonie",
+          "artist": ["Rich'Art"],
+          "duration": "04:37",
+          "ISRC": "FR-9W1-07-07784",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Après Un Long Voyage",
+          "artist": ["Rich'Art"],
+          "duration": "04:16",
+          "ISRC": "FR-9W1-07-07785",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Terre De Libertés",
+          "artist": ["Rich'Art"],
+          "duration": "04:17",
+          "ISRC": "FR-9W1-07-07786",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Le Soleil Brille Sur Nos Têtes",
+          "artist": ["Rich'Art"],
+          "duration": "02:45",
+          "ISRC": "FR-9W1-07-07787",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Dans Le Cœur Du Monde",
+          "artist": ["Rich'Art"],
+          "duration": "05:03",
+          "ISRC": "FR-9W1-07-07788",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Dame Nature",
+          "artist": ["Rich'Art"],
+          "duration": "05:18",
+          "ISRC": "FR-9W1-07-07789",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "L'Oiseau",
+          "artist": ["Rich'Art"],
+          "duration": "04:35",
+          "ISRC": "FR-9W1-07-07790",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Si Ce Soir Tu T'Ennuies",
+          "artist": ["Rich'Art"],
+          "duration": "03:44",
+          "ISRC": "FR-9W1-07-07791",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Je Veux Chanter La France",
+          "artist": ["Rich'Art"],
+          "duration": "02:44",
+          "ISRC": "FR-9W1-07-07792",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6wGgNuIOvvYye9BOVx3KOy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/vivre-en-harmonie/6771682732"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H2FD8H3W"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/987215951"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/526516647"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/vivre-en-harmonie-richart/fxukosfbic9l1"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/vivre-en-harmonie"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=hg2kVDKzNTg&list=PLp5D05IpZHwJcjJA41DqW0X8UInnSKWmh"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37634460"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/bb77a605-5241-4e33-8d31-39f321531098"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Vivre-En-Harmonie"            
         }
       ]
     },
