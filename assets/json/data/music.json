@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -4542,6 +4542,176 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Vivre-en-harmonie"            
+        }
+      ]
+    },
+    "MBPLP024": {
+      "name": "Tout Autour De La Terre",
+      "artist": ["Rich'Art"],
+      "date": "2026-06-26",
+      "image": "/assets/img/music/MBPLP024.webp",
+      "mainLink": "https://www.youtube.com/watch?v=oKkrHSsdyLc&list=PLp5D05IpZHwKHImwh0nckYj_bohH2Sk8V",
+      "duration": "01:01:54",
+      "EAN": "0642613769952",
+      "styles": ["hard Rock"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Joelle Terol"] },
+        { "illustration": ["Joelle Terol"] },
+        { "vocal": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Joël Xavier"] },
+        { "drums": ["Thierry Le Moing"] },
+        { "backvocal": ["Joël Xavier", "Thierry Le Moing"] }
+      ],
+      "tracks": [
+        {
+          "title": "Tout Autour De La Terre",
+          "artist": ["Rich'Art"],
+          "duration": "04:45",
+          "ISRC": "FR-9W1-08-09198",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "J'Ai Le Cœur Qui Bat",
+          "artist": ["Rich'Art"],
+          "duration": "05:33",
+          "ISRC": "FR-9W1-08-09199",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Je Reste Cool",
+          "artist": ["Rich'Art"],
+          "duration": "05:18",
+          "ISRC": "FR-9W1-08-09200",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Nuit Je M'Envole",
+          "artist": ["Rich'Art"],
+          "duration": "03:46",
+          "ISRC": "FR-9W1-08-09201",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Le Prince De Mercure",
+          "artist": ["Rich'Art"],
+          "duration": "07:08",
+          "ISRC": "FR-9W1-08-09202",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Demoiselle De La Rochelle",
+          "artist": ["Rich'Art"],
+          "duration": "03:56",
+          "ISRC": "FR-9W1-08-09203",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Elle",
+          "artist": ["Rich'Art"],
+          "duration": "06:17",
+          "ISRC": "FR-9W1-08-09204",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "En Avignon",
+          "artist": ["Rich'Art"],
+          "duration": "04:28",
+          "ISRC": "FR-9W1-08-09205",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Être Libre",
+          "artist": ["Rich'Art"],
+          "duration": "06:50",
+          "ISRC": "FR-9W1-08-09206",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Donner Tout Son Amour",
+          "artist": ["Rich'Art"],
+          "duration": "05:40",
+          "ISRC": "FR-9W1-08-09207",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Raison S'En Va",
+          "artist": ["Rich'Art"],
+          "duration": "04:08",
+          "ISRC": "FR-9W1-08-09208",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Toi",
+          "artist": ["Rich'Art"],
+          "duration": "04:05",
+          "ISRC": "FR-9W1-08-09209",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/70NwhGx7kW3OPKgXiJo7Hq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/tout-autour-de-la-terre/6781675836"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5VR9SHC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008658111"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534504603"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/tout-autour-de-la-terre-richart/qadhxgjouyes9"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/tout-autour-de-la-terre"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=oKkrHSsdyLc&list=PLp5D05IpZHwKHImwh0nckYj_bohH2Sk8V"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37715298"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/34a9379a-27a4-4b7d-bf67-208407bc78ee"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Tout-autour-de-la-terre"            
         }
       ]
     },
