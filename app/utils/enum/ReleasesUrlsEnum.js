@@ -125,6 +125,11 @@ module.exports = Object.freeze([
     entarget: '/artist/rich-art/releases/vivre-en-harmonie'
   },
   {
+    inputUrl: '/MBPLP024',
+    frtarget: '/artiste/rich-art/albums/tout-autour-de-la-terre',
+    entarget: '/artist/rich-art/releases/tout-autour-de-la-terre'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'
