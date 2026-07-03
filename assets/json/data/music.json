@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -4553,7 +4553,7 @@
       "mainLink": "https://www.youtube.com/watch?v=oKkrHSsdyLc&list=PLp5D05IpZHwKHImwh0nckYj_bohH2Sk8V",
       "duration": "01:01:54",
       "EAN": "0642613769952",
-      "styles": ["hard Rock"],
+      "styles": ["Hard Rock"],
       "credits": [
         { "record": ["Nicolas Posé"] },
         { "mix": ["Nicolas Posé"] },
@@ -4712,6 +4712,177 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Tout-autour-de-la-terre"            
+        }
+      ]
+    },
+    "MBPLP025": {
+      "name": "Sur Les Montagnes d'Himalaya",
+      "artist": ["Rich'Art"],
+      "date": "2026-07-03",
+      "image": "/assets/img/music/MBPLP024.webp",
+      "mainLink": "https://www.youtube.com/watch?v=ixWO9vfpywA&list=PLer-vwGp4imc",
+      "duration": "01:00:40",
+      "EAN": "0637913417788",
+      "styles": ["Bossa Nova", "Pop", "Folk"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Joelle Terol"] },
+        { "illustration": ["Joelle Terol"] },
+        { "vocal": ["Richard Braun", "Sandrine Bodelin"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Joël Xavier"] },
+        { "viola": ["Catherine Baillat"] },
+        { "percussion": ["Olivier Vasquez"] },
+        { "backvocal": ["Groupe Négroniphonies"] }
+      ],
+      "tracks": [
+        {
+          "title": "Sous Le Réverbère Du Bonheur",
+          "artist": ["Rich'Art"],
+          "duration": "05:40",
+          "ISRC": "FR-9W1-12-21961",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Vie En Bleue",
+          "artist": ["Rich'Art"],
+          "duration": "03:00",
+          "ISRC": "FR-9W1-12-21962",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "De Rome À Singapour",
+          "artist": ["Rich'Art"],
+          "duration": "05:16",
+          "ISRC": "FR-9W1-12-21963",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Je Vis Dans Un Rêve",
+          "artist": ["Rich'Art"],
+          "duration": "05:49",
+          "ISRC": "FR-9W1-12-21964",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "L'Île Magique",
+          "artist": ["Rich'Art"],
+          "duration": "05:09",
+          "ISRC": "FR-9W1-12-21965",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Chanteuse De Blues",
+          "artist": ["Rich'Art"],
+          "duration": "03:02",
+          "ISRC": "FR-9W1-12-21966",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Rencontre D'Un Soir",
+          "artist": ["Rich'Art"],
+          "duration": "06:24",
+          "ISRC": "FR-9W1-12-21967",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Le Reflet Des Pensées",
+          "artist": ["Rich'Art"],
+          "duration": "04:13",
+          "ISRC": "FR-9W1-12-21968",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Les Amishs",
+          "artist": ["Rich'Art"],
+          "duration": "05:39",
+          "ISRC": "FR-9W1-12-21969",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Même Quand Le Soleil Se Lève",
+          "artist": ["Rich'Art"],
+          "duration": "03:55",
+          "ISRC": "FR-9W1-12-21970",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Fous Moi La Paix",
+          "artist": ["Rich'Art"],
+          "duration": "04:35",
+          "ISRC": "FR-9W1-12-21971",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Sur Les Montagnes d'Himalaya",
+          "artist": ["Rich'Art"],
+          "duration": "07:53",
+          "ISRC": "FR-9W1-12-21972",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3AGUlpQ0yeRJwNCOjbvOtr"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/sur-les-montagnes-dhimalaya/6783794214"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H6FT6913"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1012347911"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/535863336"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/sur-les-montagnes-dhimalaya-richart/qkmx86zi03mkv"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/sur-les-montagnes-dhimalaya"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ixWO9vfpywA&list=PLer-vwGp4imc"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37781454"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/921b829c-4bfc-4e44-94b2-c39374ebb952"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Sur-les-montagnes-dhimalaya"            
         }
       ]
     },
