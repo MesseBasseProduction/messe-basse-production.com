@@ -135,6 +135,11 @@ module.exports = Object.freeze([
     entarget: '/artist/rich-art/releases/sur-les-montagnes-dhimalaya'
   },
   {
+    inputUrl: '/MBPLP026',
+    frtarget: '/artiste/rich-art/albums/serenite',
+    entarget: '/artist/rich-art/releases/serenite'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'
