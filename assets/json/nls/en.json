@@ -183,6 +183,8 @@
     "percussion": "Percussions",
     "clap": "Claps",
     "saxophone": "Saxophone",
+    "trombone": "Trombone",
+    "trumpet": "Trumpet",
     "backvocal": "Backing vocal",
     "vocal": "Vocal"
   }

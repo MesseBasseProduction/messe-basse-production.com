@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -5041,6 +5041,179 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Serenite"
+        }
+      ]
+    },
+    "MBPLP027": {
+      "name": "La Magie De La Vie",
+      "artist": ["Rich'Art"],
+      "date": "2026-07-17",
+      "image": "/assets/img/music/MBPLP027.webp",
+      "mainLink": "https://www.youtube.com/watch?v=w1-CJ1weklk&list=PLKBu1TUUvO8Y",
+      "duration": "54:37",
+      "EAN": "0637913556548",
+      "styles": ["Jazz Fusion", "Funk"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Charles Renault"] },
+        { "illustration": ["Charles Renault"] },
+        { "vocal": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "saxophone": ["Pierre Desbrosses", "Richard Braun", "Stefano Giust"] },
+        { "trumpet": ["Fred Tissot"] },
+        { "trombone": ["Antoine Leiser", "Jehan-Guihem Fargas", "Julien Decraene"] },
+        { "keyboard": ["Jamil Nekroud", "Richard Braun"] },
+        { "bass": ["Richard Braun", "Yann Vialet"] },
+        { "drums": ["Camille Cinta", "Fabien Drouet"] }
+      ],
+      "tracks": [
+        {
+          "title": "J'Aime J'Aime J'Aime",
+          "artist": ["Rich'Art"],
+          "duration": "04:33",
+          "ISRC": "FR-9W1-14-27517",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Magie De La Vie",
+          "artist": ["Rich'Art"],
+          "duration": "04:38",
+          "ISRC": "FR-9W1-14-27518",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Terre S'Est Mise À Tourner",
+          "artist": ["Rich'Art"],
+          "duration": "04:04",
+          "ISRC": "FR-9W1-14-27519",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Comme Un Arc-En-Ciel",
+          "artist": ["Rich'Art"],
+          "duration": "03:54",
+          "ISRC": "FR-9W1-14-27520",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Funky Ou Groovy",
+          "artist": ["Rich'Art"],
+          "duration": "04:25",
+          "ISRC": "FR-9W1-14-27521",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Emmène-Moi Avec Toi",
+          "artist": ["Rich'Art"],
+          "duration": "04:56",
+          "ISRC": "FR-9W1-14-27522",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Petite Marine",
+          "artist": ["Rich'Art"],
+          "duration": "03:56",
+          "ISRC": "FR-9W1-14-27523",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Groove Groove",
+          "artist": ["Rich'Art"],
+          "duration": "05:01",
+          "ISRC": "FR-9W1-14-27524",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "C'Est L'Amour",
+          "artist": ["Rich'Art"],
+          "duration": "04:48",
+          "ISRC": "FR-9W1-14-27525",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "C'Est Mieux Ainsi",
+          "artist": ["Rich'Art"],
+          "duration": "06:41",
+          "ISRC": "FR-9W1-14-27526",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Les Ermites Mystiques",
+          "artist": ["Rich'Art"],
+          "duration": "04:08",
+          "ISRC": "FR-9W1-14-27527",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Zen Zen Zen",
+          "artist": ["Rich'Art"],
+          "duration": "03:59",
+          "ISRC": "FR-9W1-14-27528",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1hobX8JZ9VgSuzpekTugy0"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/la-magie-de-la-vie/6781048300"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5L1LYGJ"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1007067711"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/533953831"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/la-magie-de-la-vie-richart/s4094oaqy3j45"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/la-magie-de-la-vie"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=w1-CJ1weklk&list=PLKBu1TUUvO8Y"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37902726"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/d97a2f57-6f78-4230-a345-6b397cdc5f0d"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/La-magie-de-la-vie"
         }
       ]
     },
