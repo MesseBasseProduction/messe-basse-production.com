@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -5214,6 +5214,163 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/La-magie-de-la-vie"
+        }
+      ]
+    },
+    "MBPLP028": {
+      "name": "Paris Après Minuit",
+      "artist": ["Rich'Art"],
+      "date": "2026-07-24",
+      "image": "/assets/img/music/MBPLP028.webp",
+      "mainLink": "https://www.youtube.com/watch?v=sJtuQE_evks&list=PLfvHVby_INO4",
+      "duration": "51:00",
+      "EAN": "0637913142673",
+      "styles": ["Jazz"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Joelle Terol"] },
+        { "illustration": ["Joelle Terol"] },
+        { "saxophone": ["Richard Braun"] },
+        { "piano": ["Olivier Léger"] },
+        { "doublebass": ["Antoine Leiser", "Philippe Longi"] },
+        { "drums": ["Fabien Drouet"] }
+      ],
+      "tracks": [
+        {
+          "title": "En Retard",
+          "artist": ["Rich'Art"],
+          "duration": "5:29",
+          "ISRC": "FR-9W1-15-27207",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Jazzy Mais Funky",
+          "artist": ["Rich'Art"],
+          "duration": "03:45",
+          "ISRC": "FR-9W1-15-27208",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Simplement Pour Toi",
+          "artist": ["Rich'Art"],
+          "duration": "02:50",
+          "ISRC": "FR-9W1-15-27209",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "L'Équilibriste",
+          "artist": ["Rich'Art"],
+          "duration": "04:21",
+          "ISRC": "FR-9W1-15-27210",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Connexion",
+          "artist": ["Rich'Art"],
+          "duration": "04:20",
+          "ISRC": "FR-9W1-15-27211",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Le Bois De L'Étang",
+          "artist": ["Rich'Art"],
+          "duration": "05:50",
+          "ISRC": "FR-9W1-15-27212",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Sentiment Amoureux",
+          "artist": ["Rich'Art"],
+          "duration": "03:00",
+          "ISRC": "FR-9W1-15-27213",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Paris Après Minuit",
+          "artist": ["Rich'Art"],
+          "duration": "04:18",
+          "ISRC": "FR-9W1-15-27214",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Discrétion",
+          "artist": ["Rich'Art"],
+          "duration": "04:00",
+          "ISRC": "FR-9W1-15-27215",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "L'Air De Rien",
+          "artist": ["Rich'Art"],
+          "duration": "05:50",
+          "ISRC": "FR-9W1-15-27216",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Versaillaise",
+          "artist": ["Rich'Art"],
+          "duration": "04:46",
+          "ISRC": "FR-9W1-15-27217",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Très En Retard",
+          "artist": ["Rich'Art"],
+          "duration": "02:27",
+          "ISRC": "FR-9W1-15-27218",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3gSvWY6elehhDhjUDPnsbz"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/paris-apr%C3%A8s-minuit/6781739386"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5XBQDCN"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008830561"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534593200"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/paris-apres-minuit-richart/tclwszdtiefca"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/paris-apr-s-minuit"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=sJtuQE_evks&list=PLfvHVby_INO4"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37954002"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b7239b6a-2e51-4877-acf6-4b8bea75d5f3"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Paris-apres-minuit"
         }
       ]
     },

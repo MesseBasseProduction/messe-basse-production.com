@@ -138,10 +138,16 @@ module.exports = Object.freeze([
     inputUrl: '/MBPLP026',
     frtarget: '/artiste/rich-art/albums/serenite',
     entarget: '/artist/rich-art/releases/serenite'
-  },  {
+  },
+  {
     inputUrl: '/MBPLP027',
     frtarget: '/artiste/rich-art/albums/la-magie-de-la-vie',
     entarget: '/artist/rich-art/releases/la-magie-de-la-vie'
+  },
+  {
+    inputUrl: '/MBPLP028',
+    frtarget: '/artiste/rich-art/albums/paris-apres-minuit',
+    entarget: '/artist/rich-art/releases/paris-apres-minuit'
   },
   {
     inputUrl: '/MBPMX001',
