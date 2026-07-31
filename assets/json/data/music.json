@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -5371,6 +5371,163 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Paris-apres-minuit"
+        }
+      ]
+    },
+    "MBPLP029": {
+      "name": "Welcome To The Future",
+      "artist": ["Rich'Art"],
+      "date": "2026-07-31",
+      "image": "/assets/img/music/MBPLP029.webp",
+      "mainLink": "https://www.youtube.com/watch?v=kjJatajQ0U4&list=PLOgTsDQifvqg",
+      "duration": "50:49",
+      "EAN": "0637913704727",
+      "styles": ["Jazz"],
+      "credits": [
+        { "record": ["Alexandra Montel"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Jonathan Bertolaccini"] },
+        { "illustration": ["Jonathan Bertolaccini"] },
+        { "saxophone": ["Richard Braun"] },
+        { "keyboard": ["Wonki Bang"] },
+        { "bass": ["Antoine Leiser", "Yann Vialet"] },
+        { "drums": ["Rémy Boulogne"] }
+      ],
+      "tracks": [
+        {
+          "title": "Un Samedi Soir Sur Mars",
+          "artist": ["Rich'Art"],
+          "duration": "3:56",
+          "ISRC": "FR-9W1-16-31153",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Une Journée Qui Groove",
+          "artist": ["Rich'Art"],
+          "duration": "4:18",
+          "ISRC": "FR-9W1-16-31154",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "High Fonk",
+          "artist": ["Rich'Art"],
+          "duration": "3:33",
+          "ISRC": "FR-9W1-16-31155",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Joyeux Christmas",
+          "artist": ["Rich'Art"],
+          "duration": "3:53",
+          "ISRC": "FR-9W1-16-31156",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Fonk Attitude",
+          "artist": ["Rich'Art"],
+          "duration": "5:30",
+          "ISRC": "FR-9W1-16-31157",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "You Are My Sunshine",
+          "artist": ["Rich'Art"],
+          "duration": "4:07",
+          "ISRC": "FR-9W1-16-31158",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "La Brésilienne",
+          "artist": ["Rich'Art"],
+          "duration": "5:10",
+          "ISRC": "FR-9W1-16-31159",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Welcome To The Future",
+          "artist": ["Rich'Art"],
+          "duration": "3:51",
+          "ISRC": "FR-9W1-16-31160",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "En Transe",
+          "artist": ["Rich'Art"],
+          "duration": "4:29",
+          "ISRC": "FR-9W1-16-31161",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "SQY Groove",
+          "artist": ["Rich'Art"],
+          "duration": "4:27",
+          "ISRC": "FR-9W1-16-31162",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Au Fond Du Temps",
+          "artist": ["Rich'Art"],
+          "duration": "4:24",
+          "ISRC": "FR-9W1-16-31163",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Terminus",
+          "artist": ["Rich'Art"],
+          "duration": "3:06",
+          "ISRC": "FR-9W1-16-31164",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/23OKN6nX6KzwOsrdETj9oj"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/welcome-to-the-future/6781739645"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5WP5TQN"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008830621"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534593239"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/welcome-to-the-future-richart/kc5hhrjamulae"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/welcome-to-the-future"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=kjJatajQ0U4&list=PLOgTsDQifvqg"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38008635"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/71474639-cbad-4839-83b7-811ae7232579"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Welcome-to-the-future"
         }
       ]
     },

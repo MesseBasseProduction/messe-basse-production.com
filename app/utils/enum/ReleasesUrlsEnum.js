@@ -150,6 +150,11 @@ module.exports = Object.freeze([
     entarget: '/artist/rich-art/releases/paris-apres-minuit'
   },
   {
+    inputUrl: '/MBPLP029',
+    frtarget: '/artiste/rich-art/albums/welcome-to-the-future',
+    entarget: '/artist/rich-art/releases/welcome-to-the-future'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'
