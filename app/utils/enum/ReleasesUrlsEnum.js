@@ -155,6 +155,26 @@ module.exports = Object.freeze([
     entarget: '/artist/rich-art/releases/welcome-to-the-future'
   },
   {
+    inputUrl: '/MBPLP030',
+    frtarget: '/artiste/rich-art/albums/un-voyage-sans-retour',
+    entarget: '/artist/rich-art/releases/un-voyage-sans-retour'
+  },
+  {
+    inputUrl: '/MBPLP031',
+    frtarget: '/artiste/rich-art/albums/electron-libre',
+    entarget: '/artist/rich-art/releases/electron-libre'
+  },
+  {
+    inputUrl: '/MBPLP032',
+    frtarget: '/artiste/rich-art/albums/sensation',
+    entarget: '/artist/rich-art/releases/sensation'
+  },
+  {
+    inputUrl: '/MBPLP033',
+    frtarget: '/artiste/rich-art/albums/the-jazzy-sqy-club',
+    entarget: '/artist/rich-art/releases/the-jazzy-sqy-club'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'

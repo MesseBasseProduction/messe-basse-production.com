@@ -5531,6 +5531,176 @@
         }
       ]
     },
+    "MBPLP030": {
+      "name": "Un Voyage Sans Retour",
+      "artist": ["Rich'Art"],
+      "date": "2026-08-07",
+      "image": "/assets/img/music/MBPLP030.webp",
+      "mainLink": "https://www.youtube.com/watch?v=OKTXa6T-wlQ&list=PLUBzXpiVoUtA",
+      "duration": "01:08:11",
+      "EAN": "0637913923562",
+      "styles": ["Jazz"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Mathieu Boulogne"] },
+        { "illustration": ["Mathieu Boulogne"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["David Moret"] },
+        { "drums": ["Rémy Boulogne"] },
+        { "vocal": ["Richard Braun"] },
+        { "backvocal": ["David Moret"] }
+      ],
+      "tracks": [
+        {
+          "title": "Grosse Marcelle",
+          "artist": ["Rich'Art"],
+          "duration": "3:33",
+          "ISRC": "FR-9W1-18-34969",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Terre Sans Frontières",
+          "artist": ["Rich'Art"],
+          "duration": "5:49",
+          "ISRC": "FR-9W1-18-34970",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Hasta La Vista",
+          "artist": ["Rich'Art"],
+          "duration": "4:27",
+          "ISRC": "FR-9W1-18-34971",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Fais Comme Moi",
+          "artist": ["Rich'Art"],
+          "duration": "4:16",
+          "ISRC": "FR-9W1-18-34972",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Trop Rock'n'Roll Pour Se Marier",
+          "artist": ["Rich'Art"],
+          "duration": "4:24",
+          "ISRC": "FR-9W1-18-34973",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Spacemaker",
+          "artist": ["Rich'Art"],
+          "duration": "8:29",
+          "ISRC": "FR-9W1-18-34974",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "L'Âge De Paix",
+          "artist": ["Rich'Art"],
+          "duration": "5:04",
+          "ISRC": "FR-9W1-18-34975",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Boogie Woogie And Grolles",
+          "artist": ["Rich'Art"],
+          "duration": "5:30",
+          "ISRC": "FR-9W1-18-34976",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Sortir De La Norme",
+          "artist": ["Rich'Art"],
+          "duration": "5:48",
+          "ISRC": "FR-9W1-18-34977",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Y Manquerait Plus Qu'on Travaille",
+          "artist": ["Rich'Art"],
+          "duration": "4:57",
+          "ISRC": "FR-9W1-18-34978",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Une Romance De France",
+          "artist": ["Rich'Art"],
+          "duration": "9:04",
+          "ISRC": "FR-9W1-18-34979",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Un Voyage Sans Retour",
+          "artist": ["Rich'Art"],
+          "duration": "6:50",
+          "ISRC": "FR-9W1-18-34980",
+          "credits": [
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6ws3ZIcv0k6vvnAoxt3Fr2"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/un-voyage-sans-retour/6789552236"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H8CX46VF"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1025748182"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/541862335"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/un-voyage-sans-retour-richart/el5ypxlclm2yi"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/un-voyage-sans-retour"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=OKTXa6T-wlQ&list=PLUBzXpiVoUtA"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057433"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/760c6c86-2a42-419c-99a6-4d956c594ead"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Un-voyage-sans-retour"
+        }
+      ]
+    },
     "MBPMX001": {
       "name": "REC022.WAV",
       "artist": ["Interfluv"],
