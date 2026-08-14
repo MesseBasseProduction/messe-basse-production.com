@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -5698,6 +5698,163 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Un-voyage-sans-retour"
+        }
+      ]
+    },
+    "MBPLP031": {
+      "name": "Électron Libre",
+      "artist": ["Rich'Art"],
+      "date": "2026-08-14",
+      "image": "/assets/img/music/MBPLP031.webp",
+      "mainLink": "https://www.youtube.com/watch?v=PSDo4iWXFd4&list=PLTsgUU_vIGs8&pp=sAgC",
+      "duration": "52:21",
+      "EAN": "0637913919817",
+      "styles": ["Jazz"],
+      "credits": [
+        { "record": ["Nicolas Posé"] },
+        { "mix": ["Nicolas Posé"] },
+        { "master": ["Nicolas Posé"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Mathieu Boulogne"] },
+        { "illustration": ["Mathieu Boulogne"] },
+        { "saxophone": ["Richard Braun"] },
+        { "keyboard": ["Olivier Léger"] },
+        { "bass": ["Antoine Leiser"] },
+        { "drums": ["Fabien Drouet"] }
+      ],
+      "tracks": [
+        {
+          "title": "Électron Libre",
+          "artist": ["Rich'Art"],
+          "duration": "2:36",
+          "ISRC": "FR-9W1-19-38247",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "J'Aime Passer Du Temps Avec Toi",
+          "artist": ["Rich'Art"],
+          "duration": "7:27",
+          "ISRC": "FR-9W1-19-38248",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Atomes Crochus",
+          "artist": ["Rich'Art"],
+          "duration": "4:20",
+          "ISRC": "FR-9W1-19-38249",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "À Contre Courant",
+          "artist": ["Rich'Art"],
+          "duration": "3:23",
+          "ISRC": "FR-9W1-19-38250",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Coup De Foudre",
+          "artist": ["Rich'Art"],
+          "duration": "5:01",
+          "ISRC": "FR-9W1-19-38251",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Y'A De L'Électricité Dans L'Air",
+          "artist": ["Rich'Art"],
+          "duration": "3:44",
+          "ISRC": "FR-9W1-19-38252",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Infiniment",
+          "artist": ["Rich'Art"],
+          "duration": "4:08",
+          "ISRC": "FR-9W1-19-38253",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Blues Quantique",
+          "artist": ["Rich'Art"],
+          "duration": "3:10",
+          "ISRC": "FR-9W1-19-38254",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Vases Communiquant",
+          "artist": ["Rich'Art"],
+          "duration": "5:37",
+          "ISRC": "FR-9W1-19-38255",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Tête En L'Air",
+          "artist": ["Rich'Art"],
+          "duration": "5:03",
+          "ISRC": "FR-9W1-19-38256",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "L'Âme Y Hante Mon Coeur",
+          "artist": ["Rich'Art"],
+          "duration": "2:59",
+          "ISRC": "FR-9W1-19-38257",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Particules D'Amour",
+          "artist": ["Rich'Art"],
+          "duration": "4:53",
+          "ISRC": "FR-9W1-19-38258",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1nFVgMqGlwepIlJUGhCOQq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/%C3%A9lectron-libre/6791536154"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H94D3CHX"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1030522352"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/543614896"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/electron-libre-richart/ej6w048de4fv7"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/lectron-libre"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=PSDo4iWXFd4&list=PLTsgUU_vIGs8&pp=sAgC"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057487"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/72578e4b-0658-4531-b9f9-57e4092c4f8f"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Electron-libre"
         }
       ]
     },
