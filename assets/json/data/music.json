@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -5855,6 +5855,170 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Electron-libre"
+        }
+      ]
+    },
+    "MBPLP032": {
+      "name": "Sensation",
+      "artist": ["Rich'Art"],
+      "date": "2026-08-21",
+      "image": "/assets/img/music/MBPLP032.webp",
+      "mainLink": "https://www.youtube.com/watch?v=9HJwGiBxVyY&list=PLDb2b8IunEFc&pp=sAgC",
+      "duration": "57:12",
+      "EAN": "0637913160820",
+      "styles": ["Funk"],
+      "credits": [
+        { "record": ["Fabrice Hennegrave"] },
+        { "mix": ["Fabrice Hennegrave", "Rémy Boulogne", "Richard Braun", "Sébastien Moraux"] },
+        { "master": ["Studio PM"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Mathieu Boulogne"] },
+        { "illustration": ["Charles Renault", "Mathieu Boulogne"] },
+        { "vocal": ["Sébastien Moraux", "Sofia Matahri", "Virginie Lange"]},
+        { "backvocal": ["Aline Braun", "Maélie Zaffran", "Richard Braun"]},
+        { "saxophone": ["Baptiste Guillemet", "Maxime Dégéry", "Richard Braun"] },
+        { "trombone": ["Antoine Leiser"]},
+        { "trumpet": ["Bruno Blanchet"]},
+        { "flute": ["Antoine Leiser"]},
+        { "guitar": ["Benjamin Paupu"]},
+        { "keyboard": ["Wonki Bang"] },
+        { "bass": ["Yann Vialet"] },
+        { "drums": ["Rémy Boulogne"] },
+        { "percussion": ["Christian Dorvilma", "Olivier Vasquez"]}
+      ],
+      "tracks": [
+        {
+          "title": "Sensation",
+          "artist": ["Rich'Art"],
+          "duration": "3:55",
+          "ISRC": "FR-9W1-23-74824",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Je Suis Fatigué",
+          "artist": ["Rich'Art"],
+          "duration": "4:12",
+          "ISRC": "FR-9W1-23-74825",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Y'A Tant À Faire",
+          "artist": ["Rich'Art"],
+          "duration": "6:07",
+          "ISRC": "FR-9W1-23-74826",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Je Sais Je Sens",
+          "artist": ["Rich'Art"],
+          "duration": "4:08",
+          "ISRC": "FR-9W1-23-74827",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "ADN",
+          "artist": ["Rich'Art"],
+          "duration": "3:42",
+          "ISRC": "FR-9W1-23-74828",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Le Fanatique",
+          "artist": ["Rich'Art"],
+          "duration": "4:48",
+          "ISRC": "FR-9W1-23-74829",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Mon Amour Toujours",
+          "artist": ["Rich'Art"],
+          "duration": "5:53",
+          "ISRC": "FR-9W1-23-74830",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Besoin De Toi",
+          "artist": ["Rich'Art"],
+          "duration": "4:53",
+          "ISRC": "FR-9W1-23-74831",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Où L'On Joue On Chante Et On Rit",
+          "artist": ["Rich'Art"],
+          "duration": "4:30",
+          "ISRC": "FR-9W1-23-74832",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Black Blanc Beur",
+          "artist": ["Rich'Art"],
+          "duration": "5:24",
+          "ISRC": "FR-9W1-23-74833",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Parle",
+          "artist": ["Rich'Art"],
+          "duration": "5:20",
+          "ISRC": "FR-9W1-23-74834",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Don't Stop The Music",
+          "artist": ["Rich'Art"],
+          "duration": "4:20",
+          "ISRC": "FR-9W1-23-74835",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2pP2vIDUptYMX7VEttVKYM"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/sensation/6795838799"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0HC2WZ9M4"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1041008782"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/547412212"
+        }, {
+          "type": "qobuz",
+          "url": ""
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/sensation"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=9HJwGiBxVyY&list=PLDb2b8IunEFc&pp=sAgC"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057535"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0b1bccad-a302-430d-9b71-698d4189a0cd"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Sensation"
         }
       ]
     },
