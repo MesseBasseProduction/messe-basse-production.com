@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -5893,7 +5893,8 @@
           "duration": "3:55",
           "ISRC": "FR-9W1-23-74824",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Je Suis Fatigué",
@@ -5901,7 +5902,8 @@
           "duration": "4:12",
           "ISRC": "FR-9W1-23-74825",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Y'A Tant À Faire",
@@ -5909,7 +5911,8 @@
           "duration": "6:07",
           "ISRC": "FR-9W1-23-74826",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Je Sais Je Sens",
@@ -5917,7 +5920,8 @@
           "duration": "4:08",
           "ISRC": "FR-9W1-23-74827",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "ADN",
@@ -5925,7 +5929,8 @@
           "duration": "3:42",
           "ISRC": "FR-9W1-23-74828",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Le Fanatique",
@@ -5933,7 +5938,8 @@
           "duration": "4:48",
           "ISRC": "FR-9W1-23-74829",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Mon Amour Toujours",
@@ -5941,7 +5947,8 @@
           "duration": "5:53",
           "ISRC": "FR-9W1-23-74830",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Besoin De Toi",
@@ -5949,7 +5956,8 @@
           "duration": "4:53",
           "ISRC": "FR-9W1-23-74831",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Où L'On Joue On Chante Et On Rit",
@@ -5957,7 +5965,8 @@
           "duration": "4:30",
           "ISRC": "FR-9W1-23-74832",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Black Blanc Beur",
@@ -5965,7 +5974,8 @@
           "duration": "5:24",
           "ISRC": "FR-9W1-23-74833",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Parle",
@@ -5973,7 +5983,8 @@
           "duration": "5:20",
           "ISRC": "FR-9W1-23-74834",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }, {
           "title": "Don't Stop The Music",
@@ -5981,7 +5992,8 @@
           "duration": "4:20",
           "ISRC": "FR-9W1-23-74835",
           "credits": [
-            { "composer": ["Richard Braun"] }
+            { "composer": ["Richard Braun"] },
+            { "author": ["Richard Braun"] }
           ]
         }
       ],
@@ -6019,6 +6031,163 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/Sensation"
+        }
+      ]
+    },
+    "MBPLP033": {
+      "name": "The Jazzy SQY Club",
+      "artist": ["Rich'Art"],
+      "date": "2026-08-28",
+      "image": "/assets/img/music/MBPLP033.webp",
+      "mainLink": "https://www.youtube.com/watch?v=C52bRlXa_58&list=PLbjkeey_X7hw",
+      "duration": "01:02:04",
+      "EAN": "0637913212086",
+      "styles": ["Jazz"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Fabrice Hennegrave"] },
+        { "master": ["Fabrice Hennegrave"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Anaïs van Gindertaelen"] },
+        { "illustration": ["Anaïs van Gindertaelen"] },
+        { "saxophone": ["Richard Braun"] },
+        { "keyboard": ["Xavier Belin"] },
+        { "bass": ["Antoine Leiser"] },
+        { "drums": ["Rémy Boulogne"] }
+      ],
+      "tracks": [
+        {
+          "title": "Do You Want To Make Love In Space",
+          "artist": ["Rich'Art"],
+          "duration": "5:25",
+          "ISRC": "FR-9W1-24-74728",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Kalachakra",
+          "artist": ["Rich'Art"],
+          "duration": "5:48",
+          "ISRC": "FR-9W1-24-74729",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Disco Party In The Castle",
+          "artist": ["Rich'Art"],
+          "duration": "3:19",
+          "ISRC": "FR-9W1-24-74730",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Time",
+          "artist": ["Rich'Art"],
+          "duration": "5:06",
+          "ISRC": "FR-9W1-24-74731",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Summer Funk",
+          "artist": ["Rich'Art"],
+          "duration": "4:44",
+          "ISRC": "FR-9W1-24-74732",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Tango Per Ruben",
+          "artist": ["Rich'Art"],
+          "duration": "5:24",
+          "ISRC": "FR-9W1-24-74733",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Ready For The Trip",
+          "artist": ["Rich'Art"],
+          "duration": "5:14",
+          "ISRC": "FR-9W1-24-74734",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Saxy Sexy Funky",
+          "artist": ["Rich'Art"],
+          "duration": "4:12",
+          "ISRC": "FR-9W1-24-74735",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Quantum Music",
+          "artist": ["Rich'Art"],
+          "duration": "7:25",
+          "ISRC": "FR-9W1-24-74736",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Have A Drink On A Terrace",
+          "artist": ["Rich'Art"],
+          "duration": "5:11",
+          "ISRC": "FR-9W1-24-74737",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "New York City",
+          "artist": ["Rich'Art"],
+          "duration": "3:29",
+          "ISRC": "FR-9W1-24-74738",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "The Jazzy SQY Club",
+          "artist": ["Rich'Art"],
+          "duration": "6:47",
+          "ISRC": "FR-9W1-24-74739",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1QUFhUFzZIQcuSV2798eYq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/the-jazzy-sqy-club/6781739249"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5WX4RC4"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008830591"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534593221"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/the-jazzy-sqy-club-richart/igi4u9vljaf32"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/the-jazzy-sqy-club"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=C52bRlXa_58&list=PLbjkeey_X7hw"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057619"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0b1bccad-a302-430d-9b71-698d4189a0cd"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/The-jazzy-sqy-club"
         }
       ]
     },
