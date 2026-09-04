@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -367,7 +367,7 @@
           "url": "https://www.facebook.com/enjoythemomentmusic"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/enjoy_the_moment_label"
+          "url": "https://www.youtube.com/@Enjoy-The-Moment-78"
         }, {
           "type": "spotify",
           "url": "https://open.spotify.com/artist/22A1ywPhZcptvT8nSrodFq"
@@ -6184,7 +6184,7 @@
           "url": "https://www.discogs.com/release/38057619"
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/0b1bccad-a302-430d-9b71-698d4189a0cd"
+          "url": "https://musicbrainz.org/release/7a5c2bc5-1f7a-4085-ba0c-bcd160e77c8c"
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/The-jazzy-sqy-club"
@@ -9938,6 +9938,210 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/0e0f6161-1a30-4a8a-bfbb-afee0a71f40c"
+        }
+      ]
+    },
+    "MBPSP063": {
+      "name": "The Race",
+      "artist": ["Rich'Art"],
+      "date": "2026-09-04",
+      "image": "/assets/img/music/MBPSP063.webp",
+      "mainLink": "",
+      "duration": "6:10",
+      "EAN": "0637913815874",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Fabrice Hennegrave"] },
+        { "master": ["Fabrice Hennegrave"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Richard Braun"] },
+        { "illustration": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Yann Vialet"] },
+        { "drums": ["Rémy Boulogne"] }
+      ],
+      "tracks": [
+        {
+          "title": "The Race",
+          "artist": ["Rich'Art"],
+          "duration": "6:10",
+          "ISRC": "FR-9W1-26-39567",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1QUFhUFzZIQcuSV2798eYq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/the-race-single/6806211506"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5WX4RC4"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008830591"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534593221"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/the-jazzy-sqy-club-richart/igi4u9vljaf32"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/the-jazzy-sqy-club"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=C52bRlXa_58&list=PLbjkeey_X7hw"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057619"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0b1bccad-a302-430d-9b71-698d4189a0cd"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/The-jazzy-sqy-club"
+        }
+      ]
+    },
+    "MBPSP064": {
+      "name": "Love Is Everywhere",
+      "artist": ["Rich'Art"],
+      "date": "2026-09-11",
+      "image": "/assets/img/music/MBPSP064.webp",
+      "mainLink": "",
+      "duration": "3:26",
+      "EAN": "0637913948794",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Fabrice Hennegrave"] },
+        { "master": ["Fabrice Hennegrave"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Richard Braun"] },
+        { "illustration": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Yann Vialet"] },
+        { "drums": ["Rémy Boulogne"] }
+      ],
+      "tracks": [
+        {
+          "title": "The Race",
+          "artist": ["Rich'Art"],
+          "duration": "3:26",
+          "ISRC": "FR-9W1-26-39568",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1QUFhUFzZIQcuSV2798eYq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/the-jazzy-sqy-club/6781739249"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5WX4RC4"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008830591"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534593221"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/the-jazzy-sqy-club-richart/igi4u9vljaf32"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/the-jazzy-sqy-club"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=C52bRlXa_58&list=PLbjkeey_X7hw"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057619"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0b1bccad-a302-430d-9b71-698d4189a0cd"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/The-jazzy-sqy-club"
+        }
+      ]
+    },
+    "MBPSP065": {
+      "name": "Planet Rock",
+      "artist": ["Rich'Art"],
+      "date": "2026-09-18",
+      "image": "/assets/img/music/MBPSP065.webp",
+      "mainLink": "https://www.youtube.com/watch?v=ko9TzN1uaRs&list=PLJ1o_hJ0Flxg",
+      "duration": "3:59",
+      "EAN": "0637913236563",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Julien Goutte-Broze"] },
+        { "mix": ["Fabrice Hennegrave"] },
+        { "master": ["Fabrice Hennegrave"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Richard Braun"] },
+        { "illustration": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Yann Vialet"] },
+        { "drums": ["Rémy Boulogne"] }
+      ],
+      "tracks": [
+        {
+          "title": "The Race",
+          "artist": ["Rich'Art"],
+          "duration": "3:59",
+          "ISRC": "FR-9W1-26-39569",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4uVtxMBAZwfsuPPSvZYwOT"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/the-race-single/6806211506"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0HGY1SWY7"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1065093421"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/556354145"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/the-race-richart/lra2v2nrjo4qv"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/the-race"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ko9TzN1uaRs&list=PLJ1o_hJ0Flxg"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38332233"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/0b1bccad-a302-430d-9b71-698d4189a0cd"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Space-road"
         }
       ]
     },

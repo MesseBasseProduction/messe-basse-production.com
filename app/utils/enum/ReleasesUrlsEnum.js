@@ -543,5 +543,20 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP062',
     frtarget: '/artiste/angela-coadou/albums/mon-choix',
     entarget: '/artist/angela-coadou/releases/mon-choix'
+  },
+  {
+    inputUrl: '/MBPSP063',
+    frtarget: '/artiste/rich-art/albums/the-race',
+    entarget: '/artist/rich-art/releases/the-race'
+  },
+  {
+    inputUrl: '/MBPSP064',
+    frtarget: '/artiste/rich-art/albums/love-is-everywhere',
+    entarget: '/artist/rich-art/releases/love-is-everywhere'
+  },
+  {
+    inputUrl: '/MBPSP065',
+    frtarget: '/artiste/rich-art/albums/planet-rock',
+    entarget: '/artist/rich-art/releases/planet-rock'
   }
 ]);
