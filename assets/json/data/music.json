@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPSP064", "MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPSP065", "MBPSP064", "MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -10082,7 +10082,7 @@
       "artist": ["Rich'Art"],
       "date": "2026-09-18",
       "image": "/assets/img/music/MBPSP065.webp",
-      "mainLink": "",
+      "mainLink": "https://www.youtube.com/watch?v=EgRVU79whyY&list=PLHPtRAtE5EeA",
       "duration": "3:59",
       "EAN": "0637913236563",
       "styles": ["Progressive Rock"],
@@ -10111,28 +10111,28 @@
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/4uVtxMBAZwfsuPPSvZYwOT"
+          "url": "https://open.spotify.com/album/2SuwshBEvOt8mAbFYZNgzm"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/us/album/the-race-single/6806211506"
+          "url": "https://music.apple.com/us/album/planet-rock-single/6808195629"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B0HGY1SWY7"
+          "url": "https://music.amazon.fr/albums/B0HHN935ZW"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/us/album/1065093421"
+          "url": "https://www.deezer.com/us/album/1069971252"
         }, {
           "type": "tidal",
-          "url": "https://tidal.com/album/556354145"
+          "url": "https://tidal.com/album/558084899"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/fr-fr/album/the-race-richart/lra2v2nrjo4qv"
+          "url": "https://www.qobuz.com/fr-fr/album/planet-rock-richart/a2cwrgiew3jol"
         }, {
           "type": "bandcamp",
           "url": "https://rich-art.bandcamp.com/album/planet-rock"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=ko9TzN1uaRs&list=PLJ1o_hJ0Flxg"
+          "url": "https://www.youtube.com/watch?v=EgRVU79whyY&list=PLHPtRAtE5EeA"
         }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/38343312"
