@@ -3535,19 +3535,19 @@
           "url": "https://open.spotify.com/album/6FiC0AWI04Qrp5xeJeBytf"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/fantaisies-pour-flûte-seule-sans-basse/1767339006"
+          "url": "https://music.apple.com/us/album/fantaisies-pour-fl%C3%BBte-seule-sans-basse/6791620090"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0DGGF9TWQ"
+          "url": "https://music.amazon.fr/albums/B0H95532XY"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/album/641229941"
+          "url": "https://www.deezer.com/us/album/1030708062"
         }, {
           "type": "qobuz",
-          "url": "https://www.qobuz.com/album/fantaisies-pour-flute-seule-sans-basse-guillaume-beaulieu/czxwo4k3ejwda"
+          "url": "https://www.qobuz.com/fr-fr/album/fantaisies-pour-flute-seule-sans-basse-guillaume-beaulieu/tpv5x2n94uwhk"
         }, {
           "type": "tidal",
-          "url": "https://tidal.com/browse/album/386124239"
+          "url": "https://tidal.com/album/543668191"
         }, {
           "type": "bandcamp",
           "url": "https://guillaumebeaulieu.bandcamp.com/album/fantaisies-pour-fl-te-seule-sans-basse"
@@ -4195,8 +4195,26 @@
       ],
       "links": [
         {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4szlASOGfJxG4oZwwpWtQy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/il-flauto-di-leonardo-with-antoine-touche-thomas/6809506058"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0HJ2KPZG2"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/il-flauto-di-leonardo-guillaume-beaulieu-with-antoine-touche-thomas-soltani-ensemble-bressan/lz5n0ix3ax8qz"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/559063661"
+        }, {
           "type": "bandcamp",
           "url": "https://guillaumebeaulieu.bandcamp.com/album/il-flauto-di-leonardo"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ONam1t4oCa8&list=PLek5hZB3dzjM"
         }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/37464339"
