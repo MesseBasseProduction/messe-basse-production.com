@@ -46,7 +46,7 @@ app.use('/tree', express.static(path.join(__dirname, '../tree'), { // Serve arti
 }));
 
 /* Handle 404 as last */
-app.all('*', (req, res) => {
+app.all('{*splat}', (req, res) => {
   console.log(`${(new Date()).toISOString()} | ${global['url']} v${global['version']} | 404 ${req.originalUrl} page requested, return 404.handlebars`);
   res.render('404' , {
     pageTitle: '',

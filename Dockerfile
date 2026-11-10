@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:24-alpine
 
 RUN mkdir /messe-basse-production.com
 WORKDIR /messe-basse-production.com
