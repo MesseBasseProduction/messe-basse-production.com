@@ -558,5 +558,15 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP065',
     frtarget: '/artiste/rich-art/albums/planet-rock',
     entarget: '/artist/rich-art/releases/planet-rock'
+  },
+  {
+    inputUrl: '/MBPSP066',
+    frtarget: '/artiste/le-prince-et-la-principaute/albums/telefood-ep1',
+    entarget: '/artist/le-prince-et-la-principaute/releases/telefood-ep1'
+  },
+  {
+    inputUrl: '/MBPSP067',
+    frtarget: '/artiste/le-prince-et-la-principaute/albums/telefood-ep2',
+    entarget: '/artist/le-prince-et-la-principaute/releases/telefood-ep2'
   }
 ]);

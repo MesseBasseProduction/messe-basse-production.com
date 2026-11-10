@@ -1406,6 +1406,12 @@ main.podcast {
 
   section {
     .collection {
+      margin-bottom: var(--s-hg);
+
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+
       p {
         font-size: 1.3rem;
         margin-bottom: var(--s-lg);

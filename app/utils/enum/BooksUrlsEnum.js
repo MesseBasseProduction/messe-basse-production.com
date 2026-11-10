@@ -7,5 +7,9 @@ module.exports = Object.freeze([
     inputUrl: '/MBPPB002',
     frtarget: '/livres/andre-chevalier/instants',
     entarget: '/books/andre-chevalier/instants'
+  }, {
+    inputUrl: '/MBPPB003',
+    frtarget: '/livres/angela-coadou/lodyssee-dange',
+    entarget: '/books/angela-coadou/lodyssee-dange'
   }
 ]);
