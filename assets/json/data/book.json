@@ -4,6 +4,18 @@
       "name": "Traversée des Songes",
       "books": [
         {
+          "title": "L'Odyssée d'Ange",
+          "subtitle": "Récit d'une reconstruction",
+          "authors": ["Angela Coadou"],
+          "date": "2026-09-29",
+          "ISBN": "979-10-978137-4-1",
+          "catalog": "MBPPB003",
+          "image": "/assets/img/book/MBPPB003.webp",
+          "synopsis": {
+            "fr": "Il y a des voyages que l'on choisit. Et il y a ceux que la vie nous impose. Celui-ci a commencé par une question que je n'osais pas encore formuler :<br><br>Qui suis-je, lorsque je cesse enfin d'être celle que les autres attendent ?<br><br>Au fil des pages, je raconte la traversée d'une femme qui apprend à renaître après le deuil, à réconcilier ses deux cultures, à retrouver ses racines, à oser des choix qui bouleversent son existence, à écouter sa voix intérieure… jusqu'à retrouver sa propre voix.<br><br>Ce livre n'est pas le récit d'une vie parfaite. C'est celui d'une femme qui tombe, doute, se relève, puis comprend que ses blessures ne sont peut-être pas des impasses, mais des passages.<br><br>Ce manuscrit nait d'une évidence qui s'est imposée à moi. Chaque étape de ce voyage avait déjà trouvé sa place dans une de mes chansons. Sans l'avoir prémédité, mon chemin de guérison était devenu un album. Chaque chapitre fait ainsi écho à l'un de ses titres, comme si la musique avait gardé la mémoire de ce que mon cœur était en train d'apprendre.<br><br>L'Odyssée d'Ange est un récit autobiographique initiatique. Une invitation à croire que le plus grand des voyages n'est peut-être pas celui qui nous emmène ailleurs… Mais celui qui nous ramène enfin à nous-mêmes.",
+            "en": "There are journeys we choose. And there are those that life imposes upon us. This one began with a question I did not yet dare to voice:<br><br>Who am I, when I finally stop being the person others expect me to be?<br><br>Through these pages, I tell the story of a woman's journey as she learns to be reborn after grief, to reconcile her two cultures, to rediscover her roots, to dare make choices that upend her existence, to listen to her inner voice… until she finally finds her own voice.<br><br>This book is not the story of a perfect life. It is the story of a woman who falls, doubts, rises again, and then understands that her wounds may not be dead ends, but passages.<br><br>This manuscript was born of a truth that imposed itself on me. Every stage of this journey had already found its place in one of my songs. Without ever having planned it, my path of healing had become an album. Each chapter thus echoes one of its songs, as if the music had kept the memory of what my heart was learning.<br><br>L'Odyssée d'Ange (Ange's Odyssey) is an autobiographical coming-of-age narrative. An invitation to believe that the greatest of journeys is perhaps not the one that takes us elsewhere… But the one that finally leads us back to ourselves."
+          }
+        }, {
           "title": "Instants",
           "subtitle": "",
           "authors": ["André Chevalier"],

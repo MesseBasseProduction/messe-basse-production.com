@@ -86,6 +86,17 @@
   ],
   "books": [
     {
+      "name": "L'Odyssée d'Ange",
+      "writter": "Angela Coadou",
+      "catalog": "MBPMC011",
+      "year": "2026",
+      "price": {
+        "regular": "11,50€",
+        "signed": "13€"
+      },
+      "image": "/assets/img/merch/MBPMC011.webp",
+      "remaining": 50
+    }, {
       "name": "Instants",
       "writter": "André Chevalier",
       "catalog": "MBPMC008",

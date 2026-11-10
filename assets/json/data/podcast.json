@@ -1,6 +1,83 @@
 {
   "podcast": [
-    {
+        {
+      "name": "Téléfood",
+      "description": {
+        "en": "Welcome to Téléfood, the foot gourmets' podcast!<br><br>A Monaco native and a Parisian connoisseur dig into the mouth-watering world of football news, one bite (and one knife thrust) at a time.<br><br>Tie your napkins around your necks, because on the menu: tasty morsels of information, crispy anecdotes, and a generous serving of bad faith!<br><br>A lighthearted podcast between friends, perfect to accompany your jog or to avoid talking to your significant other during a tense moment.<br><br>Téléfood: football, flavor, and at least meal vouchers aren't capped at €25 (what a rip-off that thing is).",
+        "fr": "Bienvenue dans Téléfood, le podcast des gourmets du foot !<br><br>Un ravagé de Monaco et un fin connaisseur Parisien donnent des coups de fourchette et des coups de couteau dans l'actualité dévorante du football.<br><br>Attachez vos serviettes autour du cou, car au menu : des bouchées d'informations savoureuses, des anecdotes croustillantes et une bonne dose de mauvaise foi !<br><br>Un podcast léger entre ami·e·s, parfait pour accompagner votre footing ou éviter de parler à votre conjoint·e lors d'un moment de tension.<br><br>Téléfood : du foot, du goût et au moins les tickets resto ne sont pas capés à 25€ (quelle arnaque ce truc)."
+      },
+      "episodes": [
+        {
+          "title": "Épisode n°2 – Indice UEFA et Sandwich Crudité",
+          "catalog": "MBPPC002-02",
+          "image": "/assets/img/podcast/MBPPC002-02.webp",
+          "date": "2026-11-01",
+          "link": "https://www.youtube.com/watch?v=XSabSNx-sOU&list=PLZXX16wsBkTY&index=2",
+          "description": {
+            "en": "Welcome to this second episode of Téléfood!<br><br>On the menu: a battle in perfidious Albion between Brighton and Tottenham, then a detour through the Bosphorus to sample Turkish specialties.<br>Then we return like a failed crusade to the Hexagon (the French mainland, not the \"Hexagoal\", that horrible trophy), to treat French bourgeois bohemians to tarts and custard pies, as they find themselves with a new government.",
+            "fr": "Bienvenue dans ce second épisode de Téléfood !<br><br>Au menu : bataille dans la perfide Albion entre Brighton et Tottemham, passant el Boshpore pour gouter les spécialités turques.<br><br>Pour revenir tels une croisade qui a échoué dans l'hexagone, et non pas l'hexagoal ce trophée horrible, pour régaler de tartes et de flans les bobos français, qui vont se retrouver avec un nouveau gouvernement."
+          },
+          "links": [
+            {
+              "name": "Spotify",
+              "url": "https://open.spotify.com/episode/3vUFoqF5XL6ekE9zNlCO48"
+            }, {
+              "name": "Apple",
+              "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-2-indice-uefa-et-sandwich-crudit%C3%A9/id6829424866?i=1000800252703"
+            }, {
+              "name": "Amazon",
+              "url": "https://music.amazon.com/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/cb89c6b9-235d-4187-a535-7c001b9bdda2/t%C3%A9l%C3%A9food-le-podcast-des-gourmets-du-foot-%C3%A9pisode-n%C2%B02-%E2%80%93-indice-uefa-et-sandwich-crudit%C3%A9"
+            }, {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=XSabSNx-sOU&list=PLZXX16wsBkTY&index=2"
+            }, {
+              "name": "Bandcamp",
+              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-2-indice-uefa-et-sandwich-crudit"
+            }, {
+              "type": "discogs",
+              "url": "https://www.discogs.com/release/38991791"
+            }, {
+              "type": "musicbrainz",
+              "url": "https://musicbrainz.org/release/6dcc68ac-da78-49a0-a44f-13d082279ced"
+            }
+          ]
+        }, {
+          "title": "Épisode n°1 – Ballon d'Or et Glace Framboise",
+          "catalog": "MBPPC002-01",
+          "image": "/assets/img/podcast/MBPPC002-01.webp",
+          "date": "2026-11-01",
+          "link": "https://www.youtube.com/watch?v=CQyRwxCxTsA&list=PLZXX16wsBkTY&index=1",
+          "description": {
+            "en": "Welcome to this first episode of Téléfood!<br><br>On the menu: the Ballon d'Or, the Real/Barça Clásico, Manchester United's struggles, ice cream and cheese flavors.<br><br>We also talk about Estéban Lepaul, and we finish off with a little Proustian madeleine courtesy of Charles-Édouard Coridon.<br><br>Food for the belly and for thought!",
+            "fr": "Bienvenue dans ce premier épisode de Téléfood !<br><br>Au menu : ballon d'or, le clasico Real/Barça, les galères de Manchester United, saveurs de glace et fromage.<br><br>On parle aussi d'Estéban Lepaul et on termine avec une petite Madeleine de Proust signée Charles-Édouard Coridon.<br><br>De quoi ravir la panse et les pensées!"
+          },
+          "links": [
+            {
+              "name": "Spotify",
+              "url": "https://open.spotify.com/episode/28nVQgz0M2LvjJ90lo3TsG"
+            }, {
+              "name": "Apple",
+              "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-1-ballon-dor-et-glace-framboise/id6829424866?i=1000799217331"
+            }, {
+              "name": "Amazon",
+              "url": "https://music.amazon.com/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/617b41f7-4fad-41cf-b8e6-2488ccf6c091/t%C3%A9l%C3%A9food-le-podcast-des-gourmets-du-foot-%C3%A9pisode-n%C2%B01-%E2%80%93-ballon-d'or-et-glace-framboise"
+            }, {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=CQyRwxCxTsA&list=PLZXX16wsBkTY&index=1"
+            }, {
+              "name": "Bandcamp",
+              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-1-ballon-dor-et-glace-framboise"
+            }, {
+              "type": "discogs",
+              "url": "https://www.discogs.com/release/38991404"
+            }, {
+              "type": "musicbrainz",
+              "url": "https://musicbrainz.org/release/4d520322-a412-41e2-8431-9382d9a5df51"
+            }
+          ]
+        }
+      ]
+    }, {
       "name": "Fréquences Basses",
       "description": {
         "en": "Fréquences Basses is a web radio/podcast project hosted by Messe Basse Production. Each month, a DJ will be invited to propose a 1-hour set.<br><br>The goal is to highlight the artist, their universe, and the creations they offer. The variety of styles and genres is intentionally quite broad: electronic music (house, techno, bass music, hard music, etc.), funk, soul, rap, or others. The love of music in all its forms serves as a guideline.<br><br>The idea behind this project is to break down the barriers between musical genres and to introduce the widest audience possible to the variety of styles present in music.",

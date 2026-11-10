@@ -10163,6 +10163,116 @@
         }
       ]
     },
+    "MBPSP066": {
+      "name": "Téléfood, épisode n°1",
+      "artist": ["Le Prince et la Principauté"],
+      "date": "2026-11-01",
+      "image": "/assets/img/music/MBPSP066.webp",
+      "mainLink": "https://www.youtube.com/watch?v=CQyRwxCxTsA&list=PLZXX16wsBkTY&index=1",
+      "duration": "1:10:24",
+      "EAN": "0637913849350",
+      "styles": ["Podcast"],
+      "credits": [
+        { "record": ["David Béché"] },
+        { "mix": ["David Béché"] },
+        { "master": ["David Béché"] },
+        { "producer": ["Arthur Beaulieu", "David Béché"] },
+        { "artwork": ["Lou Grossard"] },
+        { "illustration": ["Lou Grossard"] },
+        { "host": ["Alexis Favre", "David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Épisode n°1 – Ballon d'Or et Glace Framboise",
+          "artist": ["Le Prince et la Principauté"],
+          "duration": "1:10:24",
+          "ISRC": "FR-9W1-26-52061",
+          "credits": [
+            { "author": ["Alexis Favre", "David Béché"] },
+            { "composer": ["David Béché"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/episode/28nVQgz0M2LvjJ90lo3TsG"
+        }, {
+          "type": "apple",
+          "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-1-ballon-dor-et-glace-framboise/id6829424866?i=1000799217331"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/617b41f7-4fad-41cf-b8e6-2488ccf6c091/t%C3%A9l%C3%A9food-le-podcast-des-gourmets-du-foot-%C3%A9pisode-n%C2%B01-%E2%80%93-ballon-d'or-et-glace-framboise"
+        }, {
+          "type": "bandcamp",
+          "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-1-ballon-dor-et-glace-framboise"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=CQyRwxCxTsA&list=PLZXX16wsBkTY&index=1"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38991404"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/4d520322-a412-41e2-8431-9382d9a5df51"
+        }
+      ]
+    },
+    "MBPSP067": {
+      "name": "Téléfood, épisode n°2",
+      "artist": ["Le Prince et la Principauté"],
+      "date": "2026-11-06",
+      "image": "/assets/img/music/MBPSP067.webp",
+      "mainLink": "https://www.youtube.com/watch?v=XSabSNx-sOU&list=PLZXX16wsBkTY&index=2",
+      "duration": "1:07:34",
+      "EAN": "0637913849350",
+      "styles": ["Podcast"],
+      "credits": [
+        { "record": ["David Béché"] },
+        { "mix": ["David Béché"] },
+        { "master": ["David Béché"] },
+        { "producer": ["Arthur Beaulieu", "David Béché"] },
+        { "artwork": ["Lou Grossard"] },
+        { "illustration": ["Lou Grossard"] },
+        { "host": ["Alexis Favre", "David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Épisode n°2 – Indice UEFA et Sandwich Crudité",
+          "artist": ["Le Prince et la Principauté"],
+          "duration": "1:07:34",
+          "ISRC": "FR-9W1-26-53013",
+          "credits": [
+            { "author": ["Alexis Favre", "David Béché"] },
+            { "composer": ["David Béché"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/episode/3vUFoqF5XL6ekE9zNlCO48"
+        }, {
+          "type": "apple",
+          "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-2-indice-uefa-et-sandwich-crudit%C3%A9/id6829424866?i=1000800252703"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/cb89c6b9-235d-4187-a535-7c001b9bdda2/t%C3%A9l%C3%A9food-le-podcast-des-gourmets-du-foot-%C3%A9pisode-n%C2%B02-%E2%80%93-indice-uefa-et-sandwich-crudit%C3%A9"
+        }, {
+          "type": "bandcamp",
+          "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-2-indice-uefa-et-sandwich-crudit"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=XSabSNx-sOU&list=PLZXX16wsBkTY&index=2"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38991791"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/6dcc68ac-da78-49a0-a44f-13d082279ced"
+        }
+      ]
+    },
     "MBP001": {
       "name": "Messe Basse Produced, Vol.1",
       "artist": ["Messe Basse Production"],
