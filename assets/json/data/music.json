@@ -10273,6 +10273,61 @@
         }
       ]
     },
+    "MBPSP068": {
+      "name": "Téléfood, épisode n°3",
+      "artist": ["Le Prince et la Principauté"],
+      "date": "2026-11-17",
+      "image": "/assets/img/music/MBPSP068.webp",
+      "mainLink": "https://www.youtube.com/watch?v=dr92NjOjyVo&list=PLZXX16wsBkTY&index=3",
+      "duration": "1:24:06",
+      "EAN": "0637913849350",
+      "styles": ["Podcast"],
+      "credits": [
+        { "record": ["David Béché"] },
+        { "mix": ["David Béché"] },
+        { "master": ["David Béché"] },
+        { "producer": ["Arthur Beaulieu", "David Béché"] },
+        { "artwork": ["Lou Grossard"] },
+        { "illustration": ["Lou Grossard"] },
+        { "host": ["Alexis Favre", "David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Épisode n°3 – Zizou et Moyen Âge",
+          "artist": ["Le Prince et la Principauté"],
+          "duration": "1:24:06",
+          "ISRC": "FR-9W1-26-04113",
+          "credits": [
+            { "author": ["Alexis Favre", "David Béché"] },
+            { "composer": ["David Béché"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/episode/7nluWsnCuCsxpAmX2Hg8XL"
+        }, {
+          "type": "apple",
+          "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-3-zizou-et-moyen-%C3%A2ge/id6829424866?i=1000802503400"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/c29430b9-1e93-4aaa-a002-e8be291e8559/tlfood-le-podcast-des-gourmets-du-foot-pisode-n3--zizou-et-moyen-ge"
+        }, {
+          "type": "bandcamp",
+          "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-3-zizou-et-moyen-ge-17-11-26"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=dr92NjOjyVo&list=PLZXX16wsBkTY&index=3"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/39062876"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/8b0461af-9064-471b-94ac-444e177cb3ae"
+        }
+      ]
+    },
     "MBP001": {
       "name": "Messe Basse Produced, Vol.1",
       "artist": ["Messe Basse Production"],
