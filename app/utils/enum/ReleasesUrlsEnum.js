@@ -175,6 +175,11 @@ module.exports = Object.freeze([
     entarget: '/artist/rich-art/releases/the-jazzy-sqy-club'
   },
   {
+    inputUrl: '/MBPLP034',
+    frtarget: '/artiste/rich-art/albums/space-road',
+    entarget: '/artist/rich-art/releases/space-road'
+  },
+  {
     inputUrl: '/MBPMX001',
     frtarget: '/artiste/interfluv/albums/rec022.wav',
     entarget: '/artist/interfluv/releases/rec022.wav'

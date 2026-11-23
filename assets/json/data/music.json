@@ -7,7 +7,7 @@
       "image": "/assets/img/band/richart.webp",
       "imageCredits": "Arthur Beaulieu",
       "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPSP065", "MBPSP064", "MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "releases": ["MBPLP034", "MBPSP065", "MBPSP064", "MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
       "links": [
         {
           "type": "youtube",
@@ -6206,6 +6206,162 @@
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Richart-fra/The-jazzy-sqy-club"
+        }
+      ]
+    },
+    "MBPLP034": {
+      "name": "Space Road",
+      "artist": ["Rich'Art"],
+      "date": "2026-11-20",
+      "image": "/assets/img/music/MBPLP034.webp",
+      "mainLink": "https://www.youtube.com/watch?v=ko9TzN1uaRs&list=PLJ1o_hJ0Flxg",
+      "duration": "59:25",
+      "EAN": "0637913389214",
+      "styles": ["Progressive Rock"],
+      "credits": [
+        { "record": ["Fabrice Hennegrave", "Julien Goutte-Broze"] },
+        { "mix": ["Fabrice Hennegrave"] },
+        { "master": ["Fabrice Hennegrave"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Richard Braun"] },
+        { "illustration": ["Richard Braun"] },
+        { "guitar": ["Richard Braun"] },
+        { "bass": ["Yann Vialet"] },
+        { "drums": ["Rémy Boulogne"] }
+      ],
+      "tracks": [
+        {
+          "title": "The Race",
+          "artist": ["Rich'Art"],
+          "duration": "6:10",
+          "ISRC": "FR-9W1-26-39567",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Hard Worker",
+          "artist": ["Rich'Art"],
+          "duration": "5:28",
+          "ISRC": "FR-9W1-26-45382",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Life Is A Gift",
+          "artist": ["Rich'Art"],
+          "duration": "5:29",
+          "ISRC": "FR-9W1-26-45381",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Love Is Everywhere",
+          "artist": ["Rich'Art"],
+          "duration": "3:26",
+          "ISRC": "FR-9W1-26-39568",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Planet Rock",
+          "artist": ["Rich'Art"],
+          "duration": "3:59",
+          "ISRC": "FR-9W1-26-39569",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Peace In The Universe",
+          "artist": ["Rich'Art"],
+          "duration": "6:39",
+          "ISRC": "FR-9W1-26-45384",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Tres Hombres From Texas",
+          "artist": ["Rich'Art"],
+          "duration": "4:02",
+          "ISRC": "FR-9W1-26-45385",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Asia",
+          "artist": ["Rich'Art"],
+          "duration": "4:30",
+          "ISRC": "FR-9W1-26-45390",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Hip Hop On The Moon",
+          "artist": ["Rich'Art"],
+          "duration": "5:27",
+          "ISRC": "FR-9W1-26-45386",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Big Band Blues",
+          "artist": ["Rich'Art"],
+          "duration": "3:27",
+          "ISRC": "FR-9W1-26-45387",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Rock The Groove",
+          "artist": ["Rich'Art"],
+          "duration": "4:16",
+          "ISRC": "FR-9W1-26-45388",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }, {
+          "title": "Space Road",
+          "artist": ["Rich'Art"],
+          "duration": "6:32",
+          "ISRC": "FR-9W1-26-45389",
+          "credits": [
+            { "composer": ["Richard Braun"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/24RlaWTXeH9Dj79Bl8MiEd"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/fr/album/space-road/6830182917"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0HQ511P95"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1136839601"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/575321754"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/fr-fr/album/space-road-richart/iu0kswu8qpoyq"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/space-road"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ko9TzN1uaRs&list=PLJ1o_hJ0Flxg"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/39122349"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/42e86536-eae0-4373-af11-5b86a7ed3e2f"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Space-road"
         }
       ]
     },
