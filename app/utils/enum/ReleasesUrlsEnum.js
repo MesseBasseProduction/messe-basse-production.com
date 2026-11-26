@@ -578,5 +578,10 @@ module.exports = Object.freeze([
     inputUrl: '/MBPSP068',
     frtarget: '/artiste/le-prince-et-la-principaute/albums/telefood-ep3',
     entarget: '/artist/le-prince-et-la-principaute/releases/telefood-ep3'
+  },
+  {
+    inputUrl: '/MBPSP069',
+    frtarget: '/artiste/le-prince-et-la-principaute/albums/telefood-ep4',
+    entarget: '/artist/le-prince-et-la-principaute/releases/telefood-ep4'
   }
 ]);

@@ -8,6 +8,62 @@
       },
       "episodes": [
         {
+          "title": "Épisode n°4 – Liverpool et Mignardises",
+          "catalog": "MBPPC002-04",
+          "image": "/assets/img/podcast/MBPPC002-04.webp",
+          "date": "2026-11-25",
+          "link": "https://www.youtube.com/watch?v=gsn-aOtXW8Q&list=PLZXX16wsBkTY&index=4",
+          "description": {
+            "en": "When travelling, you always need a little snack to keep you going! Today, Téléfood takes us on a bite-sized football journey: one stop in Andalusia, another for some Le Mans-style rillettes, and of course, all washed down with an English beer.<br><br>Come and satisfy your appetite with an episode made for football lovers and foodies alike!",
+            "fr": "Lorsque l'on voyage, on a toujours besoin de son petit snack, aujourd'hui Téléfood se dispute par bouchées, une en Andalousie, une dans les rillettes du Mans et bien sûr arrosé d'une bière Anglais.<br><br>Venez vous rassasier dans un épisode pour les gourmands du football."
+          },
+          "links": [
+            {
+              "name": "Spotify",
+              "url": "https://open.spotify.com/episode/0HaKV0bJ2dmvOfRzUpJaOk"
+            }, {
+              "name": "Apple",
+              "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-4-liverpool-et-mignardises/id6829424866?i=1000803933288"
+            }, {
+              "name": "Amazon",
+              "url": "https://music.amazon.fr/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/8d9a0af4-0f88-45e1-99e0-fe2968013a3d/tlfood-le-podcast-des-gourmets-du-foot-pisode-n4--liverpool-et-mignardises"
+            }, {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=gsn-aOtXW8Q&list=PLZXX16wsBkTY&index=4"
+            }, {
+              "name": "Bandcamp",
+              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-4-liverpool-et-mignardises-25-11-26"
+            }
+          ]
+        }, {
+          "title": "Épisode n°3 – Zizou et Moyen Âge",
+          "catalog": "MBPPC002-03",
+          "image": "/assets/img/podcast/MBPPC002-03.webp",
+          "date": "2026-11-17",
+          "link": "https://www.youtube.com/watch?v=dr92NjOjyVo&list=PLZXX16wsBkTY&index=3",
+          "description": {
+            "en": "On the menu this week: an eclectic selection of tapas with surprising flavours, a culinary journey with the international break.<br><br>All seasoned with a touch of Ronaldinho and a helicopter — another week packed with calories and vitamins!",
+            "fr": "Au menu cette semaine, un choix éclectique de tapas aux goûts surprenants, du voyage gustatif avec la trêve international.<br><br>Le tout saupoudré de Ronaldinho et d'hélicoptère, encore une semaine riche en calorie et vitamine."
+          },
+          "links": [
+            {
+              "name": "Spotify",
+              "url": "https://open.spotify.com/episode/7nluWsnCuCsxpAmX2Hg8XL"
+            }, {
+              "name": "Apple",
+              "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-3-zizou-et-moyen-%C3%A2ge/id6829424866?i=1000802503400"
+            }, {
+              "name": "Amazon",
+              "url": "https://music.amazon.fr/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/c29430b9-1e93-4aaa-a002-e8be291e8559/tlfood-le-podcast-des-gourmets-du-foot-pisode-n3--zizou-et-moyen-ge"
+            }, {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/watch?v=dr92NjOjyVo&list=PLZXX16wsBkTY&index=3"
+            }, {
+              "name": "Bandcamp",
+              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-3-zizou-et-moyen-ge-17-11-26"
+            }
+          ]
+        }, {
           "title": "Épisode n°2 – Indice UEFA et Sandwich Crudité",
           "catalog": "MBPPC002-02",
           "image": "/assets/img/podcast/MBPPC002-02.webp",
@@ -32,7 +88,7 @@
               "url": "https://www.youtube.com/watch?v=XSabSNx-sOU&list=PLZXX16wsBkTY&index=2"
             }, {
               "name": "Bandcamp",
-              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-2-indice-uefa-et-sandwich-crudit"
+              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-2-indice-uefa-et-sandwich-crudit-06-11-26"
             }
           ]
         }, {
@@ -60,7 +116,7 @@
               "url": "https://www.youtube.com/watch?v=CQyRwxCxTsA&list=PLZXX16wsBkTY&index=1"
             }, {
               "name": "Bandcamp",
-              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-1-ballon-dor-et-glace-framboise"
+              "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-1-ballon-dor-et-glace-framboise-01-11-26"
             }
           ]
         }

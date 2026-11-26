@@ -10484,6 +10484,61 @@
         }
       ]
     },
+    "MBPSP069": {
+      "name": "Téléfood, épisode n°4",
+      "artist": ["Le Prince et la Principauté"],
+      "date": "2026-11-25",
+      "image": "/assets/img/music/MBPSP069.webp",
+      "mainLink": "https://www.youtube.com/watch?v=gsn-aOtXW8Q&list=PLZXX16wsBkTY&index=4",
+      "duration": "1:14:16",
+      "EAN": "0637913849350",
+      "styles": ["Podcast"],
+      "credits": [
+        { "record": ["David Béché"] },
+        { "mix": ["David Béché"] },
+        { "master": ["David Béché"] },
+        { "producer": ["Arthur Beaulieu", "David Béché"] },
+        { "artwork": ["Lou Grossard"] },
+        { "illustration": ["Lou Grossard"] },
+        { "host": ["Alexis Favre", "David Béché"] }
+      ],
+      "tracks": [
+        {
+          "title": "Épisode n°4 – Liverpool et Mignardises",
+          "artist": ["Le Prince et la Principauté"],
+          "duration": "1:14:16",
+          "ISRC": "FR-9W1-26-56067",
+          "credits": [
+            { "author": ["Alexis Favre", "David Béché"] },
+            { "composer": ["David Béché"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/episode/0HaKV0bJ2dmvOfRzUpJaOk"
+        }, {
+          "type": "apple",
+          "url": "https://podcasts.apple.com/fr/podcast/%C3%A9pisode-n-4-liverpool-et-mignardises/id6829424866?i=1000803933288"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/podcasts/08c73f4d-7918-4f00-a0d1-8a54abce3a5f/episodes/8d9a0af4-0f88-45e1-99e0-fe2968013a3d/tlfood-le-podcast-des-gourmets-du-foot-pisode-n4--liverpool-et-mignardises"
+        }, {
+          "type": "bandcamp",
+          "url": "https://messebasseproduction.bandcamp.com/track/pisode-n-4-liverpool-et-mignardises-25-11-26"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=gsn-aOtXW8Q&list=PLZXX16wsBkTY&index=4"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/39143778"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/2620d3f4-c1a4-4d1f-b042-d0cbaccb9087"
+        }
+      ]
+    },
     "MBP001": {
       "name": "Messe Basse Produced, Vol.1",
       "artist": ["Messe Basse Production"],
