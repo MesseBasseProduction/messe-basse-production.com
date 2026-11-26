@@ -1,6 +1,15 @@
 {
   "apparel": [
     {
+      "name": "Les Foulées Sarmates 2026",
+      "designer": "Arthur Beaulieu",
+      "type": "T-Shirts H/F",
+      "catalog": "MBPMC012",
+      "year": "2026",
+      "price": "12€",
+      "image": "/assets/img/merch/MBPMC012.webp",
+      "remaining": 15
+    }, {
       "name": "Power Plant",
       "designer": "Guillaume Crantz",
       "type": "Unisex T-Shirts",
