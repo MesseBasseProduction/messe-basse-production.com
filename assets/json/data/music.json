@@ -1,68 +1,13 @@
 {
   "artists": [
     {
-      "name": "Rich'Art",
-      "internalUrl": "rich-art",
-      "genres": ["Jazz", "Jazz Fusion", "Progressive Rock", "Hard Rock"],
-      "image": "/assets/img/band/richart.webp",
-      "imageCredits": "Arthur Beaulieu",
-      "mainLink": "https://rich-art-music.com",
-      "releases": ["MBPLP034", "MBPSP065", "MBPSP064", "MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
-      "links": [
-        {
-          "type": "youtube",
-          "url": "https://www.youtube.com/@rich-art-music"
-        }, {
-          "type": "facebook",
-          "url": "https://www.facebook.com/rich.art.music.off/"
-        }, {
-          "type": "spotify",
-          "url": "https://open.spotify.com/artist/2VXxfl9gjvDVDCgxiM3nm0"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/us/artist/richart/1753777691"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.fr/artists/B0H2FDRJ5D/rich'art"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/artist/211511417"
-        }, {
-          "type": "qobuz",
-          "url": "https://www.qobuz.com/us-en/interpreter/richart-2/33373980"
-        }, {
-          "type": "tidal",
-          "url": "https://tidal.com/artist/79896047"
-        }, {
-          "type": "bandcamp",
-          "url": "https://rich-art.bandcamp.com/"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/artist/17789292-RichArt"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/artists/Richart-fra"
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/artist/3b4a1134-d188-4baa-bf77-afc2d30727e7"
-        }
-      ],
-      "bio": {
-        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, <i>Rich'Art</i> développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>Musicien expérimenté, il consacre sa carrière à explorer, fusionner et faire dialoguer différents styles musicaux, construisant au fil du temps une identité artistique singulière et ouverte sur le monde.<br><br>Au cours de son riche parcours, il a fondé et dirigé de nombreux groupes aux influences variées, naviguant avec aisance entre le rock, le jazz, le funk, les musiques du monde. Cette diversité musicale témoigne de sa curiosité artistique et de sa capacité à réunir des musiciens autour de projets authentiques et créatifs.<br><br>À travers ses enregistrements et concerts, <i>Rich'Art</i> met son talent au service de compositions originales et propose une musique vivante, sincère et généreuse, portée par l'improvisation, le partage et l'émotion.",
-        "en": "Singer-songwriter, performer, and multi-instrumentalist, <i>Rich'Art</i> has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>An experienced musician, he has dedicated his career to exploring, blending, and connecting different musical styles, gradually building a unique artistic identity that is both distinctive and open to the world.<br><br>Throughout his extensive career, he has founded and led numerous bands with diverse influences, moving effortlessly between rock, jazz, funk, and world music. This musical diversity reflects his artistic curiosity and his ability to bring musicians together around authentic and creative projects.<br><br>Through his recordings and live performances, <i>Rich'Art</i> puts his talent at the service of original compositions, offering music that is vibrant, sincere, and generous, driven by improvisation, sharing, and emotion."
-      },
-      "shortBio": {
-        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, <i>Rich'Art</i> développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>C'est à partir de 2026 que ce partenariat entre <i>Rich'Art</i> et <i>Messe Basse Production</i> démarre, pour apporter toujours plus d'improvisations et de sensations Jazz.",
-        "en": "Singer-songwriter, performer, and multi-instrumentalist, <i>Rich'Art</i> has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>It was in 2025 that the partnership between <i>Rich'Art</i> and Messe Basse Production began, renforcing the welcomed jazzy-touch to the catalog."
-      }
-    }, {
       "name": "Angela Coadou",
       "internalUrl": "angela-coadou",
       "genres": ["Soul", "R&B"],
       "image": "/assets/img/band/angela.webp",
       "imageCredits": "",
       "mainLink": "https://angelacoadou.com",
-      "releases": ["MBPSP062", "MBPSP061", "MBPSP060"],
+      "releases": ["MBPSP070", "MBPSP062", "MBPSP061", "MBPSP060"],
       "links": [
         {
           "type": "instagram",
@@ -118,6 +63,61 @@
       "shortBio": {
         "fr": "<i>Angela Coadou</i> est une chanteuse et autrice-compositrice pour qui la voix est un lieu de vérité et de transformation. À travers ses chansons, elle invite chacun à revenir à soi, à écouter ce qui vibre, et à transformer les épreuves en passage vers plus de justesse.<br><br>C'est à partir de 2025 que ce partenariat entre <i>Angela Coadou</i> et <i>Messe Basse Production</i> démarre, apportant ainsi un air frais et sensible au catalogue ; tout ce dont ce monde a besoin.",
         "en": "<i>Angela Coadou</i> is a singer and songwriter for whom the voice is a place of truth and transformation. Through her songs, she invites everyone to return to themselves, to listen to what resonates within, and to transform trials into a journey toward greater authenticity.<br><br>It was in 2025 that the partnership between <i>Angela Coadou</i> and Messe Basse Production began, bringing a fresh and sensitive touch to their catalog—exactly what this world needs."
+      }
+    }, {
+      "name": "Rich'Art",
+      "internalUrl": "rich-art",
+      "genres": ["Jazz", "Jazz Fusion", "Progressive Rock", "Hard Rock"],
+      "image": "/assets/img/band/richart.webp",
+      "imageCredits": "Arthur Beaulieu",
+      "mainLink": "https://rich-art-music.com",
+      "releases": ["MBPLP034", "MBPSP065", "MBPSP064", "MBPSP063", "MBPLP033", "MBPLP032", "MBPLP031", "MBPLP030", "MBPLP029", "MBPLP028", "MBPLP027", "MBPLP026", "MBPLP025", "MBPLP024", "MBPLP023", "MBPLP022"],
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/@rich-art-music"
+        }, {
+          "type": "facebook",
+          "url": "https://www.facebook.com/rich.art.music.off/"
+        }, {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/2VXxfl9gjvDVDCgxiM3nm0"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/richart/1753777691"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/artists/B0H2FDRJ5D/rich'art"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/artist/211511417"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/us-en/interpreter/richart-2/33373980"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/artist/79896047"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/17789292-RichArt"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Richart-fra"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/3b4a1134-d188-4baa-bf77-afc2d30727e7"
+        }
+      ],
+      "bio": {
+        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, <i>Rich'Art</i> développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>Musicien expérimenté, il consacre sa carrière à explorer, fusionner et faire dialoguer différents styles musicaux, construisant au fil du temps une identité artistique singulière et ouverte sur le monde.<br><br>Au cours de son riche parcours, il a fondé et dirigé de nombreux groupes aux influences variées, naviguant avec aisance entre le rock, le jazz, le funk, les musiques du monde. Cette diversité musicale témoigne de sa curiosité artistique et de sa capacité à réunir des musiciens autour de projets authentiques et créatifs.<br><br>À travers ses enregistrements et concerts, <i>Rich'Art</i> met son talent au service de compositions originales et propose une musique vivante, sincère et généreuse, portée par l'improvisation, le partage et l'émotion.",
+        "en": "Singer-songwriter, performer, and multi-instrumentalist, <i>Rich'Art</i> has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>An experienced musician, he has dedicated his career to exploring, blending, and connecting different musical styles, gradually building a unique artistic identity that is both distinctive and open to the world.<br><br>Throughout his extensive career, he has founded and led numerous bands with diverse influences, moving effortlessly between rock, jazz, funk, and world music. This musical diversity reflects his artistic curiosity and his ability to bring musicians together around authentic and creative projects.<br><br>Through his recordings and live performances, <i>Rich'Art</i> puts his talent at the service of original compositions, offering music that is vibrant, sincere, and generous, driven by improvisation, sharing, and emotion."
+      },
+      "shortBio": {
+        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, <i>Rich'Art</i> développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>C'est à partir de 2026 que ce partenariat entre <i>Rich'Art</i> et <i>Messe Basse Production</i> démarre, pour apporter toujours plus d'improvisations et de sensations Jazz.",
+        "en": "Singer-songwriter, performer, and multi-instrumentalist, <i>Rich'Art</i> has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>It was in 2025 that the partnership between <i>Rich'Art</i> and Messe Basse Production began, renforcing the welcomed jazzy-touch to the catalog."
       }
     }, {
       "name": "Guillaume Beaulieu",
@@ -10536,6 +10536,77 @@
         }, {
           "type": "musicbrainz",
           "url": "https://musicbrainz.org/release/2620d3f4-c1a4-4d1f-b042-d0cbaccb9087"
+        }
+      ]
+    },
+    "MBPSP070": {
+      "name": "Racines",
+      "artist": ["Angela Coadou"],
+      "date": "2026-11-27",
+      "image": "/assets/img/music/MBPSP070.webp",
+      "mainLink": "https://www.youtube.com/watch?v=83WNHM3siYo&list=PLZRTVFRw0mNA",
+      "duration": "4:00",
+      "EAN": "0637913601279",
+      "styles": ["West Africa", "World", "Soul"],
+      "credits": [
+        { "record": ["Angela Coadou", "Lanah Souchette"] },
+        { "mix": ["Arthur Beaulieu"] },
+        { "master": ["Arthur Beaulieu"] },
+        { "producer": ["Arthur Beaulieu"] },
+        { "artwork": ["Angela Coadou"] },
+        { "illustration": ["Angela Coadou"] },
+        { "vocal": ["Angela Coadou", "Lanah Souchette"] },
+        { "backvocal": ["Pascale Sastre"] }
+      ],
+      "tracks": [
+        {
+          "title": "Racines (432 Hz)",
+          "artist": ["Angela Coadou"],
+          "duration": "4:00",
+          "ISRC": "FR-9W1-26-50337",
+          "credits": [
+            { "author": ["Angela Coadou", "Lanah Souchette"] },
+            { "composer": ["Yohann Guglielmetti"] }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3yVFrX28361W3hoVy5EXAw"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/racines-with-lanah-432-hz-single/6830666498"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0HQD1WGX2"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1138494371"
+        }, {
+          "type": "qobuz",
+          "url": "https://www.qobuz.com/album/racines-angela-coadou-with-lanah/bkx6zf545wkme"
+        }, {
+          "type": "tidal",
+          "url": "https://tidal.com/album/racines/575932014"
+        }, {
+          "type": "bandcamp",
+          "url": "https://angelacoadou.bandcamp.com/album/racines"
+        }, {
+          "type": "soundcloud",
+          "url": "https://soundcloud.com/angelacoadou/sets/racines"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=83WNHM3siYo&list=PLZRTVFRw0mNA"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/39162810"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Angela-coadou-and-lanah/Racines"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/9c152317-2436-4c58-9ac3-5b7acc2d3a67"
         }
       ]
     },
